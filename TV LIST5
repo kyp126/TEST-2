@@ -51,12 +51,32 @@ EP3,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entry
 新闻,#genre#
 八新闻 FHD,https://d1g2ask3suyl38.cloudfront.net:443/6c2bac1180224a18af0c18125cbe1802/master_4.m3u8
 TV8,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-凤凰HD,http://fengshows.epub.fun/live/222pin72.flv?txSecret=b595089318964d0cce9dfbb598b94b09&txTime=5f2ac2f7
-凤凰香港1,http://cdn.zbbh.xyz:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰香港2,http://cdn1.zbbh.xyz:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰香港3,http://cdn2.zbbh.xyz:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-凤凰香港4,http://45.11.0.125/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+Channel 8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+Channel U,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 CCTV13,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+寰宇新闻台,https://pullstream-ucan.speedws.com/live/aaa1004zzz/playlist.m3u8
+寰宇新闻台湾台 ,https://pullstream-ucan.speedws.com/live/aaa1005zzz/playlist.m3u8
+ 三立都会台,https://pullstream-ucan.speedws.com/live/aaa1028zzz/playlist.m3u8
+年代MUCH HD,https://pullstream-ucan.speedws.com/live/aaa1029zzz/playlist.m3u8
+JET综合,https://pullstream-ucan.speedws.com/live/aaa1030zzz/playlist.m3u8
+VL纬来育乐HD,https://pullstream-ucan.speedws.com/live/aaa1032zzz/playlist.m3u8
+TVBS欢乐台HD,https://pullstream-ucan.speedws.com/live/aaa1033zzz/playlist.m3u8
+VL纬来戏剧HD,https://pullstream-ucan.speedws.com/live/aaa1035zzz/playlist.m3u8
+VL纬来日本HD,https://pullstream-ucan.speedws.com/live/aaa1036zzz/playlist.m3u8
+卫视电影台HD ,https://pullstream-ucan.speedws.com/live/aaa1037zzzplaylist.m3u8
+FOX MOVIES HD,https://pullstream-ucan.speedws.com/live/aaa1038zzz/playlist.m3u8
+
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+中視新闻,,http://seb.sason.top/sc/zsxw_fhd.m3u8
+台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+TVB新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1594139456~exp=1594225856~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4e4949b292d45071e0ec83da595c19352ca74c4aaf5585783f7553949a66ca16
+TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1594139519~exp=1594225919~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=93dcf9eab827bfecdd663cfaa006fcf37361d7a8ced1a817e0114c35e43bac07
 
 
 
@@ -83,7 +103,7 @@ CCTV13,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 
 10,https://douban.donghongzuida.com:443/20200801/6557_1d26f4e4/1000k/hls/index.m3u8
 
-11,https://douban.donghongzuida.com:443/20200802/6612_b9fa7c0b/1000k/hls/index.m3u8
+11,https://zy.kubozy-cdn-baidu.com:443/20200802/4142_cb254259/1200k/hls/index.m3u8
 
 12,https://douban.donghongzuida.com:443/20200802/6611_33e73c38/1000k/hls/index.m3u8
 
