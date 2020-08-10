@@ -230,7 +230,7 @@ TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobileh
 
 
 那江烟花那江雨,#genre#
-
+那江烟花那江雨,
 01,https://iqiyi.cdn9-okzy.com:443/20200708/12141_fa405cfe/1000k/hls/index.m3u8
 
 02,https://iqiyi.cdn9-okzy.com:443/20200708/12142_2c0b11f1/1000k/hls/index.m3u8
@@ -270,6 +270,17 @@ TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobileh
 19,https://you.tube-kuyun.com:443/20200730/21027_6cf48728/1000k/hls/index.m3u8
 
 20,https://you.tube-kuyun.com:443/20200730/21026_e27c86a7/1000k/hls/index.m3u8
+
+21,https://yuledy.helanzuida.com:443/20200805/8496_a88589bd/1000k/hls/index.m3u8
+
+22,https://yuledy.helanzuida.com:443/20200805/8495_2f9f82d1/1000k/hls/index.m3u8
+
+23,https://xigua-cdn.haima-zuida.com:443/20200806/9788_80a4ec37/1000k/hls/index.m3u8
+
+24,https://xigua-cdn.haima-zuida.com:443/20200806/9787_17281193/1000k/hls/index.m3u8
+
+
+
 
 
 戰毒粤語全集,#genre#
