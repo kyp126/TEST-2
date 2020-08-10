@@ -151,7 +151,7 @@ TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobileh
 
 
 大侠霍元甲2020,#genre#
-
+大侠霍元甲,
 01,https://douban.donghongzuida.com:443/20200728/6302_92454888/1000k/hls/index.m3u8
 
 02,https://douban.donghongzuida.com:443/20200728/6301_c3a689e0/1000k/hls/index.m3u8
@@ -218,12 +218,19 @@ TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobileh
 
 33,https://mingxing.xianyongjiu.com:443/20200807/7930_c4dfa3bb/1000k/hls/index.m3u8
 
-34,
+34,https://mingxing.xianyongjiu.com:443/20200808/8028_5e6e1742/1000k/hls/index.m3u8
 
+35,https://mingxing.xianyongjiu.com:443/20200808/8029_bf5933d0/1000k/hls/index.m3u8
 
+36,https://mingxing.xianyongjiu.com:443/20200808/8031_008924c2/1000k/hls/index.m3u8
 
+37,https://mingxing.xianyongjiu.com:443/20200809/8087_d539a657/1000k/hls/index.m3u8
 
+38,https://mingxing.xianyongjiu.com:443/20200809/8089_79b04526/1000k/hls/index.m3u8
 
+39,https://mingxing.xianyongjiu.com:443/20200810/8189_7556cd01/1000k/hls/index.m3u8
+
+40,https://mingxing.xianyongjiu.com:443/20200810/8191_3202ed86/1000k/hls/index.m3u8
 
 
 
