@@ -157,7 +157,8 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 TVB新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1594139456~exp=1594225856~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4e4949b292d45071e0ec83da595c19352ca74c4aaf5585783f7553949a66ca16
 TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1594139519~exp=1594225919~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=93dcf9eab827bfecdd663cfaa006fcf37361d7a8ced1a817e0114c35e43bac07
 
-
+MYTV,#genre#
+MYTV,https://fvtv.mywire.org/my/tv.m3u 
 
 
 大侠霍元甲2020,#genre#
