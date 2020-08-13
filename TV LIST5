@@ -158,6 +158,24 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 TVB新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1594139456~exp=1594225856~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4e4949b292d45071e0ec83da595c19352ca74c4aaf5585783f7553949a66ca16
 TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1594139519~exp=1594225919~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=93dcf9eab827bfecdd663cfaa006fcf37361d7a8ced1a817e0114c35e43bac07
 
+港台高清,#genre#
+
+美亞電影,http://f3.apps1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
+民視,http://f3.apps1818.com/live/26/af87f68b12779a17a66befd9313678d7/index.m3u8
+TVBJ2,http://f3.apps1818.com/live/392/df893d5db456247da33bdcdb20295e4e/index.m3u8
+華視,http://f3.apps1818.com/live/32/b0670e9cdfba352a117ecd989be39074/index.m3u8
+星衛HD,http://f3.apps1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
+有线新闻台,http://liveicm8.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有线财经资讯台,http://liveicm8.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
+有线综合娱乐台,http://liveicm8.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+TVB翡翠,http://f3.apps1818.com/live/390/ff716247068189f5a8f5515789e8ab85/index.m3u8
+TVB無線財經,http://f3.apps1818.com/live/393/86398d6cd91dcba07535314aeac4b445/index.m3u8
+無線新聞,http://f3.apps1818.com/live/394/74bbcde369887b9b091e6059f1236e37/index.m3u8
+TVB星河,http://f3.apps1818.com/live/22/27d9d1a2076ddebf1afe7b3d65a253c4/index.m3u8
+TVBJ2,http://f3.apps1818.com/live/392/df893d5db456247da33bdcdb20295e4e/index.m3u8
+TVB明珠,http://f3.apps1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
+NOW新聞,http://f3.apps1818.com/live/396/3271973376d9a01c762abc5c10063842/index.m3u8
+
 
 
 
