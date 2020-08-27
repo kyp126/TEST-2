@@ -214,10 +214,12 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 東森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
 华視新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
 中視新闻,,http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+TVBS,http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 TVB新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1594139456~exp=1594225856~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4e4949b292d45071e0ec83da595c19352ca74c4aaf5585783f7553949a66ca16
 TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1594139519~exp=1594225919~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=93dcf9eab827bfecdd663cfaa006fcf37361d7a8ced1a817e0114c35e43bac07
 
