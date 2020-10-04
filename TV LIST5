@@ -248,7 +248,7 @@ TVB新闻台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd
 TVB財经台, http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/playlist.m3u8?hdnea=st=1594139519~exp=1594225919~acl=/newslive/smil:mobilehd_finance.smil/*~hmac=93dcf9eab827bfecdd663cfaa006fcf37361d7a8ced1a817e0114c35e43bac07
 
 港台高清,#genre#
-
+TVB翡翠1,http://iptv-iptv.cf/qq6491443.php?id=390/index.m3u8
 美亞電影,http://f3.apps1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
 民視,http://f3.apps1818.com/live/26/af87f68b12779a17a66befd9313678d7/index.m3u8
 TVBJ2,http://f3.apps1818.com/live/392/df893d5db456247da33bdcdb20295e4e/index.m3u8
