@@ -37,7 +37,23 @@
 
 
 
+SG CH,#genre#
 
+Ch 5,http://jkk1.luyutv.com:80/dream.m3u8?id=83baa6b2cec642db&keygemini=55f4da939cba988214f051320d49f74f
+Ch 5 b,http://jkk2.luyutv.com/dream.m3u8?id=7df9c6e1c8b2e9d2&keygemini=55f4da939cba988214f051320d49f74f
+Ch 8,http://jkk2.luyutv.com/dream.m3u8?id=e2aed8e14a2ec855&keygemini=55f4da939cba988214f051320d49f74f
+Ch 8 b,http://jkk1.luyutv.com/dream.m3u8?id=d4004f8257d049e7&keygemini=55f4da939cba988214f051320d49f74f
+Ch U,http://jkk1.luyutv.com/dream.m3u8?id=29fc3e533434776c&keygemini=55f4da939cba988214f051320d49f74f
+Suria,http://jkk1.luyutv.com/dream.m3u8?id=d60dc76d1a17585c&keygemini=55f4da939cba988214f051320d49f74f
+翡翠台,http://jkk2.luyutv.com/dream.m3u8?id=1d685d898ed5d228&keygemini=55f4da939cba988214f051320d49f74f
+翡翠台 b,http://jkk1.luyutv.com/dream.m3u8?id=c4711f7174b133f7&keygemini=55f4da939cba988214f051320d49f74f
+無綫新聞台,http://jkk2.luyutv.com/dream.m3u8?id=e5f3e01c5f55ef4b&keygemini=55f4da939cba988214f051320d49f74f
+J2,http://jkk2.luyutv.com/dream.m3u8?id=068fdcf35f5da3b3&keygemini=55f4da939cba988214f051320d49f74f
+無綫財經資訊台,http://jkk1.luyutv.com/dream.m3u8?id=c778873f91de22e9&keygemini=55f4da939cba988214f051320d49f74f
+無綫財經資訊台 b,http://jkk2.luyutv.com/dream.m3u8?id=16d2d4ebba122155&keygemini=55f4da939cba988214f051320d49f74f
+有線電影台,http://jkk1.luyutv.com/dream.m3u8?id=bf82e786a3aaf184&keygemini=55f4da939cba988214f051320d49f74f
+ViuTV,http://jkk1.luyutv.com/dream.m3u8?id=992a39528e84f9f7&keygemini=55f4da939cba988214f051320d49f74f
+TVB星河,http://jkk1.luyutv.com/dream.m3u8?id=4afb9a3087c2673c&keygemini=55f4da939cba988214f051320d49f74f
 
 
 
@@ -138,44 +154,6 @@ C9特工,#genre#
 1002,https://diaoshi.dehua-kuyun.com:443/20201002/18180_dde4db9f/1000k/hls/index.m3u8
 1008,https://diaoshi.dehua-kuyun.com:443/20201009/19056_2d7fccab/1000k/hls/index.m3u8
 1016,https://cdn-yong.bejingyongjiu.com:443/20201017/23855_43f25f1e/1000k/hls/index.m3u8#https://www.nmgxwhz.com:65/20201009/GY5JuAo2/1200kb/hls/index.m3u8
-
-
-男神不败,#genre#
-男神不敗至25完,
-01,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_drvmv8j1/v/12/pv/1/ev/29/flavorId/0_ouq6lf5h/name/a.mp4/index.m3u8
-02,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_km8m8d4j/v/12/pv/1/ev/29/flavorId/0_442homve/name/a.mp4/index.m3u8
-03,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_sji13sxe/v/12/pv/1/ev/29/flavorId/0_dv0fmckf/name/a.mp4/index.m3u8
-04,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_17zn15b9/v/12/pv/1/ev/29/flavorId/0_4yke9mu0/name/a.mp4/index.m3u8
-05,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_762vdlq2/v/12/pv/1/ev/29/flavorId/0_qhxf9e84/name/a.mp4/index.m3u8
-06,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_cgtb84t7/v/12/pv/1/ev/29/flavorId/0_qo9yxr6j/name/a.mp4/index.m3u8
-07,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_x47mp5nm/v/12/pv/1/ev/29/flavorId/0_cc8frsj3/name/a.mp4/index.m3u8
-08,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_bcbh9zqs/v/12/pv/1/ev/29/flavorId/0_qebj503h/name/a.mp4/index.m3u8
-09,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_9kfwl3hs/v/11/pv/1/ev/25/flavorId/0_0kx7u1w6/name/a.mp4/index.m3u8
-10,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_k2v28aw7/v/1/pv/1/ev/31/flavorId/0_go7x0kzd/name/a.mp4/index.m3u8
-11,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_enutahio/v/11/pv/1/ev/25/flavorId/0_mucz1b45/name/a.mp4/index.m3u8
-12,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_m7c1o6t6/v/11/pv/1/ev/25/flavorId/1_2yerc7vq/name/a.mp4/index.m3u8
-13,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_0kenvdn6/v/11/pv/1/ev/25/flavorId/1_rjplnbnx/name/a.mp4/index.m3u8
-14,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_n07z84oh/v/21/pv/1/ev/37/flavorId/0_vmkpov7a/name/a.mp4/index.m3u8
-
-15,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_d1dxa0ri/v/11/pv/1/ev/25/flavorId/0_cfbj2kza/name/a.mp4/index.m3u8
-
-16,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_0wo2h1gp/v/31/pv/1/ev/58/flavorId/0_0ro2nbrx/name/a.mp4/index.m3u8
-
-17,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_enhchrcq/v/21/pv/1/ev/39/flavorId/0_4fjyebby/name/a.mp4/index.m3u8
-
-18,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_vchhjb22/v/21/pv/1/ev/38/flavorId/0_rwmfv4wu/name/a.mp4/index.m3u8
-19,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_qd7fb65l/v/22/pv/1/ev/35/flavorId/0_zw75qpl4/name/a.mp4/index.m3u8
-
-20,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_p767hkj9/v/11/pv/1/ev/25/flavorId/0_ibqwimc1/name/a.mp4/index.m3u8
-21,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_00kcfo2e/v/11/pv/1/ev/45/flavorId/0_wbp504ft/name/a.mp4/index.m3u8
-
-22,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_c8spr0ss/v/11/pv/1/ev/29/flavorId/0_dne4g7he/name/a.mp4/index.m3u8
-
-23,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_r5omd21x/v/21/pv/1/ev/39/flavorId/0_bzfsnkxi/name/a.mp4/index.m3u8
-24,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_6mnv9879/v/21/pv/1/ev/38/flavorId/0_vthh9d12/name/a.mp4/index.m3u8
-
-25,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_q6rhupqj/v/21/pv/1/ev/39/flavorId/0_9v8y91um/name/a.mp4/index.m3u8
-
 
 
 
