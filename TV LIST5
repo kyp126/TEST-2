@@ -363,4 +363,99 @@ CETV-2中国教育,http://cdn.chxjon.cn/bolt/cetv.php?id=cetv2
 CETV-3中国教育,http://cdn.chxjon.cn/bolt/cetv.php?id=cetv3
 CETV-4中国教育,http://cdn.chxjon.cn/bolt/cetv.php?id=cetv4
 
-
+微视频道,#genre#
+河南卫视,http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
+甘肃卫视,http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8
+广西卫视,http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+贵州卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+河北卫视,http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
+吉林卫视,http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+山西卫视,http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
+陕西卫视,http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
+厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+厦门卫视,http://39.134.168.91/PLTV/1/224/3221225640/index.m3u8
+四川卫视,http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8
+云南卫视,http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8
+海南卫视,http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
+宁夏卫视,http://39.134.168.91/PLTV/1/224/3221225638/index.m3u8
+青海卫视,http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
+内蒙卫视,http://39.134.168.91/PLTV/1/224/3221225626/index.m3u8
+西藏卫视,http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8
+新疆卫视,http://223.110.247.161:6610/gitv/live1/G_XINJIANG/G_XINJIANG
+新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+地方频道,#genre#
+浙江 Ⅰ 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
+浙江 Ⅰ 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江 Ⅰ 浙江经视,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
+浙江 Ⅰ 浙江六套,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
+浙江 Ⅰ 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
+浙江 Ⅰ 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江 Ⅰ 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+浙江 Ⅰ 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江 Ⅰ 浙江留学,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
+浙江 Ⅰ 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
+浙江 Ⅰ 杭州HTV-1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+浙江 Ⅰ 杭州HTV-2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+浙江 Ⅰ 杭州HTV-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+浙江 Ⅰ 杭州HTV-4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+浙江 Ⅰ 杭州HTV-5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+浙江 Ⅰ 柯桥综合,http://live.scbtv.cn/hls/news/index.m3u8
+浙江 Ⅰ 柯桥时尚,http://live.scbtv.cn/hls/qfc/index.m3u8
+浙江 Ⅰ 浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江 Ⅰ 浙江教育,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江 Ⅰ 浙江休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江 Ⅰ 浙江经济,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江 Ⅰ 留学世界,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+浙江 Ⅰ 舟山综合,http://live.wifizs.cn/xwzh/sd/live.m3u8
+浙江 Ⅰ 舟山生活,http://live.wifizs.cn/ggsh/sd/live.m3u8
+浙江 Ⅰ 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+浙江 Ⅰ 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+浙江 Ⅰ 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+湖北 Ⅰ 黄冈新闻,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
+湖北 Ⅰ 黄冈公共,http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
+湖北 Ⅰ 夷陵电视,http://yiling.live.cjyun.org/video/s10174-TC1T/index.m3u8
+湖北 Ⅰ 襄阳综合,http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
+湖北 Ⅰ 襄阳公共,http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
+湖北 Ⅰ 恩施综合,http://enshi.live.cjyun.org/video/s10070-eszh.m3u8
+湖北 Ⅰ 恩施公共,http://enshi.live.cjyun.org/video/s10070-esgg.m3u8
+湖北 Ⅰ 孝感新闻,http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
+湖北 Ⅰ 孝感公共,http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
+湖北 Ⅰ 鄂州新闻,http://ezhou.live.cjyun.org/video/s10098-EZ2T/index.m3u8
+湖北 Ⅰ 鄂州公共,http://ezhou.live.cjyun.org/video/s10098-EZ1T/index.m3u8
+湖北 Ⅰ 咸宁综合,http://xianning.live.cjyun.org/video/s10140-XNTV-1/index.m3u8
+湖北 Ⅰ 咸宁综合,http://xianning.live.cjyun.org/video/s10140-XNGG.flv
+湖北 Ⅰ 孝昌新闻,http://xiaochang.live.cjyun.org/video/s10128-xcxw/index.m3u8
+湖北 Ⅰ 孝昌生活,http://xiaochang.live.cjyun.org/video/s10128-xcsh/index.m3u8
+湖北 Ⅰ 罗田综合,http://luotian.live.cjyun.org/video/s10013-LTZH/index.m3u8
+湖北 Ⅰ 红安综合,http://hongan.live.cjyun.org/video/s10063-HAZH.m3u8
+湖北 Ⅰ 大悟综合,http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
+湖北 Ⅰ 应城新闻,http://yingcheng.live.cjyun.org/video/s10135-YCZH/index.m3u8
+湖北 Ⅰ 应城生活,http://yingcheng.live.cjyun.org/video/s10135-YCDJ/index.m3u8
+湖北 Ⅰ 秭归新闻,http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
+湖北 Ⅰ 大冶一套,http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
+湖北 Ⅰ 大冶二套,http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
+湖北 Ⅰ 嘉鱼新闻,http://jiayu.live.tempsource.cjyun.org/videotmp/s10131-jyzh.m3u8
+湖北 Ⅰ 鹤峰综合,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
+湖北 Ⅰ 广水新闻,http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
+湖北 Ⅰ 云梦综合,http://yunshangyunmeng.live.cjyun.org/video/s10130-ymzh.m3u8
+湖北 Ⅰ 云梦党建,http://yunshangyunmeng.live.cjyun.org/video/s10130-ymdjny.m3u8
+湖北 Ⅰ 咸宁公共,http://xianning.live.cjyun.org/video/s10140-XNTV-1.flv
+湖北 Ⅰ 神农架台,http://shennongjia.live.cjyun.org/video/s10144-SNJ-live.flv
+江苏 Ⅰ 无锡综合,http://live-wx.wifiwx.com/wxtv1/sd/live.m3u8
+江苏 Ⅰ 无锡都市,http://live-wx.wifiwx.com/wxtv3/sd/live.m3u8
+江苏 Ⅰ 靖江电视,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+江苏 Ⅰ 吴江综合,http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
+江苏 Ⅰ 东海国学,http://jsdh.chinashadt.com:2035/live/2.stream/playlist.m3u8
+江苏 Ⅰ 张家港综合,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+江苏 Ⅰ 张家港民生,http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+江苏 Ⅰ 连云港综合,http://live.lyg1.com/zhpd/sd/live.m3u8
+江苏 Ⅰ 连云港公共,http://live.lyg1.com/ggpd/sd/live.m3u8
+江苏 Ⅰ 淮安综合,http://stream.habctv.com/xwzh/sd/live.m3u8
+江苏 Ⅰ 淮安公共,http://stream.habctv.com/hagg/sd/live.m3u8
+江苏 Ⅰ 淮安影视,http://stream.habctv.com/ysyl/sd/live.m3u8
+江苏 Ⅰ 徐州综合,http://stream1.huaihai.tv/xwzh/playlist.m3u8
+江苏 Ⅰ 徐州生活,http://stream1.huaihai.tv/jjsh/playlist.m3u8
+江苏 Ⅰ 徐州影视,http://stream1.huaihai.tv/wyys/playlist.m3u8
+江苏 Ⅰ 徐州影视,http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
+江苏 Ⅰ 徐州公共,http://stream1.huaihai.tv/ggpd/playlist.m3u8
+江苏 Ⅰ 徐州公共,http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
