@@ -55,7 +55,8 @@ CHU,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
 SURIA,http://50.7.222.130:8278/streams/d/Suria/playlist.m3u8
 V'tham,http://50.7.222.130:8278/streams/d/Vasantham/playlist.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8 
-
+TV1,https://rtm1.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+TV2,https://rtm2.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
 大步走,#genre#
 
