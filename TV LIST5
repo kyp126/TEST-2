@@ -127,7 +127,9 @@
 
 
 SG,#genre#
+Channel 5,http://50.7.222.130:8278/streams/d/Channel5HD/playlist.m3u8
 CH5,http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
+Channel 8,http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
 CH8,http://50.7.222.130:8278/streams/d/Channel8/playlist.m3u8
 CHU,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
 CNA,http://50.7.222.130:8278/streams/d/cna/playlist.m3u8
@@ -136,6 +138,11 @@ V'tham,http://50.7.222.130:8278/streams/d/Vasantham/playlist.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8 
 TV1,https://rtm1.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 TV2,https://rtm2.secureswiftcontent.com:443/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+TV3,http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+NTV7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
 
 大步走,#genre#
 
