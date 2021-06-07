@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台",逆天奇案
-https://t.wdubo.com:443/20210518/OIvrwBvR/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",国家野生
-http://f8.apps8888.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
+#EXTINF:-1 ,CCTV-1
+http://117.169.120.140:8080/live/cctv-1/.m3u8
+#EXTINF:-1 ,CCTV-2
+http://117.169.120.140:8080/live/cctv-2/.m3u8
+#EXTINF:-1 ,CCTV-3
+http://117.169.120.140:8080/live/cctv-3/.m3u8
+#EXTINF:-1 ,CCTV-4
+http://117.169.120.140:8080/live/cctv-4/.m3u8
+#EXTINF:-1 ,CCTV-6
+http://117.169.120.140:8080/live/cctv-6/.m3u8
+#EXTINF:-1 ,CCTV-7
+http://117.169.120.140:8080/live/cctv-7/.m3u8
+#EXTINF:-1 ,CCTV-8
+http://117.169.120.140:8080/live/cctv-8/.m3u8
+#EXTINF:-1 ,CCTV-10
+http://117.169.120.140:8080/live/cctv-10/.m3u8
