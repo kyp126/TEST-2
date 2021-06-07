@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
-http://117.169.120.140:8080/live/cctv-1/.m3u8
+#EXTINF:-1 ,CCTV-26
+https://t.wdubo.com:443/20210607/BLxSoDyJ/hls/index.m3u8
 #EXTINF:-1 ,CCTV-2
 http://117.169.120.140:8080/live/cctv-2/.m3u8
 #EXTINF:-1 ,CCTV-3
