@@ -58,12 +58,10 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/7/42/191457/720p.m3u8
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Turkey vs Italy L1 
 http://london2.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIxIDU6NDA6MjMgUE0maGFzaF92YWx1ZT1LRWpOOHZwSDNTN28wS3g4YldjN3ZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAwOjIzYzc6OGE4ZTplNzAxOmFkZTA6MWJjOToyY2FlOjhjNmQmc3RybV9sZW49NQ==
 
-
-
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Turkey vs Italy L2
 http://london3.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIxIDU6NDI6NDcgUE0maGFzaF92YWx1ZT1OZUlGK1hRdXk4N3dld2FiN0szaXd3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD03OC45Ni4xNy42JnN0cm1fbGVuPTU=
-
-
+#EXTINF:-1 group-title="EURO 2020",3:00 am  Turkey vs Italy L3
+http://london.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIxIDY6MjU6MTEgUE0maGFzaF92YWx1ZT1RR1JvQjNqeUMwTDRIcUgwTTRJTkN3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNy4zNC4zMS41MSZzdHJtX2xlbj01
 
 
 
