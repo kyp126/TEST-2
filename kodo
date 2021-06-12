@@ -41,9 +41,12 @@ https://m7t.bokux.com:443/20210610/EPjNj2uu/hls/index.m3u8
 #EXTINF:-1 group-title="花好月又圓",01
 
 
+
+
+
+
 #EXTINF:-1 group-title="Highlights",Turkey vs Italy 
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
-
 
 #EXTINF:-1 group-title="Highlights",Int. Friendly Games-France - Bulgaria 
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/8/42/191495/720p.m3u8
@@ -60,6 +63,8 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/7/42/191457/720p.m3u8
 
 
 
+#EXTINF:-1 group-title="EURO 2020",9:00 pm  Wales vs Switzerland
+
 
 #EXTINF:-1 group-title="EURO 2020",Opening Ceremony
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191605/720p.m3u8
@@ -71,18 +76,6 @@ https://d1.anafast.com:8080/files/2/uo0xb7uytobw1r/esp2-www.soccercatch.com.mp4
 https://d1.anafast.com:8080/files/0/y59dlboskyd9s4/esp3-www.soccercatch.com.mp4
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Turkey vs Italy L1 
-http://london2.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIxIDU6NDA6MjMgUE0maGFzaF92YWx1ZT1LRWpOOHZwSDNTN28wS3g4YldjN3ZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAwOjIzYzc6OGE4ZTplNzAxOmFkZTA6MWJjOToyY2FlOjhjNmQmc3RybV9sZW49NQ==
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Turkey vs Italy L2
-http://london3.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIxIDU6NDI6NDcgUE0maGFzaF92YWx1ZT1OZUlGK1hRdXk4N3dld2FiN0szaXd3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD03OC45Ni4xNy42JnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Turkey vs Italy L3
-http://london.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIxIDY6MjU6MTEgUE0maGFzaF92YWx1ZT1RR1JvQjNqeUMwTDRIcUgwTTRJTkN3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNy4zNC4zMS41MSZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Turkey vs Italy L4
-https://lived.ali.huoxinglaike.com/live/streamhd51930.m3u8?auth_key=1623447300-0f937150169c4a9db93294aed1d599ff-0-46b1d10b1835c546d5b5b12c00124955
-
-
-
 
 
 
@@ -92,7 +85,7 @@ https://lived.ali.huoxinglaike.com/live/streamhd51930.m3u8?auth_key=1623447300-0
 https://vod4.buycar5.cn:443/20210607/yI9Qr7bC/1000kb/hls/index.m3u8
 
 
-#EXTINF:-1 group-title="NBA",
+
 
 
 
