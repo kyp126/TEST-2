@@ -41,8 +41,10 @@ https://m7t.bokux.com:443/20210610/EPjNj2uu/hls/index.m3u8
 #EXTINF:-1 group-title="花好月又圓",01
 
 
-#EXTINF:-1 group-title="Highlights",Int. Friendly Games-Portugal vs Israel 
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/9/34/191555/720p.m3u8
+#EXTINF:-1 group-title="Highlights",Turkey vs Italy 
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
+
+
 #EXTINF:-1 group-title="Highlights",Int. Friendly Games-France - Bulgaria 
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/8/42/191495/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Int. Friendly Games-Spain - Lithuania  
