@@ -44,18 +44,11 @@ https://m7t.bokux.com:443/20210610/EPjNj2uu/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Wales vs Switzerland
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Turkey vs Italy 
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
-#EXTINF:-1 group-title="Highlights",Int. Friendly Games-France - Bulgaria 
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/8/42/191495/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Int. Friendly Games-Spain - Lithuania  
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/8/34/191484/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Int. Friendly Games-Poland - Iceland  
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/8/34/191469/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Int. Friendly Games-Germany vs Latvia  
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/7/42/191457/720p.m3u8
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Belgium - Russia
