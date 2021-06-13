@@ -64,6 +64,7 @@ http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Austria vs North Macedonia L2
 http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIxIDM6MzU6MTIgUE0maGFzaF92YWx1ZT1VbS9PNG5rMEJVcXpDSis5d1B1WUNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDA3OjUyMDA6NDAwOjhmYjA6ZWQxYjpiNmRhOjUwMzo4ODJmJnN0cm1fbGVuPTU=
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Austria vs North Macedonia L3
+http://g.givemenbastreams.com:80/hls/abc/chunks.m3u8
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Austria vs North Macedonia L4
 
