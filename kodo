@@ -84,27 +84,10 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="EURO 2020",12.00 am Poland - Slovakia   L1
-http://london4.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIxIDM6NDE6MzkgUE0maGFzaF92YWx1ZT1oclA5Q0gwWjdUa1pXQUpqKzBjYnlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDA2OjMwMDM6MjA3Yjo4MGQ6MmUyYjpmOWZmOmZlMGE6ZDYyZSZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12.00 am Poland - Slovakia   L2
-https://lived.ali.huoxinglaike.com/live/streamhd25378.m3u8?auth_key=1623695640-48a4232853564c70a9fd34b180e518ac-0-3198d1f60ab76f6fb717dd1c55dc801a
-
-#EXTINF:-1 group-title="EURO 2020",12.00 am Poland - Slovakia   L3
-https://lived.ali.huoxinglaike.com/live/streamcnhd25378.m3u8?auth_key=1623695640-4bab8320cb6c48b4b998941488ca70d9-0-be783c14b6c8e6681ca0f3bfbe06aada
-#EXTINF:-1 group-title="EURO 2020",12.00 am Poland - Slovakia   L4
-https://lived.ali.huoxinglaike.com/live/streamhd25378.m3u8?auth_key=1623695640-48a4232853564c70a9fd34b180e518ac-0-3198d1f60ab76f6fb717dd1c55dc801a
-
-
 #EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L1
 http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIxIDY6NTI6NTAgUE0maGFzaF92YWx1ZT1aRXp1VVdOcG5lSjJlSHptdlNOVFF3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD05Mi4yMzMuMjEwLjE3NiZzdHJtX2xlbj01
 #EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L2
-
+http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIxIDY6NTg6MTIgUE0maGFzaF92YWx1ZT0xc0R6bzBsSEpBZVNCOFlEWlMyVzd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTEuMTE5LjE4Ny4zNiZzdHJtX2xlbj01
 #EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L3
 
 #EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L4
