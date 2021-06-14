@@ -59,28 +59,23 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Scotland vs Czech Republic L1
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Scotland vs Czech Republic L2
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Scotland vs Czech Republic L3
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Scotland vs Czech Republic L4
 
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands vs Ukraine L1
-http://london4.mazystreams.xyz:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIxIDY6NDk6NDMgUE0maGFzaF92YWx1ZT10MnNlaU0xMkZyQkZNTjRTVENPNnBBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD05NC4xMDIuNTAuMTAxJnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands vs Ukraine L2
-http://london4.mazystreams.xyz:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIxIDY6NTQ6MDYgUE0maGFzaF92YWx1ZT1LdnVXQ01jSVRoaFBPcHhOaVRNL0N3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDAxOjgxODplODAwOjU1MDA6ZTQ0NDo5ODJhOmQ0NmQ6OTRhNCZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands vs Ukraine L3
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands vs Ukraine L4
 
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Austria vs North Macedonia L1
-http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIxIDM6MzI6MDMgUE0maGFzaF92YWx1ZT1SWW9YMVF0dHNiSmJWbXJRNkE0bnRRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD00NS4xMzUuMTg2LjM1JnN0cm1fbGVuPTU=
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Austria vs North Macedonia L2
-http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDIxIDM6MzU6MTIgUE0maGFzaF92YWx1ZT1VbS9PNG5rMEJVcXpDSis5d1B1WUNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDA3OjUyMDA6NDAwOjhmYjA6ZWQxYjpiNmRhOjUwMzo4ODJmJnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Austria vs North Macedonia L3
-http://g.givemenbastreams.com:80/hls/abc/chunks.m3u8
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Austria vs North Macedonia L4
-https://mgsp.live.miguvideo.com/migu/sports/mgty11/50/20210510/index.m3u8?msisdn=783abe2254339ee9c7be983bc88c30a1&mdspid=&spid=800033&netType=0&sid=7510027377&pid=2028597139&timestamp=20210613231147&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=712601031&ParentNodeID=-99&assertID=7510027377&client_ip=210.16.189.158&SecurityKey=20210613231147&mvid=7510013505&mcid=500020&mpid=120000165833&playurlVersion=SJ-A1-4.6.1&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=9656342811810960ade54e54b0217187
+
+
+
 
 
 #EXTINF:-1 group-title="COPA AMERICA HL",Brazil - Venezuela
