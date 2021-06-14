@@ -77,7 +77,8 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-
+#EXTINF:-1 group-title="COPA AMERICA HL",Colombia - Ecuador
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/42/191840/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Brazil - Venezuela
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/42/191837/720p.m3u8
 
