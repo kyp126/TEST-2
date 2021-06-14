@@ -64,7 +64,8 @@ https://m7t.bokux.com:443/20210610/EPjNj2uu/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Spain vs Sweden
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/42/191902/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Poland vs Slovakia
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/42/191882/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Scotland vs Czech Republic 
