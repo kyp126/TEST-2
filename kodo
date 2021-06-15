@@ -53,7 +53,7 @@ https://m7t.bokux.com:443/20210609/0qCYUb5b/hls/index.m3u8
 https://m7t.bokux.com:443/20210610/EPjNj2uu/hls/index.m3u8
 
 
-#EXTINF:-1 group-title="花好月又圓",01
+#EXTINF:-1 group-title="花好月又圓",00
 
 
 
@@ -86,14 +86,26 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
-#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L1
-http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIxIDY6NTI6NTAgUE0maGFzaF92YWx1ZT1aRXp1VVdOcG5lSjJlSHptdlNOVFF3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD05Mi4yMzMuMjEwLjE3NiZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L2
-http://london4.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIxIDY6NTg6MTIgUE0maGFzaF92YWx1ZT0xc0R6bzBsSEpBZVNCOFlEWlMyVzd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTEuMTE5LjE4Ny4zNiZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L3
-https://lived.ali.huoxinglaike.com/live/streamhd26598.m3u8?auth_key=1623706500-6d024247a4014ea0ad1332aca5313dff-0-d60be4166a5abb76cd266054c236a261
-#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden     L4
-https://lived.ali.huoxinglaike.com/live/streamcnhd26598.m3u8?auth_key=1623706500-15eefa325d334ce4888aa8041f001797-0-01f27ad9e1dbe7e1a3154143853afa4f
+#EXTINF:-1 group-title="EURO 2020",12.00 am  Hungary vs Portugal   L1
+
+#EXTINF:-1 group-title="EURO 2020",12.00 am  Hungary vs Portugal   L2
+
+#EXTINF:-1 group-title="EURO 2020",12.00 am  Hungary vs Portugal   L3
+
+
+#EXTINF:-1 group-title="EURO 2020",12.00 am  Hungary vs Portugal   L4
+
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Germany     L1
+
+#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden   L2
+
+#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden   L3
+
+#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden   L4
+
+#EXTINF:-1 group-title="EURO 2020",3.00 am Spain - Sweden   L5
+
 
 
 
