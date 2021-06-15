@@ -62,7 +62,8 @@ https://m7t.bokux.com:443/20210610/EPjNj2uu/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",France vs Germany
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/15/34/192006/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Hungary vs Portugal
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/15/42/191965/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Spain vs Sweden
