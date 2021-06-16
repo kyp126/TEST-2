@@ -75,7 +75,8 @@ https://m7t.bokux.com:443/20210615/49v3AoO8/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Italy vs Switzerland
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/16/42/192095/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Turkey vs Wales  
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/16/42/192059/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Finland vs Russia
