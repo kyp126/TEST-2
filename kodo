@@ -71,7 +71,8 @@ https://m7t.bokux.com:443/20210615/49v3AoO8/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Finland vs Russia
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/16/42/192036/720p.m3u8
 #EXTINF:-1 group-title="Highlights",France vs Germany
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/15/34/192006/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Hungary vs Portugal
@@ -98,16 +99,16 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
-#EXTINF:-1 group-title="EURO 2020",9:00 pm  Finland vs Russia L1
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDIxIDEyOjMwOjM5IFBNJmhhc2hfdmFsdWU9bk03Ky9TOHhOc1JWeEIyV09KVkVNUT09JnZhbGlkbWludXRlcz03MjAmaWQ9ODIuMjEuOTQuMTE0JnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",9:00 pm  Finland vs Russia L2
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNi8yMDIxIDEyOjMzOjAyIFBNJmhhc2hfdmFsdWU9RkcvUkliZklCTEJGQ0J6dFZXSzhVQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MjAwMTo0MWQwOjI6ODM0MDo6MSZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",9:00 pm  Finland vs Russia L3
-https://m2j3tv8e8t.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=DeZTulm-gi3Yr2WddhPAvg&e=1623868964
-#EXTINF:-1 group-title="EURO 2020",9:00 pm  Finland vs Russia L4
-https://cdn102.thatisme.xyz/hls/ga2/index.m3u8?st=IdEURlI31YacmrsChpTEUg&e=1623858475
-#EXTINF:-1 group-title="EURO 2020",9:00 pm  Finland vs Russia L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd25462.m3u8?auth_key=1623857700-ca6e1765c3bb489cae9ed9d6ba09a0a0-0-bae8935ec7d12e50e5108ccd1773e6cd
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Turkey vs Wales L1
 
