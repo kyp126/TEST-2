@@ -117,7 +117,7 @@ http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L2
 http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDM6NDM6MDUgUE0maGFzaF92YWx1ZT1xWHhOSjBEbFpZY1BDeEF6R1VVSlRnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD00OS4yNDQuMTcuNTgmc3RybV9sZW49NQ==
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L3
-
+http://london1.mazystreams.xyz/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDM6NDc6NDggUE0maGFzaF92YWx1ZT1ValdUM1FjbzFRSXVqMkJ5S0lVckFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00MS44MC44LjE4OCZzdHJtX2xlbj01
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L4
 
 
