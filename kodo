@@ -74,7 +74,8 @@ https://m7t.bokux.com:443/20210615/49v3AoO8/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Ukraine vs North Macedonia  
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/17/42/192118/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Italy vs Switzerland
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/16/42/192095/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Turkey vs Wales  
@@ -109,20 +110,6 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-
-#EXTINF:-1 group-title="EURO 2020",9:00 pm Ukraine vs North Macedonia L1
-https://gma2.blab.email/fs2.m3u8
-
-#EXTINF:-1 group-title="EURO 2020",9:00 pm Ukraine vs North Macedonia L2
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDEyOjM2OjI3IFBNJmhhc2hfdmFsdWU9UGx5UjlQMzNvckZvMm5VcDBIQXV4UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjUxLjkyLjY3JnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",9:00 pm Ukraine vs North Macedonia L3
-https://m2j3tv8e8t.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=2Dn2M2Fj3OToGLg4lT0Ckw&e=1623955363
-#EXTINF:-1 group-title="EURO 2020",9:00 pm Ukraine vs North Macedonia L4
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDE6NTA6MzMgUE0maGFzaF92YWx1ZT0vM1cyUTdiZEZ5bXNjMDNpalZuTi9nPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTQuOTAuMTE5LjE2MiZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",9:00 pm Ukraine vs North Macedonia L5
-https://livec.ali.huoxinglaike.com/live/CCTV5HD_hd.m3u8?auth_key=1623944100-3969a700903c41ea9015d81c3fbc8030-0-f1dc92ff30c6085cc7080151554c925e
-
-#EXTINF:-1 group-title="EURO 2020",9:00 pm Ukraine vs North Macedonia L
 
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L1
