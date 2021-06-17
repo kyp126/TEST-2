@@ -112,24 +112,17 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L1
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDM6NDA6NTUgUE0maGFzaF92YWx1ZT1rQi9YM3NUMVVpOFoxcFl2V2lZcGx3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDMuMjI1LjI0NC42MSZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L2
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDM6NDM6MDUgUE0maGFzaF92YWx1ZT1xWHhOSjBEbFpZY1BDeEF6R1VVSlRnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD00OS4yNDQuMTcuNTgmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L3
-http://london1.mazystreams.xyz/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDM6NDc6NDggUE0maGFzaF92YWx1ZT1ValdUM1FjbzFRSXVqMkJ5S0lVckFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00MS44MC44LjE4OCZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Denmark vs Belgium  L4
-https://livec.ali.huoxinglaike.com/live/CCTV5HD_hd.m3u8?auth_key=1623954840-d02943d026834af48a06b6757acdc98f-0-fdec490177ebbbdf3f9ae905d1ac6c5d
+
 
 
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L1
-
+http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDY6MzU6MjIgUE0maGFzaF92YWx1ZT1HM2EyWmNGcExtU2owWTREU3hHakFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00MS4xOTMuMTEzLjIwJnN0cm1fbGVuPTU=
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L2
-
+http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDY6Mzg6NTcgUE0maGFzaF92YWx1ZT1Kak1YVys1TFp1YkJWQnUvdTBRMW5RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAyOjJmMDk6NTIwZDphOTAwOjY1YTM6NjRhMjoxNzg0OjFlNDMmc3RybV9sZW49NQ==
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L3
-
+http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDY6NDA6MzAgUE0maGFzaF92YWx1ZT1qTXhQcTc5N0gxczZ0dWtqTHppZlF3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L4
 
 
