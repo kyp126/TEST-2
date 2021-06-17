@@ -4,7 +4,7 @@ L1,http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3Rp
 
 L2,http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDM6Mzc6MzEgUE0maGFzaF92YWx1ZT0xUGFoZWJHMnp3SStVL205L0wxTWVnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTYuODYuMjQ1LjE1NyZzdHJtX2xlbj01
 
-L3,
+L3,http://london1.mazystreams.xyz/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDM6NDc6NDggUE0maGFzaF92YWx1ZT1ValdUM1FjbzFRSXVqMkJ5S0lVckFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00MS44MC44LjE4OCZzdHJtX2xlbj01
 
 L4,
 
