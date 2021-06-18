@@ -132,7 +132,7 @@ http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L2
 http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjM2OjA5IFBNJmhhc2hfdmFsdWU9a2RoVVJwW
 #EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L3
-https://gma2.blab.email/fs2.m3u8
+http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
 #EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L4
 https://m2j3tv8e8t.azcdn728.net:8443/hls/6bxd7pmzj.m3u8?s=ThJm1tAUL8hUFxMs5ir-Nw&e=1624042222
 #EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L5
