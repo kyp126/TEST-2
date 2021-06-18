@@ -159,7 +159,8 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-
+#EXTINF:-1 group-title="COPA AMERICA HL",Colombia  vs Venezuela  
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/18/42/192197/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Paraguay vs Bolivia
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/15/42/191927/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Argentina - Chile
