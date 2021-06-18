@@ -72,7 +72,8 @@ https://m7t.bokux.com:443/20210615/49v3AoO8/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Netherlands vs Austria
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/17/42/192184/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Denmark vs Belgium
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/17/42/192154/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Ukraine vs North Macedonia  
@@ -111,28 +112,40 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Sweden vs Slovakia  L1
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Sweden vs Slovakia  L2
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Sweden vs Slovakia  L3
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Sweden vs Slovakia  L4
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Sweden vs Slovakia  L5
+
+#EXTINF:-1 group-title="EURO 2020",9:00 pm Sweden vs Slovakia  L6
 
 
+#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L1
+
+#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L2
+
+#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L3
+
+#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L4
+
+#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L5
 
 
+#EXTINF:-1 group-title="EURO 2020",3:00 am  England vs Scotland L1
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am England vs Scotland L2  
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am England vs Scotland L3  
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am England vs Scotland L4  
 
 
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L1
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDY6MzU6MjIgUE0maGFzaF92YWx1ZT1HM2EyWmNGcExtU2owWTREU3hHakFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00MS4xOTMuMTEzLjIwJnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L2
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDY6Mzg6NTcgUE0maGFzaF92YWx1ZT1Kak1YVys1TFp1YkJWQnUvdTBRMW5RPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAyOjJmMDk6NTIwZDphOTAwOjY1YTM6NjRhMjoxNzg0OjFlNDMmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L3
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIxIDY6NDA6MzAgUE0maGFzaF92YWx1ZT1qTXhQcTc5N0gxczZ0dWtqTHppZlF3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L4
-https://livec.ali.huoxinglaike.com/live/CCTV5HD_hd.m3u8?auth_key=1623965700-601f3bf9629f45efa88a53e04d70e24e-0-e53bd1f76a46d07b01d6d8dc66e60a2e
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Netherlands  vs Austria L5
-
-
-
-
-
+#EXTINF:-1 group-title="EURO 2020",3:00 am  England vs Scotland L5
 
 
 
