@@ -122,34 +122,15 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L1
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjMzOjIyIFBNJmhhc2hfdmFsdWU9bzNtZzhHaEs2STRVemJ0M3hRe
-#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L2
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjM2OjA5IFBNJmhhc2hfdmFsdWU9a2RoVVJwW
-#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L3
-http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
-#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L4
-https://m2j3tv8e8t.azcdn728.net:8443/hls/6bxd7pmzj.m3u8?s=ThJm1tAUL8hUFxMs5ir-Nw&e=1624042222
-#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L5
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDM6NTM6MjYgUE0maGFzaF92YWx1ZT13cGV2UzBoU0ViQXRYazNQLzNCbDhBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03OC4xNTQuMjMyLjE0OSZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12.00 am Croatia vs Czech Republic  L6
-http://bf.moonmagic.cn/live/hd-zh-1-2785884.m3u8
-
-
 #EXTINF:-1 group-title="EURO 2020",3:00 am  England vs Scotland L1
-
+http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjMzOjIyIFBNJmhhc2hfdmFsdWU9bzNtZzhHa
 #EXTINF:-1 group-title="EURO 2020",3:00 am England vs Scotland L2  
-
+http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjM2OjA5IFBNJmhhc2hfdmFsdWU9a2
 #EXTINF:-1 group-title="EURO 2020",3:00 am England vs Scotland L3  
-
+http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
 #EXTINF:-1 group-title="EURO 2020",3:00 am England vs Scotland L4  
-
-
+https://m2j3tv8e8t.azcdn728.net:8443/hls/6bxd7pmzj.m3u8?s=ThJm1tAUL8hUFxMs5ir-Nw&e=1624042222
+http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDM6NTM6MjYgUE0maGFzaF92YWx1ZT13cGV2UzBoU
 #EXTINF:-1 group-title="EURO 2020",3:00 am  England vs Scotland L5
 
 
