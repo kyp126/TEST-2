@@ -160,6 +160,7 @@ http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L4
 http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L5
+http://d370gjp2bqhtem.cloudfront.net/live/CH1/index.m3u8
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L6
 
