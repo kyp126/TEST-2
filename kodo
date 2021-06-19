@@ -148,28 +148,17 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Portugal vs Germany    L1
- http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDM6MzY6MDEgUE0maGFzaF92YWx1ZT1qUXozYzY2TmFzVm93b2xEYkFoVmxBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTYuODcuMTU1LjE3OCZzdHJtX2xlbj01   
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Portugal vs Germany    L2
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDM6MzY6MjYgUE0maGFzaF92YWx1ZT1sTGVUQjI4Q1B6RHY0aWdFTXAzQWFBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTYuODcuMTU1LjE3OCZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Portugal vs Germany    L3
-http://d370gjp2bqhtem.cloudfront.net/live/CH1/index.m3u8
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Portugal vs Germany    L4
-http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Portugal vs Germany    L5
-http://bf.moonmagic.cn/live/hd-zh-1-3382652.m3u8
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Portugal vs Germany    L6
-https://lived.ali.huoxinglaike.com/live/streamcnhd285010.m3u8?auth_key=1624127640-c06aa73fcc2c4ab288105b4148449295-0-f521f781e789dc17f2fe6fac75fa5438
+
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L1
-
+http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjM2OjA5IFBNJmhhc2hfdmFsdWU9a2RoVVJwWDBsVDBRVTR3b1NDeWFqdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MmEwMjo5MDg6ZGY1NzpmODA6YzQ5NDo2ZDY4OmRkMjQ6ODYzZSZzdHJtX2xlbj01
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L2
-
+http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjMzOjIyIFBNJmhhc2hfdmFsdWU9bzNtZzhHaEs2STRVemJ0M3hReUJuQT09JnZhbGlkbWludXRlcz03MjAmaWQ9OTIuMjguNzAuMjE1JnN0cm1fbGVuPTU=
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L3
-
+http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjQwOjI1IFBNJmhhc2hfdmFsdWU9LzlxZThyNXNOdlF5MEl2NzU3RkJLdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NDIuNjAuMjQ4LjQzJnN0cm1fbGVuPTU=
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L4
-
+http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L5
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L6
