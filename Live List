@@ -5,7 +5,8 @@ Live Play List
 http://d370gjp2bqhtem.cloudfront.net/live/CH1/index.m3u8
 
 
-L1,http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDM6MzY6MDEgUE0maGFzaF92YWx1ZT1qUXozYzY2TmFzVm93b2xEYkFoVmxBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTYuODcuMTU1LjE3OCZzdHJtX2xlbj01
+L1,http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDc6MDA6MTAgUE0maGFzaF92YWx1ZT1GVENXcXJ3UnBiNHVpbHBYSHRuOXFBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNDEuMC45LjM4JnN0cm1fbGVuPTU=
+
 
 L2,http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDM6MzY6MjYgUE0maGFzaF92YWx1ZT1sTGVUQjI4Q1B6RHY0aWdFTXAzQWFBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTYuODcuMTU1LjE3OCZzdHJtX2xlbj01
 
