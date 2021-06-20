@@ -146,26 +146,34 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   L2
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   L3
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   L4
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   L5
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   L6
 
 
 
-
-
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland 1
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDc6MDA6MTAgUE0maGFzaF92YWx1ZT1GVENXcXJ3UnBiNHVpbHBYSHRuOXFBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNDEuMC45LjM4JnN0cm1fbGVuPTU=
+#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L1
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L2
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjMzOjIyIFBNJmhhc2hfdmFsdWU9bzNtZzhHaEs2STRVemJ0M3hReUJuQT09JnZhbGlkbWludXRlcz03MjAmaWQ9OTIuMjguNzAuMjE1JnN0cm1fbGVuPTU=
+
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L3
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDEyOjQwOjI1IFBNJmhhc2hfdmFsdWU9LzlxZThyNXNOdlF5MEl2NzU3RkJLdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NDIuNjAuMjQ4LjQzJnN0cm1fbGVuPTU=
+
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L4
-http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
+
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd26598.m3u8?auth_key=1624138500-3eea57fc728f4a4395918cf2595161cd-0-7aaa7097e351ea10eb1cc9c0c842970b
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L6
-https://lived.ali.huoxinglaike.com/live/streamhd26598.m3u8?auth_key=1624138500-91ab8b58a2cb491b9e966037e0ebbcf4-0-17ba6bd346eb941be33d6b52972a6417
+
+
+
+
+
 
 
 
