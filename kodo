@@ -96,7 +96,8 @@ https://m7t.bokux.com:443/20210618/0vbcrweL/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Spain  vs Poland
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/19/42/192394/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Portugal vs Germany
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/19/42/192350/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Hungary  vs France
@@ -169,8 +170,13 @@ https://lived.ali.huoxinglaike.com/live/streamhd26598.m3u8?auth_key=1624138500-9
 
 
 
-#EXTINF:-1 group-title="F1",9:00 pm  France Qualify
-http://london1.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDIxIDE6MDA6NDggUE0maGFzaF92YWx1ZT1EVDZYZjZNUEEvSHN4TmVNcnFFYVZBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNDAyOjc1MDA6OTJjOmRjNDI6OTFkNDozODZkOjQ2MmU6N2NjNCZzdHJtX2xlbj01
+#EXTINF:-1 group-title="F1 GP",France Q1,2,3 Highlights
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6057949432001/85adb0e9-c5a2-4907-86b7-51b4a3c8d858/10s/master.m3u8?fastly_token=NjBjZWVkY2JfNWFkZTA2Nzk0YmFlOTU1NTE5Mzg4YzYyZDYzNmZhNjcwNWQyMWU5YjczNWYzMzA4YThkNmNhMWFkZTI2NTFjNA%3D%3D
+
+EXTINF:-1 group-title="F1 GP",9.00pm France RACE
+
+
+
 
 
 
