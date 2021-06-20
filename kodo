@@ -158,36 +158,22 @@ http://london4.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   L5
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   L6
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Switzerland vs Turkey   llYzUzNjA1MTk2ZjA5MzQ5OTZjODNiM2ZmMA%3D%3D
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Italy vs Wales L1
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Italy vs Wales L2
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Italy vs Wales L3
 
 
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L1
-http://london1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDIxIDM6MTM6NDIgUE0maGFzaF92YWx1ZT1RQWlYalN3QXBBMHk0Y3dXanVoajJnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD05NS43MC4xNjUuMTQyJnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L2
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L3
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L4
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L5
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Spain  vs Poland L6
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Italy vs Wales L4
 
 
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Italy vs Wales L5
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="F1 GP",France Q1,2,3 Highlights
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6057949432001/85adb0e9-c5a2-4907-86b7-51b4a3c8d858/10s/master.m3u8?fastly_token=NjBjZWVkY2JfNWFkZTA2Nzk0YmFlOTU1NTE5Mzg4YzYyZDYzNmZhNjcwNWQyMWU5YjczNWYzMzA4YThkNmNhMWFkZTI2NTFjNA%3D%3D
-
-EXTINF:-1 group-title="F1 GP",9.00pm France RACE
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6057949432001/ba750a78-0f6d-40e0-ab9e-d8147b3a0c3f/10s/master.m3u8?fastly_token=NjBjZWZlNDhfZDNhMDU4MWEzZjAwNWIwM2ZiYzNjMzJiNGZkZGM3ZTJmZTAzYzllYzUzNjA1MTk2ZjA5MzQ5OTZjODNiM2ZmMA%3D%3D
-
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Italy vs Wales L6
 
 
 
