@@ -159,29 +159,6 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Turkey vs Italy 
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am  North Macedonia vs Netherlands  L1
-http://london4.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDM6MjU6NTIgUE0maGFzaF92YWx1ZT1CNlZOUHJiR1YvRml4U29Oc2FiRFhBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xODUuMTM1LjEwNC41MyZzdHJtX2xlbj01
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am  North Macedonia vs Netherlands  L2
-http://london4.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDM6MjY6NDQgUE0maGFzaF92YWx1ZT1VQzRjQWRtUGdndjVEVFNiaGNWOEpBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDAxOmJiNjo0M2IzOmJlMDA6NDkyNjpkY2MyOjg2YjU6NzE3MyZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12:00 am  North Macedonia vs Netherlands  L3
-https://m2j3tv8e8t.azcdn728.net:8443/hls/6bxd7pmzj.m3u8?s=zE20jp3Nu72NvnKqbtwNYw&e=1624312289
-#EXTINF:-1 group-title="EURO 2020",12:00 am  North Macedonia vs Netherlands  L4
-https://lived.ali.huoxinglaike.com/live/stream4970226.m3u8?auth_key=1624300440-829711583700418ba6434d66ef8529ea-0-3ae1bfa1262131f614cf207587048251
-#EXTINF:-1 group-title="EURO 2020",12:00 am  North Macedonia vs Netherlands  L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd4970226.m3u8?auth_key=1624300440-30db18ba37d644c68f977d10651f26d5-0-5debf401fdd9d6a0400c696d517d41e4
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Ukraine vs Austria   L1
-http://london4.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDM6MjQ6MTUgUE0maGFzaF92YWx1ZT11VjVVSng1R1I5eDBpTDF2MnRZQ25nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNy4xMDQuMjM5LjE3NiZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Ukraine vs Austria   L2
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDM6MjU6NTQgUE0maGFzaF92YWx1ZT04RVhHNlVzKzViTTdFcm5KR1lUL0N3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD01OC4xODIuODMuMTkzJnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Ukraine vs Austria   L3
-http://london4.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDM6NDQ6MTcgUE0maGFzaF92YWx1ZT0yK3ppcnVoRnN2eUdTWXIzbG9zb0F3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Ukraine vs Austria   L4
-https://lived.ali.huoxinglaike.com/live/stream25490.m3u8?auth_key=1624300440-7af8c8c87ca3492fbacd83f223423378-0-558bfda49de55bf689ebd983fee192f0
-#EXTINF:-1 group-title="EURO 2020",12:00 am  Ukraine vs Austria   L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd25490.m3u8?auth_key=1624300440-9285fc433adc4771b11405248bc5d717-0-74cffb500fb88b4085a25c9225970727
 
 
 
@@ -193,7 +170,7 @@ https://lived.ali.huoxinglaike.com/live/streamcnhd25490.m3u8?auth_key=1624300440
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Finland vs Belgium  L1
-
+http://g.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6Mjc6NTMgUE0maGFzaF92YWx1ZT11RGxFQ1J5V3ZOUGtEOGNFWXdyKzBBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xOTcuMjQ4LjIwOS4xMTgmc3RybV9sZW49NQ==
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Finland vs Belgium  L2
 
