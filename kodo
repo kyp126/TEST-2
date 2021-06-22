@@ -180,34 +180,15 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Finland vs Belgium  L1
-http://g.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6Mjc6NTMgUE0maGFzaF92YWx1ZT11RGxFQ1J5V3ZOUGtEOGNFWXdyKzBBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xOTcuMjQ4LjIwOS4xMTgmc3RybV9sZW49NQ==
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Finland vs Belgium  L2
-http://g.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6NTQ6MTUgUE0maGFzaF92YWx1ZT10L0RBYXBtRGlMWmd2RjRTUzkwOFpRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMjguMTc3LjEzLjEzMSZzdHJtX2xlbj01
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Finland vs Belgium  L3
-http://london1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6NTY6MjEgUE0maGFzaF92YWx1ZT0wQi9wbkI0ZzhlTUtnZU9VU2pHZUd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xOTYuMjEuMTU3LjImc3RybV9sZW49NQ==
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Finland vs Belgium  L4
-https://lived.ali.huoxinglaike.com/live/streamhd25462.m3u8?auth_key=1624311300-3066fa7e5cc1430e99e663592d3eca45-0-a08d1fc75eb4b1b5fc6adc16d3d20bf0
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Finland vs Belgium  L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd25462.m3u8?auth_key=1624311300-fc9ac4a6add04ae1a65ef594a1026f2c-0-c673ba37d4fd4e3128f825492043cde9
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Russia vs Denmark   L1
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6MjE6MjQgUE0maGFzaF92YWx1ZT1kb3ZaWU52KzdLYzJBNzF2aFpYVlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Russia vs Denmark   L2
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6MjU6MzYgUE0maGFzaF92YWx1ZT03cGpMcFdkVjA4ZHVZQncwSWJ4elB3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTAuMjEzLjIuMTU0JnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Russia vs Denmark   L3
-http://london1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6NTI6NDMgUE0maGFzaF92YWx1ZT1QbHhxbXQ3TFBkeGFUVnBtOW9jUmZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAyOjJmMGY6ZTAwMzo2YTAwOjMxMTg6MzQwMzozNGI2OjM0MTQmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Russia vs Denmark   L4
-https://lived.ali.huoxinglaike.com/live/streamhd25598.m3u8?auth_key=1624311300-9443ec3f563d44bd836990734fca159b-0-a224469c85251fe0afd380a73d71a5c9
-#EXTINF:-1 group-title="EURO 2020",3:00 am  Russia vs Denmark   L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd25598.m3u8?auth_key=1624311300-cba40b6811f24e69a40e540e1da38a69-0-c6a08bb54c0aa07018d4cf67189896d2
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="COPA AMERICA HL",Uruguay vs Chile
+https://cdn003.b-cdn.net/UpFiles/2021/6/22/42/192574/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Colombia vs Peru
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/21/42/192498/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Venezuela vs Ecuador
