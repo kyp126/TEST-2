@@ -21,12 +21,12 @@ PLAY List
 
 3:00 am  Croatia vs Scotland
 
-L1,http://g.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6Mjc6NTMgUE0maGFzaF92YWx1ZT11RGxFQ1J5V3ZOUGtEOGNFWXdyKzBBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xOTcuMjQ4LjIwOS4xMTgmc3RybV9sZW49NQ==
+Croatia vs Scotland L1
+http://g.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIxIDY6MDk6MTQgUE0maGFzaF92YWx1ZT1iR0hONUhRK0h3cGs0cFlNTGRSbFNRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAyOjgwNzA6ODhhYjphZjAwOjpjMWZmJnN0cm1fbGVuPTU=
 
-L2,http://g.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6NTQ6MTUgUE0maGFzaF92YWx1ZT10L0RBYXBtRGlMWmd2RjRTUzkwOFpRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMjguMTc3LjEzLjEzMSZzdHJtX2xlbj01
+Croatia vs Scotland L2
+http://g.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIxIDY6MTE6MzkgUE0maGFzaF92YWx1ZT1HMVZVQnlIcllDQnRoVFRxaFQzcU1BPT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
 
+Croatia vs Scotland L3
+https://m2j3tv8e8t.azcdn728.net:8443/hls/4nz76ja5rj.m3u8?s=ds6tvK8gpGYYkjNSMg1kcA&e=1624407138
 
-L3,http://london1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIxIDY6NTY6MjEgUE0maGFzaF92YWx1ZT0wQi9wbkI0ZzhlTUtnZU9VU2pHZUd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xOTYuMjEuMTU3LjImc3RybV9sZW49NQ==
-
-
-L4,
