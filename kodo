@@ -107,7 +107,10 @@ https://m7t.bokux.com:443/20210618/0vbcrweL/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Highlights",Czech Republic vs England
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/22/34/192644/720p.m3u8
+#EXTINF:-1 group-title="Highlights",Croatia vs Scotland
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/22/34/192638/720p.m3u8
 #EXTINF:-1 group-title="Highlights",Finland vs Belgium
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/21/42/192549/720p.m3u8
 
