@@ -1,27 +1,31 @@
 Play List
-12:00 am  Slovakia  vs  Spain
-L1,http://nl1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MjE6MjYgUE0maGFzaF92YWx1ZT02STd2V0dGZHd3UGxEV0Q2RDd3dnZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD05MS43My4xNTEuMTEzJnN0cm1fbGVuPTU=
 
-L2,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MjE6NDEgUE0maGFzaF92YWx1ZT1CazBEelIrYml6b3BvMlkvSEZnMUlBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDMuMTI0Ljk2LjIwMyZzdHJtX2xlbj01
+3:00 am  Germany  vs  Hungary
 
-L3,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MzI6NDkgUE0maGFzaF92YWx1ZT1LNGtaZkoxSGxLakMvQ1ZpSVZsY2lnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD02Mi4yOC42Mi45OCZzdHJtX2xlbj01
+L1,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjU6MTIgUE0maGFzaF92YWx1ZT05MkwyaDU5SGFDZ3VTY011RmtaYkhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDAzOmM3OjI3NGQ6MzcwMTo0MGM5OjlhYTg6ZmJiYjplNzE2JnN0cm1fbGVuPTU=
 
-L4,
+L2,http://77.247.109.92/hls/W2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjcKOjAwCiBQTSZoYXNoX3ZhbHVlPWExNVM2VWFlR0lZaDlDcUZBL0dHSUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS4xMzUuMjYmc3RybV9sZW49NA==
 
-L5,
-
-
-12:00 am  Sweden  vs  Poland
-
-L1,http://lon2.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MTk6MTQgUE0maGFzaF92YWx1ZT13V2lic2FvV1NLUDR6ZUdRWnRKZVVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDkuODYuOTEuMjEzJnN0cm1fbGVuPTU=
-
-L2,http://lon2.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MjA6NDQgUE0maGFzaF92YWx1ZT1VY0YvbTR2QnVjTFNEMDFSOFFYQ3ZnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03Ny42NS44My40MCZzdHJtX2xlbj01
-
-L3,https://m2j3tv8e8t.azcdn728.net:8443/hls/c2kxuno.m3u8?s=MT097KIHszS-PYKRAvVQwA&e=1624484279
+L3,
 
 L4,
 
 L5,
 
+XXXXXXXXXXXXXXXXXXX
+
+
+
+3:00 am  Portugal  vs  France
+
+L1,http://lon3.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjQ6NTAgUE0maGFzaF92YWx1ZT02MDNCN25PYzYrYmhzY2dDNnZwcG5RPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTkuNzQuMjEzLjExNiZzdHJtX2xlbj01
+
+L2,http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjQ6MjcgUE0maGFzaF92YWx1ZT1TOTA2cXlLM2k3S0VzUkhMSVdyQnlnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03OC4xNTcuMTYwLjEmc3RybV9sZW49NQ==
+
+L3,
+
+L4,
+
+L5,
 
 
