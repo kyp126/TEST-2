@@ -175,32 +175,34 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Czech Republic vs England L1
-http://g.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIxIDY6MDE6NDcgUE0maGFzaF92YWx1ZT1lN3RONG11VVhWNFlvV043bWN3ZHV3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDMuMTA5LjQ2LjE0NyZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",3:00 am Czech Republic vs England L2
-http://g.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIxIDY6MDM6NDAgUE0maGFzaF92YWx1ZT1iekFNa0JrejN4RUdONmtjUTZCdWJRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDAxOmY0MDo5MDY6NDlmYTozNDMyOmFjMzA6YWZhYjphN2FhJnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",3:00 am Czech Republic vs England L3
-https://m2j3tv8e8t.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=xAVetWT8nSANZdf5PCukCQ&e=1624406779
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L1
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Czech Republic vs England L4
-http://d2s44hx0938a4s.cloudfront.net/live/CH2/index.m3u8
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Czech Republic vs England L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd25526.m3u8?auth_key=1624397700-3847522e65a34717a49ab6b84845306d-0-33e7edf9f66b6a78585363289b6e45a5
+ 
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L2
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Croatia vs Scotland L1
-http://g.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIxIDY6MDk6MTQgUE0maGFzaF92YWx1ZT1iR0hONUhRK0h3cGs0cFlNTGRSbFNRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAyOjgwNzA6ODhhYjphZjAwOjpjMWZmJnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",3:00 am Croatia vs Scotland L2
-http://g.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIxIDY6MTE6MzkgUE0maGFzaF92YWx1ZT1HMVZVQnlIcllDQnRoVFRxaFQzcU1BPT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="EURO 2020",3:00 am Croatia vs Scotland L3
-https://m2j3tv8e8t.azcdn728.net:8443/hls/4nz76ja5rj.m3u8?s=ds6tvK8gpGYYkjNSMg1kcA&e=1624407138
-#EXTINF:-1 group-title="EURO 2020",3:00 am Croatia vs Scotland L4
-https://wowzaprodhd22-lh.akamaihd.net/i/3c000f57_1@355212/index_2560000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L3
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Croatia vs Scotland L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd25482.m3u8?auth_key=1624397700-4ef975cf709b495e8268ad8efd9630b0-0-f561beac1fda507c365496ed57019a4e
 
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L4
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L5
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L1
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L2
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L3
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L4
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L5
 
 
 
