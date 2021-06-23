@@ -6,7 +6,7 @@ L1,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 
 L2,http://77.247.109.92/hls/W2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjcKOjAwCiBQTSZoYXNoX3ZhbHVlPWExNVM2VWFlR0lZaDlDcUZBL0dHSUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS4xMzUuMjYmc3RybV9sZW49NA==
 
-L3,
+L3,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MzU6NDggUE0maGFzaF92YWx1ZT1NR2dSaVhnUkVoZlNqZ3JJMkdiR2V3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD04MS42Ni4xODcuMTcyJnN0cm1fbGVuPTU=
 
 L4,
 
@@ -22,7 +22,7 @@ L1,http://lon3.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 
 L2,http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjQ6MjcgUE0maGFzaF92YWx1ZT1TOTA2cXlLM2k3S0VzUkhMSVdyQnlnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03OC4xNTcuMTYwLjEmc3RybV9sZW49NQ==
 
-L3,
+L3,http://77.247.109.92/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MzIKOjAwCiBQTSZoYXNoX3ZhbHVlPUhjM2lXTkp0RTFzdjR0eG84YnlJWmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OC4xNDQuMzEmc3RybV9sZW49NA==
 
 L4,
 
