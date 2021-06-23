@@ -176,10 +176,10 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L1
-
+http://nl1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MjE6MjYgUE0maGFzaF92YWx1ZT02STd2V0dGZHd3UGxEV0Q2RDd3dnZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD05MS43My4xNTEuMTEzJnN0cm1fbGVuPTU=
  
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L2
-
+http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MjE6NDEgUE0maGFzaF92YWx1ZT1CazBEelIrYml6b3BvMlkvSEZnMUlBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDMuMTI0Ljk2LjIwMyZzdHJtX2xlbj01
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Slovakia  vs  Spain L3
 
@@ -191,9 +191,10 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L1
-
+http://lon2.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MTk6MTQgUE0maGFzaF92YWx1ZT13V2lic2FvV1NLUDR6ZUdRWnRKZVVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDkuODYuOTEuMjEzJnN0cm1fbGVuPTU=
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L2
+http://lon2.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDM6MjA6NDQgUE0maGFzaF92YWx1ZT1VY0YvbTR2QnVjTFNEMDFSOFFYQ3ZnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03Ny42NS44My40MCZzdHJtX2xlbj01
 
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am  Sweden  vs  Poland  L3
