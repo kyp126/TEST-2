@@ -186,46 +186,16 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Germany  vs  Hungary  L1
-http://nl1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6NDI6MTggUE0maGFzaF92YWx1ZT1kOFhZKytNUlpQUk9hYjdYZlB6d3lnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDIuMTEyLjI1MC40MCZzdHJtX2xlbj01
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Germany  vs  Hungary  L2
-http://lon2.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6NDM6MTQgUE0maGFzaF92YWx1ZT1acEwvVFhGSWhuQnA3RzQ5dng1N2pnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDIuMTEyLjI1MC40MCZzdHJtX2xlbj01
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Germany  vs  Hungary  L3
-http://77.247.109.92/hls/W2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjcKOjAwCiBQTSZoYXNoX3ZhbHVlPWExNVM2VWFlR0lZaDlDcUZBL0dHSUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS4xMzUuMjYmc3RybV9sZW49NA==
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Germany  vs  Hungary  L4
-https://lived.ali.huoxinglaike.com/live/streamhd285010.m3u8?auth_key=1624484100-cb7d18c2c470429d89cd05323e759e97-0-dd3225e9135cb5977f78766538075657
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Germany  vs  Hungary  L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd285010.m3u8?auth_key=1624484100-742ab0afa385407eaef448f18c49cae0-0-6abbd07320d6d9652bd9721df05cedf5
-
-
-
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Portugal  vs  France  L1
-http://lon3.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6NDA6MjQgUE0maGFzaF92YWx1ZT1qWWxmUllxSEl0dnBlTk45V0dwenFRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDIuMTgyLjU1LjIzOSZzdHJtX2xlbj01
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Portugal  vs  France  L2
-http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6NDE6MDggUE0maGFzaF92YWx1ZT02cW85S2VLVzJkVk1wVGxQczVvRUNnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzguMjQ4LjExMS4zNyZzdHJtX2xlbj01
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Portugal  vs  France  L3
-http://77.247.109.92/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MzIKOjAwCiBQTSZoYXNoX3ZhbHVlPUhjM2lXTkp0RTFzdjR0eG84YnlJWmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OC4xNDQuMzEmc3RybV9sZW49NA==
-
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Portugal  vs  France  L4
-https://lived.ali.huoxinglaike.com/live/streamhd25542.m3u8?auth_key=1624484100-3f6aae41d1ff485fa818fcbf0ad60013-0-07077efc4485c02233a324dbf86457b1
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Portugal  vs  France  L5
-https://lived.ali.huoxinglaike.com/live/streamcnhd25542.m3u8?auth_key=1624484100-f65d2d03a1594a61bed433f834da8fd0-0-48b4b783a1c09b392eb50d9b2b4edcfe
 
 
 
 
 
 
-
+#EXTINF:-1 group-title="COPA AMERICA HL",Bolivia vs Uruguay
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/25/42/192809/720p.m3u8
+#EXTINF:-1 group-title="COPA AMERICA HL",Chile vs Paraguay
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/25/42/192826/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Ecuador vs Peru
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/24/42/192765/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Brazil vs Colombia
