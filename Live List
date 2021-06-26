@@ -1,31 +1,40 @@
 Play List
 
-3:00 am  Germany  vs  Hungary
+12:00 am  
+Wales vs Denmark  
 
-L1,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjU6MTIgUE0maGFzaF92YWx1ZT05MkwyaDU5SGFDZ3VTY011RmtaYkhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDAzOmM3OjI3NGQ6MzcwMTo0MGM5OjlhYTg6ZmJiYjplNzE2JnN0cm1fbGVuPTU=
+L1,
 
-L2,http://77.247.109.92/hls/W2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjcKOjAwCiBQTSZoYXNoX3ZhbHVlPWExNVM2VWFlR0lZaDlDcUZBL0dHSUE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OS4xMzUuMjYmc3RybV9sZW49NA==
 
-L3,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MzU6NDggUE0maGFzaF92YWx1ZT1NR2dSaVhnUkVoZlNqZ3JJMkdiR2V3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD04MS42Ni4xODcuMTcyJnN0cm1fbGVuPTU=
+L2,
+
+
+L3,
+
 
 L4,
+
 
 L5,
 
 XXXXXXXXXXXXXXXXXXX
 
+3:00 am  
+Italy vs  Austria
+
+L1,
 
 
-3:00 am  Portugal  vs  France
+L2,
 
-L1,http://lon3.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjQ6NTAgUE0maGFzaF92YWx1ZT02MDNCN25PYzYrYmhzY2dDNnZwcG5RPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTkuNzQuMjEzLjExNiZzdHJtX2xlbj01
 
-L2,http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MjQ6MjcgUE0maGFzaF92YWx1ZT1TOTA2cXlLM2k3S0VzUkhMSVdyQnlnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD03OC4xNTcuMTYwLjEmc3RybV9sZW49NQ==
+L3,
 
-L3,http://77.247.109.92/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDY6MzIKOjAwCiBQTSZoYXNoX3ZhbHVlPUhjM2lXTkp0RTFzdjR0eG84YnlJWmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OC4xNDQuMzEmc3RybV9sZW49NA==
 
 L4,
 
-L5,
+
+L5
+
 
 
