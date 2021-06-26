@@ -4,14 +4,13 @@ Play List
 Italy vs  Austria
 
 
-L1,https://m2j3tv8e8t.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=ZIdYGgSzj8G2NVRPx_lwJg&e=1624742638
+L1,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDIxIDY6MDA6MzIgUE0maGFzaF92YWx1ZT1taG9wajFTVnFaUDhXb1RaZFNPOFZ3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
 
-L2,https://is.gd/OF7IUP
-
-L3,http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
-
-L4,http://77.247.109.92/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDIxIDM6NDQKOjUwCiBQTSZoYXNoX3ZhbHVlPVJwVXp0MzRkMDRzQ2tIM0xJYlR5elE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OC4xNDQuMTY1JnN0cm1fbGVuPTQ=
+L2,http://77.247.109.115/hls/k1.m3u8
 
 
-L5,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDIxIDQ6MDk6MzkgUE0maGFzaF92YWx1ZT0rVmd4dGFIYS9qYVZ2NXRUN1NTK3FBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDIuNTEuODkuMTA2JnN0cm1fbGVuPTU=
+L3,http://77.247.109.92/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDIxIDY6MDQKOjIwCiBQTSZoYXNoX3ZhbHVlPUgzQWVjWExoc0ZoU1pVWmUzQ2p5Vmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi42OC4xNDQuMzcmc3RybV9sZW49NA==
 
+L4,https://m2j3tv8e8t.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=ZIdYGgSzj8G2NVRPx_lwJg&e=1624742638
+
+L5,http://g.givemenbastreams.com:80/hls/espn/chunks.m3u8
