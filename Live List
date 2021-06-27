@@ -1,33 +1,16 @@
-Play List
 
-12:00 am  
-
-Netherlands vs Czech Republic 
-
-L1,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDM6MTE6MTQgUE0maGFzaF92YWx1ZT0wQTk3ZUV5Q2FsQjk4UXdqbkwrNkRBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAwOjIzYzQ6YTYxMTplNTAxOjkxZTE6NGY5Zjo1YWNlOjRlOGUmc3RybV9sZW49NQ==
-
-L2,http://lond2.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDM6MTI6MzcgUE0maGFzaF92YWx1ZT0yNURtUlUzZkhvZE1qYktzZmlwYVdRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD05Ni4yMzIuMTE0LjIwOCZzdHJtX2xlbj01
-
-L3,https://m2j3tv8e8t.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=6jsOwXpsKh_HcFSYR1v12A&e=1624828467
-
-
-L4,https://m2j3tv8e8t.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=0p2hfTGg4QmElFrNV4RQHw&e=1624829028
-
-L5,
-
-
-XXXXXXXXXXXXXXXXXX
 
 PLAY List
 3.00 am
 Belgium vs Portugal
 
-L1,
+L1,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDY6Mjc6MzQgUE0maGFzaF92YWx1ZT1uUVg1dktQdXhHenlpTjBHYm8ydmVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNjAwOjE3MDA6M2JkMDpkMzg6NTA0ZTo0ZWE3OjdmMzE6YWM5JnN0cm1fbGVuPTU=
 
-L2,
+L2,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDY6Mjg6MDUgUE0maGFzaF92YWx1ZT14ajVlWW1qZjFzZHpjKzA2VVc1LzhBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNC4zNi4xNzQuMTY4JnN0cm1fbGVuPTU=
 
 
-L3,
+L3,https://m2j3tv8e8t.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=RitrL91iZaYZS77FL0Vu1Q&e=1624840194
+
 
 
 L4,
