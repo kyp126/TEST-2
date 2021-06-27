@@ -112,7 +112,8 @@ https://m7t.bokux.com:443/20210625/RIB9cIas/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="R16 Highlights",Belgium vs Portugal
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/27/42/192989/720p.m3u8
 #EXTINF:-1 group-title="R16 Highlights",Netherlands vs Czech Republic 
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/27/42/192968/720p.m3u8
 #EXTINF:-1 group-title="R16 Highlights",Italy vs  Austria
