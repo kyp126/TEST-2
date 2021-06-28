@@ -25,9 +25,9 @@ XXXXXXXXXXXXXXXXXXX
 3:00 am  
 France vs Switzerland
 
-L1,
+L1,http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDY6MjE6NTcgUE0maGFzaF92YWx1ZT1YV3BrWDlSY2lkVm50Mmlvb2hOZ0tBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDcuMTczLjc3LjIwMSZzdHJtX2xlbj01
 
-L2,
+L2,http://lond2.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDY6MjM6MzEgUE0maGFzaF92YWx1ZT1kV3h6OTNXOXNoWWh5bWJRTVVLSDF3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDAuMS4xMTAuMjA2JnN0cm1fbGVuPTU=
 
 
 L3,
