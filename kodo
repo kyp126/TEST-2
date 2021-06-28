@@ -216,20 +216,17 @@ https://m2j3tv8e8t.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=t5p9N5FiTW73HtwtOS
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L6
 https://pull.sdsft.cn/live/hd-zh-1-3485300_hd.m3u8?auth_key=1672416000-88-0-076cc5a64c5d45abc1fbd13dcdeeabf8
-
 #EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L7(chinese)
 https://dlive.dianshunxinxi.com/livestream/hls/ballbar25100/index.m3u8
 
 *************************************
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L1
-https://dlive.dianshunxinxi.com/livestream/hls/ballbar25100/index.m3u8
+https://m2j3tv8e8t.azcdn728.net:8443/hls/oaa446jqf0418.m3u8?s=5Zx8Wu_bzq9VQtAThsK8uA&e=1624926491
 #EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L2
-
-
-
+http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDY6MjE6NTcgUE0maGFzaF92YWx1ZT1YV3BrWDlSY2lkVm50Mmlvb2hOZ0tBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDcuMTczLjc3LjIwMSZzdHJtX2xlbj01
 #EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L3
-
+http://lond2.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDY6MjM6MzEgUE0maGFzaF92YWx1ZT1kV3h6OTNXOXNoWWh5bWJRTVVLSDF3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMDAuMS4xMTAuMjA2JnN0cm1fbGVuPTU=
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L4
 
