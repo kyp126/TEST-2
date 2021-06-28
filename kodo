@@ -195,35 +195,44 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 *************************************
+#EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L1
 
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L2
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L3
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L4
+
+
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L5
 
 
 
 *************************************
 
+#EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L1
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L2
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Belgium vs Portugal  L1
-http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDY6Mjc6MzQgUE0maGFzaF92YWx1ZT1uUVg1dktQdXhHenlpTjBHYm8ydmVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNjAwOjE3MDA6M2JkMDpkMzg6NTA0ZTo0ZWE3OjdmMzE6YWM5JnN0cm1fbGVuPTU=
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L3
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Belgium vs Portugal  L2
-http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIxIDY6Mjg6MDUgUE0maGFzaF92YWx1ZT14ajVlWW1qZjFzZHpjKzA2VVc1LzhBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNC4zNi4xNzQuMTY4JnN0cm1fbGVuPTU=
+#EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L4
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Belgium vs Portugal  L3
-https://m2j3tv8e8t.azcdn728.net:8443/hls/xajszmbai6t.m3u8?s=RitrL91iZaYZS77FL0Vu1Q&e=1624840194
+#EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L5
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Belgium vs Portugal  L4
-https://lived.ali.huoxinglaike.com/live/streamcnhd25422.m3u8?auth_key=1624829700-b27f260e9a1542778527532b6c637096-0-7917b4d7a28038f5184e071c3063fe0f
-
-#EXTINF:-1 group-title="EURO 2020",3:00 am Belgium vs Portugal  L5
-https://lived.ali.huoxinglaike.com/live/streamhd25422.m3u8?auth_key=1624829700-b270cb494e4d462fa0fd9a7835afe7b8-0-be564d58377dd4d4b8be9ac0fcc93e5c
+#EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L6
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am Belgium vs Portugal  L6
-https://pull.sdsft.cn/live/hd-zh-1-3485299_hd.m3u8?auth_key=1672416000-88-0-4203569d0faa3ecef57a3de2993adcb0
+
 
 
 
@@ -292,8 +301,6 @@ https://vod4.buycar5.cn:443/20210607/yI9Qr7bC/1000kb/hls/index.m3u8
 
 
 
-#EXTINF:-1 group-title="F1 2021",Highlights Austria GP Red Bull Ring RACE 
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6057949432001/e9fdc827-3fdc-4fb2-aa96-8bf255910858/10s/master.m3u8?fastly_token=NjBkOGY4YzJfOWFlMjRmMjUwM2RjN2RiNDQ4MmExZmIxZTY4MjAxMzlhNzM2MWM1YjMyY2MzYTZlMGE2MzcwNWJlNGQ1MTMzZg%3D%3D
 
 
 
