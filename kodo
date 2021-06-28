@@ -200,11 +200,7 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 *************************************
-#EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L1
-http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDM6MTU6NDUgUE0maGFzaF92YWx1ZT1PMXYvd0QzQm4rT3AvK2RJM1ZuaFlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTIuMTE4LjMzLjE0MCZzdHJtX2xlbj01
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L2
-http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDM6MTU6NTAgUE0maGFzaF92YWx1ZT00ckNncDhrVVFiSEtEZUJCN1hvLzZnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDMuMjUyLjIwMC4xOTcmc3RybV9sZW49NQ==
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am Croatia vs Spain  L3
 http://eu.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDM6MjY6NDIgUE0maGFzaF92YWx1ZT0zMnFBOVpxcFduM1ZQWGViMEhqSHFnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTguOTEuMTcxLjY2JnN0cm1fbGVuPTU=
@@ -236,7 +232,7 @@ http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8
 https://lived.ali.huoxinglaike.com/live/streamcnhd25542.m3u8?auth_key=1624916100-236c4c4cee534e32a46ad38abbe15d91-0-f1bfaa0ac0bc8aea715138001539555d
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  France vs Switzerland L6
-
+http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDM6MTU6NTAgUE0maGFzaF92YWx1ZT00ckNncDhrV
 
 
 
