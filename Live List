@@ -4,18 +4,18 @@ PLAY List
 12:00 am  
 Croatia vs Spain  
 
-L1,
+L1,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDM6MTU6NDUgUE0maGFzaF92YWx1ZT1PMXYvd0QzQm4rT3AvK2RJM1ZuaFlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTIuMTE4LjMzLjE0MCZzdHJtX2xlbj01
 
-L2
+L2,http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDM6MTU6NTAgUE0maGFzaF92YWx1ZT00ckNncDhrVVFiSEtEZUJCN1hvLzZnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDMuMjUyLjIwMC4xOTcmc3RybV9sZW49NQ==
 
-L3
+L3,http://lon1.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIxIDM6MTg6MjggUE0maGFzaF92YWx1ZT1VdzIzZDJXVXJKUW12MHZZM3BQajhnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4yNDguNDMmc3RybV9sZW49NQ==
 
-
-L4
 
 L5
 
 L6
+
+
 
 XXXXXXXXXXXXXXXXXXX
 
