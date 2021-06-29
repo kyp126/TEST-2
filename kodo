@@ -232,7 +232,7 @@ https://pull.sdsft.cn/live/hd-zh-1-3485302_hd.m3u8?auth_key=1672416000-88-0-08fa
 *************************************
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Sweden vs UkraineI L1
-https://pull.sdsft.cn/live/hd-en-1-3485302_hd.m3u8?auth_key=1672416000-88-0-d896fa41fbb1596d23b0639fa25033c8
+https://ustvnowmsl2.akamaized.net/hls/live/2010524/espnmsl1/espnmsl1/espn_2000/chunklist.m3u8?hdntl=exp=1625074919~acl=!*/2010524/espnmsl1/*!/payload/yupptvott_5_959587_c6027f1f-c57f-b444-9a1a-d2add072ee04_US_209.58.142.159_ustvnow_3_channel_66_-1/*~data=hdntl~hmac=e43393cc097bad550a1f940ad714bd5ebdbfef7f89807324e4612075dadfda90
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Sweden vs UkraineI L2
 
