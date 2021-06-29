@@ -209,23 +209,6 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 *************************************
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am England vs Germany  L1
-http://eu.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDM6MDY6MTggUE0maGFzaF92YWx1ZT1tUzlkcmlmcWEwai9aL0JHUUw4T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNzAuMTk5LjE0NS4xOTEmc3RybV9sZW49NQ==
-#EXTINF:-1 group-title="EURO 2020",12:00 am England vs Germany  L2
-http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDM6MDc6MjEgUE0maGFzaF92YWx1ZT1UTHZxc2s4NFY2Kzh0VlNmN0hJOFVnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD04MC4yMzMuMzQuMTk3JnN0cm1fbGVuPTU=
-#EXTINF:-1 group-title="EURO 2020",12:00 am England vs Germany  L3
-https://r9uxprta46.azcdn107.net:8443/hls/oaa446jqf0418.m3u8?s=OOvWiMbQ4uAhUyEal4Q2LQ&e=1625001109
-#EXTINF:-1 group-title="EURO 2020",12:00 am England vs Germany  L4
-https://is.gd/pGfaT9
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am England vs Germany  L5
-https://is.gd/XiLQDu
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am England vs Germany  L6
-https://pull.sdsft.cn/live/hd-zh-1-3485302_hd.m3u8?auth_key=1672416000-88-0-08fa6ff388ea1fea494df1322a43eae3
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am England vs Germany  L7
-https://pull.sdsft.cn/live/hd-zh-1-3485302_hd.m3u8?auth_key=1672416000-88-0-08fa6ff388ea1fea494df1322a43eae3
 
 
 
@@ -236,10 +219,10 @@ https://pull.sdsft.cn/live/hd-zh-1-3485302_hd.m3u8?auth_key=1672416000-88-0-08fa
 https://ustvnowmsl2.akamaized.net/hls/live/2010524/espnmsl1/espnmsl1/espn_2000/chunklist.m3u8?hdntl=exp=1625074919~acl=!*/2010524/espnmsl1/*!/payload/yupptvott_5_959587_c6027f1f-c57f-b444-9a1a-d2add072ee04_US_209.58.142.159_ustvnow_3_channel_66_-1/*~data=hdntl~hmac=e43393cc097bad550a1f940ad714bd5ebdbfef7f89807324e4612075dadfda90
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Sweden vs UkraineI L2
-
+https://r9uxprta46.azcdn107.net:8443/hls/oaa446jqf0418.m3u8?s=-uEamCCB8Lksb3fXBaME9Q&e=1625012493
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Sweden vs UkraineI L3
-
+https://r9uxprta46.azcdn107.net:8443/hls/xajszmbai6t.m3u8?s=lu2qYiH7uZzWPQm7Ynytdg&e=1625013111
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am  Sweden vs UkraineI L4
 
