@@ -119,7 +119,8 @@ https://m7t.bokux.com:443/20210625/RIB9cIas/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="R16 Highlights",England vs Germany
+https://cdn003.b-cdn.net:443/UpFiles/2021/6/29/34/193139/720p.m3u8
 #EXTINF:-1 group-title="R16 Highlights",France vs Switzerland
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/28/42/193085/720p.m3u8
 #EXTINF:-1 group-title="R16 Highlights",Croatia vs Spain
