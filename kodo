@@ -239,12 +239,12 @@ http://bf.moonmagic.cn/live/hd-zh-1-3485304.m3u8
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L1
-
+http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjEgNjoyMDo1OSBQTSZoYXNoX3ZhbHVlPWUrZGROdFptUlVsVkJnSzNVRmZiTlE9
 #EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L2
-
+http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjEgNjoyMToxNyBQTSZoYXNoX3ZhbHVlPUVsbUpCeW1Dd1RxOVBMNHc0TFBsREE9
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L3
-
+http://77.247.109.92/hls/k1.m3u8?hash=98fc6b501ad2f854d3e8eef36d1c36c3
 #EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L4
 
 
