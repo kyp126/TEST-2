@@ -30,7 +30,7 @@ L1,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 L2,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjEgNjoyMToxNyBQTSZoYXNoX3ZhbHVlPUVsbUpCeW1Dd1RxOVBMNHc0TFBsREE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTMxLjIwNS45Mi40NSZzdHJtX2xlbj01
 
 
-L3,
+L3,http://77.247.109.92/hls/k1.m3u8?hash=98fc6b501ad2f854d3e8eef36d1c36c3
 
 L4,
 
