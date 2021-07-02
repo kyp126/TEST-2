@@ -211,7 +211,7 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 *************************************
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L1
-http://stream2.grandma.fit/fs2.m3u8
+https://cdn102.thatisme.xyz/hls/ga1/index.m3u8?st=hnOXqM6Q8pnR2YRmcGD4Xw&e=1625253206
 #EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L2
 http://bf.moonmagic.cn/live/hd-zh-1-3485304.m3u8
 
@@ -225,6 +225,14 @@ https://pull.sdsft.cn/live/hd-zh-1-3485304_hd.m3u8?auth_key=1672416000-88-0-96a6
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L5
 http://bf.moonmagic.cn/live/hd-zh-1-3485304.m3u8
+
+#EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L6
+http://bf.moonmagic.cn/live/hd-zh-1-3485304.m3u8
+
+
+
+
+
 
 
 *************************************
