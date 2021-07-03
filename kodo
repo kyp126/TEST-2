@@ -224,32 +224,18 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 *************************************
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L1
-http://eu.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMzoxOTo0NSBQTSZoYXNoX3ZhbHVlPXdDQlROL1JQMi9aNVNNdGFySDF2RVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTI0MDA6MWEwMDpiMDExOjFhNjQ6ODAxOTo1MzJmOjdjZWI6NjUwYSZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L2
-http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMzoyMDozNCBQTSZoYXNoX3ZhbHVlPWNnc1poMTFySGh5cFRhOHMwYzB0OEE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTExMy4xNjAuMzEuNDImc3RybV9sZW49NQ==
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L3
-http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMzozMjozMyBQTSZoYXNoX3ZhbHVlPU1VUkxncHNOT2dnNGxVcXdnQkhpbVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xODguMTY0LjIzJnN0cm1fbGVuPTU=
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L4
-https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/index_2560000_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L5
-http://eu.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMzo1MjoxMSBQTSZoYXNoX3ZhbHVlPU5QUHVTb2lQSHFLSHNIM3oyejhKcmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTI3LjM0LjIwLjEzMyZzdHJtX2xlbj01
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L6
-http://bf.moonmagic.cn/live/hd-zh-1-3485306.m3u8
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L7
-https://pull.sdsft.cn/live/hd-en-1-3485306_hd.m3u8?auth_key=1672416000-88-0-1db0916cc46b3ffee0440909b4e6912d
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L8
-https://lived.ali.huoxinglaike.com/live/streamcnhd25598.m3u8?auth_key=1625337240-0384a083f0e645ae86b61958883d639a-0-1936a26f8b87189f2cd7603a5c9363fa
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L9
-https://lived.ali.huoxinglaike.com/live/streamcnhd25598.m3u8?auth_key=1625337240-0384a083f0e645ae86b61958883d639a-0-1936a26f8b87189f2cd7603a5c9363fa
 
 
-EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L6
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -257,13 +243,14 @@ EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L6
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L1
-
+https://3nk9kx42pn.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=_SojNktj6Rwy_TbAw3x5tQ&e=1625358074
+https://nflarcadia.xyz/hls/s1.m3u8
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L2
-
+http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgNjoxMjo1OSBQTSZoYXNoX3ZhbHVlPWFxK0VuL0ZGWVg0ellFUDgzQW13R2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTkxLjE0MS41MS42MiZzdHJtX2xlbj01
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L3
-
+http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgNjoxNDowMCBQTSZoYXNoX3ZhbHVlPVNDS2ViWTRkT21kUUxrS2tNaXVQcnc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTUuMjkuMTguMzMmc3RybV9sZW49NQ==
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L4
 
