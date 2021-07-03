@@ -346,7 +346,10 @@ http://gr.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://eu.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMTI6MjY6MzQgUE0maGFzaF92YWx1ZT1PYVR0S2phYjZWSENJU2ZRUnYwbDlBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD04Mi4yOC4xNDcuMjUmc3RybV9sZW49NQ==
 
 #EXTINF:-1 group-title="Formula 1",Austria 2 GP  Red Bull Ring L3
-http://eu.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMTI6MjY6MzQgUE0maGFzaF92YWx1ZT1PYVR0S2phYjZWSENJU2ZRUnYwbDlBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD04Mi4yOC4xNDcuMjUmc3RybV9sZW49NQ==
+https://cdn102.thatisme.xyz/hls/ga3/index.m3u8?st=XbnXrcY0TcUg2bRJjhucGQ&e=1625327792
+
+EXTINF:-1 group-title="Formula 1",Austria 2 GP  Red Bull Ring L4
+https://cdn102.thatisme.xyz/hls/ga3/index.m3u8?st=XbnXrcY0TcUg2bRJjhucGQ&e=1625327792
 
 
 
