@@ -128,7 +128,8 @@ https://m7t.bokux.com:443/20210702/bRuIZZoi/hls/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="R8 Highlights",Czech Republic vs Denmark 
+https://cdn003.b-cdn.net:443/UpFiles/2021/7/3/42/193340/720p.m3u8
 #EXTINF:-1 group-title="R8 Highlights",Belgium vs  Italy
 https://cdn003.b-cdn.net:443/UpFiles/2021/7/2/42/193271/720p.m3u8
 #EXTINF:-1 group-title="R8 Highlights",Switzerland  vs Spain
