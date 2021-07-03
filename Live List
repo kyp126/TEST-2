@@ -2,15 +2,13 @@
 
 PLAY List
 12:00 am  
- 
-Switzerland  vs Spain  
+Czech Republic vs Denmark 
 
-L1,http://stream2.grandma.fit/fs2.m3u8
+L1,
 
-L2,https://m2j3tv8e8t.azcdn728.net:8443/hls/6bxd7pmzj.m3u8?s=ZN1xNniwXIyMuPLgfKlJrQ&e=1625262322
+L2,
 
-
-L3,https://cdn102.thatisme.xyz/hls/ga1/index.m3u8?st=hnOXqM6Q8pnR2YRmcGD4Xw&e=1625253206
+L3,
 
 
 L4,
@@ -22,17 +20,24 @@ L6
 XXXXXXXXXXXXXXXXXXX
 
 
+
 3:00 am  
-Belgium vs  Italy
+Ukraine vs England
 
-L1,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjEgNjoyMDo1OSBQTSZoYXNoX3ZhbHVlPWUrZGROdFptUlVsVkJnSzNVRmZiTlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTQ3LjIwLjE5Ny4xMDAmc3RybV9sZW49NQ==
+L1,
 
-L2,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjEgNjoyMToxNyBQTSZoYXNoX3ZhbHVlPUVsbUpCeW1Dd1RxOVBMNHc0TFBsREE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTMxLjIwNS45Mi40NSZzdHJtX2xlbj01
+L2,
 
 
-L3,http://77.247.109.92/hls/k1.m3u8?hash=98fc6b501ad2f854d3e8eef36d1c36c3
+L3,
 
 L4,
 
 L5,
+
+
+L6,
+
+
+
 
