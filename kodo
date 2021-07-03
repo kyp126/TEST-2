@@ -271,7 +271,8 @@ https://lived.ali.huoxinglaike.com/live/streamcnhd25498.m3u8?auth_key=1625261700
 
 
 
-
+#EXTINF:-1 group-title="COPA AMERICA R8 HL",Brazil vs Chile
+https://cdn003.b-cdn.net:443/UpFiles/2021/7/3/42/193300/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA R8 HL",Peru vs Paraguay
 https://cdn003.b-cdn.net:443/UpFiles/2021/7/3/42/193293/720p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA HL",Bolivia vs Argentina
