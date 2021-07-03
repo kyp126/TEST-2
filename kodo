@@ -349,7 +349,10 @@ http://eu.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 https://cdn102.thatisme.xyz/hls/ga3/index.m3u8?st=XbnXrcY0TcUg2bRJjhucGQ&e=1625327792
 
 EXTINF:-1 group-title="Formula 1",Austria 2 GP  Red Bull Ring L4
-https://cdn102.thatisme.xyz/hls/ga3/index.m3u8?st=XbnXrcY0TcUg2bRJjhucGQ&e=1625327792
+https://livec.ali.huoxinglaike.com/live/tengxuntiyu8.m3u8?auth_key=1625324700-3d1633e2f7954016b1961b51ed5f8471-0-81451a12b23ce5e510fccf4dfa803e3a
+
+EXTINF:-1 group-title="Formula 1",Austria 2 GP  Red Bull Ring L5
+http://livec.ali.huoxinglaike.com/live/tengxuntiyu8.m3u8?auth_key=1625324700-e819cce24dae440594f1c6d477e67988-0-70fc4a44fed45ffe090bc9df3dc7704a
 
 
 
