@@ -211,28 +211,20 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
 https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 *************************************
+#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L1
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L1
-https://cdn102.thatisme.xyz/hls/ga1/index.m3u8?st=hnOXqM6Q8pnR2YRmcGD4Xw&e=1625253206
-#EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L2
-http://bf.moonmagic.cn/live/hd-zh-1-3485304.m3u8
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L3
-https://m2j3tv8e8t.azcdn728.net:8443/hls/6bxd7pmzj.m3u8?s=ZN1xNniwXIyMuPLgfKlJrQ&e=1625262322
+#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L2
 
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L4
-https://pull.sdsft.cn/live/hd-zh-1-3485304_hd.m3u8?auth_key=1672416000-88-0-96a6a1b4a22484b4eccd384c84cf2127
+#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L3
 
 
-#EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L5
-http://stream2.grandma.fit/fs2.m3u8
-
-#EXTINF:-1 group-title="EURO 2020",12:00 am Switzerland  vs Spain   L6
-http://bf.moonmagic.cn/live/hd-zh-1-3485304.m3u8
+#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L4
 
 
+#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L5
 
+#EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L6
 
 
 
@@ -240,24 +232,25 @@ http://bf.moonmagic.cn/live/hd-zh-1-3485304.m3u8
 *************************************
 
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L1
-http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjEgNjoyMDo1OSBQTSZoYXNoX3ZhbHVlPWUrZGROdFptUlVsVkJnSzNVRmZiTlE9
-#EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L2
-http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMjEgNjoyMToxNyBQTSZoYXNoX3ZhbHVlPUVsbUpCeW1Dd1RxOVBMNHc0TFBsREE9
+#EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L1
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L3
-http://77.247.109.92/hls/k1.m3u8?hash=98fc6b501ad2f854d3e8eef36d1c36c3
-#EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L4
-https://lived.ali.huoxinglaike.com/live/streamhd25498.m3u8?auth_key=1625261700-cc9f34d29902452dae8bd2c06a0a9dff-0-9178ed56d662cc74687593646a85cbdc
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L5
-http://bf.moonmagic.cn/live/hd-zh-1-3485305.m3u8
+#EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L2
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L6
-https://lived.ali.huoxinglaike.com/live/streamcnhd25498.m3u8?auth_key=1625261700-cf9378c7826a4dcaac538bc42ed6a807-0-0b25f8283dffea897cd9bd431b784478
 
-#EXTINF:-1 group-title="EURO 2020",3:00 am   Belgium vs  Italy  L7
-https://lived.ali.huoxinglaike.com/live/streamcnhd25498.m3u8?auth_key=1625261700-cf9378c7826a4dcaac538bc42ed6a807-0-0b25f8283dffea897cd9bd431b784478
+#EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L3
+
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L4
+
+
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L5
+
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L6
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am Ukraine vs England  L7
 
 
 
