@@ -30,7 +30,8 @@ L1,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 L2,http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgNjoxNDowMCBQTSZoYXNoX3ZhbHVlPVNDS2ViWTRkT21kUUxrS2tNaXVQcnc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTUuMjkuMTguMzMmc3RybV9sZW49NQ==
 
 
-L3,
+L3,https://3nk9kx42pn.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=_SojNktj6Rwy_TbAw3x5tQ&e=1625358074
+https://nflarcadia.xyz/hls/s1.m3u8
 
 L4,
 
