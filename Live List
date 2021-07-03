@@ -4,9 +4,11 @@ PLAY List
 12:00 am  
 Czech Republic vs Denmark 
 
-L1,
+L1,http://eu.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMzoxOTo0NSBQTSZoYXNoX3ZhbHVlPXdDQlROL1JQMi9aNVNNdGFySDF2RVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTI0MDA6MWEwMDpiMDExOjFhNjQ6ODAxOTo1MzJmOjdjZWI6NjUwYSZzdHJtX2xlbj01
 
-L2,
+L2,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMzoyMDozNCBQTSZoYXNoX3ZhbHVlPWNnc1poMTFySGh5cFRhOHMwYzB0OEE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTExMy4xNjAuMzEuNDImc3RybV9sZW49NQ==
+
+L3,
 
 L3,
 
