@@ -25,10 +25,9 @@ XXXXXXXXXXXXXXXXXXX
 
 3:00 am  
 Ukraine vs England
+L1,http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgNjoxMjo1OSBQTSZoYXNoX3ZhbHVlPWFxK0VuL0ZGWVg0ellFUDgzQW13R2c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTkxLjE0MS41MS42MiZzdHJtX2xlbj01
 
-L1,
-
-L2,
+L2,http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgNjoxNDowMCBQTSZoYXNoX3ZhbHVlPVNDS2ViWTRkT21kUUxrS2tNaXVQcnc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTUuMjkuMTguMzMmc3RybV9sZW49NQ==
 
 
 L3,
@@ -39,6 +38,8 @@ L5,
 
 
 L6,
+
+
 
 
 
