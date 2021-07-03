@@ -233,7 +233,7 @@ http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8
 http://uks.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjEgMzozMjozMyBQTSZoYXNoX3ZhbHVlPU1VUkxncHNOT2dnNGxVcXdnQkhpbVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xODguMTY0LjIzJnN0cm1fbGVuPTU=
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L4
-
+https://wowzaprodhd35-lh.akamaihd.net/i/a9af8597_1@355233/index_2560000_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="EURO 2020",12:00 am Czech Republic vs Denmark    L5
 
