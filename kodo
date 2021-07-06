@@ -127,6 +127,11 @@ https://m7t.bokux.com:443/20210702/bRuIZZoi/hls/index.m3u8
 *************************************
 
 
+
+
+
+#EXTINF:-1 group-title="R4 Highlights",Italy vs Spain
+https://cdn003.b-cdn.net:443/UpFiles/2021/7/7/42/193482/720p.m3u8
 #EXTINF:-1 group-title="R8 Highlights",Ukraine vs England
 https://cdn003.b-cdn.net:443/UpFiles/2021/7/3/42/193367/720p.m3u8
 #EXTINF:-1 group-title="R8 Highlights",Czech Republic vs Denmark 
