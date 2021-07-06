@@ -235,7 +235,7 @@ http://lond2.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 http://eu.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgNjoxOTo0MiBQTSZoYXNoX3ZhbHVlPXRKd3FGVjd6N1JOYmFld1B5aVlSN0E9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTYyLjI4LjYyLjk4JnN0cm1fbGVuPTU=
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am Italy vs Spain      L4
-
+https://3nk9kx42pn.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=MzyEutb01KeFi2xcf3atLA&e=1625617508
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am Italy vs Spain      L5
 
