@@ -252,10 +252,19 @@ http://eu.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am    England vs Denmark  L5
-
+http://gr.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjEgNjozMjoyMiBQTSZoYXNoX3ZhbHVlPVpINDRvWGhaV2tTZTBjN0p5Q25lNmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTQxLjExMy42MC4xOCZzdHJtX2xlbj01
 
 
 #EXTINF:-1 group-title="EURO 2020",3:00 am    England vs Denmark  L6
+
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am    England vs Denmark  L7
+
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am    England vs Denmark  L8
+
+
+#EXTINF:-1 group-title="EURO 2020",3:00 am    England vs Denmark  L9
 
 
 
