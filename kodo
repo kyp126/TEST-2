@@ -1,4 +1,63 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Sport IPTV",CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",CCTV5
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+
+#EXTINF:-1 group-title="Sport IPTV",CCTV5
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",CCTV5
+rtmp://58.200.131.2:1935/livetv/cctv5hd
+
+#EXTINF:-1 group-title="Sport IPTV",CCTV5+
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",Star Sports
+rtmp://58.200.131.2:1935/livetv/starsports
+
+#EXTINF:-1 group-title="Sport IPTV",FoxSports1 77
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",FOXSports2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",FOXSports3 cdn
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",纬来体育台
+http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
+
+#EXTINF:-1 group-title="Sport IPTV",BT Sports 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTM3U 
+#EXTINF:-1 group-title="Sport IPTV",BeinSports 2Max
+http://4.amroutras.xyz/live/00002500/index.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",博斯运动2台
+p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
+
+#EXTINF:-1 group-title="Sport IPTV",ASTRO SPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",ASTRO SPORT 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",五星体育
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",超级体育ᴴᴰ
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+
+#EXTINF:-1 group-title="Sport IPTV",精彩体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+
+
 #EXTINF:-1 group-title="心里住着老灵魂",01
 http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9my40cj0/v/1/pv/1/ev/16/flavorId/1_v7ontjcv/name/a.mp4/index.m3u8
 
