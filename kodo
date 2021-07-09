@@ -343,7 +343,18 @@ https://pull.sdsft.cn/live/hd-zh-1-3485309_hd.m3u8?auth_key=1672416000-88-0-549f
 
 
 
-#EXTINF:-1 group-title="COPA AMERICA 3rd Place",Colombia vs Peru  
+#EXTINF:-1 group-title="COPA AMERICA 3rd Place",Colombia vs Peru L1  
+http://eu.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjEgMTE6MzI6MjUgUE0maGFzaF92YWx1ZT02U1lSOW9VcGZRUldYb29CSzRUVGNBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNjAxOjI0MTo4MTAxOjhlMDo2OGUyOjhmMzk6YzVmYzo4MzQ2JnN0cm1fbGVuPTU=
+
+
+#EXTINF:-1 group-title="COPA AMERICA 3rd Place",Colombia vs Peru L2
+http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjEgMTE6MzU6MzkgUE0maGFzaF92YWx1ZT1PVVU4K1FrZXVNY0xWT1pzUjlpeldnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTUuNjYuMTg3LjIwMyZzdHJtX2xlbj01
+
+
+
+
+
+
 
 
 
