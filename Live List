@@ -1,12 +1,13 @@
 10.07.21.  
 COPA America
 
-L1,http://eu.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjEgMTE6MzI6MjUgUE0maGFzaF92YWx1ZT02U1lSOW9VcGZRUldYb29CSzRUVGNBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNjAxOjI0MTo4MTAxOjhlMDo2OGUyOjhmMzk6YzVmYzo4MzQ2JnN0cm1fbGVuPTU=
+L1,http://eu.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDExOjIyOjU5IFBNJmhhc2hfdmFsdWU9TkVhWHUrQVdGaVl6OFZMYkJNazBXZz09JnZhbGlkbWludXRlcz03MjAmaWQ9OTIuNDAuMTc2LjE1JnN0cm1fbGVuPTU=
 
-L2,http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjEgMTE6MzU6MzkgUE0maGFzaF92YWx1ZT1PVVU4K1FrZXVNY0xWT1pzUjlpeldnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTUuNjYuMTg3LjIwMyZzdHJtX2xlbj01
+L2,http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDExOjI0OjA0IFBNJmhhc2hfdmFsdWU9UGVVMi9TN1V0Ky9lZjZiTWY5Vkx2QT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MjQwNzo3MDAwOjg4NWY6ODkwMDo4OTc5OjgzNDU6YmYwZDo3MDY1JnN0cm1fbGVuPTU=
 
 
-L3,https://3nk9kx42pn.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=m4c0ITeGGbXT1CtliC-QAg&e=1625895778
+
+L3,
 
 L4
 
