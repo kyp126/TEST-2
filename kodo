@@ -350,12 +350,12 @@ http://eu.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85
 #EXTINF:-1 group-title="COPA AMERICA 3rd Place",Colombia vs Peru L2
 http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjEgMTE6MzU6MzkgUE0maGFzaF92YWx1ZT1PVVU4K1FrZXVNY0xWT1pzUjlpeldnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTUuNjYuMTg3LjIwMyZzdHJtX2xlbj01
 
-#EXTINF:-1 group-title="COPA AMERICA 3rd Place HL",Colombia vs Peru  L3
+#EXTINF:-1 group-title="COPA AMERICA 3rd Place HL",Colombia vs Peru L3
 https://3nk9kx42pn.azcdn381.net:8443/hls/oaa446jqf0418.m3u8?s=m4c0ITeGGbXT1CtliC-QAg&e=1625895778
 
-#EXTINF:-1 group-title="COPA AMERICA 3rd Place HL",Colombia vs Peru  L4
+#EXTINF:-1 group-title="COPA AMERICA 3rd Place HL",Colombia vs Peru L4
 http://aliyun.live.pptv.com/live/5/45/bda49b71f78b7dc84dde0568992ff146.m3u8?playback=0&k=cc654c619e627bb5b38e5d0a0d9ca1a1-71bc-1625917506%26segment%3Dcd814e4c_1625874306&vvid=9900ad60-7349-0bd3-5723-8da90eefa622&type=mpptv&o=500W&sv=4.1.16
-#EXTINF:-1 group-title="COPA AMERICA 3rd Place HL",Colombia vs Peru  L5
+#EXTINF:-1 group-title="COPA AMERICA 3rd Place HL",Colombia vs Peru L5
 https://is.gd/PlGogy
 
 
