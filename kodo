@@ -404,7 +404,8 @@ https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/42/191837/720p.m3u8
 *************************************
 
 
-
+#EXTINF:-1 group-title="电影",Black Widow
+https://m8t.vboku.com:443/20210710/EOVuwdcL/hls/index.m3u8
 #EXTINF:-1 group-title="电影",追虎擒龙
 https://m8t.vboku.com:443/20210614/KbyY9WbQ/hls/index.m3u8
 #EXTINF:-1 group-title="电影",半狼传说
