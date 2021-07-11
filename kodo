@@ -331,11 +331,11 @@ http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny
 
 #EXTINF:-1 group-title="COPA AMERICA Final",Argentina vs Brazil L3
 http://aliyun.live.pptv.com/live/5/45/6eca8b7a6c5b1d8d04ffc7e5774cc9a5.m3u8?playback=0&k=d7a99a751bf856704750657421e710fc-a81d-1626004772%26segment%3D5b57b106_1625961572&vvid=08da7008-d509-c263-c462-92dca587a133&type=mpptv&o=500W&sv=4.1.16
-#EXTINF:-1 group-title="COPA AMERICA Final HL",Argentina vs Brazil L4
+#EXTINF:-1 group-title="COPA AMERICA Final",Argentina vs Brazil L4
+https://lived.ali.huoxinglaike.com/live/streamhd25522.m3u8?auth_key=1625970900-4f85366894a04978a499914a0cc26057-0-965a08a84c3e30e187e63881954cad2c
 
-
-#EXTINF:-1 group-title="COPA AMERICA Final HL",Argentina vs Brazil L5
-
+#EXTINF:-1 group-title="COPA AMERICA Final",Argentina vs Brazil L5
+https://livec.ali.huoxinglaike.com/live/CCTV5HD.m3u8?auth_key=1625970900-c4e8e7fa19d44e05abc37639129b3ddb-0-2e251cdda3d69d2b06e1413b73cac490
 
 
 
