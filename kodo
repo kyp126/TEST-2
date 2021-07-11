@@ -329,8 +329,8 @@ http://eu.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8x
 #EXTINF:-1 group-title="COPA AMERICA Final",Argentina vs Brazil L2
 http://lon1.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDExOjI0OjA0IFBNJmhhc2hfdmFsdWU9UGVVMi9TN1V0Ky9lZjZiTWY5Vkx2QT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MjQwNzo3MDAwOjg4NWY6ODkwMDo4OTc5OjgzNDU6YmYwZDo3MDY1JnN0cm1fbGVuPTU=
 
-#EXTINF:-1 group-title="COPA AMERICA Final HL",Argentina vs Brazil L3
-
+#EXTINF:-1 group-title="COPA AMERICA Final",Argentina vs Brazil L3
+http://aliyun.live.pptv.com/live/5/45/6eca8b7a6c5b1d8d04ffc7e5774cc9a5.m3u8?playback=0&k=d7a99a751bf856704750657421e710fc-a81d-1626004772%26segment%3D5b57b106_1625961572&vvid=08da7008-d509-c263-c462-92dca587a133&type=mpptv&o=500W&sv=4.1.16
 #EXTINF:-1 group-title="COPA AMERICA Final HL",Argentina vs Brazil L4
 
 
