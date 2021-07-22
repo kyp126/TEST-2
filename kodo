@@ -188,138 +188,20 @@ https://m7t.bokux.com:443/20210709/fVQuXtai/hls/index.m3u8
 #EXTINF:-1 group-title="花好月又圓",30
 https://m7t.bokux.com:443/20210709/fVQuXtai/hls/index.m3u8
 
-*************************************
+**************************************************
 
-#EXTINF:-1 group-title="2021 F1 Race",British Grand Prix  L1
-http://nl4.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDE6MDk6MjYgUE0maGFzaF92YWx1ZT1WeFFQeTR0dXZ6YXhlUU53Y0NjbW9RPT0mdmFsaWRtaW51dGVzPTcyMCZpZD05NC4yMzQuNDkuNDgmc3RybV9sZW49NQ==
+#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group C Egypt Olympic Team vs Spain Olympic Team  
+https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194081/720p.m3u8
 
-#EXTINF:-1 group-title="2021 F1 Race",British Grand Prix  L2
-http://nl4.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIxIDE6MDk6MjEgUE0maGFzaF92YWx1ZT13aUt2enhkZTAyK1JOWFBGcGJQd1Z3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAxOjRjODoxMDU0OmY5ZWM6YTA2ODozNDQ0OmQ3MDM6ODU1NSZzdHJtX2xlbj01
+#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group A  Mexico Olympic Team vs France Olympic Team   
+https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194082/720p.m3u8
 
-#EXTINF:-1 group-title="2021 F1 Race",British Grand Prix  L3
-https://livec.ali.huoxinglaike.com/live/CCTV5HD.m3u8?auth_key=1626624300-ec195c79c9244ad9bd20870f2479bc76-0-d41ce5b3dfdbc8154ead32a18d2e8cac
-#EXTINF:-1 group-title="2021 F1 Race",British Grand Prix  L4
-https://3nk9kx42pn.azcdn381.net:8443/hls/c2kxuno.m3u8?s=BG4IZmGEoxly32cEstpDnA&e=1626637214
-
-#EXTINF:-1 group-title="2021 F1 Race",British Grand Prix  L5
-http://livec.ali.huoxinglaike.com/live/tengxuntiyu6.m3u8?auth_key=1626624300-8fa0c0719023434f8466eab11c3ef914-0-9ed302e0700d2e086c037ab51e30fa03
-
-#EXTINF:-1 group-title="2021 F1 Race",British Grand Prix  L6
-https://3nk9kx42pn.azcdn381.net:8443/hls/c2kxuno.m3u8?s=BG4IZmGEoxly32cEstpDnA&e=1626637214
+#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group B New Zealand Olympic Team vs South Korea Olympic Team  
+https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194083/720p.m3u8
 
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Euro 2020 Final",Italy vs England 
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/11/42/193723/720p.m3u8
-#EXTINF:-1 group-title="R4 Highlights",England vs Denmark
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/7/42/193534/720p.m3u8
-#EXTINF:-1 group-title="R4 Highlights",Italy vs Spain
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/7/42/193482/720p.m3u8
-#EXTINF:-1 group-title="R8 Highlights",Ukraine vs England
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/3/42/193367/720p.m3u8
-#EXTINF:-1 group-title="R8 Highlights",Czech Republic vs Denmark 
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/3/42/193340/720p.m3u8
-#EXTINF:-1 group-title="R8 Highlights",Belgium vs  Italy
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/2/42/193271/720p.m3u8
-#EXTINF:-1 group-title="R8 Highlights",Switzerland  vs Spain
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/2/42/193245/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",Sweden vs UkraineI
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/29/42/193160/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",England vs Germany
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/29/34/193139/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",France vs Switzerland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/28/42/193085/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",Croatia vs Spain
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/28/42/193045/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",Belgium vs Portugal
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/27/42/192989/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",Netherlands vs Czech Republic 
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/27/42/192968/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",Italy vs  Austria
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/26/42/192923/720p.m3u8
-#EXTINF:-1 group-title="R16 Highlights",Wales vs Denmark
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/26/42/192879/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Slovakia  vs  Spain
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/23/42/192694/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Sweden  vs  Poland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/23/42/192697/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Germany  vs  Hungary
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/23/34/192742/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Portugal  vs  France
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/23/34/192747/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Czech Republic vs England
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/22/34/192644/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Croatia vs Scotland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/22/34/192638/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Finland vs Belgium
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/21/42/192549/720p.m3u8
-
-#EXTINF:-1 group-title="Highlights",Russia vs Denmark
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/21/42/192546/720p.m3u8
-#EXTINF:-1 group-title="Highlights",North Macedonia vs Netherlands
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/21/42/192521/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Ukraine vs Austria 
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/21/42/192520/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Switzerland vs Turkey
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/20/42/192449/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Italy vs Wales
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/20/42/192447/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Spain  vs Poland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/19/42/192394/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Portugal vs Germany
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/19/42/192376/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Hungary  vs France
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/19/42/192317/720p.m3u8
-#EXTINF:-1 group-title="Highlights",England vs Scotland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/18/42/192274/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Croatia vs Czech Republic
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/18/42/192253/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Sweden vs Slovakia
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/18/42/192238/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Netherlands vs Austria
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/17/42/192184/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Denmark vs Belgium
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/17/42/192154/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Ukraine vs North Macedonia  
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/17/42/192118/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Italy vs Switzerland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/16/42/192095/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Turkey vs Wales  
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/16/42/192059/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Finland vs Russia
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/16/42/192036/720p.m3u8
-#EXTINF:-1 group-title="Highlights",France vs Germany
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/15/34/192006/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Hungary vs Portugal
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/15/42/191965/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Spain vs Sweden
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/42/191902/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Poland vs Slovakia
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/42/191882/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Scotland vs Czech Republic 
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/14/34/191858/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Netherlands vs Ukraine 
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/13/42/191812/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Austria vs North Macedonia
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/13/34/191774/720p.m3u8
-#EXTINF:-1 group-title="Highlights",England vs Croatia
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/13/42/191740/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Belgium - Russia
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191717/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Denmark - Finland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191699/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Wales vs Switzerland
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/12/42/191673/720p.m3u8
-#EXTINF:-1 group-title="Highlights",Turkey vs Italy 
-https://cdn003.b-cdn.net:443/UpFiles/2021/6/11/42/191632/720p.m3u8
 
 
 
