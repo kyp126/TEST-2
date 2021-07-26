@@ -1,4 +1,86 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5+
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+rtmp://58.200.131.2:1935/livetv/cctv5hd
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5+
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",五星体育
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+
+#EXTINF:-1 group-title="Olympic CH",魅力足球
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",超级体育ᴴᴰ
+http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",体育赛事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+#EXTM3U 
+#EXTINF:-1 group-title="Olympic CH",咪咕视频·PP体育2
+http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CHC家庭影院 8M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV1 12M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV3 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV4 12M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5+ 12M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV7 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV9 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV14 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV14 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",浙江卫视 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",湖南卫视 3M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",东方卫视 12M1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+
 #EXTINF:-1 group-title="Olympic CH",爱尔达体育 1
 rtmp://59.124.75.153/sat/md021
 
