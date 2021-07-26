@@ -1,4 +1,79 @@
 #EXTM3U
+#EXTINF:-1 group-title="Olympic CH",爱尔达体育 1
+rtmp://59.124.75.153/sat/md021
+
+#EXTINF:-1 group-title="Olympic CH",ELTA1台
+rtmp://161.202.204.248:1935/sat/md041
+
+#EXTINF:-1 group-title="Olympic CH",CCTV-52HD
+http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV-51+HD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5+
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+rtmp://58.200.131.2:1935/livetv/cctv5hd
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5+
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",五星体育
+http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+
+#EXTINF:-1 group-title="Olympic CH",魅力足球
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",超级体育ᴴᴰ
+http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",体育赛事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",咪咕视频·PP体育2
+http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",爱尔达体育3
+http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",ASTRO SPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",ASTRO SPORT 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",FS1cdn
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",FS3cdn
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",FS3185
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sport IPTV",CCTV5
 http://39.135.135.76/wh7f454c46tw3257358082_731375288/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1627220336&from=1&hms_devid=692&vqe=3
