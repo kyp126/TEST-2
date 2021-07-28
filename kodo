@@ -170,7 +170,7 @@ http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mn
 rtmp://58.200.131.2:1935/livetv/cctv5hd
 
 #EXTINF:-1 group-title="Sport IPTV",CCTV5+
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 
 #EXTINF:-1 group-title="Sport IPTV",Star Sports
 rtmp://58.200.131.2:1935/livetv/starsports
