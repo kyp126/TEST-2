@@ -10,7 +10,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 
 #EXTINF:-1 group-title="Olympic CH",CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 
 #EXTINF:-1 group-title="Olympic CH",CCTV5+
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
