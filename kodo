@@ -354,10 +354,20 @@ https://m7t.bokux.com:443/20210709/fVQuXtai/hls/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group A  France Olympic Team vs Japan Olympic Team  
+https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194460/720p.m3u8
+
+#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group A South Africa Olympic Team vs Mexico Olympic Team 
+https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194458/720p.m3u8
+
 
 #EXTINF:-1 group-title="Olympic Games R3 Highlights",Group B  South Korea Olympic Team vs Honduras Olympic Team  
-https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194455/720p.m3u8
 
+#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group C Spain Olympic Team vs Argentina Olympic Team 
+https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194457/720p.m3u8
+https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194455/720p.m3u8
+#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group D Saudi Arabia Olympic Team  vs Brazil Olympic Team  
+https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194463/720p.m3u8
 #EXTINF:-1 group-title="Olympic Games R3 Highlights",Group D  Saudi Arabia Olympic Team  vs Brazil Olympic Team  
 https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194442/720p.m3u8
 
