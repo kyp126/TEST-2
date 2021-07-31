@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Olympic Games",AIS2
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
+
+#EXTINF:-1 group-title="Olympic Games",AIS3
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="Olympic Games",AIS4
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Olympic Games",AIS5
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel9/chunks.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Olympic CH",CCTV5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 
