@@ -5,10 +5,10 @@ ELTA2台-03,rtmp://59.124.75.153:1935/sat/md031
 ELTA2台-02,rtmp://59.124.75.153/sat/md021
 ELTA2台-01,rtmp://59.124.75.153/sat/md011
 ELTA1台-05,rtmp://59.124.75.153/sat/md051
-爱尔达体育1台-04,rtmp://59.124.75.153/sat/md041
-爱尔达体育1台-03,rtmp://59.124.75.153:1935/sat/md031
-爱尔达体育1台-02,rtmp://59.124.75.153/sat/md021
-爱尔达体育1台-01,rtmp://59.124.75.153/sat/md011
+ELTA1台-04,rtmp://59.124.75.153/sat/md041
+ELTA1台-03,rtmp://59.124.75.153:1935/sat/md031
+ELTA1台-02,rtmp://59.124.75.153/sat/md021
+ELTA1台-01,rtmp://59.124.75.153/sat/md011
 纬来体育 HD,rtmp://59.124.75.153/sat/tv721
 有线奥运605台,https://api.leonardpark.dev/live/icable/605
 有线奥运604台,https://api.leonardpark.dev/live/icable/604
@@ -20,3 +20,5 @@ CCTV-5体育,http://117.148.178.9/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/
 爱尔达体育 1,rtmp://59.124.75.153/sat/md011
 爱尔达体育 2,rtmp://59.124.75.153/sat/md021
 爱尔达体育 3,rtmp://59.124.75.153/sat/md051
+
+
