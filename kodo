@@ -1,5 +1,56 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 group-title="Olympic CH",CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym1
+http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 2
+http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 3
+http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 4
+http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 5
+http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 6
+http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 7
+http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 8
+http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 9
+http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 10
+http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+#EXTM3U 
+#EXTINF:-1 group-title="Olympic CH",Olym 11
+http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 12
+http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 13
+http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 14
+http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+
+#EXTINF:-1 group-title="Olympic CH",Olym 15
+http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Olympic Games",AIS2
 https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
 
