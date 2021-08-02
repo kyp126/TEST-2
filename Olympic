@@ -40,7 +40,7 @@ AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chu
 AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
 
 Olympic,#genre#
-Olym1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+Olym 1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
 Olym 2,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
 Olym 3,http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
 Olym 4,http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
@@ -48,7 +48,7 @@ Olym 5,http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
 Olym 6,http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
 Olym 7,http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
 Olym 8,http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-Olym 9http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+Olym 9,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
 Olym 10,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
 Olym 11,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
 Olym 12,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
