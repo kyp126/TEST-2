@@ -337,89 +337,12 @@ http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_hngxyqij/v/
 
 
 
-
-
-***************************************
-
-#EXTINF:-1 group-title="花好月又圓",01
-https://m7t.bokux.com:443/20210608/xrPWujVq/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",02
-https://m7t.bokux.com:443/20210608/GMSbzqt2/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",03
-https://m7t.bokux.com:443/20210608/kaMbb7k8/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",04
-https://m7t.bokux.com:443/20210608/ENw2irlo/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",05
-https://m7t.bokux.com:443/20210609/4FgcjvQL/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",06
-https://m7t.bokux.com:443/20210609/0qCYUb5b/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",07
-https://m7t.bokux.com:443/20210610/EPjNj2uu/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",08
-https://m7t.bokux.com:443/20210615/RJ3IgJRk/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",09
-https://m7t.bokux.com:443/20210615/49v3AoO8/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",10
-https://m7t.bokux.com:443/20210616/cnecVYMx/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",11
-https://m7t.bokux.com:443/20210616/rDit2K4X/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",12
-https://m7t.bokux.com:443/20210617/KCiY3jBz/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",13
-https://m7t.bokux.com:443/20210618/zodAYkpW/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",14
-https://m7t.bokux.com:443/20210618/WFXI19fJ/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",15
-https://m7t.bokux.com:443/20210618/uMONRXra/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",16
-https://m7t.bokux.com:443/20210618/wsvD7K8a/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",17
-https://m7t.bokux.com:443/20210618/0vbcrweL/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",18
-https://m7t.bokux.com:443/20210625/92L3cNR3/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",19
-https://m7t.bokux.com:443/20210625/IVCu6VTm/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",20
-https://m7t.bokux.com:443/20210625/yu9WnFG7/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",21
-https://m7t.bokux.com:443/20210625/Yu6JWqb6/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",22
-https://m7t.bokux.com:443/20210625/RIB9cIas/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",23
-https://m7t.bokux.com:443/20210702/UPvjmW8V/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",24
-https://m7t.bokux.com:443/20210702/LKXiuvGZ/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",25
-https://m7t.bokux.com:443/20210702/g5ttCZ1Z/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",26
-https://m7t.bokux.com:443/20210702/LltJ78eu/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",27
-https://m7t.bokux.com:443/20210702/bRuIZZoi/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",28
-https://m7t.bokux.com:443/20210709/6Wgtstie/hls/index.m3u8
-
-
-#EXTINF:-1 group-title="花好月又圓",29
-https://m7t.bokux.com:443/20210709/2Xn9clh8/hls/index.m3u8
-
-#EXTINF:-1 group-title="花好月又圓",30完
-https://m7t.bokux.com:443/20210709/fVQuXtai/hls/index.m3u8
-#EXTINF:-1 group-title="花好月又圓",30
-https://m7t.bokux.com:443/20210709/fVQuXtai/hls/index.m3u8
-
 **************************************************
 
 
 
-
+#EXTINF:-1 group-title="Olympic Games Semifinal",Mexico Olympic Team vs Brazil Olympic Team  
+https://c3123.korastadium.com:443/UpFiles/2021/8/3/42/194721/720p.m3u8
 
 #EXTINF:-1 group-title="Olympic Games Quarterfinal",Spain U23 vs Ivory Coast U23
 https://c3123.korastadium.com:443/UpFiles/2021/7/31/42/194600/720p.m3u8
