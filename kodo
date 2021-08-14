@@ -1,500 +1,4 @@
 #EXTM3U
-
-
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 8
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 9
-http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 10
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTM3U 
-#EXTINF:-1 group-title="Olympic CH",Olym 11
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 12
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 13
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 14
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",Olym 15
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Olympic Games",AIS2
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
-
-#EXTINF:-1 group-title="Olympic Games",AIS3
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="Olympic Games",AIS4
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
-
-
-#EXTINF:-1 group-title="Olympic Games",AIS5
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel9/chunks.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5+
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5+
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-rtmp://58.200.131.2:1935/livetv/cctv5hd
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5+
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",五星体育
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-
-#EXTINF:-1 group-title="Olympic CH",魅力足球
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",超级体育ᴴᴰ
-http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",体育赛事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-#EXTM3U 
-#EXTINF:-1 group-title="Olympic CH",咪咕视频·PP体育2
-http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CHC家庭影院 8M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV1 12M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV3 3M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV4 12M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5+ 12M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV7 3M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV9 3M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV14 3M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV14 3M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",浙江卫视 3M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",湖南卫视 3M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",东方卫视 12M1080
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",爱尔达体育 1
-rtmp://59.124.75.153/sat/md021
-
-#EXTINF:-1 group-title="Olympic CH",ELTA1台
-rtmp://161.202.204.248:1935/sat/md041
-
-#EXTINF:-1 group-title="Olympic CH",CCTV-52HD
-http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV-51+HD
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5+
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5
-rtmp://58.200.131.2:1935/livetv/cctv5hd
-
-#EXTINF:-1 group-title="Olympic CH",CCTV5+
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",五星体育
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-
-#EXTINF:-1 group-title="Olympic CH",魅力足球
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",超级体育ᴴᴰ
-http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",体育赛事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",咪咕视频·PP体育2
-http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",百事通体育 1080
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",爱尔达体育3
-http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",ASTRO SPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",ASTRO SPORT 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",FS1cdn
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",FS3cdn
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="Olympic CH",FS3185
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Sport IPTV",CCTV5
-http://39.135.135.76/wh7f454c46tw3257358082_731375288/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1627220336&from=1&hms_devid=692&vqe=3
-
-#EXTINF:-1 group-title="Sport IPTV",CCTV5
-http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-
-#EXTINF:-1 group-title="Sport IPTV",CCTV5
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",CCTV5
-rtmp://58.200.131.2:1935/livetv/cctv5hd
-
-#EXTINF:-1 group-title="Sport IPTV",CCTV5+
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",Star Sports
-rtmp://58.200.131.2:1935/livetv/starsports
-
-#EXTINF:-1 group-title="Sport IPTV",FoxSports1 77
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",FOXSports2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",FOXSports3 cdn
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",纬来体育台
-http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-
-#EXTINF:-1 group-title="Sport IPTV",BT Sports 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTM3U 
-#EXTINF:-1 group-title="Sport IPTV",BeinSports 2Max
-http://4.amroutras.xyz/live/00002500/index.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",博斯运动2台
-p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
-
-#EXTINF:-1 group-title="Sport IPTV",ASTRO SPORT 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",ASTRO SPORT 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",五星体育
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",超级体育ᴴᴰ
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-
-#EXTINF:-1 group-title="Sport IPTV",精彩体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-
-
-#EXTINF:-1 group-title="心里住着老灵魂",01
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9my40cj0/v/1/pv/1/ev/16/flavorId/1_v7ontjcv/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",02
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9213xt2c/v/1/pv/1/ev/16/flavorId/1_xwzqinhm/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",03
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lafywtgm/v/1/pv/1/ev/16/flavorId/1_plj3zyoe/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",04
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ujxtycck/v/1/pv/1/ev/16/flavorId/1_8j2hipgq/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",05
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_iozmm1sm/v/1/pv/1/ev/16/flavorId/1_j4oz7bqj/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",06
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_gj8ajg7m/v/1/pv/1/ev/16/flavorId/1_9uc1cv1s/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",07
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ekawdczy/v/1/pv/1/ev/16/flavorId/1_qf3f7tgx/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",08
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_b96x7nbl/v/1/pv/1/ev/16/flavorId/1_20xvtj2a/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",09
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_d2ysrc3i/v/1/pv/1/ev/16/flavorId/1_13uhb41y/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",10
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_pjj33v0r/v/1/pv/1/ev/16/flavorId/1_arx7kz8b/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",11
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qyqll9ml/v/1/pv/1/ev/16/flavorId/1_lb72zfun/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",12
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xbfhzeby/v/1/pv/1/ev/16/flavorId/1_11qacwrf/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",13
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wxa6io02/v/1/pv/1/ev/16/flavorId/1_h4yvod7j/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",14
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7e2zoq1h/v/1/pv/1/ev/16/flavorId/1_yxosipay/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",15
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8eahsokd/v/1/pv/1/ev/16/flavorId/1_gfgm5acf/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",16
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bslx3v29/v/1/pv/1/ev/16/flavorId/1_hge9rkj1/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",17
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_p0ayfiyn/v/1/pv/1/ev/16/flavorId/1_dbf43boi/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="心里住着老灵魂",18
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3goqafxm/v/1/pv/1/ev/16/flavorId/1_h72mx7p5/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",19
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xs4v6si1/v/1/pv/1/ev/16/flavorId/1_tuuhylp2/name/a.mp4/index.m3u8
-
-#EXTINF:-1 group-title="心里住着老灵魂",20完
-http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_hngxyqij/v/1/pv/1/ev/16/flavorId/1_zujwn0or/name/a.mp4/index.m3u8
-
-
-
-**************************************************
-#EXTINF:-1 group-title="Olympic Games Final",Brazil vs Spain 
-https://c3123.korastadium.com:443/UpFiles/2021/8/7/42/194924/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games 3rd place",Mexico Olympic Team vs Japan Olympic Team
-https://c3123.korastadium.com:443/UpFiles/2021/8/6/42/194863/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games Semifinal",Japan Olympic Team vs Spain Olympic Team
-https://c3123.korastadium.com:443/UpFiles/2021/8/3/42/194730/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games Semifinal",Mexico Olympic Team vs Brazil Olympic Team  
-https://c3123.korastadium.com:443/UpFiles/2021/8/3/42/194721/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games Quarterfinal",Spain U23 vs Ivory Coast U23
-https://c3123.korastadium.com:443/UpFiles/2021/7/31/42/194600/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games Quarterfinal",Japan U23 vs New Zealand U23
-https://c3123.korastadium.com:443/UpFiles/2021/7/31/42/194607/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games Quarterfinal",Brazil U23 vs Egypt U23
-https://c3123.korastadium.com:443/UpFiles/2021/7/31/42/194606/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games Quarterfinal",Korea Republic U23 vs Mexico U23
-https://c3123.korastadium.com:443/UpFiles/2021/7/31/42/194617/720p.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group A  France Olympic Team vs Japan Olympic Team  
-https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194460/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group A South Africa Olympic Team vs Mexico Olympic Team 
-https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194458/720p.m3u8
-
-
-#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group B  South Korea Olympic Team vs Honduras Olympic Team  
-
-#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group C Spain Olympic Team vs Argentina Olympic Team 
-https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194457/720p.m3u8
-https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194455/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group D Saudi Arabia Olympic Team  vs Brazil Olympic Team  
-https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194463/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games R3 Highlights",Group D  Saudi Arabia Olympic Team  vs Brazil Olympic Team  
-https://c3123.korastadium.com:443/UpFiles/2021/7/28/42/194442/720p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Olympic Games R2 Highlights",Group C Egypt Olympic Team vs Argentina Olympic Team
-https://c3123.korastadium.com:443/UpFiles/2021/7/25/42/194275/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games R2 Highlights",Group C Australia Olympic Team vs Spain Olympic Team
-https://c3123.korastadium.com:443/UpFiles/2021/7/25/42/194294/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games R2 Highlights",Group A  France Olympic Team  vs South Africa Olympic Team  
-https://c3123.korastadium.com:443/UpFiles/2021/7/25/42/194276/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games R2 Highlights",Group A Japan Olympic Team vs Mexico Olympic Team 
-https://c3123.korastadium.com:443/UpFiles/2021/7/25/42/194296/720p.m3u8
-#EXTINF:-1 group-title="Olympic Games R2 Highlights",Group B New Zealand Olympic Team vs Honduras Olympic Team  
-https://c3123.korastadium.com:443/UpFiles/2021/7/25/42/194277/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R2 Highlights",Group D Brazil Olympic Team vs Ivory Coast Olympic Team
-https://c3123.korastadium.com:443/UpFiles/2021/7/25/42/194278/720p.m3u8
-
-
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group C Egypt Olympic Team vs Spain Olympic Team  
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194081/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group A  Mexico Olympic Team vs France Olympic Team   
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194082/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group B New Zealand Olympic Team vs South Korea Olympic Team  
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194083/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group D  Ivory Coast Olympic Team vs Saudi Arabia Olympic Team 
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194119/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group A Japan Olympic Team vs South Africa Olympic Team  
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194121/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group D Brazil Olympic Team vs Germany Olympic Team    
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194120/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group C  Argentina Olympic Team vs Australia Olympic Team
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194123/720p.m3u8
-
-#EXTINF:-1 group-title="Olympic Games R1 Highlights",Group B  Honduras Olympic Team vs Romania Olympic Team  
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194124/720p.m3u8
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/22/42/194124/720p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*************************************
-#EXTINF:-1 group-title="CONCACAF Gold Cup Highlights",Mexico vsTrinidad and Tobago Group A R1
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/11/42/193668/720p.m3u8
-#EXTINF:-1 group-title="CONCACAF Gold Cup Highlights",Canada  vs Martinique Group B R1
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/12/42/193739/720p.m3u8
-#EXTINF:-1 group-title="CONCACAF Gold Cup Highlights",USA  vs Haiti Group B R1
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/12/42/193740/720p.m3u8
-#EXTINF:-1 group-title="CONCACAF Gold Cup Highlights",Jamaica  vs Suriname Group C R1
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/13/42/193748/720p.m3u8
-#EXTINF:-1 group-title="CONCACAF Gold Cup Highlights",Jamaica  vs Suriname Group C R1
-https://cdn003.b-cdn.net:443/UpFiles/2021/7/13/42/193748/720p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*************************************
-
-
-#EXTINF:-1 group-title="电影",Black Widow
-https://m8t.vboku.com:443/20210710/EOVuwdcL/hls/index.m3u8
-#EXTINF:-1 group-title="电影",追虎擒龙
-https://m8t.vboku.com:443/20210614/KbyY9WbQ/hls/index.m3u8
-#EXTINF:-1 group-title="电影",半狼传说
-https://vod4.buycar5.cn:443/20210607/yI9Qr7bC/1000kb/hls/index.m3u8
-
-
-
 卧虎藏鬼
 
 #EXTINF:-1 group-title="卧虎藏鬼",01
@@ -556,6 +60,63 @@ http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7cc3nlk8/v/
 
 #EXTINF:-1 group-title="卧虎藏鬼",20
 http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7dl5pmof/v/1/pv/1/ev/16/flavorId/1_hmpj65zn/name/a.mp4/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*************************************
+
+
+#EXTINF:-1 group-title="电影",Black Widow
+https://m8t.vboku.com:443/20210710/EOVuwdcL/hls/index.m3u8
+#EXTINF:-1 group-title="电影",追虎擒龙
+https://m8t.vboku.com:443/20210614/KbyY9WbQ/hls/index.m3u8
+#EXTINF:-1 group-title="电影",半狼传说
+https://vod4.buycar5.cn:443/20210607/yI9Qr7bC/1000kb/hls/index.m3u8
+
 
 
 
