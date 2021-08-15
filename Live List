@@ -9,3 +9,6 @@ L1,http://england.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3Rp
 L2,http://england.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIxIDM6MDc6MjggUE0maGFzaF92YWx1ZT0zcTBGUGZKbEx6OSsyTElhLzJMUENRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTAuNDQuMTIwLjYxJnN0cm1fbGVuPTU=
 
 L3,https://d1xzzdlpcs8bl4.cloudfront.net:443/out/v1/aaf9a4a1b6174fb1bb37df601acbe40a/index_2.m3u8
+
+L4,https://wowzaprodhd8-lh.akamaihd.net/i/ddd89e1c_1@10089/index_2560000_av-p.m3u8?sd=10&rebase=on
+
