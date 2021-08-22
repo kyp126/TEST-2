@@ -1,18 +1,10 @@
 Round 2
 
-Southampton vs Manchester United  
-L1,http://uefa.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDIxIDEyOjMyOjE3IFBNJmhhc2hfdmFsdWU9bERlRDB3MlBWOVkvTFE3WVZTN2s1dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjYwMDoxMDBjOmIyNTQ6ZDRmZjpmZTQ0OjZhMWU6YjA5YToxMjYmc3RybV9sZW49NQ==
-L2,https://d5d46671c7f3f825.mediapackage.eu-west-2.amazonaws.com:443/out/v1/05f3f5812c2747988a026f15f803769f/index_1.m3u8
-L3,https://29hm3pwm68.azcdn107.net:8443/hls/1ey38qdxyr4l58k.m3u8?s=LAVgrOZU2ugpLQcAT-0Txg&e=1629660808
-
-Wolverhampton vs Tottenham  
-L1,https://29hm3pwm68.azcdn107.net:8443/hls/airngw2q91o.m3u8?s=2XxpUPDLCLi4Hrw9jMdTRA&e=1629657627
-L2,https://d3lh7cl9e3xjv2.cloudfront.net:443/out/v1/524f5e5ae6bf4b31b2aa497580f605b3/index_3.m3u8
-
 
 
 Arsenal vs Chelsea  
 L1,http://uefa.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDIxIDI6NTY6NDAgUE0maGFzaF92YWx1ZT1lUUVVbXpZb3BPa1BGaWRPL0lDaHdnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xODguMTUxLjUxLjE0MiZzdHJtX2xlbj01
 
+L2,https://d5d46671c7f3f825.mediapackage.eu-west-2.amazonaws.com:443/out/v1/05f3f5812c2747988a026f15f803769f/index_1.m3u8
 
 
