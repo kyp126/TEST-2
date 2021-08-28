@@ -8,16 +8,11 @@ L2,http://ueefa.mazystreams.xyz:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmV
 
 PL 21/22 Round 3 
 
-Manchester City vs Arsenal 
-
-L1,http://ueefa.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEwOjUzOjI4IEFNJmhhc2hfdmFsdWU9bk9yNHBrL3BtUkVBNFF4SXZDSnRLUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9ODcuMjA4LjI0Mi4xMCZzdHJtX2xlbj01
-
-L2,https://d1jliyqx70imb8.cloudfront.net:443/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index_2.m3u8
-
-L3,http://ueefa.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDExOjQwOjQyIEFNJmhhc2hfdmFsdWU9TldNa3pLa01BN016eDNtOUFkdnZwUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOjQwMDU6YjljZjo2MDNlOmRjYjQ6ZGM1NDo5Zjk1JnN0cm1fbGVuPTU=
-
 
 Norwich City vs Leicester City 
+L1,http://ueefa.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDE6MzQ6MjcgUE0maGFzaF92YWx1ZT1Oa3MrWDVidlhUeEp2Q0tLeU91TUxBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAyOmM3ZjplZjAzOjcwMDplOGVlOjJlOWY6NGMzYzpjY2I5JnN0cm1fbGVuPTU=
+
+L2,http://ueefa.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDE6MzY6MjkgUE0maGFzaF92YWx1ZT1ZOWpiYUFEa001Ujc1dVJPT3pGejBnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAyOmM3Zjo3NmFhOjkxMDA6Y2QyOmVlMTI6NjFiZTo0ZWQ0JnN0cm1fbGVuPTU=
 
  
 Brighton & Hove Albion vs Everton  
