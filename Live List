@@ -3,7 +3,7 @@ EPL R4
 Crystal Palace vs Tottenham  
 L1,http://londonb.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDExOjA5OjA4IEFNJmhhc2hfdmFsdWU9ckVlcU9UZEhUTFRaWmtEVGNTb2txZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjcuMzQuNjguNTMmc3RybV9sZW49NQ==
 
-L2,
+L2,http://londonb.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIxIDExOjE0OjUwIEFNJmhhc2hfdmFsdWU9Q2hYVzlzNVl5ODV4ODZRQ2lJb3hTZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MjEyLjcwLjExMS45NSZzdHJtX2xlbj01
 
 L3,
 
