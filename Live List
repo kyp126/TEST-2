@@ -15,18 +15,21 @@ West Ham United - Manchester United
 
 L1,http://awscdn.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDEyOjIyOjI3IFBNJmhhc2hfdmFsdWU9ZE5pbGQrV0lwVG5ZMzdMbUszZUdTUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA1LjE2My41MS4xNzImc3RybV9sZW49NQ==
 
+L2,http://awscdn.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDEyOjI3OjM2IFBNJmhhc2hfdmFsdWU9NVJrMFljd2ZOdnlaMUxlbVZ5ZGo5UT09JnZhbGlkbWludXRlcz0xMjAmaWQ9ODAuMTkyLjEyNS4yNTMmc3RybV9sZW49NQ==
 
 
 Brighton & Hove Albion - Leicester City  
 
 L1,http://londond.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDEyOjIyOjIwIFBNJmhhc2hfdmFsdWU9L0hrc0Jub1dmcHh6bUREVDU1a1A2QT09JnZhbGlkbWludXRlcz03MjAmaWQ9OTIuNDAuMTgyLjkwJnN0cm1fbGVuPTU=
 
+L2,http://german.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDEyOjI1OjQwIFBNJmhhc2hfdmFsdWU9OVhUT2RxengybTMrSmxQVFpQb1pwUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9NTIuMjEzLjI4LjE4NiZzdHJtX2xlbj01
 
 
 Tottenham - Chelsea
 
+L1,http://awscdn2.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDM6MDk6MzYgUE0maGFzaF92YWx1ZT1Dd05rU3FieXZHOE10Qm9uWUl0Zk93PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNjAwOjE3MDA6ZWM3YjphNTEwOjg2YzA6ZWZmZjpmZTYwOmZmN2Umc3RybV9sZW49NQ==
 
-
+L2,http://awscdn2.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIxIDM6MTI6MjAgUE0maGFzaF92YWx1ZT12WHdPTzhlY3JoMnphR2NjQVlQVUd3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNDAzOjM4MDA6MzI4MjphNTMzOmMzNjo4MWEzOjkyYjY6ZDkzZCZzdHJtX2xlbj01
 
 xxxxxxxxxxxxxxxxxx
 
