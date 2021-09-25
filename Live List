@@ -6,7 +6,10 @@ L1,http://t1.uefa-tv.com:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yN
 
 Everton - Norwich City 
 L1,http://usa.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIxIDE6NDU6NTQgUE0maGFzaF92YWx1ZT1EK09iRWpKS0J5U1ZSbUYwWjZEN1NBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD05Mi4yOS4yMzguNDYmc3RybV9sZW49NQ==
- 
+
+L2,http://t3.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIxIDE6NTA6MzIgUE0maGFzaF92YWx1ZT1DSEVqOWtBbXJOaW5nNy9OVi8rRUpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAwOjIzYzY6MjlhZTpmMDE6YjRjODoxYzg4OmViNjA6ZjA2NyZzdHJtX2xlbj01 
+
+
 Leeds United - West Ham United  
 L1,http://uk2.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIxIDE6NDk6MTcgUE0maGFzaF92YWx1ZT1ZcUxkTGlWdWh1RzVjd0RRZHh1V3VnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNDYuNzAuNTAuOTAmc3RybV9sZW49NQ==
 
