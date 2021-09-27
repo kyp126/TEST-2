@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTINF:-1 group-title="大大的梦想",01
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ucjuhzlx/v/11/pv/1/ev/27/flavorId/1_ckh8u0ei/name/a.mp4/index.m3u8
+
+#EXTINF:-1 group-title="大大的梦想",02
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_n3s4y3k9/v/11/pv/1/ev/27/flavorId/1_l8amfgdc/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="大大的梦想",03
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nf72pvsx/v/11/pv/1/ev/27/flavorId/1_czckcwvq/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="大大的梦想",04
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4rwi1ifr/v/11/pv/1/ev/27/flavorId/1_rj0yhme9/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="大大的梦想",05
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_j3dvuggj/v/11/pv/1/ev/27/flavorId/1_v7g0926r/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="大大的梦想",06
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_j6uwnpl9/v/11/pv/1/ev/27/flavorId/1_zxxds1a2/name/a.mp4/index.m3u8
+
+#EXTINF:-1 group-title="大大的梦想",07
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7ucj3be0/v/11/pv/1/ev/27/flavorId/1_48vnm2av/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="大大的梦想",08
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3fzrvngs/v/11/pv/1/ev/27/flavorId/1_qjjxistt/name/a.mp4/index.m3u8
+
+#EXTINF:-1 group-title="大大的梦想",09
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_upincy6s/v/11/pv/1/ev/27/flavorId/1_7q9u9kt1/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="大大的梦想",10
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rmdrkvka/v/11/pv/1/ev/27/flavorId/1_186d0toz/name/a.mp4/index.m3u8
+
+#EXTINF:-1 group-title="大大的梦想",11
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rxtf9shp/v/11/pv/1/ev/27/flavorId/1_9oelpayo/name/a.mp4/index.m3u8
+#EXTINF:-1 group-title="大大的梦想",12
+http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_hc53t8l4/v/11/pv/1/ev/27/flavorId/1_4ft4y032/name/a.mp4/index.m3u8
+
+
+
+
+
 关键证人
 #EXTINF:-1 group-title="关键证人",01
 http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fk7kucuc/v/1/pv/1/ev/16/flavorId/1_yht6q1a9/name/a.mp4/index.m3u8
