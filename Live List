@@ -10,8 +10,7 @@ UEFA Nations League, Finals
 Italy - Belgium  
 L1,http://tttt3.uefa-tv.com:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMSAxMjo0NDo1OSBQTSZoYXNoX3ZhbHVlPUpFdnhKQmZnZ3VOK2FkLzdiUG1Zcnc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTI2MDA6MWYxNjoyNzpkNTAwOjY0ZGM6ZTc0YTpmN2I5Ojg4Mjgmc3RybV9sZW49NQ==
 
-
-
+L2,http://cdn.raino.xyz/soccer/soccer1.m3u8
 
 
 
@@ -19,5 +18,6 @@ L1,http://tttt3.uefa-tv.com:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MT
 XXXXXXXXXXXXXXXXXXXX
 
 CCTV5,https://itv.olevod.tv:5443/live/cctv5hdbupt.m3u8
+
 CCTV5+,https://itv.olevod.tv:5443/live/cctv5phdbupt.m3u8
 
