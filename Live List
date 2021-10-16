@@ -1,12 +1,10 @@
 PL R8
 
-Watford - Liverpool  
-L1,http://master1d.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMSAxMDo1OTozNyBBTSZoYXNoX3ZhbHVlPXdtYWYxR0R1WStuN1loNGI5ZHpZK3c9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTMuOC4yMzUuMTAzJnN0cm1fbGVuPTU=
-
-L2,http://master1d.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMSAxMTowMzo0MyBBTSZoYXNoX3ZhbHVlPTBsYkNkcWpsMlkybE5pZXhqbTV4L0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTkwLjI1NS4xMDcuNTImc3RybV9sZW49NQ==
-
 
 Leicester City - Manchester United  
+L1,http://tv.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMSAxOjMwOjE2IFBNJmhhc2hfdmFsdWU9M1psQzBxeXd5UVk5UXM0aStRekpPQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYwLjUuMTIyLjE4OCZzdHJtX2xlbj01
+
+L2,http://master1d.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMSAxOjI4OjM5IFBNJmhhc2hfdmFsdWU9ak0rV21aMVB0N0ZNWE1aekFjbkc2dz09JnZhbGlkbWludXRlcz03MjAmaWQ9NzcuOTcuMTAyLjExNCZzdHJtX2xlbj01
 
 
 Manchester City - Burnley  
