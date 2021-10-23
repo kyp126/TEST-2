@@ -33,7 +33,9 @@ L1,http://77.247.109.250/hls/Q2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSA
 Southampton - Burnley  
 L1,http://cdn2.cyclingstreams.xyz/hls/P1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjQ1CjoyMQogUE0maGFzaF92YWx1ZT1aeDFoV1d0OEU2UG1FOTU3NUJ1amVRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNjIuMTU4LjE2NS4xODEmc3RybV9sZW49NA==
 
+L2,http://master4b.uefa-tv.com:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjU0OjE5IFBNJmhhc2hfdmFsdWU9Y2lLTnVrNTJDd2dTN3RaNVY2RmQ0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MmEwMDoyM2M4Ojk2MDI6YjIwMTo1ZGVmOjM3MGI6ZGJiODo2MjZmJnN0cm1fbGVuPTU=
 
+L2,http://master2b.uefa-tv.com:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjU1OjAyIFBNJmhhc2hfdmFsdWU9WGJ0amYxZzZvS0J1UTUxQUdMT2ZTZz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODguMTEwLjYyLjE1MyZzdHJtX2xlbj01
 
 
 
