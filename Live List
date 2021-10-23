@@ -27,6 +27,9 @@ http://cdn1.cyclingstreams.xyz/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvM
 Crystal Palace - Newcastle United  
 L1,http://77.247.109.250/hls/Q2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjQ2Cjo0MwogUE0maGFzaF92YWx1ZT1USWJrKzJBZUsxaTVlVzBVSlhhWGxBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNjIuMTU4LjE2NS4xODEmc3RybV9sZW49NA==
 
+L2,http://master3b.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjU2OjQ1IFBNJmhhc2hfdmFsdWU9Rk9wYjNZc3hhQnZvRjMvaVFWZmloQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MmEwMTo0Yzg6MWM5MTpkYTY0OmMxZWM6MmVmNzpmYTQ4OjY5Yzkmc3RybV9sZW49NQ==
+
+L3,http://master3a.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjU3OjAxIFBNJmhhc2hfdmFsdWU9TkVLbnlIRUtlMFFUcU92RVVvMEozQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTM0LjEyMi43Ni4yMCZzdHJtX2xlbj01
 
 
 
