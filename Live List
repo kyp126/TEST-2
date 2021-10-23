@@ -10,7 +10,11 @@ L3,http://master4b.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 XXXXXXXXXXXXXXXXXXXXX
 
 
-Everton - Watford  
+Everton - Watford
+ 
+https://d2ieawqu8vc4ua.cloudfront.net:443/stream/MTQwMA==/1080p.m3u8
+
+ 
 L1,http://cdn1.cyclingstreams.xyz/hls/M3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjQzCjo0NQogUE0maGFzaF92YWx1ZT1iZUpraDVRbG8zU1N6UHcrKzNHNmdnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQzLjgwJnN0cm1fbGVuPTQ=
 
 L2,http://master4b.uefa-tv.com:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxOjUwOjQyIFBNJmhhc2hfdmFsdWU9dzBaZWJjYVQxU3owVUxoM1pPaytBQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAwMTo2N2M6MTk4Yzo5MDY6MWE6OjJhJnN0cm1fbGVuPTU=
