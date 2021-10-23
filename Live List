@@ -1,16 +1,21 @@
-PL R8
+PL R9
 
-Everton - West Ham United  
-L1,http://tv.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMSAxMjozNjo0NSBQTSZoYXNoX3ZhbHVlPXlvK1c1eGhOWlR5ZE9Lbjl6Uk95YkE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTkzLjIxNS4yNDUuMjUwJnN0cm1fbGVuPTU=
+Chelsea - Norwich City  
+L1,http://cdn1.cyclingstreams.xyz/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyMSAxMTowNQo6NDQKIEFNJmhhc2hfdmFsdWU9T1pBK3VwTzlla0s0VzFlR3dBNTlSdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE4OC4yMjMmc3RybV9sZW49NA==
 
-L2,http://master1d.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMSAxMjozNzo1MiBQTSZoYXNoX3ZhbHVlPTN5SnFDWDNhckExRFYyTEJkeldYc1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTkxLjE4My40NS4yMzQmc3RybV9sZW49NQ==
+Everton - Watford  
 
 
-Newcastle United - Tottenham  
-L1,http://master1d.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMSAzOjAzOjI0IFBNJmhhc2hfdmFsdWU9YklQeVlsODhlMHh5ZGxDZ3lURnhBQT09JnZhbGlkbWludXRlcz03MjAmaWQ9OTIuNi4yNDMuNzYmc3RybV9sZW49NQ==
+Leeds United - Wolverhampton  
 
-L2,http://master1a.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMSAzOjAzOjE2IFBNJmhhc2hfdmFsdWU9SDNFTkVyTURvdFhpMllFNjZoQ29yQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTQ0LjE3OC43My4zOCZzdHJtX2xlbj01
 
+Crystal Palace - Newcastle United  
+
+
+Southampton - Burnley  
+
+
+Brighton & Hove Albion - Manchester City  
 
 
 XXXXXXXXXXXXXXXXXXXX
