@@ -1,6 +1,8 @@
 PL R9
 
 Brentford - Leicester City  
+http://185.53.89.183/hls/suv3.m3u8
+
 L1,http://master2c.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NDowMiBQTSZoYXNoX3ZhbHVlPXVhQzJJZ3dRc2hFZWlXVm9acHlEL1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE5Ny4yNTQuMTIxLjI0MiZzdHJtX2xlbj01
 
 L2,http://master2b.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NDozOCBQTSZoYXNoX3ZhbHVlPUViVnBiY1dZZFVoZ1pNOUtlUGJhcXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIxMy4zMS4yMjQuMTIzJnN0cm1fbGVuPTU=
