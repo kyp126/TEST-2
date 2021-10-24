@@ -1,35 +1,10 @@
 PL R9
 
-Brentford - Leicester City  
-http://185.53.89.183/hls/suv3.m3u8
 
-L1,http://master2c.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NDowMiBQTSZoYXNoX3ZhbHVlPXVhQzJJZ3dRc2hFZWlXVm9acHlEL1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE5Ny4yNTQuMTIxLjI0MiZzdHJtX2xlbj01
+Manchester United - Liverpool
+http://master2b.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAyOjUwOjQ0IFBNJmhhc2hfdmFsdWU9QWhzY0ZHY2xGdE1qZzdZSThReSt3UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTY4LjIzNS4yMDMuMjMyJnN0cm1fbGVuPTU=
 
-L2,http://master2b.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NDozOCBQTSZoYXNoX3ZhbHVlPUViVnBiY1dZZFVoZ1pNOUtlUGJhcXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIxMy4zMS4yMjQuMTIzJnN0cm1fbGVuPTU=
-
-L3,http://master2b.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NTowNSBQTSZoYXNoX3ZhbHVlPVJpb2lxM1BEU1JLQzRlbjFHQTVjSHc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE2NC4xNTEuNS4yMiZzdHJtX2xlbj01
-
-
-West Ham United - Tottenham 
-
-http://185.53.89.183/hls/main.m3u8
- 
-L1,http://master4c.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NzoyMCBQTSZoYXNoX3ZhbHVlPU1yUjRRRzVGNTFSNmJBWWNrd1pnOWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTgyLjkuMTgwLjIyNiZzdHJtX2xlbj01
-
-L2,http://master3c.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NzoyOCBQTSZoYXNoX3ZhbHVlPXNBQUlWMGswSEN6SFkxZGFHSnlXRkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTg0LjIwOC4xODUuMTA0JnN0cm1fbGVuPTU=
-
-L3,http://master4a.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjo0NzoxOCBQTSZoYXNoX3ZhbHVlPWtMZmxxalcyY0V4OGduLzNHN0pJaWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTg2LjE1LjgzLjE2MSZzdHJtX2xlbj01
-
-
-
-
-
-Sevilla - Levante 
-http://master3c.uefa-tv.com/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjozOToyNyBQTSZoYXNoX3ZhbHVlPUNRdS9KV3ZPUnBlRFZxMWFaM3p6Mnc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDI6MmUwMjo5YTAxOjM3MDA6OTUxNjo0ZmZiOmE0ZTplZDQyJnN0cm1fbGVuPTU=
-
- 
-http://master4b.uefa-tv.com:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAxMjozNDoxMyBQTSZoYXNoX3ZhbHVlPXkwcDc0YlBSS284ejMzOTkrL2wyWHc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTU0LjI0Ni4zMy4xNDcmc3RybV9sZW49NQ==
-
+http://master3c.uefa-tv.com/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSAyOjU2OjExIFBNJmhhc2hfdmFsdWU9dkt4ZUNYR0luMXRxQ0N4VVlld2hqZz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODQuNjYuMjU1LjIzMyZzdHJtX2xlbj01
 
 
 
