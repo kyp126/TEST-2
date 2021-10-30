@@ -33,6 +33,15 @@ Tottenham - Manchester United
 
 
 
+.XXXXXXXXXXXXXXXXXXXX
+
+RM1,http://sir1b.uefa-tv.com:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMSAxMjowMTo0NiBQTSZoYXNoX3ZhbHVlPTFQU2xiWFJEN3JVcUxQY3VtZVVCdWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTkyLjIzNC4xMzMuMTUyJnN0cm1fbGVuPTU=
+
+RM2,http://cdn2.cyclingnews.live/hls/P1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMSAxMjowNQo6MjQKIFBNJmhhc2hfdmFsdWU9NjBjWmdzZW1ybjdSNlNzVzF6a1ZwUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE0Ny43NSZzdHJtX2xlbj00
+
+ATA1,http://sir1a.uefa-tv.com:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMSAxMjowNzozNiBQTSZoYXNoX3ZhbHVlPTJUU1ZPaURaNDNlZlhMODVnNVRaY3c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTI2MDA6Mzg3OmM6NmMzNjo6MiZzdHJtX2xlbj01
+
+ATA2,http://master101b.uefa-tv.com:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMSAxMjoxNjoxOSBQTSZoYXNoX3ZhbHVlPUtES3FKS1JiZDFnM0h2bkdZTWhUSGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTExNS42Ni4xNDMuOTMmc3RybV9sZW49NQ==
 
 
 
