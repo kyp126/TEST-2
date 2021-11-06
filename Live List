@@ -1,21 +1,8 @@
 PL 21/22 Round 11
 
-Manchester United - Manchester City  
-MU- MC 1,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIxIDEyOjAzCjo1NAogUE0maGFzaF92YWx1ZT0vVmEzcmN0QXc4YTB3T1MvVDE4aFdRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMTYyLjI1MC4yMDImc3RybV9sZW49NA==
-
-MU- MC 2,http://master101b.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIxIDEyOjEyOjAzIFBNJmhhc2hfdmFsdWU9WHFGVVFmcHB5RFFGaHRTZnpUQ1hWZz09JnZhbGlkbWludXRlcz03MjAmaWQ9NDEuNzguNjQuMjU0JnN0cm1fbGVuPTU=
-
-MU-MC 3,http://master101a.uefa-tv.com/live/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIxIDE6NTU6NTYgUE0maGFzaF92YWx1ZT1ha0FOZDUxa004Qk9EOG53QW1WNmVBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00MS44MS40Ny4yMTMmc3RybV9sZW49NQ==
-
-MU- MC 3a,http://185.53.89.183/hls/main.m3u8
-
-
-
-
-
 
 Chelsea - Burnley  
-CHE-BUR
+CHE-BUR1,http://sir1c.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIxIDI6Mjk6MjkgUE0maGFzaF92YWx1ZT0rSFlJakFMY0MwcFZlRXJaMG1OMW53PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zOS41MC4xOS4yNDQmc3RybV9sZW49NQ==
 
 CHE-BUR
 
