@@ -5,7 +5,7 @@ MU- MC 1,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMD
 
 MU- MC 2,http://master101b.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIxIDEyOjEyOjAzIFBNJmhhc2hfdmFsdWU9WHFGVVFmcHB5RFFGaHRTZnpUQ1hWZz09JnZhbGlkbWludXRlcz03MjAmaWQ9NDEuNzguNjQuMjU0JnN0cm1fbGVuPTU=
 
-MU- MC 3,http://185.53.89.183/hls/main.m3u8
+MU- MC 3a,http://185.53.89.183/hls/main.m3u8
 
 
 
