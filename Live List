@@ -5,7 +5,7 @@ PL 21/22 R11
 LA LIGA R13,#genre#
 Vill-Geta1,http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDEyOjM1OjA3IFBNJmhhc2hfdmFsdWU9N1lTSnd0Z1NkVUs1cml6UzhGK3VjUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAwMTo0MWQwOjI6ODM0MDo6MSZzdHJtX2xlbj01
 Vill-Geta2,http://cdn3.cyclingnews.live/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDEyOjM5CjoxMwogUE0maGFzaF92YWx1ZT1WajhPM3ovcnBuKzlXRE0vOE8yeGtnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMTYyLjI0OS4xMDUmc3RybV9sZW49NA==
-
+Vill-Geta3,http://master101b.uefa-tv.com:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDEyOjQxOjE5IFBNJmhhc2hfdmFsdWU9dy9Jeml2OG02WFFPUFN2M3J4ajhXUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MjA0LjE1LjIwOC4zNSZzdHJtX2xlbj01
 
 Serie A R12,#genre#
 
