@@ -10,20 +10,11 @@ LEE-LC1,http://cdn4.cyclingnews.live/hls/Q2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTE
 LEE-LC2,http://sir1c.uefa-tv.com:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDI6MDc6NTQgUE0maGFzaF92YWx1ZT1YS2dyQTRlaWFnMkozOGEvaUlTcnFnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAyOmM3ZTo0NjEyOjMwMDphZDc1OjMzZDI6ODA4ODoyYjImc3RybV9sZW49NQ==
 
 WHU-LIV1,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDM6NTEKOjM4CiBQTSZoYXNoX3ZhbHVlPUhZNm9iRG9QWEpTRVRtczhXVFZYVHc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4xODguMjIzJnN0cm1fbGVuPTQ=
+WHU-LIV2,http://master101a.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDM6NTU6MzEgUE0maGFzaF92YWx1ZT1ycnQ0d2RpRkxOVWdKQzhWdmwxZ2xBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAyOmEyMTE6YWMwOjgwMDpjODA3OjI5ZDY6ZjI0Mjo3NGVkJnN0cm1fbGVuPTU=
+WHU-LIV 3,http://sir1a.uefa-tv.com:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDM6NTY6MzIgUE0maGFzaF92YWx1ZT1VMytzaEVFNENPRXJVQUF6SVNoVnFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD04My4yNTEuNjYuMjM3JnN0cm1fbGVuPTU=
 
 
-LA LIGA R13,#genre#
-Vill-Geta1,http://sir1b.uefa-tv.com:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDEyOjM1OjA3IFBNJmhhc2hfdmFsdWU9N1lTSnd0Z1NkVUs1cml6UzhGK3VjUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAwMTo0MWQwOjI6ODM0MDo6MSZzdHJtX2xlbj01
-Vill-Geta2,http://cdn3.cyclingnews.live/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDEyOjM5CjoxMwogUE0maGFzaF92YWx1ZT1WajhPM3ovcnBuKzlXRE0vOE8yeGtnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMTYyLjI0OS4xMDUmc3RybV9sZW49NA==
-Vill-Geta3,http://master101b.uefa-tv.com:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDEyOjQxOjE5IFBNJmhhc2hfdmFsdWU9dy9Jeml2OG02WFFPUFN2M3J4ajhXUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MjA0LjE1LjIwOC4zNSZzdHJtX2xlbj01
 
-Serie A R12,#genre#
-
-Venezia - Roma1 ,http://master101b.uefa-tv.com:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjM1OjAzIEFNJmhhc2hfdmFsdWU9eUxPSDM0djJ3dU5CbEcxZmJ5Sy9SZz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODEuMjMxLjI1NC4xNjQmc3RybV9sZW49NQ==
-
-VEN- ROMA2,http://cdn2.cyclingnews.live/hls/P1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjM2CjoyMgogQU0maGFzaF92YWx1ZT1XYVczNGJxREpiMUpmZ0lTazJzdnB3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMDguMTYyLjI0OS4xMDUmc3RybV9sZW49NA==
-
-VEN-ROM3,http://185.53.89.183/hls/bt1.m3u8
 
 
 
