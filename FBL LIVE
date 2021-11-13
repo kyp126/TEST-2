@@ -25,3 +25,5 @@ CCTV,#genre#
 CCTV5,https://itv.olevod.tv:5443/live/cctv5hdbupt.m3u8
 
 CCTV5+,https://itv.olevod.tv:5443/live/cctv5phdbupt.m3u8
+
+Nowtv,https://ewcdnsite02.nowe.com:443/session/09-02d33d336cdc793eb880fbf8437c7/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(03)/index.m3u8
