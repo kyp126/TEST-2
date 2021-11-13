@@ -2,18 +2,12 @@
 Brazil F1 QLF,#genre#
 
 L1,http://master102.hockeynews.club:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSAxMTowNjozNyBBTSZoYXNoX3ZhbHVlPS9pWERpeGtQRzZKTmhsYVZPOExNK0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEyMi4xOTkuNDkuODgmc3RybV9sZW49NQ==
-
+L2,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSAxMTowOQo6NTUKIEFNJmhhc2hfdmFsdWU9WG5nZC9IdDNsTlo0aTFEdFNacEtwQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTA4LjE2Mi4yNTAuMjM2JnN0cm1fbGVuPTQ=
 
 
 
 Test,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8 
 
-Honduras - Panama,http://play.tonywill.com.cn/tianxiatv/stream-5791ca9ddb1043cd9507c7560c06a4b1.m3u8
-USA v Mexico,http://play.fbmio.com/live/stream25506.m3u8?txSecret=836a441f94f598d2e4dd241a89b1c4fd&txTime=618F136B
-
-Canada v Costa Rica,http://play.fbmio.com/live/stream74726.m3u8?txSecret=85cad1ed312d0f250467d88624ac16d4&txTime=618F136B  
-
-USA v Mexico,http://play.fbmio.com/live/stream25506.m3u8?txSecret=836a441f94f598d2e4dd241a89b1c4fd&txTime=618F136B
 
 
 
