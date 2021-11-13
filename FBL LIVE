@@ -1,8 +1,15 @@
 
-Brazil F1 QLF,#genre#
+FOOTBALL LIVE,#genre#
+L1,http://play.tonywill.com.cn/tianxiatv/stream-ad01ca162d30434a9232d805dbafa7cc.m3u8
+L2,http://play.tonywill.com.cn/tianxiatv/stream-a2601ecc382647c788359e1ea297dbe7.m3u8
+
+
+
+Brazil F1 QLU,#genre#
 
 L1,http://master102.hockeynews.club:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSAxMTowNjozNyBBTSZoYXNoX3ZhbHVlPS9pWERpeGtQRzZKTmhsYVZPOExNK0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEyMi4xOTkuNDkuODgmc3RybV9sZW49NQ==
 L2,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSAxMTowOQo6NTUKIEFNJmhhc2hfdmFsdWU9WG5nZC9IdDNsTlo0aTFEdFNacEtwQT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTA4LjE2Mi4yNTAuMjM2JnN0cm1fbGVuPTQ=
+motorgp,http://master102.hockeynews.club:80/live/streammotogp/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMSAxMToyNTozMiBBTSZoYXNoX3ZhbHVlPTQ4SFI4VzBzUWUxMXhHS0psWWZzTGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTk1Ljk0LjIyMC4xOTgmc3RybV9sZW49NQ==
 
 
 
