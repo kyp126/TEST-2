@@ -1,7 +1,9 @@
 
 WC QLY GR H,#genre
 Croatia - Russia L1,http://45.148.26.188/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjI4CjowNAogUE0maGFzaF92YWx1ZT10WmJ5MnRSRi83UTFlb1lzVUI5VFV3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQ3LjY1JnN0cm1fbGVuPTQ=
+Croatia - Russia L2,http://master102.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjUwOjAzIFBNJmhhc2hfdmFsdWU9Z3F5a1hpNFhzVVNLZE5xeU9DaDJJdz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODEuMTAyLjIwMC4yNCZzdHJtX2xlbj01 
 
+Croatia - Russia L3,http://master102b.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjUyOjE1IFBNJmhhc2hfdmFsdWU9S0wwQ3ZaVnlkMmwvTGVnSkd3SW10Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9OTEuMzIuOTEuMTIzJnN0cm1fbGVuPTU= 
 
 
 Malta  - Slovakia-L1,http://master102.hockeynews.club:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyMSAxOjE0OjEwIFBNJmhhc2hfdmFsdWU9ZEhJVG9CZkxsNHN0M3M2RDNIUjV6dz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODUuOTYuMjEzLjg2JnN0cm1fbGVuPTU=  
