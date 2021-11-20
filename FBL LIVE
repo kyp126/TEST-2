@@ -1,24 +1,9 @@
 
 
-8.30PL,#genre#
-1. LEI-CHE,http://0mynew2.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjowNzowMSBQTSZoYXNoX3ZhbHVlPXhvRUNXMU1yditTa1pCNlJEQkJJd0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTgzLjI1My4zLjM5JnN0cm1fbGVuPTU=#http://play.tonywill.com.cn/tianxiatv/stream-9f221a3bee334023821edf1426f9a85b.m3u8
-
-2. LEI-CHE,http://0mynew3.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjoxMTozNCBQTSZoYXNoX3ZhbHVlPXpiL1puU2UyZjc3QzVBd3BEckVNeGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwMy4yMTMuMTI4LjE1MSZzdHJtX2xlbj01
-3. LEI-CHE,http://cdn1.cyclingnews.live/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjoxNAo6NDMKIFBNJmhhc2hfdmFsdWU9elR0Ky9XVmpiTUZWSWJEMFNNRnA3dz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NDIuNjAuMTEyLjUwJnN0cm1fbGVuPTQ=
-9.30LALIGA,#genre#
-VILL,http://gcp1.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxOjI0OjUxIFBNJmhhc2hfdmFsdWU9UTFJQmdSekU3WGlsYjlrNWJHNWZHZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTgwLjI0Mi4yMzMuMTM3JnN0cm1fbGVuPTU=
-
-Celta Vigo - Villarreal,https://live01-ali.myeogm.com/live/aiqiyi2_hd.m3u8?auth_key=1637422500-31ad4dec55f744c8937075883352897b-0-13cc30435bdcf790cad8531d7882528b
-
-10pmSerie A,#genre# 
-1.Atalanta - Spezia ,http://77.247.109.249/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxOjMyCjoxNwogUE0maGFzaF92YWx1ZT15NWJOMVNXS1RiV1VCT3ZlZWk4Q3BBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQ3LjM3JnN0cm1fbGVuPTQ= 
-
-
-
 11pm PL,#genre#
-1. WAT - MUN 
-1. WAT - MUN 
-1. WAT - MUN 
+1. WAT - MUN,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjI1CjozMAogUE0maGFzaF92YWx1ZT1LaGRYVnNadjduWTFDaHdoU2ViejdBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQyLjE5NyZzdHJtX2xlbj00 
+2. WAT - MUN ,http://0mynew2.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjI2OjQ4IFBNJmhhc2hfdmFsdWU9cmNTN3dlZVRubHdhM2FzSUk5NTdwdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjIyLjE2NC4xNDkuOTQmc3RybV9sZW49NQ==
+3. WAT - MUN ,http://1mynew2.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjI3OjQ5IFBNJmhhc2hfdmFsdWU9MnhCR1IvenhYcklGZWNob3p0WCtQZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MmEwNDo0YTQzOjRhN2U6ZmRjYjplNDU4OmQ1ODE6NGEyOjlhNTcmc3RybV9sZW49NQ==
 
 
 1. WOL - WHU
@@ -46,6 +31,22 @@ Celta Vigo - Villarreal,https://live01-ali.myeogm.com/live/aiqiyi2_hd.m3u8?auth_
 
 
 Test,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8 
+
+
+
+
+8.30PL,#genre#
+1. LEI-CHE,http://0mynew2.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjowNzowMSBQTSZoYXNoX3ZhbHVlPXhvRUNXMU1yditTa1pCNlJEQkJJd0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTgzLjI1My4zLjM5JnN0cm1fbGVuPTU=#http://play.tonywill.com.cn/tianxiatv/stream-9f221a3bee334023821edf1426f9a85b.m3u8
+
+2. LEI-CHE,http://0mynew3.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjoxMTozNCBQTSZoYXNoX3ZhbHVlPXpiL1puU2UyZjc3QzVBd3BEckVNeGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwMy4yMTMuMTI4LjE1MSZzdHJtX2xlbj01
+3. LEI-CHE,http://cdn1.cyclingnews.live/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjoxNAo6NDMKIFBNJmhhc2hfdmFsdWU9elR0Ky9XVmpiTUZWSWJEMFNNRnA3dz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NDIuNjAuMTEyLjUwJnN0cm1fbGVuPTQ=
+9.30LALIGA,#genre#
+VILL,http://gcp1.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxOjI0OjUxIFBNJmhhc2hfdmFsdWU9UTFJQmdSekU3WGlsYjlrNWJHNWZHZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTgwLjI0Mi4yMzMuMTM3JnN0cm1fbGVuPTU=
+
+Celta Vigo - Villarreal,https://live01-ali.myeogm.com/live/aiqiyi2_hd.m3u8?auth_key=1637422500-31ad4dec55f744c8937075883352897b-0-13cc30435bdcf790cad8531d7882528b
+
+10pmSerie A,#genre# 
+1.Atalanta - Spezia ,http://77.247.109.249/hls/W1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxOjMyCjoxNwogUE0maGFzaF92YWx1ZT15NWJOMVNXS1RiV1VCT3ZlZWk4Q3BBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQ3LjM3JnN0cm1fbGVuPTQ= 
 
 
 
