@@ -10,7 +10,7 @@
 1. WOL - WHU
 1. WOL - WHU
  
-1. AVL - BHA  
+3a AVL - BHA,http://45.148.26.188/hls/M3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjMzCjo1OAogUE0maGFzaF92YWx1ZT1xSXFJR201VFAwT2N1Y0ZVelh4Mm5BPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQyLjE5NyZzdHJtX2xlbj00  
 1. AVL - BHA  
 1. AVL - BHA  
 
@@ -34,12 +34,6 @@ Test,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8
 
 
 
-
-8.30PL,#genre#
-1. LEI-CHE,http://0mynew2.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjowNzowMSBQTSZoYXNoX3ZhbHVlPXhvRUNXMU1yditTa1pCNlJEQkJJd0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTgzLjI1My4zLjM5JnN0cm1fbGVuPTU=#http://play.tonywill.com.cn/tianxiatv/stream-9f221a3bee334023821edf1426f9a85b.m3u8
-
-2. LEI-CHE,http://0mynew3.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjoxMTozNCBQTSZoYXNoX3ZhbHVlPXpiL1puU2UyZjc3QzVBd3BEckVNeGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEwMy4yMTMuMTI4LjE1MSZzdHJtX2xlbj01
-3. LEI-CHE,http://cdn1.cyclingnews.live/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxMjoxNAo6NDMKIFBNJmhhc2hfdmFsdWU9elR0Ky9XVmpiTUZWSWJEMFNNRnA3dz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NDIuNjAuMTEyLjUwJnN0cm1fbGVuPTQ=
 9.30LALIGA,#genre#
 VILL,http://gcp1.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAxOjI0OjUxIFBNJmhhc2hfdmFsdWU9UTFJQmdSekU3WGlsYjlrNWJHNWZHZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTgwLjI0Mi4yMzMuMTM3JnN0cm1fbGVuPTU=
 
