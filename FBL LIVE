@@ -2,7 +2,7 @@
 0100PL,#genre#
 Liverpool  - Arsenal,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSA1OjAzCjowNAogUE0maGFzaF92YWx1ZT1JUzZaTjlVNmhHMWtmSFh2YVpqdHF3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQyLjU3JnN0cm1fbGVuPTQ
 ARS1,https://d2dzp7n4nuz50n.cloudfront.net:443/out/v1/7876c346599f4dc2b9e72d1626300b2e/index_1.m3u8
-
+ARS2,https://d2dzp7n4nuz50n.cloudfront.net:443/out/v1/7876c346599f4dc2b9e72d1626300b2e/index_1.m3u8
 
 
 
