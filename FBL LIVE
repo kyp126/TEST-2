@@ -21,8 +21,7 @@
 5a NEW - BRE,http://cdn4.cyclingnews.live/hls/Q3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjM1Cjo1NQogUE0maGFzaF92YWx1ZT03UkRWWnY0ZnUxamNyK3ZleVYwalV3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQyLjE5NyZzdHJtX2xlbj00
 5b NEW - BRE,http://1mynew3.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjQyOjE2IFBNJmhhc2hfdmFsdWU9bytsUk9XOGZxNm1vTnhDSG9CU2pnZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjEyLjEyNy4wLjExNiZzdHJtX2xlbj01
 
-6a BUR - CP,https://dy3j9qentq0g5.cloudfront.net/stream/MTc3MQ==/1080p.m3u8
-#http://gcp2.hockeynews.club:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjM4OjA5IFBNJmhhc2hfdmFsdWU9K2ZSSkpaUmNOZ3dIUFkxby82Vkk0Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTAzLjE2My4xNjEuMjkmc3RybV9sZW49NQ==
+6a BUR - CP,https://dy3j9qentq0g5.cloudfront.net/stream/MTc3MQ==/1080p.m3u8#http://gcp2.hockeynews.club:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjM4OjA5IFBNJmhhc2hfdmFsdWU9K2ZSSkpaUmNOZ3dIUFkxby82Vkk0Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTAzLjE2My4xNjEuMjkmc3RybV9sZW49NQ==
 6b BUR - CP,http://1mynew1.hockeynews.club:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjU0OjExIFBNJmhhc2hfdmFsdWU9eC9JbGVPUnhTd2lab3BOaElhOTFDdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MzEuMjA1LjEwNC45OSZzdHJtX2xlbj01#http://gcp2.hockeynews.club:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyMSAyOjM5OjM2IFBNJmhhc2hfdmFsdWU9b3J3U1JQSnp5WHlNOGo4Yk5nTUcxUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTY3Ljk5LjEwOS4xNzgmc3RybV9sZW49NQ==
 
 
