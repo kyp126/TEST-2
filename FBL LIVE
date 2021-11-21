@@ -1,6 +1,6 @@
 PL R12,#genre#
 A2200 MCI-EVE,http://play.tonywill.com.cn/tianxiatv/stream-e26c25913a1149c18a81ac55e70ec593.m3u8#https://d11u2z5nq0ylrd.cloudfront.net/out/v1/ce8798c2df2748ae9df572beedb0ca7e/index_1.m3u8
-B2200 MCI-EVE,http://185.53.89.183/hls/main.m3u8
+B2200 MCI-EVE,http://play.tonywill.com.cn/tianxiatv/stream-4482d2ef169845a5ab7c107d4de58f86.m3u8#http://185.53.89.183/hls/main.m3u8
 
 
 
