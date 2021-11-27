@@ -20,8 +20,8 @@ PL R13,#genre#
 LIV-SOU
 
 
-NOR-WOL
-
+1.NOR-WOL,http://serveris6.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIxOjU2IFBNJmhhc2hfdmFsdWU9TGhVbURiZWo5YnB0RTdwQm9keGhvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
+2.NOR-WOL,http://serveris6.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIxOjU2IFBNJmhhc2hfdmFsdWU9TGhVbURiZWo5YnB0RTdwQm9keGhvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
 
 1.CP-AVL,http://serveris6.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjE4OjQ0IFBNJmhhc2hfdmFsdWU9Z3Z1VXpjOGh6b0EwSnBScXBReU1HZz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODYuMTEzLjE1LjY3JnN0cm1fbGVuPTU=
 2.CP-AVL,http://serveris6.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIwOjE4IFBNJmhhc2hfdmFsdWU9YWZZeU9vYkFOYXVZdDdEY0NTSE5nQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
