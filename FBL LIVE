@@ -17,7 +17,7 @@ PL R13,#genre#
 
 
 
-LIV-SOU
+4LIV-SOU,http://play.tonywill.com.cn/tianxiatv/stream-e26c25913a1149c18a81ac55e70ec593.m3u8
 
 
 1.NOR-WOL,http://serveris6.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIxOjU2IFBNJmhhc2hfdmFsdWU9TGhVbURiZWo5YnB0RTdwQm9keGhvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
