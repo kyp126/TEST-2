@@ -23,7 +23,7 @@ PL R13,#genre#
 1.NOR-WOL,http://serveris6.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIxOjU2IFBNJmhhc2hfdmFsdWU9TGhVbURiZWo5YnB0RTdwQm9keGhvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
 2.NOR-WOL,http://serveris6.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIxOjU2IFBNJmhhc2hfdmFsdWU9TGhVbURiZWo5YnB0RTdwQm9keGhvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
 3.NOR-WOL,http://45.86.191.136/live/wol.m3u8
-
+4.NOR,http://play.tonywill.com.cn/tianxiatv/stream-b826b3b484454b5d99bdc5db540bbaf4.m3u8
 
 
 
