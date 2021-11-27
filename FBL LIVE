@@ -1,8 +1,8 @@
 PL R13,#genre#
 
 
-ARS-NEW
-
+1.ARS-NEW,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAxMTozOTozMCBBTSZoYXNoX3ZhbHVlPXg5M1puT2hSMzFWOGxJVXBiWHFyc0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDI6YzdmOjE2Yjc6M2YwMDo3ZTFjOjRlZmY6ZmVkYjo0ZDkwJnN0cm1fbGVuPTU=
+2.ARS-NEW,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAxMTo0MDozOSBBTSZoYXNoX3ZhbHVlPWRRc29tbUFUb2lUalFDM3dBcmlyOUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTUxLjE3NC4xNjEuNTkmc3RybV9sZW49NQ==
 
 LIV-SOU
 
