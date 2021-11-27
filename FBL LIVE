@@ -13,7 +13,7 @@ PL R13,#genre#
 
 2.LIV-SOU,http://serveris6.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjE3OjA5IFBNJmhhc2hfdmFsdWU9WVFCWGY0T2cwLzZUN3NIVmR3bEpLdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTIzLjIxMS42MS4yNTUmc3RybV9sZW49NQ==
 
-
+3.LIV-SOU,http://45.86.191.136/live/liv.m3u8
 
 
 
