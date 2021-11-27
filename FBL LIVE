@@ -7,7 +7,7 @@ PL R13,#genre#
 
 4.ARS-NEW,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAxMTo1MTo0MyBBTSZoYXNoX3ZhbHVlPW9zbTdKTmpPbXg2WkV0VUt4NWF5RlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDA6MjNjNjo5MzEyOmMxMDE6YTg1Nzo0MjY6MTk0ODo4NzU1JnN0cm1fbGVuPTU=
 
-5.ARS-NEW,https://mcd.ex.co:443/video/upload/c_limit,w_1280,h_720,vc_h264:main:3.1,br_5500k/v1576677449/landscape9026996a-1c84-4c61-af39-12af95be0269_1576677187355.m3u8
+5.ARS-NEW
 
 
 
