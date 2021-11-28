@@ -7,10 +7,11 @@ PL R13,#genre#
 4.MCI-WHU,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQxOjQ4IFBNJmhhc2hfdmFsdWU9cEQxaDZYYldaQjN3UVI1NHRkcDhRZz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODIuMy42LjEzMyZzdHJtX2xlbj01
 
 
-1.BUR-TOT
-2.BUR-TOT
-3.BUR-TOT
-4.BUR-TOT
+1.BUR-TOT,http://cro.hockeynews.club:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQyOjU1IFBNJmhhc2hfdmFsdWU9cms2eGo3Qk5mdUw0ZzFvZUZMSEFwZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjI1My42OC4xMTUmc3RybV9sZW49NQ==
+2.BUR-TOT,http://cro.hockeynews.club:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQyOjU1IFBNJmhhc2hfdmFsdWU9cms2eGo3Qk5mdUw0ZzFvZUZMSEFwZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjI1My42OC4xMTUmc3RybV9sZW49NQ==
+3.BUR-TOT,http://45.148.26.176/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQ0CjowMQogUE0maGFzaF92YWx1ZT05dDhLZnhYWXJ6V0dVQ1piVDVuQWp3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTkuNzQuMjIwLjIyMyZzdHJtX2xlbj00
+4.BUR-TOT,http://cro.hockeynews.club:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQ0OjMyIFBNJmhhc2hfdmFsdWU9ZERESkVRYzQ0MlJqc1psMTFXNVVpUT09JnZhbGlkbWludXRlcz0xMjAmaWQ9NTQuMTk2LjMxLjEyMyZzdHJtX2xlbj01
+
  
 1.LEI-WAT,http://cdn4.cyclingnews.live/hls/Q1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjIxCjoxMgogUE0maGFzaF92YWx1ZT1wNExkS25PNTRwckpRL0dCRUo4UFh3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTkuNzQuMjIwLjIyMyZzdHJtX2xlbj00
 2.LEI-WAT
