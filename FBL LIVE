@@ -19,9 +19,10 @@ PL R13,#genre#
 4.LEI-WAT,http://cro.hockeynews.club:80/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQ2OjUyIFBNJmhhc2hfdmFsdWU9K0FxQUkrVkF1MngyZ2FoNlFqakFOZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9ODguMTA5LjI0Ni43MCZzdHJtX2xlbj01
 
 1.BRE-EVE,http://45.148.26.176/hls/M3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjE4Cjo1MwogUE0maGFzaF92YWx1ZT1sRTQyTDVGQ3V5REQ4SXNRRVpPRDRBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTkuNzQuMjIwLjIyMyZzdHJtX2xlbj00
-1.BRE-EVE
-2.BRE-EVE
-3.BRE-EVE
+1.BRE-EVE,http://cro.hockeynews.club:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQ3OjUwIFBNJmhhc2hfdmFsdWU9QjFDQmZWYVRnTUlwbjczMnhIaWRTQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTkyLjQxLjExNC4yMjUmc3RybV9sZW49NQ==
+2.BRE-EVE,http://cro.hockeynews.club:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQ3OjUwIFBNJmhhc2hfdmFsdWU9QjFDQmZWYVRnTUlwbjczMnhIaWRTQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTkyLjQxLjExNC4yMjUmc3RybV9sZW49NQ==
+3.BRE-EVE,http://cro.hockeynews.club:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjQ5OjA4IFBNJmhhc2hfdmFsdWU9K0pKeGVGYlR6bi82enVDK0lZaUk0UT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTE5Ljc0LjIyMC4yMjMmc3RybV9sZW49NQ==
+
 
 
 1.CHE-MUN
