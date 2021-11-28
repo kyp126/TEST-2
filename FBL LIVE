@@ -1,38 +1,21 @@
 PL R13,#genre#
+MCI-WHU
 
 
-1.LIV-SOU,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAxMTozOTozMCBBTSZoYXNoX3ZhbHVlPXg5M1puT2hSMzFWOGxJVXBiWHFyc0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDI6YzdmOjE2Yjc6M2YwMDo3ZTFjOjRlZmY6ZmVkYjo0ZDkwJnN0cm1fbGVuPTU=
+BUR-TOT
 
-2.LIV-SOU,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAxMTo0MDozOSBBTSZoYXNoX3ZhbHVlPWRRc29tbUFUb2lUalFDM3dBcmlyOUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTUxLjE3NC4xNjEuNTkmc3RybV9sZW49NQ==
-
-3.LIV-SOU,http://45.86.191.136/live/liv.m3u8
-
-4.LIV-SOU,http://play.tonywill.com.cn/tianxiatv/stream-e26c25913a1149c18a81ac55e70ec593.m3u8
+ 
+LEI-WAT
 
 
-1.NOR-WOL,http://serveris6.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIxOjU2IFBNJmhhc2hfdmFsdWU9TGhVbURiZWo5YnB0RTdwQm9keGhvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
-2.NOR-WOL,http://serveris6.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIxOjU2IFBNJmhhc2hfdmFsdWU9TGhVbURiZWo5YnB0RTdwQm9keGhvQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
-3.NOR-WOL,http://45.86.191.136/live/wol.m3u8
-4.NOR,http://play.tonywill.com.cn/tianxiatv/stream-b826b3b484454b5d99bdc5db540bbaf4.m3u8
+BRE-EVE
 
 
 
-
-1.CP-AVL,http://serveris6.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjE4OjQ0IFBNJmhhc2hfdmFsdWU9Z3Z1VXpjOGh6b0EwSnBScXBReU1HZz09JnZhbGlkbWludXRlcz03MjAmaWQ9ODYuMTEzLjE1LjY3JnN0cm1fbGVuPTU=
-2.CP-AVL,http://serveris6.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAyOjIwOjE4IFBNJmhhc2hfdmFsdWU9YWZZeU9vYkFOYXVZdDdEY0NTSE5nQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTE1LjY2LjIwNy4yNDcmc3RybV9sZW49NQ==
-3.CP-AVL,http://45.86.191.136/live/ssv2.m3u8
-
-
-LA LIGA R15,#genre#
-1.Deportivo Alavés -Celta Vigo,http://serveris2.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAxMjozMzo0OSBQTSZoYXNoX3ZhbHVlPU9zb2F2K25MRFpVTGRGSE9ZSnQzZUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDA6MjAwMDo1NTAwOjoxMyZzdHJtX2xlbj01
-2.Deportivo Alavés -Celta Vigo,http://serveris1.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSAxMjozODoyNyBQTSZoYXNoX3ZhbHVlPXQydk5ka0RnSk4wbmtXSC9yOGx1SkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMDE6NDFkMDoyOjgzNDA6OjEmc3RybV9sZW49NQ==
+CHE-MUN
 
 
 
-
-Serie A Round 13,#genre#
-Empoli - Fiorentina,http://play.szbbnrt.com/rrty/hd-zh-1-3586526.m3u8?txSecret=b44970b9adb2b1a98b059a06b03c7eae&txTime=61A23975
-Sampdoria - Hellas Verona,http://live01-ali.myeogm.com/live/streamcnhd7136.m3u8?auth_key=1638030900-bc6a20fab63941b5b610045de797aa1f-0-7a233064163380febc4053ee73fa066a
 
 
 
