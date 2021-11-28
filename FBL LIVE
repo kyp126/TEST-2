@@ -22,7 +22,8 @@ PL R13,#genre#
 
 1.CHE-MUN,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAzOjU3OjA4IFBNJmhhc2hfdmFsdWU9MldkRHJtYUpHaWlvRGVxdDd5QUVxUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MzcuNDkuNjAuMTk5JnN0cm1fbGVuPTU=
 
-2.CHE-MUN
+2.CHE-MUN,http://45.148.26.176/hls/M3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAzOjU5CjoxMwogUE0maGFzaF92YWx1ZT1aRGtFcE9FTE5mcURFTWtxUHF1ellnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xMTkuNzQuMjIwLjIyMyZzdHJtX2xlbj00
+
 3.CHE-MUN
 4.CHE-MUN
 
