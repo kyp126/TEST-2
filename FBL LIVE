@@ -7,6 +7,8 @@ PL R14,#genre#
 
 1.SOU-BHA,http://cdn2.cyclingnews.live/hls/P2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDI6MzYKOjUyCiBQTSZoYXNoX3ZhbHVlPTFBdEFKMlJ2M0VHSHpLYjFrKzQ2NVE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC4xNDIuMTU1JnN0cm1fbGVuPTQ=
 2.SOU,http://cro.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDI6NDM6MzYgUE0maGFzaF92YWx1ZT1QTysxOE8wekN6WVlDdjJhMjF0UWtBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNjUuMjI1LjE5Ny4yMSZzdHJtX2xlbj01
+3.SOU,http://play.tonywill.com.cn/tianxiatv/stream-3eea4fed753f4107ae15547c58f979c2.m3u8
+
 
 1.NEW-BUR,http://cro.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDI6NDc6MTcgUE0maGFzaF92YWx1ZT02Szk0YUdYRGx5c1NmSEhaemZOb2dBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD00Mi42MC4xMTIuMzMmc3RybV9sZW49NQ== 
 2.NEW-BUR,http://cro.hockeynews.club/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDI6NDg6MzEgUE0maGFzaF92YWx1ZT01T3BSYjNFUFBkaEFuRmx3bHJySXdRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAwOjIzYzY6OTE4YjplNTAxOmY4MWY6YjExYTo4YWMzOjY4ZGMmc3RybV9sZW49NQ==
