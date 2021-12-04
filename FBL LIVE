@@ -1,27 +1,11 @@
 PL R14,#genre#
 
 1.WHU-CHE,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDEyOjE3OjEwIFBNJmhhc2hfdmFsdWU9WWsyQ0tXRmZ0bUpPc3pjeXB2U3RPZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTAzLjc3LjIzMy4zOCZzdHJtX2xlbj01
+2.WHU,http://cdn1.cyclingnews.live/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDEyOjIxCjo0NAogUE0maGFzaF92YWx1ZT1CSytBMEM2OVdpSjVTQm1GRkJrUzZ3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQzLjc2JnN0cm1fbGVuPTQ=
 
 
 
 
-
-Ligue 1,#genre#
-1.Saint-Étienne-PSG,http://185.53.89.183/hls/bt1.m3u8
-
-2.PSG,http://cro.hockeynews.club:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMjoyNjozMSBQTSZoYXNoX3ZhbHVlPTUybmFScm0ySnZ6U1FFRE5Cb0tJMGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE4OC4xNTQuMTY0LjI0NiZzdHJtX2xlbj01
-3.PSG,http://45.148.26.176/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMjoyNwo6MzgKIFBNJmhhc2hfdmFsdWU9Z2lRRFQxMjF2SnpaVmNOZGxQejdWZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTE5Ljc0LjIyMC4yMjMmc3RybV9sZW49NA==
-
-
-Serie A 13,#genre#
-1.Udinese -Genoa,http://serveris404.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMjozNTo0OSBQTSZoYXNoX3ZhbHVlPUFacDFpK3R5ZzlTSlFHRTRURjBaOWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTkxLjIzMS40MS44NSZzdHJtX2xlbj01
-2.Udinese -Genoa,http://cro.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMjozODo0MCBQTSZoYXNoX3ZhbHVlPUprM0Z4a053aEc0SnlQTEptUFovcFE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTg4LjIxMi4zNy4yMDEmc3RybV9sZW49NQ==
-3.UDINESE,http://cro.hockeynews.club:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxMjo0MzoxMiBQTSZoYXNoX3ZhbHVlPXl4N2J6eEhSNzRSZ2liNU55OTlvUkE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTEwNC4yNDguOTQuMzkmc3RybV9sZW49NQ==
-
-LA LIGA R15,#genre#
-1.Real Betis-Levante,http://cro.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjAxOjI4IFBNJmhhc2hfdmFsdWU9d0JpQzhGMmxmODBncGl0ZXlvUFdKQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTU5LjY1Ljk5LjI1NSZzdHJtX2xlbj01
-2.Real Betis-Levante,http://cro.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjAzOjM4IFBNJmhhc2hfdmFsdWU9SFVNVFIxWUQrRmM5OTY3MkVRSjdodz09JnZhbGlkbWludXRlcz03MjAmaWQ9OTIuNDAuMTk4LjEzOCZzdHJtX2xlbj01
-3.Real Betis-Levante,http://cro.hockeynews.club:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMSAxOjA2OjEzIFBNJmhhc2hfdmFsdWU9dnVtMXU0V3ZOU2ZqZURlMm40czFYdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9NzQuMTE5LjExOS40MyZzdHJtX2xlbj01
 
 
 
