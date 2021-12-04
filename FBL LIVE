@@ -2,7 +2,7 @@ PL R14,#genre#
 
 1.WHU-CHE,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDEyOjE3OjEwIFBNJmhhc2hfdmFsdWU9WWsyQ0tXRmZ0bUpPc3pjeXB2U3RPZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTAzLjc3LjIzMy4zOCZzdHJtX2xlbj01
 2.WHU,http://cdn1.cyclingnews.live/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDEyOjIxCjo0NAogUE0maGFzaF92YWx1ZT1CSytBMEM2OVdpSjVTQm1GRkJrUzZ3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQzLjc2JnN0cm1fbGVuPTQ=
-
+3.WHU,http://play.tonywill.com.cn/tianxiatv/stream-b18cee8d08e345c4a6dc8833ef4aea84.m3u8
 
 
 
