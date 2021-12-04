@@ -22,7 +22,7 @@ PL R14,#genre#
 1.00am
 Saudi Arabia GP  F1,#genre#
 Q1,http://cro.hockeynews.club:80/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDM6MDI6NTkgUE0maGFzaF92YWx1ZT1LbjlZb294d2pXa3lVOC9hb1R3cElRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzYuMTY5LjE4NC44NCZzdHJtX2xlbj01
-
+Q2,http://cro.hockeynews.club/live/streamf1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDM6MTA6NTMgUE0maGFzaF92YWx1ZT1yYmFpSVhKc0Z2cU5NVUNneTllTktBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDAxOjhhMDpmODdlOjExMDA6YjU1YTpjZDA4OmNlMjo0ZGU1JnN0cm1fbGVuPTU=
 
 TEST2,https://m3u8.cultureplus.shop/play/54f86b194b4d8e33f523e44bae2df004924f29d4ebf12eae830636271f9b79062a964490ca9b5fb6a483ee3118f2e709.m3u8
 Test,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8 
