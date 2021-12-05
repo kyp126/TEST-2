@@ -1,4 +1,7 @@
 PL R14,#genre#
+1.MUN-CP,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDE6MTE6MjIgUE0maGFzaF92YWx1ZT1naFpQNlZxQ3RWQ2R3TWNxQ0RLZDN3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yYTAyOmM3ZTo3NmM6NGQwMDpjODFkOjU1ZWE6OGYyNjo1ZTk0JnN0cm1fbGVuPTU= 
+
+
 Bologna-Fiorentina,http://cro.hockeynews.club:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEwOjU0OjU0IEFNJmhhc2hfdmFsdWU9TTNFQlhOdUFEU0daQnZmMlBTOUNWdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTY3LjE3Mi4zNy44MSZzdHJtX2xlbj01
 Serie A R16,#genre#
 1.Bologna-Fiorentina,http://cro.hockeynews.club:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEwOjU0OjU0IEFNJmhhc2hfdmFsdWU9TTNFQlhOdUFEU0daQnZmMlBTOUNWdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTY3LjE3Mi4zNy44MSZzdHJtX2xlbj01
