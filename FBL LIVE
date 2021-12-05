@@ -9,7 +9,7 @@ PL R14,#genre#
 
 
 1.LEE-BRE,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDE6MTM6MzMgUE0maGFzaF92YWx1ZT1ycituTmg4SDNUYXNtNmh5UG9RZnBnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yMTMuMTk2LjE1My4xODAmc3RybV9sZW49NQ==
-
+2.LEE-BRE,http://cro.hockeynews.club:80/live/nfl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDE6Mjk6MTIgUE0maGFzaF92YWx1ZT1LTUk0NTJ1SEEzTE9kYkgxMGVkR3VnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD04Ni4xMy4yMDkuMTkzJnN0cm1fbGVuPTU=
 
 
 Bologna-Fiorentina,http://cro.hockeynews.club:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIxIDEwOjU0OjU0IEFNJmhhc2hfdmFsdWU9TTNFQlhOdUFEU0daQnZmMlBTOUNWdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTY3LjE3Mi4zNy44MSZzdHJtX2xlbj01
