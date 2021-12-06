@@ -1,8 +1,17 @@
 http://tv247.us/nba/
 open with chrome browser
 
-NBA LIVE
+NBA LIVE,#genre#
+8:00 am  
+ Hornets -76ers,https://d385rn79iu063n.cloudfront.net:443/hls/hornets/chunks.m3u8
 
+  
+8:00 am  
+Pacers-Wizards ,https://d385rn79iu063n.cloudfront.net:443/hls/pacers/chunks.m3u8
+
+ 
+8:00 am  
+Pistons-Thunder,https://d385rn79iu063n.cloudfront.net:443/hls/nbatv/chunks.m3u8 
 
 
 
