@@ -1,10 +1,7 @@
 http://tv247.us/nba/
 open with chrome browser
 
-NBA LIVE,#genre#
-Hawks-Hornets ,https://d24jjmo1mnvcs0.cloudfront.net:443/hls/hawks/chunks.m3u8
-Raptors -Wizards,https://d24jjmo1mnvcs0.cloudfront.net:443/hls/raptors/chunks.m3u8  
-Rockets -Pelicans,https://d24jjmo1mnvcs0.cloudfront.net:443/hls/rockets/chunks.m3u8
+NBA LIVE
 
 
 
@@ -20,6 +17,16 @@ Mavericks-Grizzlies,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbam
 
 Milwaukee Bucks-Miami Heat,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211205rehuovsxionglu-01295C276.mp4/chunklist.m3u8?dnvodendtime=1638923536&dnvodhash=7zO1bS8oQzvzMZ_2XWu9Ubs9qJdv4mZ7_sQ1fFCXQnE=&dnvodCustomParameter=0_122.11.212.10.SG_1&lb=2f22067cd4b2e623ebe967dada96687e&us=1&vv=8aa82dd6b7dad9bb906461b896350232&pub=CJOpE3SrC3KoC2uqCJ8vD5yfewzCJ8oBZ4nBZ8nCYunC5yScXoncPko6Xgp6fgQCh2PCHmScB6mcPYnCR8odB8n6ozEMGuOpTcOJHaCJ0uCcOoOMHbCs8oD3apD69XOpOnDJ5  
  
+06/12 NBA REPLY,#genre#
+ 
+Hawks-Hornets ,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211206huangfengvslaoying-01C176AB4.mp4/chunklist.m3u8?dnvodendtime=1638975801&dnvodhash=1khGVhRsEyx7UWY94ONZoNcWC4vSfzCiyOAG5_jbPEM=&dnvodCustomParameter=0_121.6.99.85.SG_1&lb=15eca8ecdbf4cb1b71ea9937062e71d1&us=1&vv=cc93cb803a9bfef1248ec8967c618d3f&pub=CJOpE3WmCZavDIuvDJCmELyfewzCJ8nBZOkEJakE3LVDs9XEMKoDc8vP3TbD68qOZaoDsHXCcPYD38vOZ9aOZ9VCpDZD3XZOJWrP64tPcHXCs8pDsCoDMOpDMDbD6OnCp0
+
+
+Raptors -Wizards,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211206qicaivsmenglong-00EB4EAA9.mp4/chunklist.m3u8?dnvodendtime=1638976012&dnvodhash=R6aTbL3Ui-1ze-QrQ9oi647gafph8hx2A4A5TK4nDPo=&dnvodCustomParameter=0_121.6.99.85.SG_1&lb=28724a6286c35736af3c69b429f78190&us=1&vv=729a59675d92830bef5702474b115009&pub=CJOpE3WmCZavDIuvDJCmELyfewzCJ8nBZOkEJakE3LVDs9XEMKoDc8vP3TbD68qOZaoDsHXCcPYD38vOZ9aOZ9VCpDZD3XZOJWrP64tPcHXCs8pDsCoDMOpDMDbD6OnCp0 
+
+Cavaliers-Jazz,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211206jueshivsqishi-00AADF5CC.mp4/chunklist.m3u8?dnvodendtime=1638976092&dnvodhash=oJU7cf2CfzEdRj0TM4whGeKDQ-w3TjRJ6IwncBVmyBY=&dnvodCustomParameter=0_121.6.99.85.SG_1&lb=1eda6003fe70d64982212f3493ef9fd2&us=1&vv=0c48368f3161d8df34abfcc87274338c&pub=CJOpE3WmCZavDIuvDJCmELyfewzCJ8nBZOkEJakE3LVDs9XEMKoDc8vP3TbD68qOZaoDsHXCcPYD38vOZ9aOZ9VCpDZD3XZOJWrP64tPcHXCs8pDsCoDMOpDMDbD6OnCp0
+
+
 
 
 04/12 NBA REPLY,#genre#
