@@ -3,7 +3,7 @@ open with chrome browser
 
 NBA LIVE,#genre#
 Hawks-Hornets ,https://d24jjmo1mnvcs0.cloudfront.net:443/hls/hawks/chunks.m3u8
-
+Raptors -Wizards,https://d24jjmo1mnvcs0.cloudfront.net:443/hls/raptors/chunks.m3u8  
 
 
 
