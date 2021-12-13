@@ -2,22 +2,6 @@ http://tv247.us/nba/
 open with chrome browser
 
 NBA LIVE,#genre#
-7:00 am  
-Detroit Pistons-Brooklyn Nets,https://d385rn79iu063n.cloudfront.net:443/hls/pistons/chunks.m3u8  
-
-
-8:00 am  
-Oklahoma City Thunder-Dallas Mavericks,https://d385rn79iu063n.cloudfront.net:443/hls/thunder/chunks.m3u8  
-
-
-8:00 am  
-San Antonio Spurs-New Orleans Pelicans,https://d385rn79iu063n.cloudfront.net:443/hls/spurs/chunks.m3u8 
-10:00 am  
-Portland Trail Blazers- Timberwolves,https://d385rn79iu063n.cloudfront.net:443/hls/blazers/chunks.m3u8
-
-
-10:30 am  
-Angeles Lakers-Orlando Magic,https://d385rn79iu063n.cloudfront.net:443/hls/lakers/chunks.m3u8
 
 
 
@@ -25,6 +9,28 @@ Angeles Lakers-Orlando Magic,https://d385rn79iu063n.cloudfront.net:443/hls/laker
 
 
 
+13/12 NBA,#genre#
+ 
+Detroit Pistons-Brooklyn Nets  
+
+
+Oklahoma City Thunder-Dallas Mavericks,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211213duxingxiavsleiting-01C14ADA7.mp4/chunklist.m3u8?dnvodendtime=1639578919&dnvodhash=rOHSGMjYFHlZKDc9qu8XBNbJw2X1KZm-XKyimKyinF8=&dnvodCustomParameter=0_115.66.224.216.SG_1&lb=ef9c6cf383ef92e735884314efac364e&us=1&vv=992309217a27e9d5d96ec63317ce7bce&pub=CJOpEJGmDJGnCoupDJ0rE5yfewzCJ4rBZOsBZ8oD2uoCJPVPc5bE6HYCZPbP3KtD6OmOJWpCJWvOZ4sOsCqOZ8nCMDVD6KnCZGnOZGtCJKsP3aqCZKpPMOsP6HaOJ9cCcCrCJ1  
+
+
+San Antonio Spurs-New Orleans Pelicans,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211213tihuvsmaci-0183F2ABC.mp4/chunklist.m3u8?dnvodendtime=1639578863&dnvodhash=C2CvCQJk0fBh_JsSa8oxYF3vSzetRT89yDRLzOpH0KM=&dnvodCustomParameter=0_115.66.224.216.SG_1&lb=e0dac6ce053ff4828f9cb7c62077851a&us=1&vv=937dd91193b41a0d7da2603b2c8a9e8d&pub=CJOpEJGmDJGnCoupDJ0rE5yfewzCJ4rBZOsBZ8oD2uoCJPVPc5bE6HYCZPbP3KtD6OmOJWpCJWvOZ4sOsCqOZ8nCMDVD6KnCZGnOZGtCJKsP3aqCZKpPMOsP6HaOJ9cCcCrCJ1 
+
+Portland Trail Blazers- Timberwolves
+
+
+
+Angeles Lakers-Orlando Magic
+
+
+
+
+
+
+12/12 NBA,#genre#
 Wizards-Jazz,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211212jueshivsqicai-01C5465B3.mp4/chunklist.m3u8?dnvodendtime=1639578560&dnvodhash=CljgsBU_uypQXLYohVeaAwAQWjUL7GNqbgqM8Zn6fYM=&dnvodCustomParameter=0_115.66.224.216.SG_1&lb=5c1942169db619b9f2f30535558c060c&us=1&vv=a731af1a33f84115dbbab37b03dc7653&pub=CJOpEJGmDJGnCoupDJ0rE5yfewzCJ4rBZOsBZ8oD2uoCJPVPc5bE6HYCZPbP3KtD6OmOJWpCJWvOZ4sOsCqOZ8nCMDVD6KnCZGnOZGtCJKsP3aqCZKpPMOsP6HaOJ9cCcCrCJ1  
 Cleveland Cavaliers - Kings,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211212guowangvsqishi-010C045BA.mp4/chunklist.m3u8?dnvodendtime=1639578371&dnvodhash=U10OYIj8MWGry3fyffEALKsxFKIpULSPUbP8krIEgzY=&dnvodCustomParameter=0_115.66.224.216.SG_1&lb=0a82ec792bfa693e493fce56a8278c99&us=1&vv=b5cc474df1898ed675b8036478ea8e2e&pub=CJOpEJGmDJGnCoupDJ0rE5yfewzCJ4rBZOsBZ8oD2uoCJPVPc5bE6HYCZPbP3KtD6OmOJWpCJWvOZ4sOsCqOZ8nCMDVD6KnCZGnOZGtCJKsP3aqCZKpPMOsP6HaOJ9cCcCrCJ1
 Memphis Grizzlies-Houston Rockets,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211212huojianvshuixiong-037DA4E17.mp4/chunklist.m3u8?dnvodendtime=1639578672&dnvodhash=LHVVFWxEWDukyIQVRJizHbkzakGzI3i0DgJA7VRkCnI=&dnvodCustomParameter=0_115.66.224.216.SG_1&lb=dd2b07d82448b0226471c2749588d38d&us=1&vv=4db64a834c9a45ac2cd80ca48771fe20&pub=CJOpEJGmDJGnCoupDJ0rE5yfewzCJ4rBZOsBZ8oD2uoCJPVPc5bE6HYCZPbP3KtD6OmOJWpCJWvOZ4sOsCqOZ8nCMDVD6KnCZGnOZGtCJKsP3aqCZKpPMOsP6HaOJ9cCcCrCJ1
