@@ -3,19 +3,47 @@ open with chrome browser
 
 NBA LIVE,#genre#
 8:00 am  
-76ers-Miami Heat,https://d385rn79iu063n.cloudfront.net:443/hls/76ers/chunks.m3u8
-8:00 am  
-C.Cavaliers-H.Rockets ,https://d385rn79iu063n.cloudfront.net:443/hls/cavaliers/chunks.m3u8
-8:00 am  
-O.Magic-A.Hawks,https://d385rn79iu063n.cloudfront.net:443/hls/magic/chunks.m3u8  
+Indiana PacersDetroit Pistons,https://d20xt6pkpqcef4.cloudfront.net:443/hls/pacers/chunks.m3u8 
+
+
 8:30 am  
-D.Mavericks-LA Lakers ,https://d385rn79iu063n.cloudfront.net:443/hls/espn/chunks.m3u8
+Brooklyn Nets-Philadelphia 76ers,https://d20xt6pkpqcef4.cloudfront.net:443/hls/nbatv/chunks.m3u8  
+
 
 9:00 am  
-M.Bucks-Indiana Pacers,https://d385rn79iu063n.cloudfront.net:443/hls/bucks/chunks.m3u8  
+Houston Rockets-New York Knicks,https://d20xt6pkpqcef4.cloudfront.net:443/hls/rockets/chunks.m3u8
 
-9:00 am  
-Thunder-New Orleans Pelicans ,https://d385rn79iu063n.cloudfront.net:443/hls/thunder/chunks.m3u8
+
+10:00 am  
+Phoenix Suns-Washington Wizards,https://d20xt6pkpqcef4.cloudfront.net:443/hls/suns/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+16/12 NBA,#genre#
+
+76ers-Miami Heat
+
+C.Cavaliers-H.Rockets 
+
+O.Magic-A.Hawks  
+
+D.Mavericks-LA Lakers 
+
+
+M.Bucks-Indiana Pacers  
+
+
+Thunder-New Orleans Pelicans 
 
 
 
