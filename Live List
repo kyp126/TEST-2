@@ -3,30 +3,51 @@ open with chrome browser
 
 NBA LIVE,#genre#
 8:30 am  
-Boston Celtics-Philadelphia 76ers,https://duey7r8di8q9y.cloudfront.net:443/hls/nbatv/chunks.m3u8
+Miami Heat-Indiana Pacers  ,https://duey7r8di8q9y.cloudfront.net:443/hls/TNT/chunks.m3u8
+
+
+8:30 am  
+New York Knicks-Detroit Pistons,https://duey7r8di8q9y.cloudfront.net:443/hls/knicks/chunks.m3u8  
+
+
+
+
+
+
+XXXXXXXXXXXXXXXXXXXX
+8:30 am  
+Boston Celtics-Philadelphia 76ers
 9:00 am  
-Chicago Bulls-Houston Rockets ,https://duey7r8di8q9y.cloudfront.net:443/hls/bulls/chunks.m3u8
+Chicago Bulls-Houston Rockets 
 
  
 9:00 am  
-Memphis Grizzlies -Oklahoma City Thunder ,https://duey7r8di8q9y.cloudfront.net:443/hls/grizzlies/chunks.m3u8
+Memphis Grizzlies -Oklahoma City Thunder 
 
 
 
 
 XXXXXXXXXXXXXXXXXXXX
 
-Detroit Pistons -Miami Heat
-Memphis Grizzlies-Portland Trail Blazers
-Sacramento Kings-San Antonio Spurs
-9:00 am
-Chicago Bulls-Los Angeles Lakers  
-Minnesota Timberwolves-Dallas Mavericks  
-Phoenix Suns-Charlotte Hornets
+21/12 NBA,#genre#
+Chicago Bulls-Houston Rockets ,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211221huojianvsgongniu-01A871015.mp4/chunklist.m3u8?dnvodendtime=1640303119&dnvodhash=2FP3F_VINsaH9pQkZt5gZ_DQiaIulwDkBOFQa4iC8iY=&dnvodCustomParameter=0_2404%3ae801%3a2003%3a2fe%3a34ef%3a61aa%3ab92a%3ab188.SG_1&lb=4eb71e21461537ef8c7121205e712ce7&us=1&vv=b86269aca900c226c87af72aae6dd4e5&pub=CJOqC34oEJSvDouoDp8uD5yfewzCZGmD3fbE30nEZ8mC3CwCcPbEZCqPMOwDZ5XOJfYEJ9XEc8nE3XVDpCnDcKvOJKsD69YD3GtE3asDcPXCpWrE3TXDZbXP6PVDp8oC3avE3GvC3OnDp8vDZWnOZamCZPcC3CnDZWrOs3
+
+ 
+Memphis Grizzlies -Oklahoma City Thunder ,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211221leitingvshuixiong-022884B0E.mp4/chunklist.m3u8?dnvodendtime=1640303174&dnvodhash=mGgoAS14n-GFxfKVOeCM7-KwyGMhrrYVTzcZbEN7cVg=&dnvodCustomParameter=0_2404%3ae801%3a2003%3a2fe%3a34ef%3a61aa%3ab92a%3ab188.SG_1&lb=43771f82a391530266666b9167bf6ba2&us=1&vv=305bf35a3c43ed438d2ac67926254848&pub=CJOqC34oEJSvDouoDp8uD5yfewzCZGmD3fbE30nEZ8mC3CwCcPbEZCqPMOwDZ5XOJfYEJ9XEc8nE3XVDpCnDcKvOJKsD69YD3GtE3asDcPXCpWrE3TXDZbXP6PVDp8oC3avE3GvC3OnDp8vDZWnOZamCZPcC3CnDZWrOs3
+
+Utah Jazz-Charlotte Hornetshttps://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211221huangfengvsyongshi-007ED7627.mp4/chunklist.m3u8?dnvodendtime=1640302678&dnvodhash=UNexfg4jCVYYxpEkmOdGGPlKvtnZeUSTTdgaEvcRIdc=&dnvodCustomParameter=0_2404%3ae801%3a2003%3a2fe%3a34ef%3a61aa%3ab92a%3ab188.SG_1&lb=a46b15657fb806cceae86161b14dee26&us=1&vv=030c7a717f488ca1cbc3894a2c16d314&pub=CJOqC34oEJSvDouoDp8uD5yfewzCZGmD3fbE30nEZ8mC3CwCcPbEZCqPMOwDZ5XOJfYEJ9XEc8nE3XVDpCnDcKvOJKsD69YD3GtE3asDcPXCpWrE3TXDZbXP6PVDp8oC3avE3GvC3OnDp8vDZWnOZamCZPcC3CnDZWrOs3
+
+
+
+Golden State Warriors -Sacramento Kings ,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211221guowangvsyongshi-01A34C540.mp4/chunklist.m3u8?dnvodendtime=1640302604&dnvodhash=1eUy7ZS4o_GK_9M6BFMFFiFk6vxSvQxYS0l5GiJJ9To=&dnvodCustomParameter=0_2404%3ae801%3a2003%3a2fe%3a34ef%3a61aa%3ab92a%3ab188.SG_1&lb=a8f3506e4bc1b8b77a5c105a68fbf84b&us=1&vv=e429a3f8eb904583790bff3918e1698f&pub=CJOqC34oEJSvDouoDp8uD5yfewzCZGmD3fbE30nEZ8mC3CwCcPbEZCqPMOwDZ5XOJfYEJ9XEc8nE3XVDpCnDcKvOJKsD69YD3GtE3asDcPXCpWrE3TXDZbXP6PVDp8oC3avE3GvC3OnDp8vDZWnOZamCZPcC3CnDZWrOs3
+
+ 
+Los Angeles Clippers -San Antonio Spurs,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211221macivskuaichuan-02514D3D3.mp4/chunklist.m3u8?dnvodendtime=1640302744&dnvodhash=StQG6IYbazMVS_tTJ8104vl0t8qgMmTXNzNQJWJ2uXQ=&dnvodCustomParameter=0_2404%3ae801%3a2003%3a2fe%3a34ef%3a61aa%3ab92a%3ab188.SG_1&lb=85eed87d2b3d89fb6d097f0eb20c05dc&us=1&vv=9bd41241c9bddfb0a4c6a8d335406541&pub=CJOqC34oEJSvDouoDp8uD5yfewzCZGmD3fbE30nEZ8mC3CwCcPbEZCqPMOwDZ5XOJfYEJ9XEc8nE3XVDpCnDcKvOJKsD69YD3GtE3asDcPXCpWrE3TXDZbXP6PVDp8oC3avE3GvC3OnDp8vDZWnOZamCZPcC3CnDZWrOs3
 
 
 
 
+XXXXXXXXXXXXXXXXXXXX
 19/12 NBA,#genre#
 Detroit Pistons -Miami Heat,https://s8-e1.dnvodcdn.me/ppot/_definst_/mp4:s8/hvod/ty-nbamgzylqs2021-20211219huojianvshuosai-0090A9FA0.mp4/chunklist.m3u8?dnvodendtime=1640174856&dnvodhash=bmd4DRBh2fZFek7v_4LgxaKnZYLOuf_T-2sPNEgVlnY=&dnvodCustomParameter=0_119.74.218.82.SG_1&lb=16e5b7a925aa32e04f1630ac866b50e6&us=1&vv=4864cae54dcf28794e6c2b60aa88ddf6&pub=CJOqC30mCZ0rDIuvCpKoDryfewzCJ4vBZSqBZ8nE2uuCbySiZ8Scvan71onCHiQ6p4nd3AndB6RcHiR61aRCp6SiAzCZSuDp8vDpbaCMCoOM8rDsLbP6GmDs5cPZSvOZTaCp4
 
