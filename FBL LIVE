@@ -1,9 +1,19 @@
-SUZUKI CUP,#genre#
-THI-VET,http://play.tonywill.com.cn/tianxiatv/stream-26692c3192df421b942338be9e4910df.m3u8
-THA-VIE,http://play.fbmio.com/live/streamhd41974.m3u8?txSecret=4bcbff6d70b9262db415f135b6ced6b5&txTime=61C857E4
 
 
 Football LIVE,#genre#
+1/SOU-Tottenham,http://cro.hockeynews.club:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMSAyOjQyOjE0IFBNJmhhc2hfdmFsdWU9N2FaVGRsRjlOZGkwR2s1cExPMUxadz09JnZhbGlkbWludXRlcz03MjAmaWQ9MzEuMTg1LjIxNy42NyZzdHJtX2xlbj01  
+2/SOU-Tottenham
+
+
+1/WAT-West Ham United,http://cro.hockeynews.club:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMSAyOjQzOjU1IFBNJmhhc2hfdmFsdWU9ME50MEthSCs3TkM2S09NdGFqY042UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTk5LjE3Mi4yMjYuNTUmc3RybV9sZW49NQ==
+
+
+
+
+
+
+
+
 ASSP 1,http://iptv.tvmalaysia.cc:80/174450/174450/9024
 ASSP 2,http://iptv.tvmalaysia.cc:80/174450/174450/9025
 ASSP 3 (LIVE EPL ONLY),http://iptv.tvmalaysia.cc:80/174450/174450/9020
