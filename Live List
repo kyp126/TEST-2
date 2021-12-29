@@ -7,7 +7,11 @@ test,http://iptv.tvfix.org/hls/viutv.m3u8
 8:00 am  
 Orlando Magic-Milwaukee Bucks  
 https://d10nbk66ckd93y.cloudfront.net:443/hls/magic/chunks.m3u8
+8:30 am  
+Miami Heat-Washington Wizards,https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8  
 
+8:30 am  
+Toronto Raptors-Philadelphia 76ers ,https://d10nbk66ckd93y.cloudfront.net:443/hls/raptors/chunks.m3u8
 
 
 
