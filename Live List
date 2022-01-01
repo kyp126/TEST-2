@@ -3,25 +3,8 @@ open with chrome browser
 
 NBA LIVE,#genre#
 test,http://iptv.tvfix.org/hls/viutv.m3u8
-
-
-31.12.21.  
-8:00 am  
-Brooklyn Nets-Philadelphia 76ers ,https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8 
-
-
-
-31.12.21.  
-8:00 am  
-Orlando Magic-Milwaukee Bucks ,https://d10nbk66ckd93y.cloudfront.net:443/hls/magic/chunks.m3u8 
-
-
-
-31.12.21.  
-8:00 am  
-Washington Wizards-Cleveland Cavaliers  ,https://d10nbk66ckd93y.cloudfront.net:443/hls/wizards/chunks.m3u8
-
-
+7.30
+Milwaukee-New Orleans Pelicans,https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8 
 
 
 
