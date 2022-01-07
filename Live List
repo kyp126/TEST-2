@@ -3,17 +3,14 @@ open with chrome browser
 
 NBA LIVE,#genre#
 test,http://iptv.tvfix.org/hls/viutv.m3u8
-7.30
-Milwaukee-New Orleans Pelicans,https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8 
 
-8:00 am  
-Pistons -San Antonio Spurs  ,https://d10nbk66ckd93y.cloudfront.net:443/hls/pistons/chunks.m3u8
+Knicks -Boston Celtics,https://d10nbk66ckd93y.cloudfront.net:443/hls/TNT/chunks.m3u8  
 
-8:00 am  
-Wizards-Chicago Bulls  ,https://d10nbk66ckd93y.cloudfront.net:443/hls/wizards/chunks.m3u8
 
-8:30 am  
-Nets-Los Angeles Clippers ,https://d10nbk66ckd93y.cloudfront.net:443/hls/nets/chunks.m3u8 
+Grizzlies -Detroit Pistons ,https://d10nbk66ckd93y.cloudfront.net:443/hls/grizzlies/chunks.m3u8
 
-9:00 am  
-Rockets-Denver Nuggets,https://d10nbk66ckd93y.cloudfront.net:443/hls/rockets/chunks.m3u8 
+
+Pelicans -Golden State Warriors  ,https://d10nbk66ckd93y.cloudfront.net:443/hls/pelicans/chunks.m3u8
+
+
+Suns -Los Angeles Clippers,https://d10nbk66ckd93y.cloudfront.net:443/hls/TNT/chunks.m3u8
