@@ -1,11 +1,6 @@
 
-
-FA CUP LIVE,#genre#
-Liverpool -Shrewsbury Town,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgMTo0Mwo6MzgKIFBNJmhhc2hfdmFsdWU9R05tZXBhWkFRZitQYjUzYmJRSjhRdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE4OS42NCZzdHJtX2xlbj00
-Tottenham-Morecambe  ,http://45.148.26.188/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgMTo0NQo6NDIKIFBNJmhhc2hfdmFsdWU9eFRwdlVnVjdqbGZqM015ckdSMHp1UT09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE0My43NiZzdHJtX2xlbj00
-West Ham United -Leeds United  ,http://45.148.26.188/hls/M3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgMTo0Nwo6MjgKIFBNJmhhc2hfdmFsdWU9c1UzQTZRWFRKaVNsVUt6Z21vUUtLZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE0Mi4xNDUmc3RybV9sZW49NA==
-Wolverhampton-Sheffield United,http://cdn2.cyclingnews.live/hls/P2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjIgMjoxNAo6MjMKIFBNJmhhc2hfdmFsdWU9d1JHeXZNeEFRaktsQ0twdnF6b1Rxdz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjE0Ny45JnN0cm1fbGVuPTQ=
-ARS,https://cdn02211.koralast.com:443/UpFiles/2022/1/9/42/211817/720p.m3u8
+EPL,#genre#
+MC-CHE,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIyIDEyOjU4CjozNQogUE0maGFzaF92YWx1ZT1kRjd1eEM3Vy9BQUM2V3hZWjgwajJnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTg5LjY0JnN0cm1fbGVuPTQ=
 
 
 
