@@ -2,23 +2,18 @@ http://tv247.us/nba/
 open with chrome browser
 
 NBA LIVE,#genre#
-test,http://iptv.tvfix.org/hls/viutv.m3u8
+Detroit Pistons-New Orleans Pelicans  ,https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pistons/chunks.m3u8
 
-Los Angeles Clippers  
-Memphis Grizzlies  
+Milwaukee Bucks -Washington Wizards,https://d2tj0mi9jdso2q.cloudfront.net:443/hls/TNT/chunks.m3u8  
 
+Toronto Raptors-Miami Heat ,https://d2tj0mi9jdso2q.cloudfront.net:443/hls/raptors/chunks.m3u8 
 
-Charlotte Hornets-Milwaukee Bucks ,https://d10nbk66ckd93y.cloudfront.net:443/hls/hornets/chunks.m3u8 
+Chicago Bulls-Orlando Magic ,https://d2tj0mi9jdso2q.cloudfront.net:443/hls/bulls/chunks.m3u8 
 
+Minnesota Timberwolves-Denver Nuggets ,https://d2tj0mi9jdso2q.cloudfront.net:443/hls/timberwolves/chunks.m3u8 
 
-Detroit Pistons-Orlando Magic,https://d10nbk66ckd93y.cloudfront.net:443/hls/pistons/chunks.m3u8 
+San Antonio Spurs-Golden State Warriors,https://d2tj0mi9jdso2q.cloudfront.net:443/hls/spurs/chunks.m3u8  
 
- 
-Indiana Pacers -Utah Jazz  ,https://d10nbk66ckd93y.cloudfront.net:443/hls/pacers/chunks.m3u8
-
-
-Boston Celtics -New York Knicks ,https://d10nbk66ckd93y.cloudfront.net:443/hls/nbatv/chunks.m3u8 
-
-
-Phoenix Suns -Miami Heat,https://d10nbk66ckd93y.cloudfront.net:443/hls/suns/chunks.m3u8
+Phoenix Suns  
+Brooklyn Nets
 
