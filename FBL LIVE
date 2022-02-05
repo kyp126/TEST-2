@@ -1,7 +1,8 @@
 
-AFC WC QLY,#genre#
-JAPAN-CHINA,http://play.tonywill.com.cn/tianxiatv/stream-e33e1cbe247e47eabc0eab34896d3966.m3u8
-AUS-VIET,http://play.tonywill.com.cn/tianxiatv/stream-c9b5a483409c493bb5514155542c692d.m3u8
+FA CUP,#genre#
+1/Chelsea-Plymouth Argyle,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgMTI6MDEKOjM2CiBQTSZoYXNoX3ZhbHVlPTZIWDlOUTlkbWJVbitoNGJVUWhDdGc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC45Mi4xNzUmc3RybV9sZW49NA==
+
+
 
 ASSP 1,http://iptv.tvmalaysia.cc:80/174450/174450/9024
 ASSP 2,http://iptv.tvmalaysia.cc:80/174450/174450/9025
