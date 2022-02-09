@@ -1,12 +1,20 @@
 
 
-PL R24,#genre
+PL R24,#genre#
+MC-Brentford,https://cdn02211.koralast.com:443/UpFiles/2022/2/9/42/215581/720p.m3u8
+
+TOT-Southampton ,https://cdnx00.koralast.com:443/UpFiles/2022/2/9/42/215587/720p.m3u8
+
+NOR-Crystal Palace  ,https://cdn02211.koralast.com:443/UpFiles/2022/2/9/42/215598/720p.m3u8
+
+AVL-Leeds United,https://cdnx00.koralast.com:443/UpFiles/2022/2/9/42/215596/720p.m3u8  
 NEW-Everton,https://cdnx00.koralast.com:443/UpFiles/2022/2/8/42/215498/720p.m3u8  
 WHU-Watford ,https://cdnx00.koralast.com:443/UpFiles/2022/2/8/42/215499/720p.m3u8
 BUR-Manchester United ,https://cdnx00.koralast.com:443/UpFiles/2022/2/8/42/215488/360p.m3u8
 
 
 COPPA ITLIA 1/4,#genre#
+Milan-Lazio ,https://cdnx00.koralast.com:443/UpFiles/2022/2/9/42/215590/720p.m3u8
 Inter-Roma ,https://cdnx00.koralast.com:443/UpFiles/2022/2/8/42/215480/720p.m3u8 
 
 
