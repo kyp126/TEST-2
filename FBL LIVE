@@ -2,13 +2,8 @@ PL R25,#genre#
 MU-Southampton ,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIyIDExOjU0CjoyNwogQU0maGFzaF92YWx1ZT1xZVIyQ3QwRjVIWFZRd3BKaUVGbHlnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuOTIuMTc1JnN0cm1fbGVuPTQ=
 
 
-TEST,#genre#
-ASSP 1,http://iptv.tvmalaysia.cc:80/174450/174450/9024
-ASSP 2,http://iptv.tvmalaysia.cc:80/174450/174450/9025
-ASSP 3 (LIVE EPL ONLY),http://iptv.tvmalaysia.cc:80/174450/174450/9020
-ASSP 4,http://iptv.tvmalaysia.cc:80/174450/174450/9026
-
-
+Laliga,#genre#
+Cádiz-Celta Vigo  ,http://cdn4.cyclingnews.live/hls/Q1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIyIDEyOjQ3CjoxNQogUE0maGFzaF92YWx1ZT1vWHFjZWEveFJndGo1L3RySEYzakVRPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuMTQ3LjE2OSZzdHJtX2xlbj00
 
 
 
