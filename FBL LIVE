@@ -1,9 +1,5 @@
-FA CUP R4,#genre#
-Liverpool-Cardiff City,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMTE6MjYKOjQ5CiBBTSZoYXNoX3ZhbHVlPTZPVzZnUmpPU1R2VnJqT2dyWWpiNVE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE3Mi43MC45Mi4xNzUmc3RybV9sZW49NA== 
-
-LALIGA,#genre#
-Barcelona-Atlético Madrid,http://45.148.26.188/hls/M2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgMzowMgo6NTcKIFBNJmhhc2hfdmFsdWU9MFIydkxlNmpHQzZFaGx3L1JMdEt0Zz09JnZhbGlkbWludXRlcz0xMjAmaWQ9MTcyLjcwLjkyLjE4OSZzdHJtX2xlbj00
-
+PL R25,#genre#
+MU-Southampton ,http://45.148.26.188/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIyIDExOjU0CjoyNwogQU0maGFzaF92YWx1ZT1xZVIyQ3QwRjVIWFZRd3BKaUVGbHlnPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xNzIuNzAuOTIuMTc1JnN0cm1fbGVuPTQ=
 
 
 TEST,#genre#
