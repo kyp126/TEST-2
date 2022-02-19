@@ -1,6 +1,23 @@
 
 
 
+
+PL R26,#genre#
+WHU-NEW,https://cdnx00.koralast.com:443/UpFiles/2022/2/19/42/216852/720p.m3u8
+LIV-NOR,https://cdnx00.koralast.com:443/UpFiles/2022/2/19/42/216971/720p.m3u8
+CP-CHE,https://cdn02211.koralast.com:443/UpFiles/2022/2/19/42/216906/720p.m3u8
+ARS-BRE,https://cdnx00.koralast.com:443/UpFiles/2022/2/19/42/216915/720p.m3u8
+
+SOU-EVE,https://cdn02211.koralast.com:443/UpFiles/2022/2/19/42/217012/720p.m3u8
+
+AVL-WAT,https://cdnx00.koralast.com:443/UpFiles/2022/2/19/42/217005/720p.m3u8
+
+BHA-BIR,https://cdnx00.koralast.com:443/UpFiles/2022/2/19/42/217003/720p.m3u8
+
+MC-TOT,https://cdn02211.koralast.com:443/UpFiles/2022/2/19/42/217053/720p.m3u8
+
+
+
 Bundesliga R23,#genre#
 Mainz-Leverkusen,https://cdnx00.koralast.com:443/UpFiles/2022/2/18/42/216810/720p.m3u8
 
