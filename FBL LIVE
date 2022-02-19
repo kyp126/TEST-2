@@ -3,7 +3,7 @@
 PL R26,#genre#
 ARS-BRE,https://d1eqmybbugbqy9.cloudfront.net/hls/arsenal/chunks.m3u8
 CP-CHE,http://170.187.152.112:80/live/abr_b-2/live/b-2/chunks.m3u8
-
+LIV-NOR,http://173.255.244.205:80/live/abr_b-3/live/b-3/chunks.m3u8
 
 
 
