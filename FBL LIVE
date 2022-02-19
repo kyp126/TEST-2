@@ -5,11 +5,15 @@ WHU-NEW,https://video-weaver.sin04.hls.live-video.net/v1/playlist/CpIFS3ttVbGQHg
 
 
 CCTV,#genre#
+CCTV5a,http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive
+CCTV5b,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channel-id=ystenlive
+CCTV5c,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv5/1.m3u8?channel-id=ystenlive
+CCTV5+HD1,http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?channel-id=ystenlive
+CCTV5+HD2,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv05plus/1.m3u8?channel-id=ystenlive
+CCTV5-体育频道,http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
 
-CCTV5,https://itv.olevod.tv:5443/live/cctv5hdbupt.m3u8
-
-CCTV5+,https://itv.olevod.tv:5443/live/cctv5phdbupt.m3u8
-
+CCTV5+体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV5+体育赛事,http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
 精品體育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8  
 咪咕視頻·PP體育1http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8 
 博斯運動2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
