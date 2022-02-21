@@ -1,5 +1,11 @@
 http://tv247.us/nba/
 open with chrome browser
+
+NBA LIVE,#genre#
+ALL STAR,https://d2ugkn5if9b7a4.cloudfront.net:443/hls/TNT/chunks.m3u8
+
+
+
 sport,#genre#
 NBA TV（备）,http://84.22.33.214:80/nbatv/index.m3u8
 CBS Sports FHD,http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
@@ -13,8 +19,6 @@ CBS Sports FHD,http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/mas
 One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
-NBA LIVE,#genre#
-NEW YORK- LOS ANGELES LAKES,https://dqm8bvwrahfi8.cloudfront.net:443/hls/abc/chunks.m3u8
 
 
  MILWAUKE BUCKS-PORTLA TRAIL,https://dqm8bvwrahfi8.cloudfront.net:443/hls/blazers/chunks.m3u8
