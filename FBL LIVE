@@ -12,6 +12,8 @@ Valencia-Barcelona ,http://172.105.24.28:80/live/abr_b-2/live/b-2/chunks.m3u8
 
 CCTV,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+CCTV5,http://140.207.241.2:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5a,http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?channel-id=ystenlive
 CCTV5b,http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv5/1.m3u8?channel-id=ystenlive
 CCTV5c,http://111.11.121.184:6610/030000001001/HD-2500k-1080P-cctv5/1.m3u8?channel-id=ystenlive
