@@ -1,6 +1,7 @@
 
 PL R27,#genre#
 LC-Leeds,http://awsc.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMTE6NDE6NDYgQU0maGFzaF92YWx1ZT1FMVJyaFBIOVRMUE0xM2R3d2ovWThRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yODAwOjNjMDoyMDkwOjEwNTE6ZTQyMzpiYjBiOmFiMzM6ZjNjOCZzdHJtX2xlbj01
+2/ LC-LEE,https://d19vr13rl4rhzd.cloudfront.net:443/out/v1/8c26cf1f6376407eb0e5f14b43bfd4c3/index_1.m3u8
 
 
 
