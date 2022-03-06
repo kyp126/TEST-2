@@ -1,23 +1,6 @@
 
 PL R27,#genre#
-BUR-Chelsea,http://awsc.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMjoyNjozMiBQTSZoYXNoX3ZhbHVlPUU0cHJiK3lCQUJ2c011Z2FNRW9NVWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMDE6NDQ4YTo2MDIwOjRlYzI6ZThhOTo0ZmZkOmYxYWY6MTk5NCZzdHJtX2xlbj01
-AVL-Southampton,http://cdn8.sportek.xyz:80/live/abr_b-2/live/b-2/chunks.m3u8?BONGSTREAMS
-#http://awsd.mazystreams.xyz:80/live/6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMjozNDoxOSBQTSZoYXNoX3ZhbHVlPXFrNzBBRUdQdTRUVFhqeDRGV29WMkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTExNS42Ni4yMDYuNjcmc3RybV9sZW49NQ==
-WOL-Crystal Palace ,http://awsc.mazystreams.xyz:80/live/7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMjozNjozMyBQTSZoYXNoX3ZhbHVlPXY1dUxEQ1EvdURTWXhWdkxIYjRSVXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDI6YzdlOjRjMDc6OWMwMDpmMGRhOjNlZTI6YWU6ZGExZSZzdHJtX2xlbj01
-NEW-Brighton & Hove Albion ,http://awsb.mazystreams.xyz:80/live/8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMjozODoxMSBQTSZoYXNoX3ZhbHVlPVJPblhzakhJQ2Z4M01GMm1wS2hyTmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE5NS44MC4xNTAuMjI4JnN0cm1fbGVuPTU=
-NOR Brentford ,http://awsd.mazystreams.xyz:80/live/5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMjo1MjowNyBQTSZoYXNoX3ZhbHVlPUVCK1dtWlhUWmRBQStXM0hpWng0VUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTg2LjE0Mi4xOC41MyZzdHJtX2xlbj01
-
-S LC-Leeds,http://awsc.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMTE6NDE6NDYgQU0maGFzaF92YWx1ZT1FMVJyaFBIOVRMUE0xM2R3d2ovWThRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yODAwOjNjMDoyMDkwOjEwNTE6ZTQyMzpiYjBiOmFiMzM6ZjNjOCZzdHJtX2xlbj01
-BT LC-LEE,https://d19vr13rl4rhzd.cloudfront.net:443/out/v1/8c26cf1f6376407eb0e5f14b43bfd4c3/index_1.m3u8
-
-
-LIGA R27,#genre#
-Osasuna-Villarreal,http://awsb.mazystreams.xyz:80/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMTI6MTE6MjggUE0maGFzaF92YWx1ZT1pZE5WVlVML0RJcS96OXpMY25NaU13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjUuMjMyLjEyMi4yMjMmc3RybV9sZW49NQ==
-
-
-Serie A R28,#genre#
-Udinese-Sampdoria,http://awsb.mazystreams.xyz:80/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjIgMToyNzo1MSBQTSZoYXNoX3ZhbHVlPVhzMVlhZ1J4dExHc25Eclp5SFhJeWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE2NC45MC4yMzYuMTcyJnN0cm1fbGVuPTU=  
-
+WAT-Arsenal,http://awsd.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyMjoxMyBQTSZoYXNoX3ZhbHVlPXJxRmVERHhGNTR4RUNRSWVuUjNWWWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDA6MjNjNTpkZDQxOmJiMDE6YzA0OjEwNzM6NmJkOjQwMDQmc3RybV9sZW49NQ==
 
 
 CCTV,#genre#
