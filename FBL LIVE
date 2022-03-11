@@ -1,7 +1,9 @@
 
-PL R27,#genre#
-WAT-Arsenal,http://awsd.mazystreams.xyz:80/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyMjoxMyBQTSZoYXNoX3ZhbHVlPXJxRmVERHhGNTR4RUNRSWVuUjNWWWc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDA6MjNjNTpkZDQxOmJiMDE6YzA0OjEwNzM6NmJkOjQwMDQmc3RybV9sZW49NQ==
-S WAT,http://20.90.185.183:80/live/abr_b-1/live/b-1/chunks.m3u8?BONGSTREAMS
+
+LOGA R28,#genre#
+Atlético Madrid-Cádiz,https://ok6-11.vkuser.net/expires/1647128612784/srcIp/115.66.185.121/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/BtgXyn1E0HU/ct/8/urls/185.226.53.43%3B45.136.21.78/clientType/0/zs/43/id/2214731844314/video/
+
+
 
 CCTV,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
