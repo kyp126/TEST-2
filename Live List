@@ -4,7 +4,7 @@ open with chrome browser
 NBA LIVE,#genre#
 *8 Orlando Magic-Minnesota Timberwolves,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/magic/chunks.m3u8
 *830 Atlanta Hawks-Los Angeles Clippers,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/hawks/chunks.m3u8
-
+*830 Boston Celtics-Detroit Pistons,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/celtics/chunks.m3u8 
 
 
 
