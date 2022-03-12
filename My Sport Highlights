@@ -3,7 +3,7 @@
 PL R29,#genre#
 MU-TOT,https://cdnb90.koralast.com:443/UpFiles/2022/3/12/42/219743/720p.m3u8
 BRE -BUR,https://cdnb90.koralast.com:443/UpFiles/2022/3/12/42/219670/720p.m3u8
-BHA-LIV,https://cdnc123.koralast.com:443/UpFiles/2022/3/12/42/219615/720p.m3u8
+BHA-LIV,https://cdnb90.koralast.com:443/UpFiles/2022/3/12/42/219615/720p.m3u8#https://cdnc123.koralast.com:443/UpFiles/2022/3/12/42/219615/720p.m3u8
 
 
 
