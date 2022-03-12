@@ -1,21 +1,8 @@
 http://tv247.us/nba/
 open with chrome browser
-12/03
-NBA LIVE,#genre#
-*8 Orlando Magic-Minnesota Timberwolves,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/magic/chunks.m3u8
-*830 Atlanta Hawks-Los Angeles Clippers,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/hawks/chunks.m3u8
-*830 Boston Celtics-Detroit Pistons,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/celtics/chunks.m3u8 
-*9 Houston Rockets-Dallas Mavericks,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/rockets/chunks.m3u8 
-*9 Memphis Grizzlies-New York Knicks,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nbatv/chunks.m3u8
-*9 Miami Heat-Cleveland Cavaliers ,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/heat/chunks.m3u8 
-*9 New Orleans Pelicans-Charlotte Hornets,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/pelicans/chunks.m3u8 
-*930 San Antonio Spurs-Utah Jazz,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/spurs/chunks.m3u8  
-
-*10 Phoenix Suns-Toronto Raptors,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/suns/chunks.m3u8  
-
-*1130 Los Angeles Lakers-Washington Wizards,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nbatv/chunks.m3u8
-
-
+13/03
+NBA LIVE,#genre#.
++9 Chicago Bulls-Cleveland Cavaliers,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/bulls/chunks.m3u8
 
 
 
@@ -34,7 +21,4 @@ One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 
- MILWAUKE BUCKS-PORTLA TRAIL,https://dqm8bvwrahfi8.cloudfront.net:443/hls/blazers/chunks.m3u8
-
-
- THUNDER-SACRAMENTOhttps://dqm8bvwrahfi8.cloudfront.net:443/hls/kings/chunks.m3u8
+ 
