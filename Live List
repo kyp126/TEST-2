@@ -3,6 +3,16 @@ open with chrome browser
 12/03
 NBA LIVE,#genre#
 *8 Orlando Magic-Minnesota Timberwolveshttps://d3bh6k6cdgaj10.cloudfront.net:443/hls/magic/chunks.m3u8
+*830 Atlanta Hawks-Los Angeles Clippers,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/hawks/chunks.m3u8
+
+
+
+
+
+
+
+
+
 
 sport,#genre#
 NBA TV（备）,http://84.22.33.214:80/nbatv/index.m3u8
