@@ -3,6 +3,19 @@ open with chrome browser
 13/03
 NBA LIVE,#genre#
 +9 Chicago Bulls-Cleveland Cavaliers,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/bulls/chunks.m3u8
++9 Miami Heat-Minnesota Timberwolves,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/heat/chunks.m3u8  
+
++9 S.A Spurs-Indiana Pacers,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/spurs/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
