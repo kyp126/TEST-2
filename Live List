@@ -6,6 +6,13 @@ NBA LIVE,#genre#
 +9 Miami Heat-Minnesota Timberwolves,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/heat/chunks.m3u8  
 
 +9 S.A Spurs-Indiana Pacers,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/spurs/chunks.m3u8
++930 Warriors-Milwaukee Bucks,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/abc/chunks.m3u8  
+
++10 Denver Nuggets-Toronto Raptors,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/nuggets/chunks.m3u8 
+ 
++10 Utah Jazz-Sacramento Kings,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/jazz/chunks.m3u8 
+ 
++11 Portland Trail Blazers-Washington Wizards,https://d3bh6k6cdgaj10.cloudfront.net:443/hls/blazers/chunks.m3u8
 
 
 
