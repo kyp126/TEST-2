@@ -3,7 +3,7 @@
 PL R29,#genre#
 CHE-NEW,https://cdnc123.koralast.com:443/UpFiles/2022/3/13/42/219887/720p.m3u8
 
-EVE-WOL,https://cdnb90.koralast.com:443/UpFiles/2022/3/13/42/219917/720p.m3u8,
+EVE-WOL,https://cdnc123.koralast.com:443/UpFiles/2022/3/13/34/219892/720p.m3u8#https://cdnb90.koralast.com:443/UpFiles/2022/3/13/42/219917/720p.m3u8,
 
 
 WHU-AVL,https://cdnc123.koralast.com:443/UpFiles/2022/3/13/42/219993/720p.m3u8
