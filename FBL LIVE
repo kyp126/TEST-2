@@ -1,6 +1,6 @@
 
-
-ALL ENG,#genre#
+usevpn
+ALL ENG(vpn) ,#genre#
 10:00,http://185.53.88.145:8080/hls/streama179196/index.m3u8?cst=80ee2258e0658074047de75159727ea3
 
 PL R29,#genre#
