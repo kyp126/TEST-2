@@ -8,15 +8,14 @@ http://tv247.us/nba/
 open with chrome browser
 
 NBA LIVE,#genre#
+DATE,27/03
 
-26/03
+7AM Orlando Magic-Sacramento Kings,https://d17f1mg1q6g54e.cloudfront.net:443/hls/magic/chunks.m3u8  
 
-Miami Heat-New York Knicks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/heat/chunks.m3u8 
- 
-Minnesota Timberwolves-Dallas Mavericks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/timberwolves/chunks.m3u8 
-Portland Trail Blazers-Houston Rockets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/blazers/chunks.m3u8
- 
-Los Angeles Clippers-Philadelphia 76ers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
+7.30 Toronto Raptors-Indiana Pacers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/raptors/chunks.m3u8
+
+
+
 
 
 
