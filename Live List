@@ -14,7 +14,9 @@ NBA LIVE,#genre#
 Miami Heat-New York Knicks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/heat/chunks.m3u8 
  
 Minnesota Timberwolves-Dallas Mavericks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/timberwolves/chunks.m3u8 
-
+Portland Trail Blazers-Houston Rockets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/blazers/chunks.m3u8
+ 
+Los Angeles Clippers-Philadelphia 76ers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
 
 
 
