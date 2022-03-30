@@ -12,9 +12,9 @@ NBA LIVE,#genre#
 7:00 Cleveland Cavaliers-Dallas Mavericks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/cavaliers/chunks.m3u8 
 7:00 Indiana Pacers-Denver Nuggets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/pacers/chunks.m3u8 
 7:00 Washington Wizards-Orlando Magic,https://d17f1mg1q6g54e.cloudfront.net:443/hls/wizards/chunks.m3u8 
-7:30 Boston Celtics-Miami Heat  
-7:30 New York Knicks-Charlotte Hornets  
-7:30 Toronto Raptors-Minnesota Timberwolves  
+7:30 Boston Celtics-Miami Heat,https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn/chunks.m3u8 
+7:30 New York Knicks-Charlotte Hornets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/knicks/chunks.m3u8
+7:30 Toronto Raptors-Minnesota Timberwolves,https://d17f1mg1q6g54e.cloudfront.net:443/hls/raptors/chunks.m3u8 
 
 
 
