@@ -11,6 +11,20 @@ NBA LIVE,#genre#
 DATE 02/04,
 7:00 Orlando Magic-Toronto Raptors,https://d17f1mg1q6g54e.cloudfront.net:443/hls/magic/chunks.m3u8
 7:00 Washington Wizards-Dallas Mavericks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/wizards/chunks.m3u8
+7:30 Boston Celtics-Indiana Pacers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/celtics/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 TVCH,#genre#
 卫视电影台,http://59.125.101.187:8598/playlist.m3u8
