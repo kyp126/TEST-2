@@ -8,19 +8,9 @@ http://tv247.us/nba/
 open with chrome browser
 
 NBA LIVE,#genre#
-0331,
-7:00 Cleveland Cavaliers-Dallas Mavericks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/cavaliers/chunks.m3u8 
-7:00 Indiana Pacers-Denver Nuggets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/pacers/chunks.m3u8 
-7:00 Washington Wizards-Orlando Magic,https://d17f1mg1q6g54e.cloudfront.net:443/hls/wizards/chunks.m3u8 
-7:30 Boston Celtics-Miami Heat,https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn/chunks.m3u8 
-7:30 New York Knicks-Charlotte Hornets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/knicks/chunks.m3u8
-7:30 Toronto Raptors-Minnesota Timberwolves,https://d17f1mg1q6g54e.cloudfront.net:443/hls/raptors/chunks.m3u8 
-8:00 Houston Rockets-Sacramento Kings,https://d17f1mg1q6g54e.cloudfront.net:443/hls/rockets/chunks.m3u8 
-8:00 Oklahoma City Thunder-Atlanta Hawks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/thunder/chunks.m3u8  
-8:30 San Antonio Spurs-Memphis Grizzlies,https://d17f1mg1q6g54e.cloudfront.net:443/hls/spurs/chunks.m3u8  
-10:00 Golden State Warriors-Phoenix Suns,https://d17f1mg1q6g54e.cloudfront.net:443/hls/espn/chunks.m3u8 
-10:00 Portland Trail Blazers-New Orleans Pelicans,https://d17f1mg1q6g54e.cloudfront.net:443/hls/blazers/chunks.m3u8
-
+DATE 02/04,
+7:00 Orlando Magic-Toronto Raptors,https://d17f1mg1q6g54e.cloudfront.net:443/hls/magic/chunks.m3u8
+7:00 Washington Wizards-Dallas Mavericks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/wizards/chunks.m3u8
 
 TVCH,#genre#
 卫视电影台,http://59.125.101.187:8598/playlist.m3u8
