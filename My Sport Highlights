@@ -1,4 +1,30 @@
 
+
+
+PL R31,#genre#
+
+Liverpool-Watford,https://cdn6000.koralast.com:443/UpFiles/2022/4/2/42/221673/720p.m3u8 
+
+Chelsea-Brentford,https://cdn6000.koralast.com:443/UpFiles/2022/4/2/42/221729/720p.m3u8
+
+Burnley-Manchester City,https://cdn6000.koralast.com:443/UpFiles/2022/4/2/42/221730/720p.m3u8
+
+Wolverhampton-Aston Villa,https://cdn6000.koralast.com:443/UpFiles/2022/4/2/42/221732/720p.m3u8
+
+
+Leeds United-Southampton,https://cdn6000.koralast.com:443/UpFiles/2022/4/2/42/221717/720p.m3u8 
+
+Brighton & Hove Albion-Norwich City,https://cdn6000.koralast.com:443/UpFiles/2022/4/2/42/221718/720p.m3u8  
+
+Manchester United-Leicester City,https://cdn6000.koralast.com:443/UpFiles/2022/4/2/42/221821/720p.m3u8
+
+
+
+
+
+
+
+
 WC QLF EU,#genre#
 Playoffs,#genre#
 Poland-Sweden,https://cdn64v452.koralast.com:443/UpFiles/2022/3/29/42/221445/720p.m3u8
@@ -141,139 +167,7 @@ Congo-Marocco,https://cdn64v452.koralast.com:443/UpFiles/2022/3/25/42/221171/720
 
 
 
-WC QLF Concacaf R12,#genre#
-Mexico-USA,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221155/720p.m3u8 
-
-Costa Rica-Canada,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221153/720p.m3u8  
-
-Panama-Honduras,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221154/720p.m3u8  
-
-Jamaica-El Salvador,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221131/720p.m3u8
-
-
-
-ASIA WC QLY,#genre#
-AUS-JP,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221002/720p.m3u8
-KOREA-IRAN,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221010/720p.m3u8
-LEB-SYR,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221012/720p.m3u8
-VIE-OMAN,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221011/720p.m3u8
-CHI-SAUDI,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221016/720p.m3u8
-IRAQ-UAE,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221092/720p.m3u8
-
-
-
-
-WC QFY S.AMERICA,#genre#
-ROUND 17,#genre#
-ARG-VEN,https://cdn64v452.koralast.com:443/UpFiles/2022/3/26/42/221228/720p.m3u8
-URU-PERU,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221120/720p.m3u8
-COL-BOL,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221124/720p.m3u8
-BRA-CHE,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221126/720p.m3u8
-PARA-ECUA,https://ncsk16.koralast.com:443/UpFiles/2022/3/25/42/221127/720p.m3u8
-
-
-
-
-
-WC QLF EU,#genre#
-Playoff,#genre#
-WALES-AUSTRIA,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221044/720p.m3u8
-
-SWE-CZE,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221082/720p.m3u8
-
-ITALY-NM,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221074/720p.m3u8
-
-POR-TUR,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221076/720p.m3u8
-
-
-
-UEFA NATIONS CUP,#genre#
-MOL-KAZ,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221019/720p.m3u8
-
-EST-CYP,https://ncsk16.koralast.com:443/UpFiles/2022/3/24/42/221020/720p.m3u8
-
-
-
-FA CUP QF,#genre#
-CP-EVE,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220744/720p.m3u8
-
-SOU-MC,https://ccd42.koralast.com:443/UpFiles/2022/3/20/42/220816/720p.m3u8
-
-NOT-LIV,https://ccd42.koralast.com:443/UpFiles/2022/3/20/42/220899/720p.m3u8
-MID-CHE,https://cc22.koralast.com:443/UpFiles/2022/3/19/42/220648/720p.m3u8
-
-
-
-PL R30,#genre#
-TOT-WHU,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220866/720p.m3u8
-LEI-BRE,https://ccd42.koralast.com:443/UpFiles/2022/3/20/42/220771/720p.m3u8
-AVL ARS,https://cc22.koralast.com:443/UpFiles/2022/3/19/42/220545/720p.m3u8
-WOL-LEE,https://cdnb90.koralast.com:443/UpFiles/2022/3/18/42/220497/720p.m3u8#https://cc22.koralast.com:443/UpFiles/2022/3/18/42/220497/720p.m3u8I
-
-
-
-Serie A R30,#genre#
-Napoli-Udinese,https://ccd42.koralast.com:443/UpFiles/2022/3/19/42/220569/720p.m3u8
-
-Inter-Fiorentina,https://cc22.koralast.com:443/UpFiles/2022/3/19/42/220639/720p.m3u8
-
-Cagliari-Milan,https://cc22.koralast.com:443/UpFiles/2022/3/19/42/220683/720p.m3u8 
-
-Venezia-Sampdoria,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220759/720p.m3u8
-
-Juventus-Salernitana,https://ccd42.koralast.com:443/UpFiles/2022/3/20/42/220782/720p.m3u8
-
-Empoli-Hellas Verona,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220795/720p.m3u8  
-
-Roma-Lazio,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220874/720p.m3u8
-
-Bologna-Atalanta,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220963/720p.m3u8
-
-
-Sassuolo-Spezia,https://cdnb90.koralast.com:443/UpFiles/2022/3/18/42/220480/720p.m3u8  
-
-Genoa-Torino,https://cdnb90.koralast.com:443/UpFiles/2022/3/18/42/220481/720p.m3u8
-
-
-
-
-LALIGA 29,#genre#
-Espanyol-Mallorca,https://cc22.koralast.com:/UpFiles/2022/3/20/42/220752/720p.m3u8 
-
-Cádiz-Villarreal  ,https://ccd42.koralast.com:443/UpFiles/2022/3/20/42/220894/720p.m3u8
-
-Celta Vigo-Real Betis ,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220895/720p.m3u8
-
-Sevilla-Real Sociedad ,https://ccd42.koralast.com:443/UpFiles/2022/3/20/42/220917/720p.m3u8
-
-Real Madrid-Barcelona,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220966/720p.m3u8
-
-Deportivo Alavés-Granada,https://cc22.koralast.com:443/UpFiles/2022/3/19/42/220557/720p.m3u8
-
-Elche-Valencia,https://ccd42.koralast.com:443/UpFiles/2022/3/19/42/220605/720p.m3u8
-
-Osasuna-Levante,https://cc22.koralast.com:443/UpFiles/2022/3/19/42/220646/720p.m3u8
-
-Rayo Vallecano-Atlético Madrid,https://ccd42.koralast.com:443/UpFiles/2022/3/19/42/220689/720p.m3u8
-Athletic-Getafe,https://cdnb90.koralast.com:443/UpFiles/2022/3/18/42/220483/720p.m3u8
-
-
-Bundesliga R27,#genre#
-Bayern München-Berlin,https://ccd42.koralast.com:443/UpFiles/2022/3/19/42/220643/720p.m3u8
-RB Leipzig-Eintracht Frankfurt,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220790/720p.m3u8
-
-Wolfsburg-Leverkusen,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220862/720p.m3u8
-
-KPLN-DOR,https://cc22.koralast.com:443/UpFiles/2022/3/20/42/220905/720p.m3u8
-Bochum-Borussia M'gladbach,https://cc22.koralast.com:443/UpFiles/2022/3/18/42/220477/720p.m3u8
-
-
-Europa 2nd 1/8,#genre#
-Galatasaray-Barcelona,https://cc22.koralast.com:443/UpFiles/2022/3/17/42/220321/720p.m3u8
- 
-Bayer 04 Leverkusen-Atalanta,https://cdnb90.koralast.com:443/UpFiles/2022/3/17/42/220327/720p.m3u8
-  
-FK Crvena zvezda-Rangers,https://cc22.koralast.com:443/UpFiles/2022/3/17/42/220332/720p.m3u8  
+ zvezda-Rangers,https://cc22.koralast.com:443/UpFiles/2022/3/17/42/220332/720p.m3u8  
 
 AS Monaco-Sporting Braga,https://cc22.koralast.com:443/UpFiles/2022/3/17/42/220324/720p.m3u8  
 
@@ -411,104 +305,6 @@ Atlético Madrid-Cádiz,https://ok6-11.vkuser.net/expires/1647128612784/srcIp/11
 
 
 
-EPL,#genre#
-WOL-WAT,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219377/720p.m3u8
-
-NOR CHE,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219398/720p.m3u8
-
-LEE-AVL,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219385/720p.m3u8
-
-SOU-NEW,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219373/720p.m3u8
-
-
-Conference League 1/8,#genre#
-Vitesse-Roma,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219356/720p.m3u8
- 
-Leicester City-Stade Rennais,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219406/720p.m3u8  
-
-
-
-UEFA Champions 2nd leg 16 to 8,#genre#
-Real Madrid-PSG,https://cdn02211.koralast.com:443/UpFiles/2022/3/9/42/219314/720p.m3u8
-
-MC-Sporting,https://cdn02211.koralast.com:443/UpFiles/2022/3/9/42/219303/720p.m3u8
-Bayern München-Red Bull Salzburg,https://cdn02211.koralast.com:443/UpFiles/2022/3/8/42/219230/720p.m3u8 
-Liverpool-Inter,https://cdn02211.koralast.com:443/UpFiles/2022/3/8/42/219236/720p.m3u8#https://cdnx00.koralast.com:443/UpFiles/2022/3/8/42/219236/720p.m3u8
-
-UEFA Europa 1/8,#genre#
-Sevilla-West Ham United,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219357/720p.m3u8 
-RB Leipzig  
- 
-Rangers-Zvezda ,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219400/720p.m3u8 
-
-Atalanta-Leverkusen,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219399/720p.m3u8
- 
-Barcelona-Galatasaray,https://cdnc123.koralast.com:443/UpFiles/2022/3/10/42/219413/720p.m3u8  
-
-Real Betis-Frankfurt,https://cdn02211.koralast.com:443/UpFiles/2022/3/9/42/219269/720p.m3u8
-Porto-Lyonnais,https://cdn02211.koralast.com:443/UpFiles/2022/3/9/42/219276/720p.m3u8  
-
-
-
-
-
-
-
-
-
-PL R27,#genre#
-TOT-Everton,https://cdnx00.koralast.com:443/UpFiles/2022/3/7/42/219170/720p.m3u8
-WAT-Arsenal,https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/218963/720p.m3u8#https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/218965/720p.m3u8
-
-MC-Manchester United,https://cdnx00.koralast.com:443/UpFiles/2022/3/6/42/219077/720p.m3u8#https://cdnx00.koralast.com:443/UpFiles/2022/3/6/42/219044/720p.m3u8
-LC-Leeds,https://cdn02211.koralast.com:443/UpFiles/2022/3/5/42/218697/720p.m3u8
-
-BUR-Chelsea,https://cdnx00.koralast.com:443/UpFiles/2022/3/5/42/218777/720p.m3u8
-
-AVL-Southampton,https://cdnx00.koralast.com:443/UpFiles/2022/3/5/42/218793/720p.m3u8
-
-WOL-Crystal Palace ,https://cdnx00.koralast.com:443/UpFiles/2022/3/5/42/218785/720p.m3u8
-
-NEW-Brighton & Hove Albion ,https://cdn02211.koralast.com:443/UpFiles/2022/3/5/42/218779/720p.m3u8
-
-
-NOR-Brentford ,https://cdn02211.koralast.com:443/UpFiles/2022/3/5/42/218786/720p.m3u8
-
-LIV-West Ham United,https://cdnx00.koralast.com:443/UpFiles/2022/3/5/42/218814/720p.m3u8#https://cdn02211.koralast.com:443/UpFiles/2022/3/5/42/218814/720p.m3u8I
-
-
-Ligue 1 R27,#genre# 
-Cádiz-Vallecano,https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/218938/720p.m3u8
-  
-Elche-Barcelona,https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/219004/720p.m3u8
- 
-Celta Vigo-Mallorca ,https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/219069/720p.m3u8
-
-Betis Balompié-Atlético Madrid,https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/219094/720p.m3u8
-
-NICE-PSG,https://cdnx00.koralast.com:443/UpFiles/2022/3/5/42/218887/720p.m3u8
-
-
-Serie A R28,#genre#
-Genoa-Empoli,https://cdnx00.koralast.com:443/UpFiles/2022/3/6/42/219013/720p.m3u8
-
-Fiorentina-Hellas Verona,https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/219011/720p.m3u8
-
-Bologna-Torino,https://cdnx00.koralast.com:443/UpFiles/2022/3/6/42/219010/720p.m3u8
-
-Venezia-Sassuolo ,https://cdn02211.koralast.com:443/UpFiles/2022/3/6/42/219015/720p.m3u8 
-
-Juventus-Spezia  ,https://cdnx00.koralast.com:443/UpFiles/2022/3/6/42/219051/720p.m3u8
-
-Napoli-Milan,https://cdnx00.koralast.com:443/UpFiles/2022/3/6/42/219088/720p.m3u8
-
-
-Udinese-Sampdoria,https://cdn02211.koralast.com:443/UpFiles/2022/3/5/42/218713/720p.m3u8 
-
-Roma-Atalanta,https://cdnx00.koralast.com:443/UpFiles/2022/3/5/42/218802/720p.m3u8 
-
-Cagliari-Lazio,https://cdnx00.koralast.com:443/UpFiles/2022/3/5/42/218877/720p.m3u8  
-Inter-Salernitana,https://cdn02211.koralast.com:443/UpFiles/2022/3/4/42/218659/720p.m3u8
 
 
 
