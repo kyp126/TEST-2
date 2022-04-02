@@ -8,22 +8,12 @@ http://tv247.us/nba/
 open with chrome browser
 
 NBA LIVE,#genre#
-DATE 02/04,
-7:00 Orlando Magic-Toronto Raptors,https://d17f1mg1q6g54e.cloudfront.net:443/hls/magic/chunks.m3u8
-7:00 Washington Wizards-Dallas Mavericks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/wizards/chunks.m3u8
-7:30 Boston Celtics-Indiana Pacers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/celtics/chunks.m3u8
-8:00 Houston Rockets-Sacramento Kings,https://d17f1mg1q6g54e.cloudfront.net:443/hls/rockets/chunks.m3u8 
-8:00 Memphis Grizzlies-Phoenix Suns,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8 
-8:00 Milwaukee Bucks-Los Angeles Clippers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/bucks/chunks.m3u8
-8:00 Oklahoma City Thunder-Detroit Pistons,https://d17f1mg1q6g54e.cloudfront.net:443/hls/thunder/chunks.m3u8  
-8:30 San Antonio Spurs-Portland Trail Blazers ,https://d17f1mg1q6g54e.cloudfront.net:443/hls/spurs/chunks.m3u8#https://d17f1mg1q6g54e.cloudfront.net:443/hls/spurs/chunks.m3u8I 
-9:00 Denver Nuggets-Minnesota Timberwolves,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nuggets/chunks.m3u8#https://d17f1mg1q6g54e.cloudfront.net:443/hls/nuggets/chunks.m3u8I
-10:30 Los Angeles Lakers-New Orleans Pelicans,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8#https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8I
+DATE,03/04
+7:30 Atlanta Hawks-Brooklyn Nets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
 
+8:00 Chicago Bulls-Miami Heat,https://d17f1mg1q6g54e.cloudfront.net:443/hls/bulls/chunks.m3u8
 
-
-
-
+8:30 Golden State WarriorsUtah Jazz,https://d17f1mg1q6g54e.cloudfront.net:443/hls/warriors/chunks.m3u8
 
 
 
