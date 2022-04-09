@@ -8,17 +8,8 @@ http://tv247.us/nba/
 open with chrome browser
 
 NBA LIVE,#genre#
-DATE 09/04,
-8:00 Chicago Bulls-Charlotte Hornets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/bulls/chunks.m3u8
+DATE 10/04,
 
-8:00 Miami Heat-Atlanta Hawks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/heat/chunks.m3u8
-
-8:30 Dallas Mavericks-Portland Trail Blazers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/mavericks/chunks.m3u8
-
-9:30 Utah Jazz-Phoenix Suns,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
-
-10:30  Los Angeles Lakers-Oklahoma City Thunder,https://d17f1mg1q6g54e.cloudfront.net:443/hls/lakers/chunks.m3u8
-
-
+6 GRIZZ,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
 
  
