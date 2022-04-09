@@ -8,77 +8,16 @@ http://tv247.us/nba/
 open with chrome browser
 
 NBA LIVE,#genre#
-DATE 03/04,
-7:30 Atlanta Hawks-Brooklyn Nets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
+DATE 09/04,
+8:00 Chicago Bulls-Charlotte Hornets,https://d17f1mg1q6g54e.cloudfront.net:443/hls/bulls/chunks.m3u8
 
-8:00 Chicago Bulls-Miami Heat,https://d17f1mg1q6g54e.cloudfront.net:443/hls/bulls/chunks.m3u8
+8:00 Miami Heat-Atlanta Hawks,https://d17f1mg1q6g54e.cloudfront.net:443/hls/heat/chunks.m3u8
 
-test1,https://video-weaver.syd03.hls.live-video.net/v1/playlist/CpEFY2EANFKN0P1snoggakS5UhoZw64AcAX-MQQVdufDPQ8xe6TzabYY7tUwIgry2AZfE-Ndd5LwBaF5qgknEsLQ7-Eqr-yQWG6gNDr3A49-CBs75lmirB_7r2v5mz2CF5I3s7iZRIp-CsnHBqiBjFg9Te_0Y47FU-H9SUsDi0u0lCMjJKZfAgu4fYDPr0B9YYCfzmA-Tpd32c4hVeEitYoMK-8wU80ib_X6g6slfP8S7NNhT9PL1BTo-YZX5YwYN9sWK1B7zJ72aTemMboCToiVP0-1D2S9UgeFvA_fgTZOVnCkvjkDJ0zVoKbfqpBtfJz_4KIPfakKDCKGEZUhUJ_Q_rWYUwFC-gixrD3p_ejQUKpmtCI4YO_bYam-HG66JEQIyrg6DAcuwbNSLujUEJBte9F450YaPoFZVBZABEYe1BLGwZhQAX_xJy1BGD4_ZmbCGdmkJ7Jd1gTCcBj2uGuiXBVNJHf1niMfOjuR2D0yavUzRdjlWatO08SCmK4Ve2c5T4XwxDJzzMBPcwtLVEeuuAa0vZkgvt5Drbwj5e-neZJOXzveIzgkJkpJKgs2-5c46EhCSuBS7F0tUr9vcO0pqMhlmkHc47p1aH_6d55NRRRmUJ3TWyJ9BIB1QfBZr1ITfsWQcjAG4yJ3017JTPuWtOtqM4FjZLEvNTi8-5pYCKXqoNUWNvoalEBHaOXiZQlH1YO2Me6UeWnHsnlrmORUXchX7n-d7fkD4e8UQ6KGTA8su_xgcSpJs1_VnH6l98yd6fSn6EX2ToKOGxcQBiQp9H1e5pFOFkr8iAtFdJ51IK2v0RDbiBGo0ucGxf8c8CAz47ICjYQy8m_rF4V3qFT-g2znEL8LTfx2yZ7_UxysR5s4Ggwq3YTEOnjNhEcw7GUgASoJdXMtZWFzdC0xMOsB.m3u8
-test2,https://video-weaver.syd03.hls.live-video.net/v1/playlist/CpIFe_1kAMgaWR-p5mg9Yl-BSG97W-tujqEI6v_3Zd4i5LUzRRVGVN4P3Tdfe0HXtBrEPqGYvruEl-FOJiiVFmzmMzURvZvn_yP44d0qAHMkN9UA-AB7y2cwrzN_WuGoDaKQBF-2xfrVY8H8RYTrmsWCoY6gTejIk7O_WrSF7Iqy4ALCHAs6eeNlWctfp-3vG57H5HCmoSHLNZmZnLMY1ldHBNEjBErfnqXNrl0XYF-EMGn6M-Ri0XO-dvwlhXY4AUZo6vTvfukFa5vkz7ZFJRVjto-sT6j8fm4fBHIDbOxuqG0Xlrdsd_JtOZVlU_Xb-if7NK5HaV-8GJ1Js-rPGD_T1hsHt8CRRUbAcxWTRCrhCFKYk-ZQOQh5oHrWQxHzGHHKLpnVy95D_p7kLobcQRYD6ILY4xk3GbkVAHI7ZFisXSg6yD0JgY2GW7cOG9aNC-ByhMAisbhTx3Big7dbeqsGgwMABaGBHSA1lXbJdprBubt0uaQrkZ0FqEegPonwQk42D_mUZjV1i3xcfMssZKatCjAdjh53XYrlPl_sjn4tJVRQsxATKnZmLjuVsqe7_ox0YmsU8zZAuWtwidhSl8BeZptH0onwfnkzIFe8eeJyKKhiVB6SOe8GZeGa0CTd289O-YiJ9BIXatimgASS82R2lUXN6g8PpTQRLuJ3kbD_aB5m5ryUFGOVKYy2KTAW7GeFJYTphphrNBgWp0WLgtQRKDQgrRDxkV1DwUbXbYUlpoeHOOM2gymaY7PUehJgKfd-Is-98TsOf6p2KqX2jfS_LliZ-aBPcm0w6wwdrQrz-0EvDQXQwyX5JtHz9NC-3ws_wWUtDIJ7dvfHG-VKn3mYansbiAJKnxtBp13YLQpEPAeMmBoMYBfMoo_bVpaXGdEhIAEqCWV1LXdlc3QtMjC2Aw.m3u8
-test3,https://king.hockeynews.club:443/live/2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjIgODoyMjoyOSBQTSZoYXNoX3ZhbHVlPUprOGh2L1prT0dnMkRROXREcGl5K0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIxMy4zMS4yMTYuMTYyJnN0cm1fbGVuPTU=
-test4,http://cdn4.cyclingnews.live/hls/Q2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjIgODoyOQo6NDkKIFBNJmhhc2hfdmFsdWU9dXdMNi9kMmFyL3BjTkd3TFJSZkpIZz09JnZhbGlkbWludXRlcz0xMjAmaWQ9ODEuMTkxLjE2OC4xMyZzdHJtX2xlbj00
+8:30 Dallas Mavericks-Portland Trail Blazers,https://d17f1mg1q6g54e.cloudfront.net:443/hls/mavericks/chunks.m3u8
 
+9:30 Utah Jazz-Phoenix Suns,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
 
-TVCH,#genre#
-卫视电影台,http://59.125.101.187:8598/playlist.m3u8
-卫视电影台,http://59.125.101.187:8599/playlist.m3u8
-好莱坞电影台,http://59.125.101.187:8550/playlist.m3u8
-HBO,http://59.125.101.187:8615/playlist.m3u8
-FOXMOVIES,http://59.125.101.187:8588/playlist.m3u8
-FOXMOVIES,http://59.125.101.187:8500/playlist.m3u8
-FOXMOVIES,http://59.125.101.187:8616/playlist.m3u8
-AXN,http://59.125.101.187:8617/playlist.m3u8
-FOX,http://59.125.101.187:8618/playlist.m3u8
-龙华电影,http://59.125.101.187:8619/playlist.m3u8
-台视,http://59.125.101.187:8501/playlist.m3u8
-公视,http://59.125.101.187:8592/playlist.m3u8
-华视,http://59.125.101.187:8593/playlist.m3u8
-台视,http://59.125.101.187:8594/playlist.m3u8
-中视,http://59.125.101.187:8595/playlist.m3u8
-中视,http://59.125.101.187:8581/playlist.m3u8
-华视,http://59.125.101.187:8544/playlist.m3u8
-民视,http://59.125.101.187:8586/playlist.m3u8
-中天综合台,http://59.125.101.187:8596/playlist.m3u8
-中天娱乐台,http://59.125.101.187:8597/playlist.m3u8
-东森幼幼台,http://59.125.101.187:8506/playlist.m3u8
-东森幼幼台,http://59.125.101.187:8515/playlist.m3u8
-三立台湾台,http://59.125.101.187:8519/playlist.m3u8
-三立都会台,http://59.125.101.187:8522/playlist.m3u8
-龙华戏剧,http://59.125.101.187:8585/playlist.m3u8
-龙华偶像,http://59.125.101.187:8587/playlist.m3u8
-龙华日韩台,http://59.125.101.187:8535/playlist.m3u8
-wakuwaku,http://59.125.101.187:8538/playlist.m3u8
-Discovery,http://59.125.101.187:8578/playlist.m3u8
-Discovery,http://59.125.101.187:8582/playlist.m3u8
-八大戏剧台,http://59.125.101.187:8583/playlist.m3u8
-年代MUCH,http://59.125.101.187:8589/playlist.m3u8
-
-民视新闻台,http://59.125.101.187:8539/playlist.m3u8
-寰宇新闻,http://59.125.101.187:8528/playlist.m3u8
-三立都会台,http://59.125.101.187:8605/playlist.m3u8
-纬来日本台,http://59.125.101.187:8608/playlist.m3u8
-非凡新闻台,http://59.125.101.187:8591/playlist.m3u8
-三立新闻台,http://59.125.101.187:8590/playlist.m3u8
-年代新闻台,http://59.125.101.187:8609/playlist.m3u8
-民视新闻台,http://59.125.101.187:8610/playlist.m3u8
-非凡商业台,http://59.125.101.187:8611/playlist.m3u8
-壹电视新闻台,http://59.125.101.187:8613/playlist.m3u8
-纬来体育台,http://59.125.101.187:8600/playlist.m3u8
-博斯运动一台,http://59.125.101.187:8621/playlist.m3u8
-
-
-sport,#genre#
-NBA TV（备）,http://84.22.33.214:80/nbatv/index.m3u8
-CBS Sports FHD,http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
-浙江·杭州体育 FHD,http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8
-One Golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
+10:30  Los Angeles Lakers-Oklahoma City Thunder,https://d17f1mg1q6g54e.cloudfront.net:443/hls/lakers/chunks.m3u8
 
 
 
