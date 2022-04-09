@@ -10,6 +10,8 @@ open with chrome browser
 NBA LIVE,#genre#
 DATE 10/04,
 
-6 GRIZZ,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
+6.00 GRIZZ,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
+8:30 San Antonio Spurs-Golden State Warriors,https://d17f1mg1q6g54e.cloudfront.net:443/hls/nbatv/chunks.m3u8
 
+9:30 Los Angeles Clippers-Sacramento Kings,https://d17f1mg1q6g54e.cloudfront.net:443/hls/clippers/chunks.m3u8
  
