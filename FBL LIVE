@@ -31,9 +31,7 @@ ARAB STATION,#genre#
 FOOTBALL,http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 
 
-ars,https://king.hockeynews.club:443/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDE6NDM6MjEgUE0maGFzaF92YWx1ZT1kMlZCQ3NqN2RrRVBqRmdSaFlQakl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTMuMjEwLjYxLjE1OSZzdHJtX2xlbj01
-wat,https://king.hockeynews.club:443/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDE6MzI6NTUgUE0maGFzaF92YWx1ZT1EcEhHYWRSTXZCZ1pkZTJPcHp4aFRnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTAyOmM3Zjo2YTBiOjg3MDA6YjEwYzplN2U3OmU1Yzc6MjQzZiZzdHJtX2xlbj01
-
+motor,https://king.hockeynews.club:443/live/4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDEyOjA4OjE5IFBNJmhhc2hfdmFsdWU9cGpMekJ0eVd3YmdScTBCaVRkS3hkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MmEwMjpjN2Q6NDRjMDpmYjAwOmFjNGI6YTcyZjo3NTAxOjdkZDUmc3RybV9sZW49NQ==
 
 
 CN ,#genre#
