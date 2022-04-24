@@ -35,7 +35,11 @@ BEIN,https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
 
 
 
-ARAB STATION,#genre#
+TEST STATION,#genre#
+F1,http://cdn1-bongakamai.xyz:80/live/adaptive_bong-4/live/bong-4/chunks.m3u8
+
+
+
 FOOTBALL,http://62.210.170.186:8080/live/TVSHQIP/FAKTESHQIP/322.m3u8
 tesr,https://king.hockeynews.club:443/live/1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDEyOjM0OjQ1IFBNJmhhc2hfdmFsdWU9OEs5OHdTYzFpN1FqL0Q3ZnFmWlNuUT09JnZhbGlkbWludXRlcz03MjAmaWQ9ODQuNTQuNzguMjIzJnN0cm1fbGVuPTU=
 
