@@ -7,5 +7,5 @@ open with chrome browser
 NBA LIVE,#genre#
 DATE 30/04,
 
-9am Minnesota Timberwolves-Memphis Grizzlies,9am Minnesota Timberwolves-Memphis Grizzlies
+CCTV,CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 TIMBER,http://wppslalslwp.azureedge.net:80/live/NBA1/chunks.m3u8
