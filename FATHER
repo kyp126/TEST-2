@@ -71,7 +71,10 @@ CCTV17,http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV-17.m3u8#http://39
 
 香港台,#genre#
 翡翠台,http://50.7.218.42:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-
+TVB经典剧,http://106.53.212.251/daili/yy.php?id=1382651411
+凤凰香港,http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768#http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2
+香港电台,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+港台电视32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_5400_av-p.m3u8?sd=10&rebase=on
 
 
 
