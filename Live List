@@ -5,7 +5,7 @@ open with chrome browser
 
 
 NBA Replay,#genre#
-DATE 03/05,https://d1k4ybyeycgihx.cloudfront.net:443/hls/TNT/chunks.m3u8
+DATE 03/05,https://d1k4ybyeycgihx.cloudfront.net:443/hls/TNT/chunks.m3u8#10:00 Phoenix Suns-Dallas Mavericks,https://d1k4ybyeycgihx.cloudfront.net:443/hls/TNT/chunks.m3u8
 
 7:30 Miami Heat-Philadelphia 76ers,https://d1k4ybyeycgihx.cloudfront.net:443/hls/TNT/chunks.m3u8 
-
+10:00 Phoenix Suns-Dallas Mavericks,https://d1k4ybyeycgihx.cloudfront.net:443/hls/TNT/chunks.m3u8
