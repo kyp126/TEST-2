@@ -10,6 +10,9 @@ NBA Live,#genre#
 10.00 Golden State Warriors-Memphis Grizzlies,https://demf1kf3itpt4.cloudfront.net:443/hls/live/chunks.m3u8
 咪咕,https://s100-e1.dnvodcdn.me/ppot/_definst_/mp4:s100/dvod/ty-nbamgzylqs2021-20220513taiyangvsduxingxia-017A084FC.mp4/chunklist.m3u8?dnvodendtime=1652693542&dnvodhash=LV72_hCu6Xbs3yk8KXpRGNnWeoatBz8xxcbnBN8Fk6w=&dnvodCustomParameter=0_119.74.229.66.SG_1&lb=241c843c426a8ba54af975d6955cfb0d&us=1&vv=2bf6fc2cecd61911b661af5fe0d6c0ad&pub=CJOrCZKoC3SoC2utDpSrDbyfewzCJ4vBZSqBZ8oEIusDbyRCPYOcBCQiJ8PCR2Q6PkR7B6S6x4nd1YOd1WPd9cScQzCJbYOMOsE3WoD68uPJ9cOMDcCpCpD65XOJDYDZ0mEJ2
 
+
+
+NTV7,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 TV8,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 BOXING,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 FIGHT NETWORK,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
