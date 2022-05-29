@@ -3,7 +3,7 @@
 Monaco F1,#genre#
 RACE 21.00,http://hls-pull-yashwa.speedws.com/live/m0naco/playlist.m3u8
 L1,https://cdn1.soccermotors.com/live/streamf1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDIyIDEyOjI3OjM4IFBNJmhhc2hfdmFsdWU9Mlk3TTZIT0Y1QzRqeVltelIwYUl0Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9NS45MC4xMDEuMTg4JnN0cm1fbGVuPTU=
-
+L2,https://cdn1.soccermotors.com:443/live/streamf1/chunks.m3u8?nimblesessionid=102278&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDIyIDEyOjQ0OjMyIFBNJmhhc2hfdmFsdWU9YStGb1ArQTBRdlFqeTlKZE9ISHVidz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTExLjExOS4xODcuMzAmc3RybV9sZW49NQ==
 
 
 Sport CH,#genre#
