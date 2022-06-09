@@ -21,6 +21,7 @@ CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 
 
 LEISURE,#genre#
+CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 NTV7,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 TV8,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 BOXING,https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
