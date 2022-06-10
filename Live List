@@ -5,8 +5,11 @@ open with chrome browser
 
 
 
-NBA Live 0906,#genre#
-9am Boston-Miami,https://d2jh36pi0ck39m.cloudfront.net:443/hls/abc/chunks.m3u8
+
+NBA Live 0611,#genre#
+
+9am G.S.W-Boston,https://d2jh36pi0ck39m.cloudfront.net:443/hls/abc/chunks.m3u8
+
 CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 咪,http://pull.jljiapu.com/leisu/2115161914427714.m3u8?auth_key=1654752660-0-0-7b7d3d0fd6186e75cf4c8a6b6ebfa0af
 
