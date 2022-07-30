@@ -4,7 +4,7 @@ http://tv247.us/nba/
 open with chrome browser
 
 F1 HUNGARIAN GP,#genre#
-P1,https://032a7057cd18.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.727392492577.channel.PAzbOwJNvXmv.m3u8
+Q123,https://d10772f0ac0b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.727392492577.channel.oPfWKYLZcghZ.m3u8
 
 LEISURE,#genre#
 CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
