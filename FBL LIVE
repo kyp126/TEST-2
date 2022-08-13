@@ -2,7 +2,7 @@
 13/08 EplR2,#genre#
 ARS-LC,https://6cfc31236069.us-east-1.playback.live-video.net/api/video/v1/us-east-1.005990487620.channel.HtmaawIfEhnM.m3u8
 ARS-LC1,https://5b9a853ae10a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.005990487620.channel.A23ozaTXH6VO.m3u8
-
+ARS,http://pull.zygmsg.com/leisu/1117712510384238.m3u8?auth_key=1660413081-0-0-e8dc38a2d5d80579e565da776b2f3306
 MC-BOU,https://aff3a687933e.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.572289218728.channel.leYo6KHYYbUC.m3u8
 MC-BOU1,https://1efca8120fa8.us-west-2.playback.live-video.net/api/video/v1/us-west-2.572289218728.channel.0oi76JhcIQHs.m3u8
 
