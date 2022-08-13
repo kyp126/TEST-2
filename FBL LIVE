@@ -1,4 +1,9 @@
 
+
+14/08 PL R2,#genre#
+BRE-MU,https://203c24c33fcd.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.572289218728.channel.rhIEgrJYvSgU.m3u8
+
+
 13/08 EplR2,#genre#
 ARS-LC,https://6cfc31236069.us-east-1.playback.live-video.net/api/video/v1/us-east-1.005990487620.channel.HtmaawIfEhnM.m3u8
 ARS-LC1,https://5b9a853ae10a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.005990487620.channel.A23ozaTXH6VO.m3u8
