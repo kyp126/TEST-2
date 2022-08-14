@@ -1,6 +1,11 @@
 
 
 14/8 PL R2,#genre#
+CHE-TOT1,https://bfee274a85c4.us-east-1.playback.live-video.net/api/video/v1/us-east-1.572289218728.channel.8EggASC6kmoI.m3u8
+
+CHE-TOT2,https://aff3a687933e.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.572289218728.channel.leYo6KHYYbUC.m3u8
+
+
 NTH-WHU,https://203c24c33fcd.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.572289218728.channel.rhIEgrJYvSgU.m3u8#https://5b9a853ae10a.us-west-2.playback.live-video.net/api/video/v1/us-west-2.005990487620.channel.A23ozaTXH6VO.m3u8
 WHU,https://48a664ae1e27.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.572289218728.channel.wm91SrENeJNZ.m3u8
 
