@@ -2,6 +2,15 @@
 16/8 PL R2,#genre#
 LIV-CP,https://cdn004440444.koralast.com:443/UpFiles/2022/8/15/42/231288/720p.m3u8
 
+16/8 S.A R1,#genre#
+VER-NAP,https://cdn004440444.koralast.com:443/UpFiles/2022/8/15/42/231252/720p.m3u8
+JUV-SAS,https://cdn004440444.koralast.com:443/UpFiles/2022/8/15/42/231299/720p.m3u8
+
+
+16/8 LigaR1,#genre#
+GET-ATM,https://cdn004440444.koralast.com:443/UpFiles/2022/8/15/42/231265/720p.m3u8
+BET-ELC,https://cdn004440444.koralast.com:443/UpFiles/2022/8/15/42/231301/720p.m3u8
+
 15/8 LigaR1,#genre#
 ALM-RMA,https://cdn004440444.koralast.com:443/UpFiles/2022/8/14/42/231220/720p.m3u8
 
