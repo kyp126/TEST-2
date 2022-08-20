@@ -2,6 +2,9 @@
 
 
 20/8 PL R3,#genre#
+EVE-NF,https://7b0ecef41d99.us-west-2.playback.live-video.net/api/video/v1/us-west-2.464022764393.channel.RT15mr9eNo0p.m3u8
+
+
 TOT-WOL,https://d044db2d3de4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.814359829657.channel.zgfYHYAv9wDT.m3u8
 TOT1,https://d044db2d3de4.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.814359829657.channel.zgfYHYAv9wDT.m3u8
 TOT2,http://play.cluxsd.cn/tianxiatv/stream-9f221a3bee334023821edf1426f9a85b.m3u8
