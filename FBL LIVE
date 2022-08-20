@@ -9,7 +9,7 @@ FUL-BRE,http://pull.zygmsg.com/leisu/1117712981623083.m3u8?auth_key=1661015607-0
 FUL1,https://1e9d6884b97c.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.464022764393.channel.2Px5eHSDeDZ0.m3u8
 LEI-SOU,https://02685c2691ff.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.464022764393.channel.h2ReCqA536Bs.m3u8
 LEI 1,https://2bb8199dc012.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.464022764393.channel.m1ytOuAQrmCF.m3u8
-CP-AST,https://1e9d6884b97c.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.464022764393.channel.2Px5eHSDeDZ0.m3u8
+CP-AST,https://2bb8199dc012.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.464022764393.channel.m1ytOuAQrmCF.m3u8#https://1e9d6884b97c.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.464022764393.channel.2Px5eHSDeDZ0.m3u8
 CP,http://pull.zygmsg.com/leisu/1117712887375314.m3u8?auth_key=1661015610-0-0-dc496ab7a8b13fd734a1a1bcf547d3a4
 
 
