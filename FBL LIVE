@@ -3,6 +3,8 @@
 
 27/8 PL R4,#genre#
 LIV-Bournemouth,https://9d4815f2e247.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.619582368552.channel.otFle0W3Cgzz.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1zb3V0aC0xOjYxOTU4MjM2ODU1MjpjaGFubmVsL290RmxlMFczQ2d6eiIsImF3czphY2Nlc3MtY29udHJvbC1hbGxvdy1vcmlnaW4iOiJodHRwOi8vdzMyLmZvb3R5LnRvIiwiaWF0IjoxNjYxNDg2MjU3LCJleHAiOjE2NjE2NTkwNTd9.hSSBaaMQihEKhN9nmuRgQHLWiEFatyPEI79RQiifsnPYyuCXRoT9LkOn6PU-sSx0HPlH4vKdwHLSWa6_8mI19FKzWlsHR-LdpD7GlaqBDGIFc9QQ6O9LrKppU51JjbWK
+LIV1,https://live-ak.vimeocdn.com/exp=1661611603~acl=%2F1edc3f96-eade-4938-bab2-9865d53dedae%2F%2A~hmac=db0f62010ad89e573bf9bebdf50590a85157973ce2b6b712af59482018a00b32/1edc3f96-eade-4938-bab2-9865d53dedae/chunklist_b2056000.m3u8?max_segments=10
+
 LIV2,https://460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.jm9YDeKZWGCP.m3u8
 MCI-Crystal Palace ,https://94650bd64ce4.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.619582368552.channel.WPTZJVP5ol6W.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMTo2MTk1ODIzNjg1NTI6Y2hhbm5lbC9XUFRaSlZQNW9sNlciLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cDovL3czMi5mb290eS50byIsImlhdCI6MTY2MTQ4NjA5MSwiZXhwIjoxNjYxNjU4ODkxfQ.f-Y7GzhvQIEyL47FHwj6Wf2UgQ7CLa-KHXmq7UEOx0cDtrRo3KAgPD-ia3JNDCq0rGPihTplTEuI_Ydd39x4N535WRBBuqt3W8l8DimjUOL388v3Jx2BaEvKScEAvoiw
 MCI,https://be8875899674.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.273628872092.channel.sj5GaWCCLzPL.m3u8 
