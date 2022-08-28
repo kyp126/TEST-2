@@ -3,6 +3,16 @@
 
 
 
+
+
+28/8 PL R4,#genre#
+NFT-TOT,https://cdnc33.koralast.com:443/UpFiles/2022/8/28/51/232529/720p.m3u8
+
+AVL-WHM,https://cdnc33.koralast.com:443/UpFiles/2022/8/28/42/232491/720p.m3u8
+  
+WOL-NEW,https://cdnc33.koralast.com:443/UpFiles/2022/8/28/42/232493/720p.m3u8
+
+
 28/8 S.A R3,#genre#
 JUV-ROM,https://cdnc33.koralast.com:443/UpFiles/2022/8/27/42/232378/720p.m3u8
 
@@ -99,52 +109,6 @@ MUN-LIV,https://cdnc33.koralast.com:443/UpFiles/2022/8/22/42/231940/720p.m3u8
 23/8 S.A R2,#genre#
 SAM-JUV,https://cdnc33.koralast.com:443/UpFiles/2022/8/22/42/231948/720p.m3u8
 ROM-CRE,https://cdnc33.koralast.com:443/UpFiles/2022/8/22/42/231895/720p.m3u8
-
-
-22/8 Lig1R3,#genre#  
-LOSC-PSG,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/42/231826/720p.m3u8
-
-
-22/8 S.A R2,#genre#
-NAP-MON,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/51/231835/720p.m3u8
-EMP-FIO,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/51/231800/720p.m3u8
-ATA-MIL,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/51/231831/720p.m3u8
-BOL-VER,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/51/231833/720p.m3u8
-
-
-22/8 LigaR2,#genre#
-RSO-BAR,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/42/231857/720p.m3u8
-ATM-VIL,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/42/231808/720p.m3u8
-
-
-21/8 Bun R3,#genre#
-BOC-BAY,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/42/231745/720p.m3u8
-
-21/8 LigaR2,#genre#
-ATH-VAL,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/42/231784/720p.m3u8
-
-
-21/8 PL R3,#genre#
-NEW-MCI,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/152/231789/720p.m3u8
-LEE-CHE,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/42/231712/720p.m3u8
-WHU-BHA,https://cdnc33.koralast.com:443/UpFiles/2022/8/21/152/231747/720p.m3u8
-
-21/8 S.A R2,#genre#
-INT-SPE,https://cdn004440444.koralast.com:443/UpFiles/2022/8/20/51/231622/720p.m3u8
-TOR-LAZ,https://cdn004440444.koralast.com:443/UpFiles/2022/8/20/42/231598/720p.m3u8
-SAS-LEC,https://cdn004440444.koralast.com:443/UpFiles/2022/8/21/42/231655/720p.m3u8
-UDI-SAL,https://cdn004440444.koralast.com:443/UpFiles/2022/8/20/42/231596/720p.m3u8
-
-
-
-21/8 PL R3,#genre#
-BOU-ARS,https://cdn004440444.koralast.com:443/UpFiles/2022/8/20/51/231591/720p.m3u8
-
-21/8 Bun R3,#genre#
-FCU-RBL,https://cdn004440444.koralast.com:443/UpFiles/2022/8/20/51/231589/720p.m3u8
-
-
-
 
 
 
