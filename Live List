@@ -6,7 +6,7 @@ open with chrome browser
 
 F1 Netherlands GP,#genre#
 Q123,https://3f85a0487d63.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.665154753853.channel.ocwKaGgENGAN.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS13ZXN0LTE6NjY1MTU0NzUzODUzOmNoYW5uZWwvb2N3S2FHZ0VOR0FOIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHA6Ly93MzIuZm9vdHkudG8iLCJpYXQiOjE2NjIxMzkyNDcsImV4cCI6MTY2MjMxMjA0N30.Lk_wmwxkkuniQ6KQBqGXBEWcAgUJTBvue7AIHibO0J4PZa6FYD4Zje9gvJdU4ml3EJ-TVA6pqT53lFpoMplJziX_bItkxd78hAEJSytrxbZgffoMEIWU2CQIYFllQycQ
-
+F1,http://alternateserver3.azureedge.net:80/hls/f1/chunks.m3u8
 
 中国好声音,#genre#
 浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
