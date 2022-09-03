@@ -6,7 +6,7 @@ EVE1,https://8ab4feaf1782.us-east-1.playback.live-video.net/api/video/v1/us-east
 EVE2,https://afb6fb294abb.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.164893197075.channel.di2CA9Ko9iDw.m3u8
 
 SERIA A,#genre#
-Fio-Juventus,https://3f85a0487d63.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.665154753853.channel.X8oHJPgLKGc8.m3u8
+Fio-Juventus,https://3f85a0487d63.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.665154753853.channel.X8oHJPgLKGc8.m3u8#https://3f85a0487d63.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.665154753853.channel.X8oHJPgLKGc8.m3u8
 
 UEFA TV,#genre#
 DRAW,https://live-uefa-com.akamaized.net:443/hls/live/2036934/250822_UCLGS/master_1.m3u8
