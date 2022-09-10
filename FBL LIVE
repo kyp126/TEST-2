@@ -23,7 +23,7 @@ Espanyol-Sevilla,http://45.86.191.154:8081/live/ch2/playlist.m3u8?wmsAuthSign=c2
 ESP,http://37.49.224.228:8081/live/ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDIyIDM6MzQ6MTAgUE0maGFzaF92YWx1ZT0xcDRBdy9CcXpIU3ROeHphY0FkamJRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTUuNjYuMjQ0Ljc1JnN0cm1fbGVuPTU=
 .
 
-
+XXXXXXXX,#genre#
 
 UEFA TV,#genre#
 DRAW,https://live-uefa-com.akamaized.net:443/hls/live/2036934/250822_UCLGS/master_1.m3u8
