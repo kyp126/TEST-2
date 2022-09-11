@@ -3,6 +3,7 @@
 11/9 LigaR5,#genre#
 RMA-Mallorca ,http://sfds.azureedge.net:80/hls/lsh3hd201/chunks.m3u8 
 RMA1,http://sfds.azureedge.net:80/hls/daznlaliga/chunks.m3u8
+RMA2,http://185.53.89.12:8081/live/ch5/chunks.m3u8?nimblesessionid=2746475&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDEyOjU2OjM1IFBNJmhhc2hfdmFsdWU9SW5ZcHZqRkFJMFBxd2NFRElMaGFGdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjE5Ljc1LjM2LjkwJnN0cm1fbGVuPTU=
 .
 
 
