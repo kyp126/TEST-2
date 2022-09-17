@@ -2,15 +2,8 @@
 
 
 
-
-16R2 EUROPA,#genre#
-E-MU-Tiraspol ,http://sjsjskj.azureedge.net:80/hls/bt2hd90/chunks.m3u8#http://sjsjskj.azureedge.net:80/hls/bt2hd90/chunks.m3u8
-MU1,http://sjsjskj.azureedge.net:80/hls/lsh1hd201/chunks.m3u8
-MU2,http://45.86.191.154:8081/live/ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDQ6MzM6NTYgUE0maGFzaF92YWx1ZT1vaFVkV3duLzMxUkhlQzNNTXAyamZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTUuNjYuMTg0LjMzJnN0cm1fbGVuPTU=
-
-http://45.86.191.154:8081/live/ch2/chunks.m3u8?nimblesessionid=1084037&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDQ6MjU6NDUgUE0maGFzaF92YWx1ZT0wQVFCU0dSSnNidmdyUkdqRE5tSlJRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yYTBkOjU2MDA6OTpkNzo0MGNjOjIzMjY6YTBjMzoxYiZzdHJtX2xlbj01 
-
-
+17/9 PL R8,#genre#
+WOL-MCI,https://25b44f53bb82.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.052442960378.channel.iz3K3cgw9PhB.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MDUyNDQyOTYwMzc4OmNoYW5uZWwvaXozSzNjZ3c5UGhCIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8vd3d3Lm15c3BvcnRzLnRvIiwiaWF0IjoxNjYzNDA1NTc4LCJleHAiOjE2NjM1NzgzNzh9.p41OOkYBGhiOFZTRF2BTKFntUunIvi0aBOgk9IslqzktUUG9HropuTjqWiWHynxSRU0Qz_ozTb7vC7o7mewNdJTwWzmwAqhq288H9ppR01So8Geb2-uAkJvdYU1AFSxj
 
 
 
