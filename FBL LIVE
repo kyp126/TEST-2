@@ -11,7 +11,7 @@ Dortmund-Schalke,http://wae.azureedge.net:80/hls/lsh2hd201/chunks.m3u8
 17/9 PL R8,#genre#
 NEW-BOU,http://wae.azureedge.net:80/hls/lsh6hd201/chunks.m3u8
 NEW1,http://45.86.191.154:8081/live/ch1/chunks.m3u8?nimblesessionid=1168600&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIyIDE6NDc6MDYgUE0maGFzaF92YWx1ZT1aQXk2eXVOVDNFUzBpK0pZQ0ZXN1FRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTUuNjYuMjQ0LjQmc3RybV9sZW49NQ==
-
+NEW2,http://37.49.224.248:8081/live/ch1/chunks.m3u8?nimblesessionid=4236468&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIyIDE6NDg6NTMgUE0maGFzaF92YWx1ZT1xQ0ZaOHppRk0wUW85Tm44TTV6VzNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTUuNjYuMjQ0LjQmc3RybV9sZW49NQ==
 
 
 
