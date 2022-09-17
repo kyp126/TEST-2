@@ -9,6 +9,7 @@ Dortmund-Schalke,http://wae.azureedge.net:80/hls/lsh2hd201/chunks.m3u8
 
 
 17/9 PL R8,#genre#
+NEW-BOU,http://wae.azureedge.net:80/hls/lsh6hd201/chunks.m3u8
 WOL-MCI,http://wae.azureedge.net/hls/lsh6hd201/chunks.m3u8
 MC1,https://25b44f53bb82.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.052442960378.channel.iz3K3cgw9PhB.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czpldS1jZW50cmFsLTE6MDUyNDQyOTYwMzc4OmNoYW5uZWwvaXozSzNjZ3c5UGhCIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8vd3d3Lm15c3BvcnRzLnRvIiwiaWF0IjoxNjYzNDA1NTc4LCJleHAiOjE2NjM1NzgzNzh9.p41OOkYBGhiOFZTRF2BTKFntUunIvi0aBOgk9IslqzktUUG9HropuTjqWiWHynxSRU0Qz_ozTb7vC7o7mewNdJTwWzmwAqhq288H9ppR01So8Geb2-uAkJvdYU1AFSxj
 MC2,http://wae.azureedge.net:80/hls/bt1hd90/chunks.m3u8
