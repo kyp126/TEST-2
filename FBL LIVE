@@ -1,18 +1,10 @@
 
 
 
+18/9 S.A R7,#genre#
 
-17/9 S.A R7,#genre#
-Spezia-Sampdoria,http://45.86.191.154:8081/live/ch3/chunks.m3u8?nimblesessionid=1193596&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIyIDM6NDY6MDAgUE0maGFzaF92YWx1ZT1Rc0t3d3B3djZaelNNNWxaQjZuWCtBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTUuNjYuMjQ0LjQmc3RybV9sZW49NQ==
-
-17/9 LigaR6,#genre#
-Barcelona-Elche,http://wae.azureedge.net:80/hls/channel8hd201/chunks.m3u8  
-
-
-
-18/09 PL R8,#genre#
-Tot-Lei,https://b3bf264fcc4e.us-east-1.playback.live-video.net/api/video/v1/us-east-1.052442960378.channel.nmqtZ3GV5T8g.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy1lYXN0LTE6MDUyNDQyOTYwMzc4OmNoYW5uZWwvbm1xdFozR1Y1VDhnIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8vd3d3Lm15c3BvcnRzLnRvIiwiaWF0IjoxNjYzNDA2MDU1LCJleHAiOjE2NjM1Nzg4NTV9.qTcAEnwexepFKA2ybXmYuE29hO2jUzKSuwR3zkL4JH68fQ-QRj-MgOcfajwjUORD1VLD30XSQ6cWJQFN01Qu5zhnSQUYJhiDpwcqihcNOt0Kc1BHhcQdjbDvRCVp7rSo  
-TOT1,http://185.53.89.23:8081/live/ch1/chunks.m3u8?nimblesessionid=539271&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIyIDQ6MjI6MTIgUE0maGFzaF92YWx1ZT1jNDM0NXNZbnBtQUdzeDJQNlN3NWV3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMTUuNjYuMjQ0LjQmc3RybV9sZW49NQ==
+Udinese-Inter ,http://45.11.57.42:8081/live/btsports1lsh58.m3u8?e=1663501184&st=72eazw35g5iFE0AIC18qfw
+INT1,https://69b3896da73a.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.052442960378.channel.OBFLy3Eb4BNL.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMTowNTI0NDI5NjAzNzg6Y2hhbm5lbC9PQkZMeTNFYjRCTkwiLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6Ly93d3cubXlzcG9ydHMudG8iLCJpYXQiOjE2NjM0MDU5NTAsImV4cCI6MTY2MzU3ODc1MH0.mRQ3hyrZKThMlsW_u5m73yNiClHPLO0Hv_SvWm4TPxroSQtakk-d6XVvTzjqaT_21vl4RoxUvdMq9u2DA1oP4sPC-xOzTYa7bjOv0PmJ4nbn7Cn0fRig4sq6mj4CRHBN
 
 
 
