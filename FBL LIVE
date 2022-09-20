@@ -10,10 +10,6 @@ EVE-West Ham United ,https://video-weaver.sin01.hls.live-video.net/v1/playlist/C
 
 
 
-18/9 S.A R7,#genre# 
-Monza-Juv,http://wae.azureedge.net:80/hls/bt3hd90/chunks.m3u8 
-Udinese-Inter ,http://45.11.57.42:8081/live/btsports1lsh58.m3u8?e=1663501184&st=72eazw35g5iFE0AIC18qfw
-INT1,https://69b3896da73a.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.052442960378.channel.OBFLy3Eb4BNL.m3u8?token=eyJhbGciOiJFUzM4NCIsInR5cCI6IkpXVCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czphcC1ub3J0aGVhc3QtMTowNTI0NDI5NjAzNzg6Y2hhbm5lbC9PQkZMeTNFYjRCTkwiLCJhd3M6YWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luIjoiaHR0cHM6Ly93d3cubXlzcG9ydHMudG8iLCJpYXQiOjE2NjM0MDU5NTAsImV4cCI6MTY2MzU3ODc1MH0.mRQ3hyrZKThMlsW_u5m73yNiClHPLO0Hv_SvWm4TPxroSQtakk-d6XVvTzjqaT_21vl4RoxUvdMq9u2DA1oP4sPC-xOzTYa7bjOv0PmJ4nbn7Cn0fRig4sq6mj4CRHBN
 
 
 
@@ -22,13 +18,15 @@ INT1,https://69b3896da73a.ap-northeast-1.playback.live-video.net/api/video/v1/ap
 
 XXXXXXXX,#genre#
 
-UEFA TV,#genre#
-DRAW,https://live-uefa-com.akamaized.net:443/hls/live/2036934/250822_UCLGS/master_1.m3u8
+
 
 
 
 Sports CH,#genre#
-
+Super Sport 1,http://syok.tv:2082/Un/Un/124
+Super Sport 2,http://syok.tv:2082/Un/Un/125
+Super Sport 3,http://syok.tv:2082/Un/Un/126
+Super Sport 4,http://syok.tv:2082/Un/Un/127
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 TNT BASICO,http://45.235.39.84:5555/play/a01f/index.m3u8
 
