@@ -99,6 +99,7 @@ CCTV9a,http://111.20.33.70/PLTV/88888893/224/3221226197/index.m3u8
 CCTV10,http://111.20.33.70/PLTV/88888893/224/3221226228/index.m3u8
 CCTV11,http://60.10.167.88:808/hls/11/index.m3u8
 CCTV12,http://60.10.167.88:808/hls/12/index.m3u8
+CCTV-13,https://live.olelive.com:4443/live/CCTV13HD/hls.m3u8
 CCTV13,http://60.10.167.88:808/hls/13/index.m3u8
 CCTV14,http://60.10.167.88:808/hls/14/index.m3u8
 CCTV15,http://60.10.167.88:808/hls/15/index.m3u8
