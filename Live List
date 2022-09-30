@@ -5,7 +5,8 @@ open with chrome browser
 
 
 F1 SG Circuit,#genre#
-P1,http://45.86.191.47:8081/live/f1/chunks.m3u8?nimblesessionid=1901620&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIyIDEwOjAzOjE5IEFNJmhhc2hfdmFsdWU9S3VmS25Pcncra0VJKy9BY1JNcFl1QT09JnZhbGlkbWludXRlcz03MjAmaWQ9NDUuMTIuMjIxLjYwJnN0cm1fbGVuPTU=
+P1,http://37.49.224.153:8081/live/f1/chunks.m3u8?nimblesessionid=1130712&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIyIDEwOjEwOjM3IEFNJmhhc2hfdmFsdWU9U0ovQ1pKaVhQZUJDK0I0Q2RpMFlxdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni45OC4yNDYmc3RybV9sZW49NQ==
+#http://45.86.191.47:8081/live/f1/chunks.m3u8?nimblesessionid=1901620&wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDIyIDEwOjAzOjE5IEFNJmhhc2hfdmFsdWU9S3VmS25Pcncra0VJKy9BY1JNcFl1QT09JnZhbGlkbWludXRlcz03MjAmaWQ9NDUuMTIuMjIxLjYwJnN0cm1fbGVuPTU=
 
 
 
