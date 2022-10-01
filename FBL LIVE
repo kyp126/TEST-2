@@ -3,8 +3,8 @@
 
 
 
-UEFA Nations League,#genre#
-ANDORRA-LATVIA,http://185.53.88.142:8081/live/ch1/chunks.m3u8?nimblesessionid=22473&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIyIDEyOjQ5OjAwIFBNJmhhc2hfdmFsdWU9NUJKeW9jOVNYU1RjRGFZSGFOYmVoZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTM4Ljc1LjE2LjE0MiZzdHJtX2xlbj01
+1/10 PL R9,#genre#
+ARS-TOT,
 
 
 
@@ -62,8 +62,7 @@ CCTV-1,https://live.olelive.com:4443/live/CCTV1HD/hls.m3u8
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1a,http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 
-CCTV2,http://60.10.167.88:808/hls/2/index.m3u8
-CCTV2a,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
 
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 CCTV3a,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
