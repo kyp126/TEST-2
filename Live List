@@ -6,7 +6,7 @@ open with chrome browser
 
 F1 SG Circuit,#genre#
 P3,http://37.49.224.248:8081/live/f1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDc6MTQ6NTYgQU0maGFzaF92YWx1ZT00VDNoQ2JVTFRiOGRyc09rKzZxbHpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDAxOmFjODozMzozN2Q6NDljMzpmZWY2OjU4MWI6MTImc3RybV9sZW49NQ==
-Q123,
+Q123,http://bobblegroup.azureedge.net:80/hls/f1/chunks.m3u8
 
 
 
