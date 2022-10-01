@@ -12,7 +12,7 @@ CP-Chelsea,https://solinga.azureedge.net:443/hls/channel8hd201/chunks.m3u8
 CHE1,http://37.49.224.162:8081/live/ch6/chunks.m3u8?nimblesessionid=4384025&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDE6NDE6MjYgUE0maGFzaF92YWx1ZT1sb3REOExMRTJzUFRCRHpmc2tBYUNRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjExOC4xMjgmc3RybV9sZW49NQ== 
 CHE2,http://37.49.224.246:8081/live/ch6/chunks.m3u8?nimblesessionid=2321670&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDE6NDI6NDIgUE0maGFzaF92YWx1ZT1QY0RWSlQ4YVZ3Tjg5S2RIaU5aakh3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjExOC4xMjgmc3RybV9sZW49NQ==
 Sou-Everton,http://37.49.224.246:8081/live/ch8/chunks.m3u8?nimblesessionid=2322952&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDE6NDg6MTIgUE0maGFzaF92YWx1ZT16ZnRxRFMwT2tyOXhCSlBxTitvMlRBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjExOC4xMjgmc3RybV9sZW49NQ==
- 
+EVE1,http://185.53.89.23:8081/live/ch8/chunks.m3u8?nimblesessionid=941492&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDE6NDk6MjQgUE0maGFzaF92YWx1ZT14MkpmMk9Cci9EMjQ0cDhPYkZSd3JRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjExOC4xMjgmc3RybV9sZW49NQ== 
 
 Ful-Newcastle United  
 
