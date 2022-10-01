@@ -4,6 +4,15 @@
 
 
 1/10 PL R9,#genre#
+Liv-Brighton & Hove Albion  
+
+CP-Chelsea 
+ 
+Sou-Everton  
+
+Ful-Newcastle United  
+
+Bou-Brentford  
 ARS-TOT,http://37.49.224.153:8081/live/ch1/chunks.m3u8?nimblesessionid=1313471&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDEwOjQzOjI5IEFNJmhhc2hfdmFsdWU9aDdmbkREOFF6TFUxMkU4RTE0NjViQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMTguMTI4JnN0cm1fbGVuPTU=
 ARS1,http://45.86.191.154:8081/live/ch1/chunks.m3u8?nimblesessionid=1980168&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDEwOjQ2OjIxIEFNJmhhc2hfdmFsdWU9ay9hcGFNMGg2TVAyVDQxS3U5emFWUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMTguMTI4JnN0cm1fbGVuPTU=
 ARS2,https://solinga.azureedge.net:443/hls/lsh7hd201/chunks.m3u8
