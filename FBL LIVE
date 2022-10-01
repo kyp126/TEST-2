@@ -14,7 +14,7 @@ Ful-Newcastle United
 
 Bou-Brentford  
 ASR-TOT,http://37.49.224.246:8081/live/ch1/chunks.m3u8?nimblesessionid=2291581&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDExOjUyOjQ5IEFNJmhhc2hfdmFsdWU9ZFkvdG8rbFh3SnBCbmphNVZabmowdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMTguMTI4JnN0cm1fbGVuPTU=
-ARS1,http://185.209.15.245:8081/live/ch1/chunks.m3u8?nimblesessionid=6370270&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDExOjUzOjU3IEFNJmhhc2hfdmFsdWU9MDJLWW1yUERjYXRrTUd6YUVpR2VpUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMTguMTI4JnN0cm1fbGVuPTU=
+ARS1,https://bajrangsarafe.s3-accelerate.amazonaws.com:443/ch1_720p60.m3u8#http://185.209.15.245:8081/live/ch1/chunks.m3u8?nimblesessionid=6370270&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDExOjUzOjU3IEFNJmhhc2hfdmFsdWU9MDJLWW1yUERjYXRrTUd6YUVpR2VpUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMTguMTI4JnN0cm1fbGVuPTU=
 ARS2,https://solinga.azureedge.net:443/hls/lsh7hd201/chunks.m3u8
 ARS3,https://solinga.azureedge.net/hls/bt1hd90/playlist.m3u8
 
