@@ -6,6 +6,7 @@
 1/10 PL R9,#genre#
 Liv-Brighton,https://solinga.azureedge.net/hls/epl3/playlist.m3u8 
 LIV1,https://solinga.azureedge.net:443/hls/lsh7hd201/chunks.m3u8
+LIV2,http://37.49.224.246:8081/live/ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIyIDE6Mzk6MjEgUE0maGFzaF92YWx1ZT1oMTE0NlJpTWtqQW8xaFU3eTg5WVlnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjExOC4xMjgmc3RybV9sZW49NQ==
 CP-Chelsea,https://solinga.azureedge.net:443/hls/channel8hd201/chunks.m3u8
  
 Sou-Everton  
