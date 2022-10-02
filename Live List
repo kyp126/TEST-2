@@ -6,7 +6,7 @@ open with chrome browser
 use hard decode
 F1 SG Circuit,#genre#
 Race1,http://185.53.89.23:8081/live/f1/chunks.m3u8?nimblesessionid=1061448&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDIyIDk6MDM6MjIgQU0maGFzaF92YWx1ZT0wS3JaRGpVejEzbm5QV2syK2huQ2R3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNTUuMTgmc3RybV9sZW49NQ==
-
+RACE2,http://37.49.224.248:8081/live/f1/chunks.m3u8?nimblesessionid=9896890&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDIyIDEwOjM3OjM0IEFNJmhhc2hfdmFsdWU9M3RkVmZCRXNCcjJoODV6WlE1UUZiUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTM4Ljc1LjU1LjE4JnN0cm1fbGVuPTU=
 
 
 
