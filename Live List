@@ -3,13 +3,11 @@
 http://tv247.us/nba/
 open with chrome browser
 
-use hard decode
-F1 SG Circuit,#genre#
-RACE1,http://37.49.224.246:8081/live/f1/chunks.m3u8?nimblesessionid=2446962&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDIyIDE6NTk6NTkgUE0maGFzaF92YWx1ZT0yQmQydWttdWcxelVuNUpOK2ZwYU5nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNTUuMTgmc3RybV9sZW49NQ==
-.
-RACE2,http://bobblegroup.azureedge.net:80/hls/f1/chunks.m3u8
-RACE3,http://45.86.191.47:8081/live/f1/chunks.m3u8?nimblesessionid=2405835&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDIyIDI6NTc6MTcgUE0maGFzaF92YWx1ZT1xdWJyZnQ1eTlaMFZlOURXeVBtcEJ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNTUuMTgmc3RybV9sZW49NQ==
-RACE4,http://bobblegroup.azureedge.net:80/hls/f1/chunks.m3u8
+NBA 1006,#genre#
+7amHornets-Pacers,https://7centtebart91d.s3-accelerate.amazonaws.com:443/tv4_720p60.m3u8  
+
+
+
 
 
 
