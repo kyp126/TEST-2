@@ -3,7 +3,7 @@
 8/10 PL R10,#genre#
 MCI-Southampton,http://45.86.191.154:8081/live/ch1/chunks.m3u8?nimblesessionid=5282329&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDE6NDE6MjggUE0maGFzaF92YWx1ZT1XSzNDKytmdW5IMFJqQ1NITzEvN3lnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ== 
 
-CHE-Wolverhampton,
+CHE-Wolverhampton,http://185.53.89.12:8081/live/ch3/chunks.m3u8?nimblesessionid=6478636&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDE6NDM6MTkgUE0maGFzaF92YWx1ZT0zZFNqNzAyNG8xQlBUNlVQd0ZsMGVRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ==
  
 BOU-Leicester City, 
  
