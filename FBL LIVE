@@ -2,7 +2,9 @@
 9/10 PL R10,#genre# 
 10pm,https://webudi.openhd.lol:443/ddy5/premium32/tracks-v1a1/mono.m3u8
 
+LigaR8 8pm,#genre#
 
+Valladolid-Betis,http://37.49.224.246:8081/live/ch3/chunks.m3u8?nimblesessionid=840485&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDExOjQzOjIzIEFNJmhhc2hfdmFsdWU9STIxMlh3NXZneXViYzE1ek1ZeGRxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTM4Ljc1LjYwLjQxJnN0cm1fbGVuPTU=
 
 9/10 S.A R9,#genre# 
 Torino-Empoli,http://37.49.224.246:8081/live/ch5/chunks.m3u8?nimblesessionid=838892&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDk6NTQ6MTIgQU0maGFzaF92YWx1ZT1MbFkwcUpnSVl0cnI0QjVMMTZPVEJnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNjAuNDEmc3RybV9sZW49NQ==
