@@ -1,25 +1,11 @@
 
  
-8/10 PL R10,#genre#
-MCI-Southampton,http://37.49.224.246:8081/live/ch1/chunks.m3u8?nimblesessionid=718512&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDM6NDU6MDYgUE0maGFzaF92YWx1ZT1PTUFxNlpzVW8rWC9MNlVNZHhkcVFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Ny44My4xOTcuNTUmc3RybV9sZW49NQ==#http://45.86.191.154:8081/live/ch1/chunks.m3u8?nimblesessionid=5282329&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDE6NDE6MjggUE0maGFzaF92YWx1ZT1XSzNDKytmdW5IMFJqQ1NITzEvN3lnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ== 
-MCI1,https://poristas.azureedge.net/hls/epl3/playlist.m3u8
-MCI2,https://poristas.azureedge.net:443/hls/lsh6hd201/chunks.m3u8
-MCI3,http://185.53.89.12:8081/live/ch1/chunks.m3u8?nimblesessionid=6791877&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDM6NDM6MDUgUE0maGFzaF92YWx1ZT1HWkRwY3ZncDlIMUJyL1BSSTFVc2VnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Ny44My4xOTcuNTUmc3RybV9sZW49NQ==#http://185.209.15.245:8081/live/ch1/chunks.m3u8?nimblesessionid=9324076&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDI6MDQ6MzIgUE0maGFzaF92YWx1ZT11cVg3V2YyZjNGTnZZZVhkR3ZsNkp3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ==
-MC 4,https://ssss43.jokerplayer747.xyz:8081/live/epl3.m3u8?e=1665246893&st=-OvVD4O0PlSTO2TZ5yk7LA
-
-CHE-Wolverhampton,http://185.53.89.12:8081/live/ch3/chunks.m3u8?nimblesessionid=6478636&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDE6NDM6MTkgUE0maGFzaF92YWx1ZT0zZFNqNzAyNG8xQlBUNlVQd0ZsMGVRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ==
-CHE1,https://poristas.azureedge.net:443/hls/epl2/chunks.m3u8 
-CHE2,http://45.86.191.154:8081/live/ch3/chunks.m3u8?nimblesessionid=5290216&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDI6MDY6MDMgUE0maGFzaF92YWx1ZT14NERqOGFOVTNMaFhraTZmZWdxT3NnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ==
-BOU-Leicester City,https://ssss43.jokerplayer747.xyz:8081/live/epl1.m3u8?e=1665240914&st=yQjD2PY7m5txKRSY0VV0pA
-LEI1,http://45.86.191.47:8081/live/ch2/chunks.m3u8?nimblesessionid=3717904&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDI6MDE6NDYgUE0maGFzaF92YWx1ZT0vZDlseE9IQTlleDdoYUVVUWpMRnVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ== 
-NEW-Brentford,https://ssss42.jokerplayer747.xyz:8081/live/epl1.m3u8?e=1665242758&st=KYIrIToM-ARth1Biwrfkww
-NEW1,http://37.49.224.246:8081/live/ch4/chunks.m3u8?nimblesessionid=672556&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIyIDI6MDg6NDQgUE0maGFzaF92YWx1ZT03ajMwZlhrN25CdFlZdVNWMEY5d0hnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMjMuOTImc3RybV9sZW49NQ==
 
 
 
 
-
-
+9/10 S.A R9,#genre# 
+Torino-Empoli,http://37.49.224.246:8081/live/ch5/chunks.m3u8?nimblesessionid=838892&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDk6NTQ6MTIgQU0maGFzaF92YWx1ZT1MbFkwcUpnSVl0cnI0QjVMMTZPVEJnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNjAuNDEmc3RybV9sZW49NQ==
 
 
 XXXXXXXX,#genre#
