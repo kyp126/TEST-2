@@ -5,7 +5,7 @@ ARS-LIV,http://37.49.224.162:8081/live/ch1/chunks.m3u8?nimblesessionid=19684937&
 ARS1
 ARS2
 ARS3
-ARS4
+ARS4,https://d2zc2314x0x9ta.cloudfront.net:443/out/v1/d08e36366b064468977d566d2d20437c/index_1.m3u8
 
 9pm PL R10,#genre#
 WHU-Fulham,http://37.49.224.162:8081/live/ch1/chunks.m3u8?nimblesessionid=19681611&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDEyOjMwOjQxIFBNJmhhc2hfdmFsdWU9dXRXdUVKd0JhQUVWZkJudGgwNk5Udz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTM4Ljc1LjYwLjQxJnN0cm1fbGVuPTU= 
