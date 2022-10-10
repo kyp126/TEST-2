@@ -1,10 +1,10 @@
 
 
 
-F1 JAPAN GP,#genre#
-RACE 1,http://45.86.191.47:8081/live/f1/chunks.m3u8?nimblesessionid=6214002&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDQ6Mjg6MzUgQU0maGFzaF92YWx1ZT1wUTFCbFFXajVXeFlqOUl0TmEyakhRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNjAuNDEmc3RybV9sZW49NQ==
-RACE 2,http://37.49.224.249:8081/live/f1/chunks.m3u8?nimblesessionid=3570309&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDQ6MzE6MjYgQU0maGFzaF92YWx1ZT1pSW0wb0tWR0I4MVNQSGFUcjVEajdBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNjAuNDEmc3RybV9sZW49NQ==
+NBA 1010,#genre#
 
+9am
+7.30Warriors-Lakers,http://wwkastrha.azureedge.net:80/live/NBA2/chunks.m3u8
 NBA RP1007,#genre#
 
 Hornets-Celtics,https://ok6-4.vkuser.net/expires/1665321088783/srcIp/138.75.23.92/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/3/sig/JaU2pnCz_wI/ct/8/urls/45.136.20.11%3B45.136.22.30/clientType/0/zs/43/id/2877408217630/video/
