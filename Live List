@@ -1,14 +1,14 @@
 
-NBA 1510,#genre#
-10amWarriors-Nuggets,http://mediapax.azureedge.net:80/hls/espn/chunks.m3u8
+NBA RP1510,#genre#
+Warriors-Nuggets,https://ok6-11.vkuser.net/?expires=1665903965530&srcIp=138.75.15.97&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=4&sig=fyQpHPGqLFk&ct=14&urls=185.226.53.58%3B45.136.22.75&clientType=0&zs=43&id=2903912024606
   
-10amKings-Lakers,http://mediapax.azureedge.net:80/hls/kings/chunks.m3u8
-9amJazz-Mavericks,http://mediapax.azureedge.net:80/hls/jazz/chunks.m3u8
+10amKings-Lakers
+Jazz-Mavericks,https://ok6-8.vkuser.net/expires/1665904206097/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/mqlKUBZZS98/ct/8/urls/45.136.21.8%3B185.226.53.16/clientType/1/zs/43/id/2903678781982/video/
 
-Hawks–Pelicans,http://weakstrea.azureedge.net:80/live/NBA6/chunks.m3u8
-Timberwolves-Nets,http://mediapax.azureedge.net:80/hls/timberwolves/chunks.m3u8
+Hawks–Pelicans
+Timberwolves-Nets
 
-CELTICS-RAPTORS,http://mediapax.azureedge.net:80/hls/nbatv/chunks.m3u8
+CELTICS-RAPTORS
 
 NBA RP1210,#genre#
 
