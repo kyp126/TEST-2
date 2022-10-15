@@ -1,5 +1,8 @@
 
 NBA 1510,#genre#
+10amWarriors-Nuggets,http://mediapax.azureedge.net:80/hls/espn/chunks.m3u8
+  
+10amKings-Lakers,http://mediapax.azureedge.net:80/hls/kings/chunks.m3u8
 9amJazz-Mavericks,http://mediapax.azureedge.net:80/hls/jazz/chunks.m3u8
 
 Hawks–Pelicans,http://weakstrea.azureedge.net:80/live/NBA6/chunks.m3u8
