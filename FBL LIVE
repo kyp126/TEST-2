@@ -3,7 +3,7 @@
 
 
 LIGA R9,#genre#
-RMA-BBA-https://fumosglobal.azureedge.net:443/hls/lshch4hd201/chunks.m3u8
+RMA-BBA,https://fumosglobal.azureedge.net:443/hls/lshch4hd201/chunks.m3u8
 
 
 
