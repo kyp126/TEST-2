@@ -3,6 +3,7 @@
 
 
 LIGA R9,#genre#
+RMA2,https://cdn7.footballstreams.top:443/live/ch5/chunks.m3u8?nimblesessionid=12762593&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMiAzOjEzOjUwIFBNJmhhc2hfdmFsdWU9WTZiTFVSbVN1LzRUd1VHUHVpSi9hZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTM4Ljc1LjIzLjQxJnN0cm1fbGVuPTU=
 RMA-BBA,https://fumosglobal.azureedge.net:443/hls/lshch4hd201/chunks.m3u8
 
 
