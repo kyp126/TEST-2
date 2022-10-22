@@ -1,7 +1,8 @@
 
 
 22/10 PL R13,#genre#
-CHE-MU,https://cdn8.footballstreams.top:443/live/ch1/chunks.m3u8?nimblesessionid=10054727&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiA0OjAzOjI2IFBNJmhhc2hfdmFsdWU9SE9YMHdyYmFaSGQxNGRmMVBYNXJVUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni45Ny4yMTMmc3RybV9sZW49NQ==
+
+CHE-MU,https://dt0n67wnzzvg0.cloudfront.net/out/v1/e782c03cc1124e3a945b5a7d87f8ff9f/index.m3u8
 CHE 2,https://cdn8.footballstreams.top:443/live/ch1/chunks.m3u8?nimblesessionid=10061156&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiA0OjA2OjI5IFBNJmhhc2hfdmFsdWU9RlRaQURQNkk5eTlUSjZFSFdKYnNTQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni45Ny4yMTMmc3RybV9sZW49NQ==
 CHE 3,https://faydoma.azureedge.net:443/hls/epl1/chunks.m3u8
 CHE 4,https://faydoma.azureedge.net:443/hls/lsh3hd201/chunks.m3u8
