@@ -10,7 +10,7 @@
 8amBucks-Rockets ,https://gelikpleer02.s3-accelerate.amazonaws.com:443/bucks_720p30.m3u8 
 8.30Dallas-Grizzlies,https://gelikpleer02.s3-accelerate.amazonaws.com:443/76ers_720p30.m3u8
 9amNuggets-Thunder,https://gelikpleer02.s3-accelerate.amazonaws.com:443/nuggets_720p30.m3u8
-
+10amKings-Clippers,https://gelikpleer02.s3-accelerate.amazonaws.com:443/magic_720p30.m3u8
 
 
 NBA 1022,#genre#
@@ -57,42 +57,8 @@ Knicks VS Grizzlies,https://ok6-3.vkuser.net/expires/1666435366785/srcIp/124.246
 
 
 
-NBA RP1510,#genre#
-Warriors-Nuggets,https://ok6-11.vkuser.net/?expires=1665903965530&srcIp=138.75.15.97&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=4&sig=fyQpHPGqLFk&ct=14&urls=185.226.53.58%3B45.136.22.75&clientType=0&zs=43&id=2903912024606
-Cleveland-Magic,https://ok6-15.vkuser.net/expires/1665904816183/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/vhWXZ4z9ykk/ct/8/urls/45.136.20.24%3B45.136.21.17/clientType/1/zs/43/id/2903643720222/video/  
-Kings-Lakers,https://ok6-6.vkuser.net/expires/1665905146948/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/nwYc2paGFu8/ct/8/urls/185.226.53.61%3B45.136.22.49/clientType/1/zs/43/id/2903947020830/video/
-Jazz-Mavericks,https://ok6-8.vkuser.net/expires/1665904206097/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/mqlKUBZZS98/ct/8/urls/45.136.21.8%3B185.226.53.16/clientType/1/zs/43/id/2903678781982/video/
-Rockets-Pacers,https://ok6-2.vkuser.net/expires/1665904915874/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/86w1qSiN1oE/ct/8/urls/185.226.53.74%3B45.136.22.31/clientType/1/zs/43/id/2903696017950/video/
-Hawks–Pelicans,https://ok6-12.vkuser.net/expires/1665904304194/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/GwTd0Vfc82I/ct/8/urls/45.136.22.75%3B185.226.53.60/clientType/1/zs/43/id/2903719938590/video/
-Timberwolves-Nets
-
-Wizards-Knicks,https://ok6-3.vkuser.net/expires/1665904476040/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/hcUVa2ecR9o/ct/8/urls/45.136.22.47%3B185.226.52.76/clientType/1/zs/43/id/2903659055646/video/
 
 
-
-CELTICS-RAPTORS,https://ok6-15.vkuser.net/expires/1665904675560/srcIp/138.75.15.97/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/QUH3VsENSW8/ct/8/urls/45.136.20.29%3B45.136.22.76/clientType/1/zs/43/id/2903628646942/video/
-
-NBA RP1210,#genre#
-
-Nuggets-Clippers,https://ok6-13.vkuser.net/expires/1665796476019/srcIp/119.56.16.133/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/bQ4koXkfoe0/ct/8/urls/45.136.20.38%3B185.226.53.21/clientType/0/zs/43/id/2896262793758/video/
-
-Kings-Phoenix,https://vd360.mycdn.me/expires/1665796611350/srcIp/119.56.16.215/srcAg/CHROME_ANDROID/ms/45.136.21.75/type/3/sig/upLmiYNwvhU/ct/8/urls/45.136.22.75/clientType/1/zs/43/id/2896324266526/video/
-
-Timberwolves-Lakers,https://ok6-15.vkuser.net/expires/1665796699217/srcIp/119.56.16.215/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/nnW8ys9zJwQ/ct/8/urls/45.136.21.20%3B45.136.20.25/clientType/0/zs/43/id/2903849765569/video/
-
-Nets-Bucks,https://ok6-13.vkuser.net/expires/1665796829556/srcIp/119.56.16.244/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/Z_9Eu0HImOo/ct/8/urls/45.136.22.72%3B45.136.21.11/clientType/1/zs/43/id/2895915452958/video/
-
-Pelicans-Heat,https://ok6-7.vkuser.net/expires/1665796953392/srcIp/119.56.16.215/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/sXk634gUq-A/ct/8/urls/45.136.22.72%3B45.136.20.25/clientType/0/zs/43/id/2836163922530/video/
-
-Hornets-76ers,https://ok6-6.vkuser.net/expires/1665797090725/srcIp/119.56.16.244/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/3MIIhr0U_ao/ct/8/urls/185.226.53.42%3B45.136.20.50/clientType/0/zs/43/id/2881744669190/video/
-
-Knicks-Pacers,https://ok6-12.vkuser.net/expires/1665797224785/srcIp/119.56.16.242/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/78zUFNNQIqc/ct/8/urls/45.136.20.31%3B45.136.22.14/clientType/0/zs/43/id/2895935703582/video/
-
-Hawks-Cavaliers,https://ok6-3.vkuser.net/expires/1665797333337/srcIp/119.56.16.215/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/4AeAEtxvnks/ct/8/urls/185.226.53.59%3B45.136.21.20/clientType/0/zs/43/id/2895950907934/video/
-
-
-
-Raptors-Bulls,https://ok6-1.vkuser.net/expires/1665472779182/srcIp/119.56.16.196/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/zxOPelvp3o4/ct/8/urls/185.226.52.21%3B185.226.53.8/clientType/0/zs/43/id/2885220370974/video/
 
 
 
