@@ -1,16 +1,25 @@
 
 
-1023NBA,#genre#
+
+1023NBA R.PLAY,#genre#
+
+76ers-Spurs,https://ok6-13.vkuser.net/expires/1666613130817/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/sHTEPZ_vXQU/ct/8/urls/45.136.20.22%3B45.136.22.77/clientType/1/zs/43/id/2940840446494/video/
+
+Pacers-Pistons,https://ok6-5.vkuser.net/expires/1666613051035/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/1CUYXG4-5tw/ct/8/urls/45.136.21.12%3B185.226.52.17/clientType/1/zs/43/id/2940858403358/video/
+
+Magic-Celtics,https://ok6-8.vkuser.net/expires/1666612977485/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/hAjDfgrZrjk/ct/8/urls/45.136.20.23%3B45.136.22.43/clientType/1/zs/43/id/3108368681558/video/
  
-6am76ers-Spurs,https://gelikpleer02.s3-accelerate.amazonaws.com:443/76ers_720p30.m3u8 
-7amPacers-Pistons,https://gelikpleer02.s3-accelerate.amazonaws.com:443/pacers_720p60.m3u8
-7am Magic-Celtics,https://gelikpleer02.s3-accelerate.amazonaws.com:443/magic_720p30.m3u8
-8amChicago-Cleveland ,https://gelikpleer02.s3-accelerate.amazonaws.com:443/bulls_720p30.m3u8
-8am MiamiRaptors,https://gelikpleer02.s3-accelerate.amazonaws.com:443/heat_720p60.m3u8
-8amBucks-Rockets ,https://gelikpleer02.s3-accelerate.amazonaws.com:443/bucks_720p30.m3u8 
-8.30Dallas-Grizzlies,https://gelikpleer02.s3-accelerate.amazonaws.com:443/76ers_720p30.m3u8
-9amNuggets-Thunder,https://gelikpleer02.s3-accelerate.amazonaws.com:443/nuggets_720p30.m3u8
-10amKings-Clippers,https://gelikpleer02.s3-accelerate.amazonaws.com:443/magic_720p30.m3u8
+Chicago-Cleveland ,https://ok6-6.vkuser.net/expires/1666612565562/srcIp/175.156.134.88/srcAg/UNKNOWN/ms/95.142.206.133/type/3/sig/ntwTugN9UUw/ct/8/urls/45.136.22.45%3B45.136.20.56/clientType/1/zs/43/id/2940808006174/video/
+
+ Miami-Raptors,https://ok6-9.vkuser.net/expires/1666612898558/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/a24D2N7SzBQ/ct/8/urls/45.136.21.52%3B45.136.20.42/clientType/1/zs/43/id/2940920924702/video/
+
+Bucks-Rockets ,https://ok6-4.vkuser.net/expires/1666612450511/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/3/sig/fGfLI-kwQTM/ct/8/urls/185.226.53.62%3B45.136.22.72/clientType/1/zs/43/id/3108435921494/video/
+
+Dallas-Grizzlies,https://ok6-2.vkuser.net/expires/1666612247961/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/uE_uf50EkZA/ct/8/urls/185.226.53.11%3B45.136.22.29/clientType/1/zs/43/id/2940936325662/video/
+
+Nuggets-Thunder,https://ok6-2.vkuser.net/expires/1666612133940/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/A6I90Qs5g8M/ct/8/urls/45.136.22.30%3B185.226.53.71/clientType/1/zs/43/id/2940939012638/video/
+
+Kings-Clippers,https://ok6-7.vkuser.net/expires/1666612003270/srcIp/175.156.134.88/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/RR-DFlWGmMk/ct/8/urls/185.226.52.18%3B185.226.53.32/clientType/1/zs/43/id/3108471310934/video/
 
 
 
