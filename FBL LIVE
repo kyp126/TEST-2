@@ -8,7 +8,7 @@ CHE0,https://d30d5uumhes8c4.cloudfront.net:443/out/v1/fcf6b4368d9a43a0bdf29e3b04
 CHE1,https://rposmm11.azureedge.net:443/hls/usanet/chunks.m3u8
 CHE2,https://rposmm11.azureedge.net:443/hls/lsh6hd201/chunks.m3u8
 BOU-TOT,https://n2.thehesgoal.com/live/ch3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjQxOjQ2IFBNJmhhc2hfdmFsdWU9NVpnZm9CK2pZb1dKSkJUQXhwWG5Tdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMjIuMjAwJnN0cm1fbGVuPTU=  
-
+TOT1,https://n1.thehesgoal.com:443/live/ch3/chunks.m3u8?nimblesessionid=244631&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAyOjEyOjUyIFBNJmhhc2hfdmFsdWU9N3FLS2toYjV1WFY2U0I5QUQ5aklXZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMjIuMjAwJnN0cm1fbGVuPTU=
 CP-SOU,https://n3.thehesgoal.com:443/live/ch9/chunks.m3u8?nimblesessionid=295340&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjUwOjEyIFBNJmhhc2hfdmFsdWU9ODZ1TzlQK1lNeXNObUYrQnZ4UGc4QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMjIuMjAwJnN0cm1fbGVuPTU=
 NEW-AVL,https://n3.thehesgoal.com:443/live/ch9/chunks.m3u8?nimblesessionid=297415&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAxOjUxOjQzIFBNJmhhc2hfdmFsdWU9ODRzS1J0WWxkMmdDdHdLUkdkTW4vUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMjIuMjAwJnN0cm1fbGVuPTU=
 
