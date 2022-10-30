@@ -1,14 +1,24 @@
-1030 NBA LIVE,#genre#
-软解 
-Kings-Heat,https://storage.googleapis.com/nba3/kings/manifest.m3u8
-Hornets-Warriors,https://storage.googleapis.com/nba3/hornets/manifest.m3u8  
-Nets-Pacers,https://storage.googleapis.com/nba3/nets/manifest.m3u8  
-Bucks-Hawks,https://storage.googleapis.com/nba3/bucks/manifest.m3u8 
- 
-Bulls-76ers,https://storage.googleapis.com/nba3/nbatv/manifest.m3u8 
-Mavericks-Thunder,https://storage.googleapis.com/nba3/kings/manifest.m3u8 
 
-Jazz-Grizzlies,https://storage.googleapis.com/nba3/jazz/manifest.m3u8
+
+1030 RP NBA ,#genre#
+
+Kings-Heat,https://ok6-12.vkuser.net/expires/1667221523373/srcIp/124.246.85.214/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/8Ku19y4VPqE/ct/8/urls/185.226.52.72%3B45.136.21.70/clientType/1/zs/43/id/2984773356062/video/
+ 
+Hornets-Warriors,https://ok6-14.vkuser.net/expires/1667221440344/srcIp/124.246.85.214/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/QtHBIepkbmI/ct/8/urls/45.136.21.51%3B45.136.22.13/clientType/1/zs/43/id/2984606501406/video/
+
+Nets-Pacers,https://ok6-1.vkuser.net/expires/1667221353666/srcIp/124.246.85.214/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/X-UQ-dMTMqE/ct/8/urls/185.226.53.72%3B45.136.22.32/clientType/1/zs/43/id/2984688945694/video/  
+
+Bucks-Hawks,https://ok6-4.vkuser.net/expires/1667221195365/srcIp/124.246.85.214/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/3/sig/TfNvBuy3YgM/ct/8/urls/45.136.20.52%3B45.136.21.16/clientType/1/zs/43/id/2984566000158/video/ 
+ 
+Bulls-76ers,https://ok6-7.vkuser.net/expires/1667221279128/srcIp/124.246.85.214/srcAg/UNKNOWN/ms/95.142.206.134/type/3/sig/wwiRcUOaiOo/ct/8/urls/45.136.20.24%3B45.136.21.6/clientType/1/zs/43/id/2984946567710/video/ 
+
+Mavericks-Thunder,https://ok6-10.vkuser.net/expires/1667221108124/srcIp/124.246.85.214/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/ThAGwafHLOU/ct/8/urls/45.136.21.70%3B185.226.52.15/clientType/1/zs/43/id/2918197496351/video/  
+
+Jazz-Grizzlies,https://ok6-1.vkuser.net/expires/1667221033686/srcIp/124.246.85.214/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/IMRKqKeLuF8/ct/8/urls/45.136.21.21%3B185.226.52.61/clientType/1/zs/43/id/2984562264606/video/
+
+
+
+
 
 
 MEXICO F1,#genre#
