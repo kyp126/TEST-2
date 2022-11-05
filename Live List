@@ -6,7 +6,7 @@ Pistons-Cleveland,https://dalrymple821.s3-accelerate.amazonaws.com:443/pistons_7
 Pacers-Heat,https://dalrymple821.s3-accelerate.amazonaws.com:443/pacers_720p.m3u8
 76ers-Knicks,https://dalrymple821.s3-accelerate.amazonaws.com:443/76ers_720p.m3u8
 Wizards-Nets,https://dalrymple821.s3-accelerate.amazonaws.com:443/wizards_720p.m3u8 
-
+Celtics-Bulls,https://dalrymple821.s3-accelerate.amazonaws.com:443/celtics_720p.m3u8
 
 
 
@@ -113,44 +113,6 @@ Jazz-Grizzlies,https://ok6-1.vkuser.net/expires/1667221033686/srcIp/124.246.85.2
 
 
 
-MEXICO F1,#genre#
-Q123,http://d2n9h2wits23hf.cloudfront.net/media/v1/pmp4/static/clear/6057949432001/20b3c569-69d1-498b-ac0a-53d29275baa7/84c52b5c-8aef-4569-8645-0ba0a4f561dd/main.mp4?Key-Pair-Id=APKAINLZLPQXMZG2IC5A&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKi8vZDJuOWgyd2l0czIzaGYuY2xvdWRmcm9udC5uZXQvbWVkaWEvdjEvcG1wNC9zdGF0aWMvY2xlYXIvNjA1Nzk0OTQzMjAwMS8yMGIzYzU2OS02OWQxLTQ5OGItYWMwYS01M2QyOTI3NWJhYTcvODRjNTJiNWMtOGFlZi00NTY5LTg2NDUtMGJhMGE0ZjU2MWRkL21haW4ubXA0KiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzExNzIxNX19fV19&Signature=KhTbm7Avqmep5a0BvoRvZ~~ZbetNhw0NjGcRjQMu6dxPvn33KuUOboIjccWRXJhzWsbcoKbQB29jtk8ZErl~Dnv5Fo~acWcGGcvbvN8sghU08rOGo3SrsoPhn0TWIkv6DXVBOgNFm4HkUCnDtitoUUJh4IGsk0uD4KSmOj-ezJcttzFdSiWJ8jUD4wl2-426Mjz8OgiQyP1pJQMA-tAkZVcZerZRSP0EBmqKMdFnBH7bVax6cZcwnpAxsTDO3nrQuTgAkoOR13r1EnWZVb7b7Ft7DvmiyYrwKrWIZsFOPiPlhMPiVzRRN3DMTAqPFwyn-rw7BGBT0tBs7R~s8iuvrw__
-
-
-1029NBA REPLAY,#genre#
-
-Magic-Hornets,https://ok6-14.vkuser.net/expires/1667146935249/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/j23nQLR8l9A/ct/8/urls/45.136.21.15%3B185.226.53.41/clientType/1/zs/43/id/2976341821982/video/  
-
-Pistons-Hawks,https://ok6-10.vkuser.net/expires/1667147027969/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/0FxmLj9JQYU/ct/8/urls/45.136.21.13%3B45.136.22.77/clientType/1/zs/43/id/2976298240542/video/ 
-
-Wizards-Pacers,https://ok6-1.vkuser.net/expires/1667146693215/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/Sndd-vLeDFE/ct/8/urls/185.226.53.17%3B185.226.52.20/clientType/1/zs/43/id/2975947557406/video/
-
-Raptors-76ers,https://ok6-14.vkuser.net/expires/1667146771482/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/VLNkh4FodMg/ct/8/urls/45.136.21.71%3B185.226.52.73/clientType/1/zs/43/id/2976444844574/video/ 
-
-Celtics-Cavaliers,https://ok6-5.vkuser.net/expires/1667146862696/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/QGn_jkMrzJA/ct/8/urls/45.136.22.70%3B45.136.20.52/clientType/1/zs/43/id/3178172058132/video/
-
-Timberwolves-Lakers,https://ok6-9.vkuser.net/expires/1667146550386/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/ctwHmrLu_C8/ct/8/urls/45.136.22.45%3B45.136.21.21/clientType/1/zs/43/id/3143766575702/video/
-  
-Bucks-Knicks,https://ok6-11.vkuser.net/expires/1667146619089/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/ruhm8y9pTEQ/ct/8/urls/185.226.53.33%3B45.136.21.17/clientType/1/zs/43/id/2976910805534/video/
-
-Spurs-Bulls,https://ok6-7.vkuser.net/expires/1667146487678/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/fnXF-PlBNd0/ct/8/urls/185.226.52.71%3B185.226.53.20/clientType/1/zs/43/id/2975963679262/video/ 
-
-Nuggets-Jazz,https://ok6-8.vkuser.net/expires/1667146398893/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/FbATsGhJ8js/ct/8/urls/45.136.22.74%3B45.136.21.76/clientType/1/zs/43/id/2975784962590/video/  
-
-Suns-Pelicans,https://ok6-8.vkuser.net/expires/1667146319556/srcIp/124.246.80.237/srcAg/UNKNOWN/ms/95.142.206.135/type/3/sig/jRVmXW5Vgpg/ct/8/urls/45.136.22.74%3B185.226.53.8/clientType/1/zs/43/id/2976380815902/video/ 
-
-Blazers-Rockets,https://ok6-7.vkuser.net/expires/1667146226086/srcIp/124.246.80.237/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/aJ4CI074dos/ct/8/urls/45.136.22.78%3B45.136.21.10/clientType/1/zs/43/id/2976692374046/video/
-
-
-
-1028 REPLAY,#genre#
-  
-Nets-Mavericks,https://ok6-12.vkuser.net/expires/1667042325982/srcIp/138.75.22.138/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/Z8JFlGV4uXg/ct/8/urls/45.136.21.12%3B185.226.52.59/clientType/1/zs/43/id/2969458903582/video/  
-
-Thunder-Clippers,https://ok6-6.vkuser.net/expires/1667042231685/srcIp/138.75.22.138/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/08e_PxYYWNw/ct/8/urls/45.136.20.33%3B45.136.22.27/clientType/1/zs/43/id/3060270697208/video/
-  
-Warriors-Heat,https://ok6-5.vkuser.net/expires/1667042138050/srcIp/138.75.22.138/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/o_tRmBeyprk/ct/8/urls/45.136.20.16%3B185.226.53.38/clientType/1/zs/43/id/2970222791198/video/  
- Kings-Grizzlies,https://ok6-8.vkuser.net/expires/1667041954653/srcIp/138.75.22.138/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/orhdSxu5wO8/ct/8/urls/45.136.22.71%3B185.226.52.38/clientType/1/zs/43/id/2970131499550/video/
 
 
 
