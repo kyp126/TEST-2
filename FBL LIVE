@@ -1,7 +1,7 @@
 6/11 PL R15,#genre#
 CHE-ARS,https://weksnsks.azureedge.net:443/hls/bt1hd90/chunks.m3u8
 CHE2,https://weksnsks.azureedge.net:443/hls/usanet/chunks.m3u8
-
+CHE3,https://n1.thehesgoal.com:443/live/ch1/chunks.m3u8?nimblesessionid=775254&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDEyOjI3OjA0IFBNJmhhc2hfdmFsdWU9cnB2UzladitiR01saS96ZlBFK1lpUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni4xMDQuOTgmc3RybV9sZW49NQ==
 SUPERSPORT 3 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2702.ts
 
 SUPERSPORT 6 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2705.ts
