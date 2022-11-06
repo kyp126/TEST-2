@@ -1,6 +1,6 @@
 6/11 PL R15,#genre#
 SOU-NEW,https://n3.thehesgoal.com:443/live/ch2/chunks.m3u8?nimblesessionid=1108545&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDI6MDU6MTIgUE0maGFzaF92YWx1ZT1rTkt5M0NZZ1hNSTNQN3IvZzhkT1h3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjEwNC45OCZzdHJtX2xlbj01
-
+WHM-CP,https://n1.thehesgoal.com:443/live/ch3/chunks.m3u8?nimblesessionid=788833&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDIyIDI6MTM6MjcgUE0maGFzaF92YWx1ZT1UcmViKzZWRzFaSm5RZ3J0K0pLWTNBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjEwNC45OCZzdHJtX2xlbj01
 
 AVL-MUN,https://weksnsks.azureedge.net:443/hls/lsh3hd201/chunks.m3u8
 
