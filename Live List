@@ -1,33 +1,38 @@
 
-1110 NBA LIVE,#genre#
-8am,
-Magic-Mavericks,https://damirsnichko.s3-accelerate.amazonaws.com:443/arsenal_720p.m3u8 
 
-Pacers-Nuggets,https://gahuiysuiwi.s3.amazonaws.com:443/pacers_720p.m3u8
 
-Hornets-Blazers,https://gahuiysuiwi.s3.amazonaws.com:443/hornets_720p.m3u8
 
-Celtics-Pistons,https://gahuiysuiwi.s3.amazonaws.com:443/celtics_720p.m3u8 
+1110REPLAY NBA,#genre#
+
+Magic-Mavericks,https://ok6-2.vkuser.net/expires/1668164058486/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/75zamjXziQo/ct/8/urls/185.226.53.40%3B45.136.22.45/clientType/1/zs/43/id/3038745725470/video/  
+
+Pacers-Nuggets,https://ok6-6.vkuser.net/expires/1668163894510/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/57h92wbixEc/ct/8/urls/45.136.20.14%3B45.136.22.10/clientType/1/zs/43/id/3038788454942/video/  
+
+Hornets-Blazers,https://ok6-4.vkuser.net/expires/1668163983260/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/3/sig/rcHH6gT_GEM/ct/8/urls/185.226.53.62%3B45.136.22.72/clientType/1/zs/43/id/3038802479646/video/ 
+
+Celtics-Pistons,https://ok6-12.vkuser.net/expires/1668163762726/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/xjrN1xTsFMg/ct/8/urls/45.136.22.48%3B185.226.53.14/clientType/1/zs/43/id/3038995483166/video/
  
-Nets-Knicks,https://gahuiysuiwi.s3.amazonaws.com:443/espn_720p.m3u8 
+Nets-Knicks,https://ok6-2.vkuser.net/expires/1668163684736/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/OjN7O4axUWE/ct/8/urls/45.136.21.17%3B185.226.53.41/clientType/1/zs/43/id/3276503452399/video/ 
 
-Raptors-Rockets,https://gahuiysuiwi.s3.amazonaws.com:443/espn_720p.m3u8  
+Raptors-Rockets,https://ok6-9.vkuser.net/expires/1668163592503/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/3nUCxdZFj4s/ct/8/urls/45.136.20.24%3B185.226.53.42/clientType/1/zs/43/id/3039080090142/video/ 
 
-Hawks-Jazz,https://gahuiysuiwi.s3.amazonaws.com:443/hawks_720p.m3u8 
+Hawks-Jazz,https://ok6-4.vkuser.net/expires/1668163825518/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/3/sig/-uFdQk9BNL8/ct/8/urls/45.136.22.32%3B185.226.52.60/clientType/1/zs/43/id/3039095687710/video/  
 
-9am,
-Thunder-Bucks,https://gahuiysuiwi.s3.amazonaws.com:443/thunder_720p.m3u8
+Thunder-Bucks,https://ok6-15.vkuser.net/expires/1668164267098/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/heOmjeJKubA/ct/8/urls/185.226.52.8%3B45.136.22.18/clientType/1/zs/43/id/3039187569182/video/ 
  
-Bulls-Pelicans,https://gahuiysuiwi.s3.amazonaws.com:443/bulls_720p.m3u8 
+Bulls-Pelicans,https://ok6-10.vkuser.net/expires/1668163506825/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/1M1nRXntyPw/ct/8/urls/185.226.53.72%3B45.136.21.71/clientType/1/zs/43/id/3039113710110/video/ 
  
-Timberwolves-Suns,https://gahuiysuiwi.s3.amazonaws.com:443/timberwolves_720p.m3u8 
+Timberwolves-Suns,https://ok6-2.vkuser.net/expires/1668163415210/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/fKxnHIjp29g/ct/8/urls/45.136.21.17%3B45.136.22.44/clientType/1/zs/43/id/3038928636446/video/ 
 
-Spurs-Grizzlies,https://gahuiysuiwi.s3.amazonaws.com:443/spurs_720p.m3u8
+Spurs-Grizzlies,https://ok6-10.vkuser.net/expires/1668163334917/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/OcOz2K4SHHs/ct/8/urls/45.136.22.43%3B45.136.21.49/clientType/1/zs/43/id/3039044635166/video/ 
  
-11am,
-Clippers-Lakers ,https://gahuiysuiwi.s3.amazonaws.com:443/espn_720p.m3u8
+Clippers-Lakers,https://ok6-1.vkuser.net/expires/1668163233635/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/8yYaJBT4fx0/ct/8/urls/185.226.52.42%3B185.226.53.7/clientType/1/zs/43/id/3272972438194/video/
  
-Kings-Cleveland,https://gahuiysuiwi.s3.amazonaws.com:443/blues_720p60.m3u8
+Kings-Cleveland,https://ok6-11.vkuser.net/expires/1668163152335/srcIp/124.246.127.119/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/m34lfYt7P5Y/ct/8/urls/45.136.21.68%3B45.136.22.42/clientType/1/zs/43/id/3039159519774/video/
+
+
+
+
 
 
 
