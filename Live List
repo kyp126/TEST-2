@@ -1,6 +1,6 @@
 
 1110 NBA LIVE,#genre#
-
+8am,
 Magic-Mavericks,https://damirsnichko.s3-accelerate.amazonaws.com:443/arsenal_720p.m3u8 
 
 Pacers-Nuggets,https://gahuiysuiwi.s3.amazonaws.com:443/pacers_720p.m3u8
@@ -15,6 +15,15 @@ Raptors-Rockets,https://gahuiysuiwi.s3.amazonaws.com:443/espn_720p.m3u8
 
 Hawks-Jazz,https://gahuiysuiwi.s3.amazonaws.com:443/hawks_720p.m3u8 
 
+9am,
+Thunder-Bucks,https://gahuiysuiwi.s3.amazonaws.com:443/thunder_720p.m3u8
+ 
+Bulls-Pelicans,https://gahuiysuiwi.s3.amazonaws.com:443/bulls_720p.m3u8 
+ 
+Timberwolves-Suns,https://gahuiysuiwi.s3.amazonaws.com:443/timberwolves_720p.m3u8 
+
+Spurs-Grizzlies,https://gahuiysuiwi.s3.amazonaws.com:443/spurs_720p.m3u8
+ 
 
 
 
