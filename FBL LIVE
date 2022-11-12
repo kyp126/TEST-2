@@ -2,6 +2,9 @@
 12/11 PL R16,#genre#
 MC-BRE,https://092837645.azureedge.net:443/live/adaptive_bong-1/live/bong-1/chunks.m3u8 
 MC2,https://jnkxzsajnkxzncxjncxjnkcxkkasjs.azureedge.net:443/hls/usanet/chunks.m3u8
+MC3,https://jnkxzsajnkxzncxjncxjnkcxkkasjs.azureedge.net:443/hls/bt1hd90/chunks.m3u8
+
+
 SUPERSPORT 3 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2702.ts
 
 SUPERSPORT 6 FHD,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2705.ts
