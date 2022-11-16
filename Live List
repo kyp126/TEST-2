@@ -2,9 +2,10 @@
 LV1116NBA,#genre#
 8.30am,
 Pelicans-Grizzlies,https://cuiomrewuiomreat198.s3.amazonaws.com:443/bills_720p.m3u8 
-9.30am,
+9.30am,https://cuiomrewuiomreat198.s3.amazonaws.com:443/chiefs_720p.m3u8
 Mavericks-Clippers,https://cuiomrewuiomreat198.s3.amazonaws.com:443/chiefs_720p.m3u8
-
+10am,https://cuiomrewuiomreat198.s3.amazonaws.com:443/giants_720p.m3u8
+Jazz-Knicks,https://cuiomrewuiomreat198.s3.amazonaws.com:443/giants_720p.m3u8  
 
 
 
