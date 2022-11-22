@@ -5,6 +5,7 @@ ARG-SAU,https://endlovasd.s3-accelerate.amazonaws.com:443/fifa_720p60.m3u8
 ARG2,https://endlovasd.s3-accelerate.amazonaws.com:443/fifa_720p30.m3u8
 ARG3,http://play.tryafs.online:80/hls/lsh3hd201/chunks.m3u8
 ARG4,https://d1oercrdt4qbyi.cloudfront.net:443/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_2.m3u8
+ARG5,https://d1oercrdt4qbyi.cloudfront.net:443/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_1.m3u8
 
 
 
