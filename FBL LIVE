@@ -7,7 +7,7 @@ ARG2A,https://d2m5n28htvbpd2.cloudfront.net:443/out/v1/02017866ae1b4a1b8dd5d9a5e
 ARG3,http://play.tryafs.online:80/hls/lsh3hd201/chunks.m3u8
 ARG4,https://d1oercrdt4qbyi.cloudfront.net:443/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_2.m3u8
 ARG5,https://d1oercrdt4qbyi.cloudfront.net:443/out/v1/a24e45fe05444d1ca3ece02e71574ac1/index_1.m3u8
-
+ARG6,https://40a6smm5mh4fkw.data.mediastore.eu-west-2.amazonaws.com:443/livea/main_720p30.m3u8
 
 
 
