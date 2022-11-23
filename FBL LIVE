@@ -7,7 +7,7 @@ CRO2,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3Rp
 
 CCTV,https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8
 CCTV5,https://live.olelive.com:6443/live/cctv5hd/hls.m3u8
-
+CCTV5-高清(5),http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 SSPORT 2,http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2701.ts
 
 
