@@ -3,7 +3,7 @@
 WC LIVE,#genre#
 SK,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8
 SK2,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
-URG-SK,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
+URG-SK,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
 URG2,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
 
 
