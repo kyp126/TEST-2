@@ -3,8 +3,8 @@
 WC LIVE,#genre#
 POR-GHA,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8
 POR2,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
-PPR3,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
-PPR4,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
+PPR3,https://msmol.s3-accelerate.amazonaws.com:443/portugal_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
+PPR4,https://msmol.s3-accelerate.amazonaws.com:443/portugal_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
 
 
 
