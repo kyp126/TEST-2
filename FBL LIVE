@@ -1,11 +1,12 @@
 
 
 WC LIVE,#genre#
-SPA-COS,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
-SPA2,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
-SPA3,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8
+SWI-CAM,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
+SWI2,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
 
-SPA4,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
+SWI3,,https://griomreavigremant654.s3.amazonaws.com:443/redzone_72SW60.m3u8
+SWI4,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
+
 
 CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV,https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8
