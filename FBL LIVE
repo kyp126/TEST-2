@@ -1,14 +1,11 @@
 
 
 WC LIVE,#genre#
-SK,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8
-SK2,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
-URG-SK,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
-URG2,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
+POR-GHA,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8
+POR2,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
+PPR3,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
+PPR4,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
 
-
-URG3,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
-URG4,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8
 
 
 咪咕4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
