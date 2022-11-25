@@ -4,6 +4,8 @@ WC LIVE,#genre#
 Qatar-Senegal,https://s2.wecast.to:8443/hls/VI4HvuADAWUb/index.m3u8?st=DM20LgsXT7Lgbcs1LEHROw&e=1669389239
 Q-S,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAxMjo0MDoxMSBQTSZoYXNoX3ZhbHVlPTMrU0Y2Lzdzc0RHVXl2SGhHZEhpWHc9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAxMjozNzo1NyBQTSZoYXNoX3ZhbHVlPUpEQkl2dTBmdDJlQ25XbTNlSlJqWnc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 Q2,https://play.tryafs.online:443/hls/lshch4hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAxMjo0MjozNCBQTSZoYXNoX3ZhbHVlPUxtbEptMStYS0Q5eTlIS0tyM3JIeEE9PSZ2YWxpZG1pbnV0ZXM9NzA=
+Q3,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAxMjozNzo1NyBQTSZoYXNoX3ZhbHVlPUpEQkl2dTBmdDJlQ25XbTNlSlJqWnc9PSZ2YWxpZG1pbnV0ZXM9NzA=
+
 
 Wales-Iran,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
 
