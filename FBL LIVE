@@ -2,7 +2,7 @@
 
 WC LIVE,#genre#
 
-NET-ECU,https://murthyneeraj231.s3.amazonaws.com:443/tsn_720p60.m3u8
+NET-ECU,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_720p60.m3u8
 NET2,https://murthyneeraj231.s3.amazonaws.com:443/tsn_720p30.m3u8
 NET3,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
 NET4,https://s1.wecast.to:8443/hls/TTxThIMxeGSd/index.m3u8?st=FWDoU9zJgTkbto1Hhhexag&e=1669400826
