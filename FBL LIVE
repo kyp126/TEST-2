@@ -1,16 +1,10 @@
 
 
 WC LIVE,#genre#
-Qatar-Senegal,https://s2.wecast.to:8443/hls/VI4HvuADAWUb/index.m3u8?st=DM20LgsXT7Lgbcs1LEHROw&e=1669389239
-Q1a,https://murthyneeraj231.s3.amazonaws.com:443/tsn_720p60.m3u8
-Q2a,https://murthyneeraj231.s3.amazonaws.com:443/tsn_720p30.m3u8
-Q3a,https://play.tryafs.online:443/hls/lsh1hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAyOjUyOjIxIFBNJmhhc2hfdmFsdWU9SGdxUUhoK3pRNXdtNnFDbDFVc0Zrdz09JnZhbGlkbWludXRlcz03MA==#https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAxOjQwOjI0IFBNJmhhc2hfdmFsdWU9czVGYWp6cXJTWFlEcGxzK1BLcGdmQT09JnZhbGlkbWludXRlcz03MA==
-Q4a,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAyOjAyOjE0IFBNJmhhc2hfdmFsdWU9WEIyZzZvU0w4dGlHNG1mMng0NkNoUT09JnZhbGlkbWludXRlcz03MA==
 
-Wales-Iran,https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone_720p30.m3u8
+NET-ECU,https://murthyneeraj231.s3.amazonaws.com:443/tsn_720p60.m3u8
+NET2,https://murthyneeraj231.s3.amazonaws.com:443/tsn_720p30.m3u8
 
-
-WAL2,https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p60.m3u8#https://griomreavigremant654.s3.amazonaws.com:443/redzone2_720p30.m3u8
 
 
 
