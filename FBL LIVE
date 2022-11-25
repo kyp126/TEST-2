@@ -6,7 +6,7 @@ NET-ECU,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX
 NET2,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiAzOjQxOjI5IFBNJmhhc2hfdmFsdWU9V3BQc3ppUFVFWEo0WDJsa2tvczZmdz09JnZhbGlkbWludXRlcz03MA==
 NET3,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
 NET4,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_720.m3u8
-
+NET5,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMiA0OjEwOjM4IFBNJmhhc2hfdmFsdWU9Q0x2S1IwZXhJNmF5RlVFUWRoMjRlQT09JnZhbGlkbWludXRlcz03MA==
 
 咪咕4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 
