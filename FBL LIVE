@@ -1,6 +1,9 @@
 
 
 WC LIVE,#genre#
+
+
+POL3,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAxMjozNToyNSBQTSZoYXNoX3ZhbHVlPURaRVFIS0FGUUoyMklLK3VYN09TaGc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 TUN-AUS,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
 TUN2,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_720.m3u8
 TUN3,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAxMDoxMzo1OSBBTSZoYXNoX3ZhbHVlPWlIenh6T1A2MFR1d1Zsd1p0T2U4TFE9PSZ2YWxpZG1pbnV0ZXM9NzA=
