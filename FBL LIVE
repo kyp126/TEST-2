@@ -3,7 +3,7 @@
 WC LIVE,#genre#
 TUN-AUS,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
 TUN2,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_720.m3u8
-
+TUN3,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAxMDoxMzo1OSBBTSZoYXNoX3ZhbHVlPWlIenh6T1A2MFR1d1Zsd1p0T2U4TFE9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
 咪咕4K,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 
