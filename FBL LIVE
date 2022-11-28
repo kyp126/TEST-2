@@ -1,16 +1,16 @@
 
 
 WC LIVE,#genre#
-CAM-SER,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
-CAM1,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_720.m3u8
+KOR-GHA,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
+KOR1,https://murthyneeraj231.s3.amazonaws.com:443/worldcup_720.m3u8
 
 
 
-CAM2,https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_1080.m3u8
+KOR2,https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_1080.m3u8
 
-CAM3,https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_720.m3u8
+KOR3,https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_720.m3u8
 
-CAM4,https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+KOR4,https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 
 SuperSport 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
