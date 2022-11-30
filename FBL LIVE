@@ -3,7 +3,7 @@
 WC LIVE,#genre#
 AUS-DEN,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p30.m3u8#https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
 AUS1,https://play.tryafs.online:443/hls/bbc2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAyOjQwOjUyIFBNJmhhc2hfdmFsdWU9OGNsYVNQb3dEYmJXWXlIUzM3dUNwUT09JnZhbGlkbWludXRlcz03MA==
-
+AUS2,https://play.tryafs.online:443/hls/lshch4hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAyOjQyOjEwIFBNJmhhc2hfdmFsdWU9WmZXY1Noc3hpLzdvb3B0b3hmNUFpQT09JnZhbGlkbWludXRlcz03MA==
 
 
 TUN-FRA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8#https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_1080.m3u8
