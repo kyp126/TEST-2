@@ -8,7 +8,7 @@ AUS2,https://play.tryafs.online:443/hls/lshch4hd201/chunks.m3u8?wmsAuthSign=c2Vy
 
 TUN-FRA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8#https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_1080.m3u8
 FRA1,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAyOjM4OjIzIFBNJmhhc2hfdmFsdWU9T0V1ZXl4REkwc0lYVmUzcmFnT3MrQT09JnZhbGlkbWludXRlcz03MA==
-
+FRA2,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAyOjQzOjE4IFBNJmhhc2hfdmFsdWU9VVJoUjZOcHljYkZwOVY2SnlydnZsdz09JnZhbGlkbWludXRlcz03MA==
 TRT 4k,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
 A4,https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 十一体育1 4K,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
