@@ -2,7 +2,7 @@
 
 WC LIVE,#genre#
 CRO-BEL,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p30.m3u8
-CRO1,https://hdstreamss.club:30443/live/ch2/chunks.m3u8?nimblesessionid=982941&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NTA6MjIgUE0maGFzaF92YWx1ZT1YOWY3VUtPUVdyaWNlMTJQTFg1dk1BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNDkuNjEmc3RybV9sZW49NQ==
+
 CRO-BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NDE6MjAgUE0maGFzaF92YWx1ZT1Ub051KzBsRDFlZEU4VnZtZS9oYWN3PT0mdmFsaWRtaW51dGVzPTcw
 CRO-FOX,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NDI6NDUgUE0maGFzaF92YWx1ZT1vbk5hUW5WR2hEelN5NmdMRk4vd0lRPT0mdmFsaWRtaW51dGVzPTcw
 
@@ -10,7 +10,7 @@ CRO-FOX,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2V
 https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 
 CAN-MOR,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8
-CAN1,https://hdstreamss.club:30443/live/ch1/chunks.m3u8?nimblesessionid=983360&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NTI6MjEgUE0maGFzaF92YWx1ZT0rUDJ0bERiY2VFN1kxUXlweDRYK0hRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuNDkuNjEmc3RybV9sZW49NQ==
+
 CAN-BBC,https://play.tryafs.online:443/hls/bbc2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NDY6NTUgUE0maGFzaF92YWx1ZT10K295bFU4VHZmWGFhRHRsaTVGZVpRPT0mdmFsaWRtaW51dGVzPTcw
 CAN-FOX,https://play.tryafs.online:443/hls/lshch4hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NDU6MzQgUE0maGFzaF92YWx1ZT1pakRZVWFiSzVXSTVVRkNJSDllSElBPT0mdmFsaWRtaW51dGVzPTcw
 
