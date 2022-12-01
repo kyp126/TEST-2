@@ -9,7 +9,7 @@ CRO-FOX,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2V
 https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 
 CAN-MOR,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p30.m3u8
-
+CAN-BBC,https://play.tryafs.online:443/hls/bbc2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NDY6NTUgUE0maGFzaF92YWx1ZT10K295bFU4VHZmWGFhRHRsaTVGZVpRPT0mdmFsaWRtaW51dGVzPTcw
 CAN-FOX,https://play.tryafs.online:443/hls/lshch4hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6NDU6MzQgUE0maGFzaF92YWx1ZT1pakRZVWFiSzVXSTVVRkNJSDllSElBPT0mdmFsaWRtaW51dGVzPTcw
 
 
