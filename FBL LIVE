@@ -1,16 +1,16 @@
 
 
 WC LIVE,#genre#
-AUS-DEN,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p30.m3u8#https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
-AUS1,https://play.tryafs.online:443/hls/bbc2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAyOjQwOjUyIFBNJmhhc2hfdmFsdWU9OGNsYVNQb3dEYmJXWXlIUzM3dUNwUT09JnZhbGlkbWludXRlcz03MA==
-AUS1A,https://play.tryafs.online:443/hls/bbc2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAzOjUyOjE4IFBNJmhhc2hfdmFsdWU9S0U0bTcydjJYSjVUc3lLdGp5RDRyQT09JnZhbGlkbWludXRlcz03MA==
-AUS2,https://play.tryafs.online:443/hls/lshch4hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAyOjQyOjEwIFBNJmhhc2hfdmFsdWU9WmZXY1Noc3hpLzdvb3B0b3hmNUFpQT09JnZhbGlkbWludXRlcz03MA==
-AUS3,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p60.m3u8
+CRO-BEL,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p30.m3u8#https://murthyneeraj231.s3.amazonaws.com:443/worldcup_1080.m3u8
 
-TUN-FRA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8#https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_1080.m3u8
-FRA1,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAzOjU1OjA4IFBNJmhhc2hfdmFsdWU9MHF6WHFDeVc4NTQ1Y1dESFpWYWIzUT09JnZhbGlkbWludXRlcz03MA==
-FRA2,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAyOjQzOjE4IFBNJmhhc2hfdmFsdWU9VVJoUjZOcHljYkZwOVY2SnlydnZsdz09JnZhbGlkbWludXRlcz03MA==
-FRA3,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
+
+
+https://k41hedlund.s3.amazonaws.com:443/tsn2_720p60.m3u8
+
+CAN-MOR,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8#https://murthyneeraj231.s3.amazonaws.com:443/worldcup2_1080.m3u8
+
+
+https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 
 NOW 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
