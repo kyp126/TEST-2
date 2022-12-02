@@ -3,13 +3,13 @@
 WC LIVE,#genre#
 GHA-URU,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p30.m3u8
 
-https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
+GHA1,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 
 KOR-POR,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8
 
 
 
-https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
+KOR,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 
 NOW 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
