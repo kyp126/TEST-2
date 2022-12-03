@@ -5,7 +5,7 @@ NET-BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX
 NET-FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDI6MzI6NDUgUE0maGFzaF92YWx1ZT1WMXF5QU9USFZYZ1ArR3Q2YWduZHNnPT0mdmFsaWRtaW51dGVzPTcw
 
 
-NET-USA,https://hookechristine.s3-accelerate.amazonaws.com:443/usa_720p60.m3u8#https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
+NET-USA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 USA-BBC,https://d1e7pabywmvvxz.cloudfront.net/out/v1/ec80d4ca6514486d9032f93c4ded0a85/index_1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDI6NDU6MzIgUE0maGFzaF92YWx1ZT1VUm1oN2xSM0c0RUNmVStoWDZFYTFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjEyMi4yMDAmc3RybV9sZW49NQ==
 
 
