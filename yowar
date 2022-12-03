@@ -1,3 +1,22 @@
+GHA-URU,https://k41hedlund.s3.amazonaws.com:443/tsn2_720p30.m3u8
+
+GHA-TSN,https://k41hedlund.s3.amazonaws.com:443/tsn2copy_720p60.m3u8
+GHA-BBC,https://play.tryafs.online:443/hls/bbc2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIyIDQ6MDA6MTAgUE0maGFzaF92YWx1ZT1ENjJ2VXJmS04yVldMQzh0cVVTMEt3PT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/bbc2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIyIDI6NDg6MDQgUE0maGFzaF92YWx1ZT02UzZVNU94c3FJNUtKUlVKT3ZkelZnPT0mdmFsaWRtaW51dGVzPTcw
+GHA-FOX,https://is.gd/bAE6oH
+
+KOR-POR,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8
+
+
+
+KOR-TSN,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
+KOR-BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIyIDQ6MDI6MDMgUE0maGFzaF92YWx1ZT1ScU05S3M4UEZZTXNORHZ6OW9ZY1VBPT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIyIDI6NDk6NTMgUE0maGFzaF92YWx1ZT1Jc0dDYlFxa2FBaS96OGFuT1FydDJBPT0mdmFsaWRtaW51dGVzPTcw
+NOW 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+bbc1,http://50.7.220.74:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+elta2,http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+TRT 4k,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
+A4,https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+十一体育1 4K,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
 
 
 
