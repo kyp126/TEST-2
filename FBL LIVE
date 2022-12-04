@@ -5,7 +5,7 @@ FRA-POL,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 FRA-TSN,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
 BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDI6Mzk6NTQgUE0maGFzaF92YWx1ZT1VT0VWTGF0TC9kdEJJN0NGWjd2SkZnPT0mdmFsaWRtaW51dGVzPTcw
 BBC1,https://d36s38ibziywbj.cloudfront.net/out/v1/ce7f93e137a845599e41e57a5772ea5a/index_4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDM6MDY6MDcgUE0maGFzaF92YWx1ZT1pTWlaTVNKYXBnNk04UW5KNzZEVnNnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNjAzOjcwODA6NWUwMzo2OGFhOjQxYzI6MTg1OTo5NDZkOmM4NTcmc3RybV9sZW49NQ==
-
+FS1,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDQ6MDk6NTIgUE0maGFzaF92YWx1ZT1OeTRSczJqd3p1UzZLcTNnMDVVYjFRPT0mdmFsaWRtaW51dGVzPTcw
 
 
 NOW 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
