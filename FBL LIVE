@@ -3,9 +3,9 @@
 WC LIVE,#genre#
 
 
-ARG-AUS,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
-ARG1,https://sanchirrrr.s3-accelerate.amazonaws.com:443/argentina_720p60.m3u8
-BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDg6Mzg6MzYgUE0maGFzaF92YWx1ZT1oMHVPR0JQUVQ0SmJYN3VXYmlVRUR3PT0mdmFsaWRtaW51dGVzPTcw
+FRA-POL,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
+
+
 
 NOW 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
