@@ -9,7 +9,7 @@ REPLAY J2,https://ok6-4.vkuser.net/expires/1670417194330/srcIp/138.75.27.7/srcAg
 REPLAY JETPK,https://ok6-12.vkuser.net/expires/1670417251553/srcIp/138.75.27.7/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/ptsnanE9vBQ/ct/8/urls/185.226.53.21%3B45.136.20.55/clientType/1/zs/43/id/3382327708275/video/
 MOR-SPA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 SPA1,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
-SPA2,https://ok6-4.vkuser.net/expires/1670417454152/srcIp/138.75.27.7/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/nN5r6ehUNnw/ct/8/urls/185.226.52.41%3B45.136.20.16/clientType/1/zs/43/id/3382388460147/video/
+SPA2
 TSN,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8
 FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDI6NDc6MDEgUE0maGFzaF92YWx1ZT02KzRvdEp6bndmbWlGRFFxTnRZMWFRPT0mdmFsaWRtaW51dGVzPTcw
 ITV,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDI6NDc6NTcgUE0maGFzaF92YWx1ZT1Wd1c2Y2Q4MVU3eER0TCtiYVR5RCtnPT0mdmFsaWRtaW51dGVzPTcw
