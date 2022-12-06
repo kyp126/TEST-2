@@ -1,10 +1,8 @@
 
 
 WC LIVE,#genre#
-JPN-CRO,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
-JPN1,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
-BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDQ6MDM6NTAgUE0maGFzaF92YWx1ZT13R0dRWEt3eFN6MW9OVnBPMXlCNFNRPT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDI6NDg6MjYgUE0maGFzaF92YWx1ZT1abXJnT21NQ2NYTy8xb2JodU9DQlVBPT0mdmFsaWRtaW51dGVzPTcw
-FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDM6NTk6MDUgUE0maGFzaF92YWx1ZT1qTkpVM2M0OFZQRHM5RU1DclVzcmpnPT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDI6NDk6NTIgUE0maGFzaF92YWx1ZT1kczRMMjk0aEtLQjdGSjhpaUhxbUt3PT0mdmFsaWRtaW51dGVzPTcw
+MOR-SPA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
+SPA1,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
 
 
 
