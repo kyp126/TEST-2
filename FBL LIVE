@@ -12,7 +12,7 @@ SPA1,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
 SPA2
 TSN,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8
 FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDU6MDg6NDkgUE0maGFzaF92YWx1ZT1pLzBDRVZPUU1jRW5CVkJjQUtaSnVBPT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDM6NTk6NTAgUE0maGFzaF92YWx1ZT1maUYxSGhLMXI1d0JkaXFhdldPT2NRPT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDI6NDc6MDEgUE0maGFzaF92YWx1ZT02KzRvdEp6bndmbWlGRFFxTnRZMWFRPT0mdmFsaWRtaW51dGVzPTcw
-ITV,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDM6NTg6MzggUE0maGFzaF92YWx1ZT13MzBBeG11NGhrMmpjVHV4dklvM2ZRPT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDI6NDc6NTcgUE0maGFzaF92YWx1ZT1Wd1c2Y2Q4MVU3eER0TCtiYVR5RCtnPT0mdmFsaWRtaW51dGVzPTcw
+ITV,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDU6MTI6MjQgUE0maGFzaF92YWx1ZT13QmRZT2xpSm5FMDQ5SnR1VHhDWTB3PT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDM6NTg6MzggUE0maGFzaF92YWx1ZT13MzBBeG11NGhrMmpjVHV4dklvM2ZRPT0mdmFsaWRtaW51dGVzPTcw#https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDI6NDc6NTcgUE0maGFzaF92YWx1ZT1Wd1c2Y2Q4MVU3eER0TCtiYVR5RCtnPT0mdmFsaWRtaW51dGVzPTcw
 CCTV5,https://live.yfvodcdn.com/live/cctv5/hls.m3u8
 
 NOW 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
