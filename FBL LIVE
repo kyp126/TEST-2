@@ -23,9 +23,9 @@ elta2,http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445
 TRT 4k,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
 A4,https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 FOX 2,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157488
-ASS1,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/146068
-ASS4,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157558
-beIN Sports,http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157561
+ASS1(硬解),http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/146068
+ASS4(硬解),http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157558
+beIN Sports(硬解),http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/157561
 
 
 
