@@ -12,7 +12,7 @@ CRO-BRA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 BRA1,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
 BRA2,https://hdstreamss.club:30443/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDI6MjQ6MjEgUE0maGFzaF92YWx1ZT1jdmRJUDNFY20xUjVjODRYZlVTdndBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjEyMi4yMDAmc3RybV9sZW49NQ==
 TSN,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8
-
+BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDI6MzU6NTEgUE0maGFzaF92YWx1ZT1CMTBJOEgwK3JKNHVZL2pSbVpsSHVBPT0mdmFsaWRtaW51dGVzPTcw
 
 CCTV5,https://live.yfvodcdn.com/live/cctv5/hls.m3u8
 
