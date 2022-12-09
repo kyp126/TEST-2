@@ -16,6 +16,7 @@ ARG,https://fianta221.s3-accelerate.amazonaws.com:443/gamestart_720p60.m3u8
 BRA2a,https://jamesscott7772431.s3-accelerate.amazonaws.com:443/test_720p60.m3u8
 TSN,https://jamesscott7772431.s3-accelerate.amazonaws.com:443/test_720p30.m3u8
 BBC,https://x5jw7d43wyl2rl.data.mediastore.eu-central-1.amazonaws.com:443/livea/main_1080p30.m3u8#https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDI6MzU6NTEgUE0maGFzaF92YWx1ZT1CMTBJOEgwK3JKNHVZL2pSbVpsSHVBPT0mdmFsaWRtaW51dGVzPTcw
+BBC1,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDY6NTQ6MzAgUE0maGFzaF92YWx1ZT1NNFhBQ0hkYlQ5VEUweFdURXd3Q0p3PT0mdmFsaWRtaW51dGVzPTcw
 FOX1,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDU6MzE6NTMgUE0maGFzaF92YWx1ZT1BS1Q1N0dBOU5LaXhHSW8wS3pzNmdnPT0mdmFsaWRtaW51dGVzPTcw
 CCTV5,https://live.yfvodcdn.com/live/cctv5/hls.m3u8
 
