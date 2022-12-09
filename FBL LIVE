@@ -11,7 +11,7 @@ WC LIVE,#genre#
 CRO-BRA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 BRA1,https://k41hedlund.s3.amazonaws.com:443/tsncopy_720p60.m3u8
 BRA2a,https://jamesscott7772431.s3-accelerate.amazonaws.com:443/test_720p60.m3u8
-TSN,https://k41hedlund.s3.amazonaws.com:443/tsn_720p30.m3u8
+TSN,https://jamesscott7772431.s3-accelerate.amazonaws.com:443/test_720p30.m3u8
 BBC,https://x5jw7d43wyl2rl.data.mediastore.eu-central-1.amazonaws.com:443/livea/main_1080p30.m3u8#https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDI6MzU6NTEgUE0maGFzaF92YWx1ZT1CMTBJOEgwK3JKNHVZL2pSbVpsSHVBPT0mdmFsaWRtaW51dGVzPTcw
 FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDM6MDM6MzcgUE0maGFzaF92YWx1ZT1OSXdqUmdrdk50OVE1amFwYkg1M0p3PT0mdmFsaWRtaW51dGVzPTcw
 CCTV5,https://live.yfvodcdn.com/live/cctv5/hls.m3u8
