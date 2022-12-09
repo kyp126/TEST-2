@@ -11,7 +11,8 @@ BRAZIL_2
 
 WC LIVE,#genre#
 CRO-BRA,https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
-BRA1a,https://annuskanika.s3-accelerate.amazonaws.com:443/brazil_720p60.m3u8
+ARG,https://fianta221.s3-accelerate.amazonaws.com:443/gamestart_720p60.m3u8
+
 BRA2a,https://jamesscott7772431.s3-accelerate.amazonaws.com:443/test_720p60.m3u8
 TSN,https://jamesscott7772431.s3-accelerate.amazonaws.com:443/test_720p30.m3u8
 BBC,https://x5jw7d43wyl2rl.data.mediastore.eu-central-1.amazonaws.com:443/livea/main_1080p30.m3u8#https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDI6MzU6NTEgUE0maGFzaF92YWx1ZT1CMTBJOEgwK3JKNHVZL2pSbVpsSHVBPT0mdmFsaWRtaW51dGVzPTcw
