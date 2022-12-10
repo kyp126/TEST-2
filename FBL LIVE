@@ -6,8 +6,8 @@ WC LIVE,#genre#
 ENG1,https://d3iwi7wfbrbc7a.cloudfront.net:443/out/v1/d3b769ae5ff0468391e88b7f0c8e4ae2/index_1.m3u8#https://lynellfadowlowsk.s3.amazonaws.com:443/gameon_1280x720_3300k.m3u8
 ENG2,https://lynellfadowlowsk.s3.amazonaws.com:443/gameon_1280x720_5000k.m3u8
 
-ITV,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjUwOjI4IFBNJmhhc2hfdmFsdWU9RE5PWk84TVlyWDR4RU1QNW1samFWUT09JnZhbGlkbWludXRlcz03MA==
-FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjUxOjI4IFBNJmhhc2hfdmFsdWU9c2pHUW5LSEZYVGtkZno5Z3hsajAydz09JnZhbGlkbWludXRlcz03MA==
+ITV,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA4OjE3OjAyIFBNJmhhc2hfdmFsdWU9WGhJdkVaR2ovNENyK0ZGcTduUjNWZz09JnZhbGlkbWludXRlcz03MA==#https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjUwOjI4IFBNJmhhc2hfdmFsdWU9RE5PWk84TVlyWDR4RU1QNW1samFWUT09JnZhbGlkbWludXRlcz03MA==
+FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA4OjE4OjE1IFBNJmhhc2hfdmFsdWU9NjhyamJkMWtRQWtIY1pDZjh1d0gzUT09JnZhbGlkbWludXRlcz03MA==#https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjUxOjI4IFBNJmhhc2hfdmFsdWU9c2pHUW5LSEZYVGtkZno5Z3hsajAydz09JnZhbGlkbWludXRlcz03MA==
 
 
 
