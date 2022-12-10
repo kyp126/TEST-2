@@ -16,6 +16,7 @@ ARG1,https://lanbelerio.s3-accelerate.amazonaws.com:443/good_720p30.m3u8
 FOX,https://rn2pv6dr2vnr36.data.mediastore.eu-west-2.amazonaws.com:443/livea/main_1080p30.m3u8
 
 CCTV5,https://live.yfvodcdn.com/live/cctv5/hls.m3u8
+NOW 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
 
 NOW 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
