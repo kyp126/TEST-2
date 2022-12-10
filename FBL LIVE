@@ -15,6 +15,10 @@ https://k41hedlund.s3.amazonaws.com:443/tsn_720p60.m3u8
 POR,https://llyinarenata238.s3-accelerate.amazonaws.com:443/cool_720p60.m3u8
 POR1,https://lanbelerio.s3-accelerate.amazonaws.com:443/good_720p30.m3u8
 POR2,https://llyinarenata238.s3-accelerate.amazonaws.com:443/cool_720p30.m3u8
+iTV,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAyOjMyOjU4IFBNJmhhc2hfdmFsdWU9eWVoSW5YYWtZUFpvK1hiNE1ZODBqUT09JnZhbGlkbWludXRlcz03MA==
+FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAyOjM0OjA0IFBNJmhhc2hfdmFsdWU9R1ZJMGtnTXN4MmNrWlNXOFVrLytvQT09JnZhbGlkbWludXRlcz03MA==
+
+
 NOW4K,http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
 
 
