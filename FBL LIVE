@@ -7,7 +7,7 @@ ARG 2H,https://ok6-1.vkuser.net/expires/1671060123586/srcIp/119.56.97.120/srcAg/
 
 WC LIVE,#genre#
 FRA-MOR,https://manzuetaasia65.s3.amazonaws.com:443/rock_1080p30.m3u8
-
+BBC1,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA3OjUwOjMyIFBNJmhhc2hfdmFsdWU9VkJNV2xNalU0VU9Id05HVkNBbVdVQT09JnZhbGlkbWludXRlcz03MA==
 BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA2OjM5OjA4IFBNJmhhc2hfdmFsdWU9cGtINmFvd2M5OEVYY1I5Sk15TjVuZz09JnZhbGlkbWludXRlcz03MA==
 FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMiA2OjQwOjM0IFBNJmhhc2hfdmFsdWU9OEpPOWFsSTh2cER5aGhyL21jV2VwQT09JnZhbGlkbWludXRlcz03MA==
 
