@@ -6,14 +6,12 @@ ARG 2H,https://ok6-1.vkuser.net/expires/1671060123586/srcIp/119.56.97.120/srcAg/
 
 
 WC LIVE,#genre#
-ARG-CRO,https://hnrttmchugh.s3.amazonaws.com:443/begin_1080p30.m3u8
+FRA-MOR,https://hnrttmchugh.s3.amazonaws.com:443/begin_1080p30.m3u8
 
 
-TSN,https://hnrttmchugh.s3.amazonaws.com:443/begin_720p30.m3u8
 
-ARG1,https://lawrowromka.s3-accelerate.amazonaws.com:443/games3_720p30.m3u8
-ITV,https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA3OjU1OjI3IFBNJmhhc2hfdmFsdWU9TmlIdGtYSkRGWWhCbWFMWXFpL2RCZz09JnZhbGlkbWludXRlcz03MA==#https://play.tryafs.online:443/hls/itv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjQwOjAwIFBNJmhhc2hfdmFsdWU9ZTV3dmJNTjRFL2c2a2NZc1pUSGYyZz09JnZhbGlkbWludXRlcz03MA==
-FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA3OjU2OjM1IFBNJmhhc2hfdmFsdWU9NUk0V1JFZ3VsVldBb1NjcEQrMWhXdz09JnZhbGlkbWludXRlcz03MA==#https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAyMiA2OjQyOjAzIFBNJmhhc2hfdmFsdWU9d3BQRzFsblVDc201Q3hxWXR4V20rQT09JnZhbGlkbWludXRlcz03MA==
+
+
 
 
                                                                                                                                           
