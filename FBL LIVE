@@ -9,7 +9,7 @@ ARG 2H,https://ok6-1.vkuser.net/expires/1671060123586/srcIp/119.56.97.120/srcAg/
 
 WC LIVE,#genre#
 3rd final,https://8s3wyrpd0vp2u1.data.mediastore.eu-west-2.amazonaws.com:443/livea/main_1080p30.m3u8#https://yaj3bogon6er3g.data.mediastore.eu-west-2.amazonaws.com:443/livea/main_1080p30.m3u8
-BBC1,,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMiA0OjE4OjE2IFBNJmhhc2hfdmFsdWU9ZENpaFlMOVVFeHRTYjlORjQxdTlZQT09JnZhbGlkbWludXRlcz03MA==
+BBC1,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMiA0OjI1OjU4IFBNJmhhc2hfdmFsdWU9SU1vckkzZDdOSlFQdXF6bXJxckw4UT09JnZhbGlkbWludXRlcz03MA==
 BBC,https://play.tryafs.online:443/hls/bbc/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMiAyOjM1OjMxIFBNJmhhc2hfdmFsdWU9NE5xOS82U3Y5RncvM3RScjBvbVBIQT09JnZhbGlkbWludXRlcz03MA==
 FOX1,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMiA0OjIwOjAzIFBNJmhhc2hfdmFsdWU9WFd3Z0FSK1dsU1JMdUtCUFR4VmZRdz09JnZhbGlkbWludXRlcz03MA==
 FOX,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMiAyOjU1OjM1IFBNJmhhc2hfdmFsdWU9WjcvcmtJdWU1T3F1Q1ZrVTVpVndJdz09JnZhbGlkbWludXRlcz03MA==
