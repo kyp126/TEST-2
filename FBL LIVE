@@ -11,7 +11,7 @@ TSN1,https://oteduanrl.s3.amazonaws.com:443/games_1080p30.m3u8
 ITV,https://167vu4dmp1kaaf.data.mediastore.eu-central-1.amazonaws.com:443/livea/main_1080p30.m3u8
 2,https://ainguenteyd.s3.amazonaws.com:443/site_1080p30.m3u8
 3,https://oteduanrl.s3.amazonaws.com:443/games_720p30.m3u8
-
+4
 
 SPORT4K,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484694
 TRT4K,http://cdnx1.plusx.tv:8880/TRTInternational/mono.m3u8?token=cb776083b1e1b6f9bb2222
