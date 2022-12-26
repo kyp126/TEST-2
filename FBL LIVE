@@ -1,6 +1,7 @@
 
 PLR17,#genre#
-CP-FUL,https://ovocloud.site/live/abr_s-1/playlist.m3u8
+CP-FUL,https://ovocloud.site:443/live/abr_s-1/live/s-1/chunks.m3u8
+
 SOU-BHA,https://hdstreamss.club:30443/live/abr_ch9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiAyOjQ0OjUyIFBNJmhhc2hfdmFsdWU9b1dHVzdvWFlENHB5eE9QLy9sQk9IUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTc1LjE1Ni4yMzAuNTImc3RybV9sZW49NQ==
 
 
