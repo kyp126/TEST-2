@@ -8,7 +8,7 @@ MC1,https://wpttwas2s.azureedge.net:443/live/sppl/chunks.m3u8
 MC2,https://wp1pskaj.azureedge.net/live/sppl/playlist.m3u8
 
 CP1,https://wpttwas2s.azureedge.net:443/live/s2/chunks.m3u8
-
+CP2,https://wpttwas2s.azureedge.net:443/live/s2/chunks.m3u8
 NEW1,https://wpttwas2s.azureedge.net:443/live/usa/chunks.m3u8
 FUL1,https://wp1pskaj.azureedge.net:443/live/s1/chunks.m3u8
 FUL2,https://wpttwas2s.azureedge.net:443/live/s2/chunks.m3u8?USE_EXOPLAYER=1&user_agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/74.0.3729.169%20Safari/537.36
