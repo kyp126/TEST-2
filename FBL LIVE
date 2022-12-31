@@ -4,7 +4,7 @@
 
 3112 PL,#genre#
 MC-EVE,https://wpttwas2s.azureedge.net:443/live/sppl/chunks.m3u8#https://wp1pskaj.azureedge.net:443/live/sppl/chunks.m3u8
-MC1,https://wpttwas2s.azureedge.net:443/live/sppl/chunks.m3u8
+MC1内置,https://wpttwas2s.azureedge.net:443/live/sppl/chunks.m3u8
 MC2,https://wp1pskaj.azureedge.net/live/sppl/playlist.m3u8
 
 CP1,https://wpttwas2s.azureedge.net:443/live/s2/chunks.m3u8
