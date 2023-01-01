@@ -1,115 +1,174 @@
-
 {
-
-//æ•°æ®æŽ¥å£
-
-"sites": [
-
-{"key":"mtv_pc_é…·äº‘ä¸ƒä¸ƒ","name":"çˆ¬è™«â”ƒé…·äº‘ä¸ƒä¸ƒ","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_å“”æ»´å½±è§†","name":"çˆ¬è™«â”ƒå“”æ»´å½±è§†","type":3,"api":"csp_Bdys01"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_å¥¥ç‰¹å½±è§†","name":"çˆ¬è™«â”ƒå¥¥ç‰¹å½±è§†","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_ä¸¤ä¸ªç£åŠ›","name":"çˆ¬è™«â”ƒä¸¤ä¸ªç£åŠ›","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_å¿«çœ‹å½±è§†","name":"çˆ¬è™«â”ƒå¿«çœ‹å½±è§†","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_å°è‹¹æžœæº","name":"çˆ¬è™«â”ƒå°è‹¹æžœæº","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/MTVæ•°æ®åŒ…2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-{"key":"mtv_pc_ä¸‰äº¿å½±è§†","name":"çˆ¬è™«â”ƒä¸‰äº¿å½±è§†","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/MTVæ•°æ®åŒ…2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-{"key":"mtv_pc_ç¾Žå‰§æ˜Ÿçƒ","name":"çˆ¬è™«â”ƒç¾Žå‰§æ˜Ÿçƒ","type":3,"api":"csp_Mjxq"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/MTVæ•°æ®åŒ…2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-{"key":"mtv_pc_å‰§è’å½±é™¢","name":"çˆ¬è™«â”ƒå‰§è’å½±é™¢","type":3,"api":"csp_Juhuang"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://meow.miaotvs.cn/MTVæ•°æ®åŒ…2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-{"key":"mtv_pc_åœ¨çº¿ä¹‹å®¶","name":"çˆ¬è™«â”ƒåœ¨çº¿ä¹‹å®¶","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_åŠ¨æ¼«å·´å£«","name":"çˆ¬è™«â”ƒåŠ¨æ¼«å·´å£«","type":3,"api":"csp_Dm84"          ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_æ¨±èŠ±åŠ¨æ¼«","name":"çˆ¬è™«â”ƒæ¨±èŠ±åŠ¨æ¼«","type":3,"api":"csp_Anime1"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_ç›´æ’­åˆé›†","name":"çˆ¬è™«â”ƒç›´æ’­åˆé›†","type":3,"api":"csp_Yj1211"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_360å½±è§†" ,"name":"å®˜æ–¹â”ƒ360å½±è§†" ,"type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_å¥‡è‰ºè§†é¢‘","name":"å®˜æ–¹â”ƒå¥‡è‰ºè§†é¢‘","type":3,"api":"csp_IQIYI"         ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_è…¾è®¯è§†é¢‘","name":"å®˜æ–¹â”ƒè…¾è®¯è§†é¢‘","type":3,"api":"csp_QQ"            ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_èŠ’æžœè§†é¢‘","name":"å®˜æ–¹â”ƒèŠ’æžœè§†é¢‘","type":3,"api":"csp_MGTV"          ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_xp_å°çº¸æ¡æº","name":"æœç´¢â”ƒå°çº¸æ¡æº","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ç›˜æœèµ„æº.json"},
-{"key":"mtv_xp_æ˜“æœèµ„æº","name":"æœç´¢â”ƒæ˜“æœèµ„æº","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ç›˜æœèµ„æº.json"},
-{"key":"push_agent"     ,"name":"æŽ¨é€â”ƒæŽ¨é€èµ„æº","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ç›˜æœèµ„æº.json"},
-{"key":"mtv_xp_å„¿ç«¥ä¹å›­","name":"å“”å“©â”ƒå„¿ç«¥ä¹å›­","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å„¿ç«¥ä¹å›­.json"},
-{"key":"mtv_xp_å­¦ä¹ è¯¾å ‚","name":"å“”å“©â”ƒå­¦ä¹ è¯¾å ‚","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å­¦ä¹ è¯¾å ‚.json"},
-{"key":"mtv_xp_éŸ³ä¹æ¼”å”±","name":"å“”å“©â”ƒéŸ³ä¹æ¼”å”±","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-éŸ³ä¹æ¼”å”±.json"},
-{"key":"mtv_xp_æˆæ›²æ‚è‹‘","name":"å“”å“©â”ƒæˆæ›²æ‚è‹‘","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-æˆæ›²æ‚è‹‘.json"},
-{"key":"mtv_xp_ç›¸å£°å°å“","name":"å“”å“©â”ƒç›¸å£°å°å“","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ç›¸å£°å°å“.json"},
-{"key":"mtv_xp_å¥³å›¢çƒ­èˆž","name":"å“”å“©â”ƒå¥³å›¢çƒ­èˆž","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å¥³å›¢çƒ­èˆž.json"},
-{"key":"mtv_xp_ä½“è‚²èµ›äº‹","name":"å“”å“©â”ƒä½“è‚²èµ›äº‹","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ä½“è‚²èµ›äº‹.json"},
-{"key":"mtv_xp_æ£‹ç‰Œå¨±ä¹","name":"å“”å“©â”ƒæ£‹ç‰Œå¨±ä¹","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-æ£‹ç‰Œå¨±ä¹.json"},
-{"key":"mtv_xp_ç¾Žé£Ÿå¤©åœ°","name":"å“”å“©â”ƒç¾Žé£Ÿå¤©åœ°","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ç¾Žé£Ÿå¤©åœ°.json"},
-{"key":"mtv_xp_é…·å¥‡è§†é¢‘","name":"åˆ‡ç‰‡â”ƒé…·å¥‡è§†é¢‘","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-é…·å¥‡è§†é¢‘.json"},
-{"key":"mtv_xp_å†œæ°‘å½±è§†","name":"åˆ‡ç‰‡â”ƒå†œæ°‘å½±è§†","type":3,"api":"csp_Nmys"          ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å†œæ°‘å½±è§†.json"},
-{"key":"mtv_xp_é¥­å›¢å½±é™¢","name":"åˆ‡ç‰‡â”ƒé¥­å›¢å½±é™¢","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-é¥­å›¢å½±é™¢.json"},
-{"key":"mtv_xp_å½±è§†å·¥åŽ‚","name":"åˆ‡ç‰‡â”ƒå½±è§†å·¥åŽ‚","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å½±è§†å·¥åŽ‚.json"},
-{"key":"mtv_xp_è¾¾é¾Ÿå½±è§†","name":"åˆ‡ç‰‡â”ƒè¾¾é¾Ÿå½±è§†","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-è¾¾é¾Ÿå½±è§†.json"},
-{"key":"mtv_xp_ä¹çŒªå½±è§†","name":"åˆ‡ç‰‡â”ƒä¹çŒªå½±è§†","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ä¹çŒªå½±è§†.json"},
-{"key":"mtv_xp_ä¹çŒªå½±é™¢","name":"åˆ‡ç‰‡â”ƒä¹çŒªå½±é™¢","type":3,"api":"csp_XPathMac"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ä¹çŒªå½±é™¢.json"},
-{"key":"mtv_xp_åœ¨çº¿ä¹‹å®¶","name":"åˆ‡ç‰‡â”ƒåœ¨çº¿ä¹‹å®¶","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-åœ¨çº¿ä¹‹å®¶.json"},
-{"key":"mtv_xp_åŽ‚é•¿å½±è§†","name":"åˆ‡ç‰‡â”ƒåŽ‚é•¿å½±è§†","type":3,"api":"csp_xBPQ"          ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-åŽ‚é•¿å½±è§†.json"}, 
-{"key":"mtv_xp_è“å…‰å½±é™¢","name":"åˆ‡ç‰‡â”ƒè“å…‰å½±é™¢","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-è“å…‰å½±é™¢.json"},
-{"key":"mtv_xp_VOFLIXS" ,"name":"åˆ‡ç‰‡â”ƒVOFLIXS" ,"type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-VOFLIXS.json"},
-{"key":"mtv_xp_åŠ¨æ¼«å·´å£«","name":"åˆ‡ç‰‡â”ƒåŠ¨æ¼«å·´å£«","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-åŠ¨æ¼«å·´å£«.json"},
-{"key":"mtv_xp_åŠ¨æ¼«ç›´é“¾","name":"åˆ‡ç‰‡â”ƒåŠ¨æ¼«ç›´é“¾","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-åŠ¨æ¼«ç›´é“¾.json"},
-{"key":"mtv_xp_åŠ¨æ¼«å²›æº","name":"åˆ‡ç‰‡â”ƒåŠ¨æ¼«å²›æº","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/å¤ªé™½-åŠ¨æ¼«å²›æº.json"},
-{"key":"mtv_xp_ç»´å¥‡åŠ¨æ¼«","name":"åˆ‡ç‰‡â”ƒç»´å¥‡åŠ¨æ¼«","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ç»´å¥‡åŠ¨æ¼«.json"},
-{"key":"mtv_xp_éªšç«ç”µå½±","name":"åˆ‡ç‰‡â”ƒéªšç«ç”µå½±","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-éªšç«ç”µå½±.json"},
-{"key":"mtv_xp_å£è¢‹å½±é™¢","name":"åˆ‡ç‰‡â”ƒå£è¢‹å½±é™¢","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å£è¢‹å½±é™¢.json"},
-{"key":"mtv_xp_æ¯”ç‰¹å½±è§†","name":"åˆ‡ç‰‡â”ƒæ¯”ç‰¹å½±è§†","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-æ¯”ç‰¹å½±è§†.json"},
-{"key":"mtv_xp_èŠ±çŒ«å½±è§†","name":"åˆ‡ç‰‡â”ƒèŠ±çŒ«å½±è§†","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-èŠ±çŒ«å½±è§†.json"},
-{"key":"mtv_xp_å¥‡ä¼˜å½±é™¢","name":"åˆ‡ç‰‡â”ƒå¥‡ä¼˜å½±é™¢","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å¥‡ä¼˜å½±é™¢.json"},
-{"key":"mtv_xp_ä¹Œé¾Ÿå½±é™¢","name":"åˆ‡ç‰‡â”ƒä¹Œé¾Ÿå½±é™¢","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-ä¹Œé¾Ÿå½±é™¢.json"},
-{"key":"mtv_xp_å…­åº¦å½±è§†","name":"åˆ‡ç‰‡â”ƒå…­åº¦å½±è§†","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å…­åº¦å½±è§†.json"},
-{"key":"mtv_xp_å¹²é¥­å½±è§†","name":"åˆ‡ç‰‡â”ƒå¹²é¥­å½±è§†","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-å¹²é¥­å½±è§†.json"},
-{"key":"mtv_xp_é‡‘çœ¼å½±è§†","name":"åˆ‡ç‰‡â”ƒé‡‘çœ¼å½±è§†","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/å¤ªé™½-é‡‘çœ¼å½±è§†.json"}],
-
-//è§£æžæŽ¥å£
-
-//{"name":"å¤‡ç”¨","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æžœ","letv","ä¹è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-//{"name":"å¤‡ç”¨","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æžœ","letv","leshi","LS","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"],"header":{"User-Agent":""}}},
-//{"name":"å¤‡ç”¨","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æžœ","letv","ä¹è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-//{"name":"å¤‡ç”¨","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","å¥‡è‰º","çˆ±å¥‡è‰º","qq","è…¾è®¯","youku","ä¼˜é…·","pptv","PPTV","letv","ä¹è§†","bilibili","å“”å“©å“”å“©","å“”å“©","mgtv","èŠ’æžœ","xigua","è¥¿ç“œ","sohu","æœç‹","cntv","cctv","å¤®è§†","1905","m1905"]}},
-//{"name":"å¤‡ç”¨","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qiyi","iqiyi","å¥‡è‰º","çˆ±å¥‡è‰º","qq","è…¾è®¯","youku","ä¼˜é…·","pptv","PPTV","letv","ä¹è§†","bilibili","å“”å“©å“”å“©","å“”å“©","mgtv","èŠ’æžœ","xigua","è¥¿ç“œ","sohu","æœç‹","cntv","cctv","å¤®è§†","1905","m1905"]}},
-
-"parses":[
-{"name":"è§£æžèšåˆ","type":3,"url":"Demo"},
-{"name":"Jsonå¹¶å‘","type":2,"url":"Parallel"},
-{"name":"Jsonè½®è¯¢","type":2,"url":"Sequence"},
-{"name":"çº¿è·¯1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"çº¿è·¯2","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":""}}},
-{"name":"çº¿è·¯3","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"çº¿è·¯4","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=adeikprtvwyCEJSXY2&url="},
-{"name":"çº¿è·¯5","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v="},
-{"name":"çº¿è·¯6","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-{"name":"çº¿è·¯7","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
-{"name":"çº¿è·¯8","type":1,"url":"http://api.ckflv.cn/?url="},
-{"name":"çº¿è·¯9","type":0,"url":"https://hxys.tv/bfq/?url="},
-{"name":"çº¿è·¯10","type":0,"url":"https://www.nxflv.com/?url="}],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
-
-//jar+å£çº¸
-
-"spider":"http://meow.miaotvs.cn/MTVæ•°æ®åŒ…1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC","wallpaper":"https://tool.weetai.cn/api",
-
-//ç”µè§†ç›´æ’­
-
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzExMS42Ny4xOTYuMTgxL210di96aGliby50eHQ="]}]}],
-
-//è§£ç æ¨¡å¼
-
-"ijk":[{"group":"è½¯è§£ç ","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
-{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},
-{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},
-{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
-{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
-{"group":"ç¡¬è§£ç ","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
-{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},
-{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},
-{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
-{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-
-//å¹¿å‘Šè¿‡æ»¤
-
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com",
-"cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com",
-"xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com",
-"xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
-"s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
-"z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
-    
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;945b391d7430796229f6d5309037abeb",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "測試",
+      "type": 1,
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
+    }
+  ],
+  "sites": [
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+    },
+    {
+      "key": "哔哩",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快播",
+      "name": "快播",
+      "type": 1,
+      "api": "https://www.kuaibozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "国产剧",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "综艺"
+      ]
+    },
+    {
+      "key": "百度",
+      "name": "百度",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "大陆剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "巴士",
+      "name": "巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "異界",
+      "name": "異界",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "紙條",
+      "name": "紙條",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "UP雲搜",
+      "name": "UP雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "http://ali.饭太硬.ml/tok"
+    }
+  ]
+}
