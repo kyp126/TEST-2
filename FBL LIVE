@@ -2,24 +2,9 @@
 
 
 
-3112 PL,#genre#
-MC-EVE,https://wpwppws.azureedge.net:443/live/sppl/chunks.m3u8
-MC1内置,https://wpwppws.azureedge.net:443/live/sppl/chunks.m3u8
-MC2,https://wpapysah2.azureedge.net:443/live/sppl/chunks.m3u8
-MC3,https://wpwppws.azureedge.net:443/live/sppl/chunks.m3u8
-CP1,https://wpttwas2s.azureedge.net:443/live/s2/chunks.m3u8
-CP2,https://wpapysah2.azureedge.net:443/live/s2/chunks.m3u8
-CP3,https://wpapysah2.azureedge.net/live/s2/playlist.m3u8
-
-
-
-NEW1,https://wpttwas2s.azureedge.net:443/live/usa/chunks.m3u8
-NEW2,https://wpttwas2s.azureedge.net:443/live/usa/chunks.m3u8
-NEW3,https://wpapysah2.azureedge.net:443/live/usa/chunks.m3u8
-
-FUL1,https://wpwppws.azureedge.net:443/live/s1/chunks.m3u8
-FUL2,https://wpttwas2s.azureedge.net:443/live/s2/chunks.m3u8?USE_EXOPLAYER=1&user_agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/74.0.3729.169%20Safari/537.36
-FUL3,https://wpwppws.azureedge.net:443/live/s1/chunks.m3u8
+0101 PL,#genre#
+BHA-ARS#1,https://ok6-6.vkuser.net/expires/1672625007277/srcIp/124.246.100.72/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/e_vdsWGdLSg/ct/8/urls/185.226.53.61%3B45.136.20.14/clientType/1/zs/43/id/3282750540293/video/
+BHA-ARS#2,https://ok6-13.vkuser.net/expires/1672625076965/srcIp/124.246.100.72/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/pSMoeR4YiSQ/ct/8/urls/45.136.21.22%3B185.226.52.13/clientType/1/zs/43/id/3282703616517/video/
 
 
 
