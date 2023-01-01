@@ -4,7 +4,7 @@
 PLR18,#genre#
 
 TOT-AVL,https://wpasytehas.azureedge.net:443/live/sspl/chunks.m3u8
-
+TOT1,https://wpasyscdas.azureedge.net:443/live/sspl/chunks.m3u8
 
 0101 PL,#genre#
 BHA-ARS#1,https://ok6-6.vkuser.net/expires/1672625007277/srcIp/124.246.100.72/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/e_vdsWGdLSg/ct/8/urls/185.226.53.61%3B45.136.20.14/clientType/1/zs/43/id/3282750540293/video/
