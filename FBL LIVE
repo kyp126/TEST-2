@@ -1,10 +1,12 @@
 
 
 
-PLR18,#genre#
-NF-CHE,https://vcawscasjs2.azureedge.net/live/sspl/chunks.m3u8
-CHE1,https://wpasyscdas.azureedge.net/live/sspl/playlist.m3u8
 
+0201,#genre#
+LIGUE 1 R17,#genre#
+Lens-PSG 1,https://ok6-1.vkuser.net/expires/1672708354423/srcIp/124.246.70.189/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/786uq5AxCVo/ct/8/urls/45.136.21.77%3B45.136.20.49/clientType/0/zs/43/id/3337506654728/video/#https://ok6-1.vkuser.net/?expires=1672708128720&srcIp=124.246.70.189&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=4&sig=4fGXMeHJBXw&ct=14&urls=45.136.21.77%3B45.136.20.49&clientType=0&zs=43&id=3337506654728
+
+Lens-PSG 2,https://ok6-9.vkuser.net/expires/1672708958491/srcIp/124.246.70.189/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/jlnyo0SnO8A/ct/8/urls/45.136.20.28%3B45.136.22.19/clientType/1/zs/43/id/3337503640072/video/
 
 
 
