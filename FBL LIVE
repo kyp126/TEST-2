@@ -1,6 +1,8 @@
-SERIE A R16,#genre#
-Salernitana VS Milan,https://hdstreamss.club:30443/live/abr_ch1/live/ch1_720p/chunks.m3u8?nimblesessionid=755791&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjMgMTE6MjQ6NTIgQU0maGFzaF92YWx1ZT1lMVhFTkt4R2NpcEV5RmtzMmJWVkVBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjY3LjIxMSZzdHJtX2xlbj01
-Sassuolo VS Sampdoria,https://webdi.openhd.lol:443/cdn/xvk3/tracks-v1a1/mono.m3u8
+
+EPL,#genre#
+CHE-MC 1,https://ok6-8.vkuser.net/expires/1673045716274/srcIp/119.56.16.23/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/wYxf5sgHX64/ct/8/urls/45.136.20.23%3B45.136.22.17/clientType/1/zs/43/id/3553321814643/video/
+
+CHE-MC 2,https://ok6-4.vkuser.net/expires/1673045818561/srcIp/119.56.16.23/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/HuWGKvxsoT0/ct/8/urls/185.226.52.76%3B45.136.21.16/clientType/1/zs/43/id/3553524845171/video/
 
 
 Copa del Rey R32,#genre#  
