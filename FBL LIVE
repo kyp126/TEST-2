@@ -1,5 +1,6 @@
 PLR20,#genre#
-CHE-CP,https://dglenn306.s3.amazonaws.com:443/heat_1280x720_3300k.m3u8
+CHE-CP,https://mccrawm953.s3.amazonaws.com/prime_960x540_2000k.m3u8
+
 CHE-CP1,https://dglenn306.s3.amazonaws.com:443/heat2_1280x720_3300k.m3u8
 
 NEW-FUL,https://weakdhsyrt.azureedge.net:443/live/sspl/chunks.m3u8#https://hrdsgvery.azureedge.net:443/live/sspl/chunks.m3u8?USE_EXOPLAYER=1&user_agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/74.0.3729.169%20Safari/537.36
