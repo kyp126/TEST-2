@@ -1,130 +1,31 @@
-HK0112,#genre#
-翡翠台 2,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台 3,http://50.7.220.74:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-翡翠台 4,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-翡翠台 1,https://epg.pw/stream/df26fdd1bfc2aa3dddb3ab3a0c26ac4a32c4e0d497588fa11e93ef6956e9ed5b.ctv#https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8#http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-
-测试1,#genre#
-
-TVB新闻台,http://pull-l3-cny.douyincdn.com/third/stream-c8eff4963f336b2f831780fb09a37fb4.flv
-TVB华丽台,http://pull-l3-cny.douyincdn.com/third/stream-8f0f5b53f8ad921929fc9ac8771cbd82.flv
-TVB翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.flv
-TVBJ2台,http://pull-l3-cny.douyincdn.com/third/stream-6857d26f2acf64eacb82a5af8df5f25f.flv
-TVB明珠台,http://pull-l3-cny.douyincdn.com/third/stream-81c6196a626a87b4bc7a81d032b0bf7f.flv
-TVB财经台,http://pull-l3-cny.douyincdn.com/third/stream-beb24d452126196227a4c183337d6bfd.flv
-TVB星河台,http://pull-l3-cny.douyincdn.com/third/stream-d40c919171cfc73cf4de67fc381cbc3e.flv
-Now新闻台,http://pull-l3-cny.douyincdn.com/third/stream-f49db49809a6d8e96047011ee9160bc8.flv
-Now财经台,http://pull-l3-cny.douyincdn.com/third/stream-60b4bda9cef7c62d547a8c2ca1ca9c2c.flv
-Now直播台,http://pull-l3-cny.douyincdn.com/third/stream-fc910419627cee83895e03d74029cbb4.flv
-有线财经台,http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.flv
-有线直播台,http://pull-l3-cny.douyincdn.com/third/stream-1696778d64f00f3f9c0aefe3b2136ffe.flv
-有线新闻台,http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.flv
-TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.flv
-TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.flv
-RT英语新闻,http://pull-l3-cny.douyincdn.com/third/stream-01a22d8d466a6ef38b80e2ce6cd323c0.flv
-寰宇新闻台,http://pull-l3-cny.douyincdn.com/third/stream-a9e3982a798d13ba350075af6cff4119.flv
-星卫电影台,http://pull-l3-cny.douyincdn.com/third/stream-80d54eadb8f343a8b837c22e336155d1.flv
-纬来戏剧台,http://pull-l3-cny.douyincdn.com/third/stream-cf93b19e055f2800058541033c0c4355.flv
-莲花电影台,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.flv
-BOO驚悚台,http://pull-l3-cny.douyincdn.com/third/stream-6ea2b038f2ce633a65f0450895f6679e.flv
-纬来电影台,http://pull-l3-cny.douyincdn.com/third/stream-6de7ee8878da79aaf393c0f63081cb0c.flv
-美亚电影台,http://pull-l3-cny.douyincdn.com/third/stream-b16e0049bdda5f54e62d3c9b694d81ff.flv
-龙华洋片台,http://pull-l3-cny.douyincdn.com/third/stream-7c4301f3ec1b9c970db0af9d1c07e66f.flv
-好莱坞电影,http://pull-l3-cny.douyincdn.com/third/stream-06027cd7cadf310982fe67221578515b.flv
-湖南电影台,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f896e9.flv
-高清电影台,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.flv
-龙祥电影台,http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.flv
-天映电影台,http://pull-l3-cny.douyincdn.com/third/stream-4480903e93e7bf6ddde637e903c423a0.flv
-东森洋片台,http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.flv
-东森电影台,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.flv
-CINEMAX,http://pull-l3-cny.douyincdn.com/third/stream-af25e1a3f0fff1e8ea22c55a0c9352f0.flv
-AXN台湾,http://pull-l3-cny.douyincdn.com/third/stream-304b8e04a437299311112b7f4902c9dd.flv
-HBO HD,http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.flv
-HBO家庭影院,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.flv
-HBO原创电影,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.flv
-HBO强档影院,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.flv
-探索频道HD,http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.flv
-动物星球HD,http://pull-l3-cny.douyincdn.com/third/stream-eac374df3c06e8985d587224a056f483.flv
-卫视中文HD,http://pull-l3-cny.douyincdn.com/third/stream-41f29bf461ffa99e595f70b9593c61aa.flv
-探索动力HD,http://pull-l3-cny.douyincdn.com/third/stream-ea6907626f7d64aa61e5ebf88180e43d.flv
-探索科学HD,http://pull-l3-cny.douyincdn.com/third/stream-2ce10c5078ec753f8f50f4c3897e8f76.flv
-东森幼幼HD,http://pull-l3-cny.douyincdn.com/third/stream-adb7cf254b46d42d58828f590a6137bf.flv
-纬来体育HD,http://pull-l3-cny.douyincdn.com/third/stream-05fadffbceabeb97bbf09061a165791b.flv
-中天新闻台,http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.flv
-中天综合台,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.flv
-中天娱乐台,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.flv
-八大第一HD,http://pull-l3-cny.douyincdn.com/third/stream-9dbd2556b180db11b62283739297981b.flv
-八大戏剧HD,http://pull-l3-cny.douyincdn.com/third/stream-d031f22e749d09f261df822eb69fd743.flv
-八大综合HD,http://pull-l3-cny.douyincdn.com/third/stream-5228b1fb91b765911e64c9843f989267.flv
-
-
-测试2,#genre#
-
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
-凤凰香港,http://120.84.96.85:808/hls/81/index.m3u8
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8 
-莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
-翡翠台,http://baidu.douyincdn.freetvtv.com/jade2/index.m3u8
-明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
-纬来体育,http://123.51.230.108:18509/.m3u8
-龙华戏剧,http://123.51.230.108:18513/.m3u8
-东森财经,http://123.51.230.108:18515/.m3u8
-龙华日韩,http://123.51.230.108:18551/.m3u8
-东风37,http://123.51.230.108:18560/.m3u8
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-财经体育资讯台,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
-财经体育资讯台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-巴西_Universal,http://208.115.225.174:14128
-WB TV,http://208.115.225.174:14132
-HBO,http://208.115.225.174:14136
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO,http://208.115.225.174:14165
-Sbt,http://208.115.225.174:14170
-Sbt,http://208.115.225.174:14173
-Sbt,http://208.115.225.174:14176
-Animal Planet,http://208.115.225.174:14192
-14259,http://208.115.225.174:14259
-BDMG,http://208.115.225.174:14263
-14271,http://208.115.225.174:14271
-Show FE,http://208.115.225.174:14420
-Show FE,http://208.115.225.174:14428
-Premiere,http://208.115.225.174:14460
-Premiere,http://208.115.225.174:14468
-ESPN 4,http://208.115.225.174:14510
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-HBO,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
-TVB无线财经,http://120.84.96.55:808/hls/86/index.m3u8
-澳门莲花,http://nettvpro.live/hls/lotustv.php
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-龙祥时代,http://120.84.96.62:808/hls/35/index.m3u8
-WB TV,http://208.115.225.174:14132
-HBO,http://208.115.225.174:14136
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO X,http://208.115.225.174:14165
-好莱坞电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
-动物星球,http://208.115.225.174:14192
-
-
+iHOT,#genre#
+IHOT爱喜剧,http://39.135.7.132:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱科幻,http://39.135.7.132:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱院线,http://39.135.7.132:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱浪漫,http://39.135.7.132:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱悬疑,http://39.135.7.132:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱经典,http://39.135.7.132:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱谍战,http://39.135.7.132:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱都市,http://39.135.7.132:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱家庭,http://39.135.7.132:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱青春,http://39.135.7.132:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱江湖,http://39.135.7.132:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱美食,http://39.135.7.132:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱娱乐,http://39.135.7.132:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱时尚,http://39.135.7.132:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱历史,http://39.135.7.132:6610/000000001001/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱科学,http://39.135.7.132:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱军武,http://39.135.7.132:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱幼教,http://39.135.7.132:6610/000000001001/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱猎奇,http://39.135.7.132:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱解密,http://39.135.7.132:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱世界,http://39.135.7.132:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱玩具,http://39.135.7.132:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱电竞,http://39.135.7.132:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱赛车,http://39.135.7.132:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱旅行,http://39.135.7.132:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱怀旧,http://39.135.7.132:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱奇谈,http://39.135.7.132:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱动漫,http://39.135.7.132:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱体育,http://39.135.7.132:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
+IHOT爱探索,http://39.135.7.132:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
