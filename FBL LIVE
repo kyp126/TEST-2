@@ -7,12 +7,14 @@
 PL R22,#genre#
 MU-CP,https://jagta74s.s3.amazonaws.com:443/main_1280x720_3300k.m3u8
 WOL-LIV,https://jagta74s.s3.amazonaws.com:443/main_1280x720_5000k.m3u8
+LIV1,https://jagta74s.s3.amazonaws.com:443/reds_1280x720_3300k.m3u8
+
+
 
 Everton-Arsenal,https://jagta74s.s3.amazonaws.com:443/main_1280x720_3300k.m3u8
 ARS1,https://hdstreamss.club:30443/live/abr_ch1/live/ch1_720p/chunks.m3u8?nimblesessionid=3463500&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMTE6NDY6MDYgQU0maGFzaF92YWx1ZT1qSWJ4cWJvQ2RhMDlIanY4MWVrSU9nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMjQuMjQ2LjEyNy4xNjUmc3RybV9sZW49NQ==
 ARS2,https://ttcast.gpwpaqnxpwhqufz.sbs:443/cdn/jd77RiK5exKK/tracks-v1a1/mono.m3u8?remote=172.70.147.200&token=b9e88315fc6f20b64409bfcbeb224354bb0866a2-710d48dbebae2c9c7ec6d5e56204a66c--
-ARS3,https://ttcast.gpwpaqnxpwhqufz.sbs:443/cdn/kCnNEFr262Lq/tracks-v1a1/mono.m3u8?remote=124.246.127.165&token=77b077c7d1104692effa4eda3e350004fbeee379-5050e92db78c00550bf902c562eb60e8--
-ARS4,https://apknewws8.s3.amazonaws.com:443/main_1280x720_3300k.m3u8
+
 
 
 
