@@ -6,7 +6,7 @@
 
 PL R22,#genre#
 MU-CP,https://jagta74s.s3.amazonaws.com:443/main_1280x720_3300k.m3u8
-WOL-LIV,https://jagta74s.s3.amazonaws.com:443/main_1280x720_5000k.m3u8
+MU2,https://jagta74s.s3.amazonaws.com:443/main_1280x720_5000k.m3u8
 LIV1,https://jagta74s.s3.amazonaws.com:443/reds_1280x720_3300k.m3u8
 LIV2,https://d1jv6c9p3104j6.cloudfront.net:443/out/v1/c89021f3a7ca49e994ca66be92ab054e/index_2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMzoxODowMSBQTSZoYXNoX3ZhbHVlPTJFem55MDlyVFJ6eE1TeDNTOWJsR1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTMxLjE1My4yMC4zNyZzdHJtX2xlbj01
 
