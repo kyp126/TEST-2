@@ -1,20 +1,10 @@
 
+SERIE A R21,#genre#
+SPEZIA-NAPOLI,http://cdn1.cyclingnews.live:80/abr/abr-stream3/hls/stream3_720p/chunks.m3u8?nimblesessionid=18182647&wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjMgMTI6NDAKOjAwCiBQTSZoYXNoX3ZhbHVlPUVNd1Q4NzJPNVlBanFLcklWd2FHS0E9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00
 
 
 
 
-
-PL R22,#genre#
-MU-CP,https://jagta74s.s3.amazonaws.com:443/main_1280x720_3300k.m3u8
-MU1,https://d258daejuraft1.cloudfront.net:443/out/v1/1d0a0a8884084362aaac7941d00a3410/index_2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMzoyNjo1OSBQTSZoYXNoX3ZhbHVlPUJDbkhGemRTdVRmZDBxUEtkTU5FM3c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEuMi4xNzcuNzMmc3RybV9sZW49NQ==
-MU2,https://jagta74s.s3.amazonaws.com:443/main_1280x720_5000k.m3u8
-LIV1,https://jagta74s.s3.amazonaws.com:443/reds_1280x720_3300k.m3u8
-LIV2,https://d1jv6c9p3104j6.cloudfront.net:443/out/v1/c89021f3a7ca49e994ca66be92ab054e/index_2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMzoxODowMSBQTSZoYXNoX3ZhbHVlPTJFem55MDlyVFJ6eE1TeDNTOWJsR1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTMxLjE1My4yMC4zNyZzdHJtX2xlbj01
-
-LEI,https://d2aaijixuytuus.cloudfront.net:443/out/v1/c08452139b5a43e5b695c283173b363d/index_1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMzoxNDoyMCBQTSZoYXNoX3ZhbHVlPVZwYkVWYzJQTlo3cTFTcDFZdWRXNkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTExOC4yMDEuMjU0LjQ1JnN0cm1fbGVuPTU=
-MU1,https://d258daejuraft1.cloudfront.net:443/out/v1/1d0a0a8884084362aaac7941d00a3410/index_2.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMzoyNjo1OSBQTSZoYXNoX3ZhbHVlPUJDbkhGemRTdVRmZDBxUEtkTU5FM3c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEuMi4xNzcuNzMmc3RybV9sZW49NQ==
-SOU,https://hdstreamss.club:30443/live/abr_ch7/live/ch7_720p/chunks.m3u8?nimblesessionid=3861245&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMzoyOTo1NSBQTSZoYXNoX3ZhbHVlPUFWeFhLZXlEV0NIakp2MzZ3NUh6SFE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEyNC4yNDYuMTI3LjE2NSZzdHJtX2xlbj01
-BHA,https://hdstreamss.club:30443/live/abr_ch11/live/ch11_720p/chunks.m3u8?nimblesessionid=3866022&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjMgMzozMToxOCBQTSZoYXNoX3ZhbHVlPWRVL0ExeFEzQ1NmRGhZaVRra2dYNlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEyNC4yNDYuMTI3LjE2NSZzdHJtX2xlbj01
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 ELTA体育2台a,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
 
