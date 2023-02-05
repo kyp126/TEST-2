@@ -2,7 +2,8 @@
 SERIE A R21,#genre#
 SPEZIA-NAPOLI,http://cdn1.cyclingnews.live:80/abr/abr-stream3/hls/stream3_720p/chunks.m3u8?nimblesessionid=18182647&wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjMgMTI6NDAKOjAwCiBQTSZoYXNoX3ZhbHVlPUVNd1Q4NzJPNVlBanFLcklWd2FHS0E9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00
 
-LALIGA R20,Mallorca-Real Madrid,https://hdstreamss.club:30443/live/abr_ch11/live/ch11_720p/chunks.m3u8?nimblesessionid=4484618&wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjMgMTowMzoyNyBQTSZoYXNoX3ZhbHVlPXFFRGtGakNvUzcySEhhMC81SDVHdUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEyNC4yNDYuOTUuOTEmc3RybV9sZW49NQ==
+LALIGA R20,#genre#
+Mallorca-Real Madrid,https://hdstreamss.club:30443/live/abr_ch11/live/ch11_720p/chunks.m3u8?nimblesessionid=4484618&wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjMgMTowMzoyNyBQTSZoYXNoX3ZhbHVlPXFFRGtGakNvUzcySEhhMC81SDVHdUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTEyNC4yNDYuOTUuOTEmc3RybV9sZW49NQ==
 
 
 
