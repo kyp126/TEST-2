@@ -1,24 +1,37 @@
 LIVE,#genre#
 翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
 傲娇与章经（粤),#genre#
-1,https://m3u.haiwaikan.com/xm3u8/cec6baac2bfd1af1e8e251ddef7a318b4b077433177841ac3d984d9b6add9e149921f11e97d0da21.m3u8
-2,https://m3u.haiwaikan.com/xm3u8/fa739638a5030f34bdd63ca5648323d90b45ee5829d766f02244c4185070101d9921f11e97d0da21.m3u8
-3,https://m3u.haiwaikan.com/xm3u8/1efba0e1cce18de7099a05b51a11a1f2296e3068d4666d7a42eee0d0e30a09469921f11e97d0da21.m3u8
-4,https://m3u.haiwaikan.com/xm3u8/e6aa204f20096f4732673bc7bdb185acae94af4b046726f5c44b17a45540aaa39921f11e97d0da21.m3u8
-5,https://m3u.haiwaikan.com/xm3u8/c142e105cda52c9655b6493f3b3051c6c73e8553f160d8030a36e5937ca829ea9921f11e97d0da21.m3u8
-6,https://m3u.haiwaikan.com/xm3u8/007b0609f5163f6b0f4d48238e1111c92a62e057c58dc7dfe9d69b25dd7e693d9921f11e97d0da21.m3u8
-7,https://m3u.haiwaikan.com/xm3u8/cc8307aee0684a8b2546163be7e11edd76633fcdf404d415c6c1f5f7af8eab079921f11e97d0da21.m3u8
-8,https://m3u.haiwaikan.com/xm3u8/27cc5fa786944c21b1831a3df6cdc8f37694340f15ed85a1457835982a9ebac99921f11e97d0da21.m3u8
-9,https://m3u.haiwaikan.com/xm3u8/850dea3e5a2abae67964dab7cc1b05680cbebff8f06539de7b568f9e205999cd9921f11e97d0da21.m3u8
-10,https://m3u.haiwaikan.com/xm3u8/e94f502ce5c38b2d3580ba900e40c63ec98bddea7719bd5c72635efb36dd12ef9921f11e97d0da21.m3u8
-11,https://m3u.haiwaikan.com/xm3u8/a4a32742ca0f09fdc4ecda78428e18cac18e02e6bc5e824442a9acb8a072187d9921f11e97d0da21.m3u8
-12,https://m3u.haiwaikan.com/xm3u8/4d50f392aa6cc7de87facf5ef92a7617398376e542a17810da9368e645dcbb9b9921f11e97d0da21.m3u8
-13,https://m3u.haiwaikan.com/xm3u8/4d1d0fc3e76275f840dc1e75ec7d1eb87aca0642addeebd26f090d38bcdd7a449921f11e97d0da21.m3u8
-14,https://m3u.haiwaikan.com/xm3u8/fa3f9f4f9ae3bc356174b0b870ec979f264932b0993bc5ee36150c06a73228529921f11e97d0da21.m3u8
-15,https://m3u.haiwaikan.com/xm3u8/1d17121bcd5adbeca2d0d00c84e2fba6db9bf332be43978b17da6adb558420a59921f11e97d0da21.m3u8
-16,https://m3u.haiwaikan.com/xm3u8/a3d385999b2e49e848ec29a9d8f8b820c369bf1beb4e6c7efca606fadafd3ae69921f11e97d0da21.m3u8
-17,https://m3u.haiwaikan.com/xm3u8/5f5a50372eb89aac153d0ff64510802d3c07416c3bf6e4ad2dd2974d2385eefc9921f11e97d0da21.m3u8
+1c,https://m3u.haiwaikan.com/xm3u8/cec6baac2bfd1af1e8e251ddef7a318b4b077433177841ac3d984d9b6add9e149921f11e97d0da21.m3u8
+2c,https://m3u.haiwaikan.com/xm3u8/fa739638a5030f34bdd63ca5648323d90b45ee5829d766f02244c4185070101d9921f11e97d0da21.m3u8
+3c,https://m3u.haiwaikan.com/xm3u8/1efba0e1cce18de7099a05b51a11a1f2296e3068d4666d7a42eee0d0e30a09469921f11e97d0da21.m3u8
+4c,https://m3u.haiwaikan.com/xm3u8/e6aa204f20096f4732673bc7bdb185acae94af4b046726f5c44b17a45540aaa39921f11e97d0da21.m3u8
+5c,https://m3u.haiwaikan.com/xm3u8/c142e105cda52c9655b6493f3b3051c6c73e8553f160d8030a36e5937ca829ea9921f11e97d0da21.m3u8
+6c,https://m3u.haiwaikan.com/xm3u8/007b0609f5163f6b0f4d48238e1111c92a62e057c58dc7dfe9d69b25dd7e693d9921f11e97d0da21.m3u8
+7c,https://m3u.haiwaikan.com/xm3u8/cc8307aee0684a8b2546163be7e11edd76633fcdf404d415c6c1f5f7af8eab079921f11e97d0da21.m3u8
+8c,https://m3u.haiwaikan.com/xm3u8/27cc5fa786944c21b1831a3df6cdc8f37694340f15ed85a1457835982a9ebac99921f11e97d0da21.m3u8
+9c,https://m3u.haiwaikan.com/xm3u8/850dea3e5a2abae67964dab7cc1b05680cbebff8f06539de7b568f9e205999cd9921f11e97d0da21.m3u8
+10c,https://m3u.haiwaikan.com/xm3u8/e94f502ce5c38b2d3580ba900e40c63ec98bddea7719bd5c72635efb36dd12ef9921f11e97d0da21.m3u8
+11c,https://m3u.haiwaikan.com/xm3u8/a4a32742ca0f09fdc4ecda78428e18cac18e02e6bc5e824442a9acb8a072187d9921f11e97d0da21.m3u8
+12c,https://m3u.haiwaikan.com/xm3u8/4d50f392aa6cc7de87facf5ef92a7617398376e542a17810da9368e645dcbb9b9921f11e97d0da21.m3u8
+13c,https://m3u.haiwaikan.com/xm3u8/4d1d0fc3e76275f840dc1e75ec7d1eb87aca0642addeebd26f090d38bcdd7a449921f11e97d0da21.m3u8
+14c,https://m3u.haiwaikan.com/xm3u8/fa3f9f4f9ae3bc356174b0b870ec979f264932b0993bc5ee36150c06a73228529921f11e97d0da21.m3u8
+15c,https://m3u.haiwaikan.com/xm3u8/1d17121bcd5adbeca2d0d00c84e2fba6db9bf332be43978b17da6adb558420a59921f11e97d0da21.m3u8
+16c,https://m3u.haiwaikan.com/xm3u8/a3d385999b2e49e848ec29a9d8f8b820c369bf1beb4e6c7efca606fadafd3ae69921f11e97d0da21.m3u8
+17c,https://m3u.haiwaikan.com/xm3u8/5f5a50372eb89aac153d0ff64510802d3c07416c3bf6e4ad2dd2974d2385eefc9921fccccccccccccccccc
+18c
+19c
+20c
 
+
+整你的人生,#genre#
+整你的人生1,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_utsnkghz/v/11/pv/1/ev/27/flavorId/1_nlsophpe/name/a.mp4/index.m3u8
+整你的人生2,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_l281fgs5/v/11/pv/1/ev/27/flavorId/1_q6aqubpu/name/a.mp4/index.m3u8
+整你的人生3,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_48jz5hxy/v/11/pv/1/ev/27/flavorId/1_b3uj6d74/name/a.mp4/index.m3u8
+整你的人生4,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dswj01kf/v/11/pv/1/ev/27/flavorId/1_2mwstrwg/name/a.mp4/index.m3u8
+整你的人生5,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_iaxj8b1d/v/11/pv/1/ev/27/flavorId/1_vgyx0mjd/name/a.mp4/index.m3u8
+整你的人生6,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_0kvpeyc7/v/11/pv/1/ev/27/flavorId/1_73567gxf/name/a.mp4/index.m3u8
+整你的人生7,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_iqvhtx5d/v/11/pv/1/ev/27/flavorId/1_fdway81f/name/a.mp4/index.m3u8
+整你的人生8,http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_j546910v/v/11/pv/1/ev/27/flavorId/1_ujtvzzjy/name/a.mp4/index.m3u8
 
 
 
