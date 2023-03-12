@@ -6,7 +6,7 @@ ARS,https://play.tryafs.online:443/hls/epl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3Rp
 ARS1,https://play.tryafs.online:443/hls/skymaineventhd91/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6NTk6MzYgUE0maGFzaF92YWx1ZT1weE5uY1FWMG1vTHhHU29meDJoL3N3PT0mdmFsaWRtaW51dGVzPTcw
 ARS2,https://play.tryafs.online:443/hls/lsh5hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDE6NDE6MzUgUE0maGFzaF92YWx1ZT1td2lWeng0ZzdLYVRlV2FpSzQvWWhnPT0mdmFsaWRtaW51dGVzPTcw
 ARS3,http://pull.hangkongjiaqi.com/leisu/1117720678524218.m3u8?auth_key=1678644587-0-0-85438814f1829c1bdfd44f599ae56a5e
-
+ARS4,https://play.tryafs.online:443/hls/lsh5hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDM6MDA6NDkgUE0maGFzaF92YWx1ZT05VDZQS2g2UlJyR1puMzk4cVNCbnNnPT0mdmFsaWRtaW51dGVzPTcw
 
 MU-Southampton ,https://play.tryafs.online:443/hls/epl2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6NDk6MDkgUE0maGFzaF92YWx1ZT1TYTYzeG9taXVsUlY3eXJPLzNsYVFnPT0mdmFsaWRtaW51dGVzPTcw
 MUN1,https://play.tryafs.online:443/hls/lsh6hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDE6NTI6MTIgUE0maGFzaF92YWx1ZT0wTThBSnBLTTZsTE1HTzVwejBkS0dRPT0mdmFsaWRtaW51dGVzPTcw
