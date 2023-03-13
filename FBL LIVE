@@ -1,46 +1,11 @@
 LIVE
 
- 
-PL R27,#genre#
-ARS,https://play.tryafs.online:443/hls/epl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6NTg6MjMgUE0maGFzaF92YWx1ZT1mbWRKMDNPdktxNTF2aDEvTTRxOFVRPT0mdmFsaWRtaW51dGVzPTcw
-ARS1,https://play.tryafs.online:443/hls/skymaineventhd91/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6NTk6MzYgUE0maGFzaF92YWx1ZT1weE5uY1FWMG1vTHhHU29meDJoL3N3PT0mdmFsaWRtaW51dGVzPTcw
-ARS2,https://play.tryafs.online:443/hls/lsh5hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDE6NDE6MzUgUE0maGFzaF92YWx1ZT1td2lWeng0ZzdLYVRlV2FpSzQvWWhnPT0mdmFsaWRtaW51dGVzPTcw
-ARS3,http://pull.hangkongjiaqi.com/leisu/1117720678524218.m3u8?auth_key=1678644587-0-0-85438814f1829c1bdfd44f599ae56a5e
-ARS4,https://play.tryafs.online:443/hls/lsh5hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDM6MDA6NDkgUE0maGFzaF92YWx1ZT05VDZQS2g2UlJyR1puMzk4cVNCbnNnPT0mdmFsaWRtaW51dGVzPTcw
+R25 LALIGA,#genre# 
+A.Bilbao-Barcelona1,https://ok6-7.vkuser.net/expires/1678752879498/srcIp/119.56.107.179/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/E6tR2UP35yY/ct/8/urls/185.226.53.76%3B45.136.20.12/clientType/0/zs/43/id/3686306417157/video/
 
-MU-Southampton ,https://play.tryafs.online:443/hls/epl2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDM6MDU6MDMgUE0maGFzaF92YWx1ZT04aG1xR3c4ck1TK05oMVAzVlZLdHJnPT0mdmFsaWRtaW51dGVzPTcw
-MUN1,https://play.tryafs.online:443/hls/lsh6hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDE6NTI6MTIgUE0maGFzaF92YWx1ZT0wTThBSnBLTTZsTE1HTzVwejBkS0dRPT0mdmFsaWRtaW51dGVzPTcw
-MUN2,https://play.tryafs.online:443/hls/lsh6hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6NTE6MTcgUE0maGFzaF92YWx1ZT1kRmRxcUJwVU1MbmEyM05TNmNxTjJBPT0mdmFsaWRtaW51dGVzPTcw
-MUN3,http://play.172wm.com/tianxiatv/stream-4482d2ef169845a5ab7c107d4de58f86.m3u8
+A.Bilbao-Barcelona2,https://ok6-7.vkuser.net/expires/1678752893817/srcIp/119.56.107.179/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/SAzsyKccxNk/ct/8/urls/185.226.53.76%3B185.226.52.12/clientType/0/zs/43/id/3686306417157/video/
 
 
-WHM-Aston Villa ,https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6NTM6NDEgUE0maGFzaF92YWx1ZT05VlFpNjNhdEh4Si9ucUJidUhJSzBBPT0mdmFsaWRtaW51dGVzPTcw
-WHM1,https://play.tryafs.online:443/hls/lsh7hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6MDM6NDEgUE0maGFzaF92YWx1ZT1ZMUJ2UlRCZWFYRnBUMnVabG5GRUhBPT0mdmFsaWRtaW51dGVzPTcw
-WHM2,https://play.tryafs.online:443/hls/lsh7hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIzIDI6NTU6MzYgUE0maGFzaF92YWx1ZT1GY0F4dEx6K2pXRWQ2cVloN2UyUmR3PT0mdmFsaWRtaW51dGVzPTcw
-WHM3,http://play.172wm.com/tianxiatv/stream-ed91af5558d1469b80ad846a4e70fd31.m3u8
-
-
-
-
-
-
-CP-MCI 1,https://ok6-12.vkuser.net/expires/1678668239167/srcIp/119.56.108.113/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/mQwQNMixAsA/ct/8/urls/45.136.21.76%3B45.136.20.33/clientType/0/zs/43/id/3727777794568/video/
-CP-MCI 2,https://ok6-15.vkuser.net/expires/1678668256659/srcIp/119.56.108.113/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/Ga61Wt6lgcI/ct/8/urls/185.226.52.17%3B45.136.22.8/clientType/0/zs/43/id/3727720581640/video/
-
-LEI-CHE1,https://ok6-2.vkuser.net/expires/1678668447920/srcIp/119.56.108.113/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/eaNm7XWjHgQ/ct/8/urls/45.136.21.70%3B45.136.22.80/clientType/0/zs/43/id/3724975606280/video/
-LEI-CHE2,https://ok6-8.vkuser.net/expires/1678668470278/srcIp/119.56.108.113/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/yjApZWRGm4Q/ct/8/urls/185.226.53.61%3B185.226.52.71/clientType/0/zs/43/id/3725270452744/video/
-
-
-
-
-LIGUE 1 R27,#genre#
-Brestois-PSG1,https://ok6-10.vkuser.net/expires/1678668084317/srcIp/119.56.108.113/srcAg/UNKNOWN/ms/95.142.206.137/type/5/sig/ole6xMH2984/ct/8/urls/185.226.52.38%3B45.136.20.15/clientType/0/zs/43/id/3727740832264/video/
-Brestois-PSG2,https://ok6-4.vkuser.net/expires/1678668115343/srcIp/119.56.108.113/srcAg/UNKNOWN/ms/95.142.206.131/type/5/sig/FN4SCbqcEdg/ct/8/urls/45.136.20.16%3B185.226.52.74/clientType/0/zs/43/id/3727736572424/video/
-
-R25 LALIGA,#genre#
-RMA-Espanyol 1,https://ok6-3.vkuser.net/expires/1678668647831/srcIp/119.56.108.113/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/QQyodcpYHoU/ct/8/urls/185.226.53.15%3B45.136.20.25/clientType/0/zs/43/id/3724128094728/video/
-
-RMA-Espanyol 2,https://ok6-15.vkuser.net/expires/1678668676772/srcIp/119.56.108.113/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/KJ3q2yOUtyg/ct/8/urls/45.136.20.17%3B45.136.22.46/clientType/0/zs/43/id/3724183996936/video/
 
 
 
