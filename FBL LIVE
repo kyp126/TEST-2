@@ -1,8 +1,9 @@
 LIVE
 
 R16(2L) Champions,#genre#
-MC-RBL 1,https://ok6-3.vkuser.net/expires/1678921785459/srcIp/119.56.110.113/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/GnoxYeVkCIU/ct/8/urls/185.226.52.28%3B45.136.20.24/clientType/0/zs/43/id/3960234969715/video/
-MC-RBL 2,https://ok6-3.vkuser.net/expires/1678921795531/srcIp/119.56.110.113/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/tP8MLwzvWyc/ct/8/urls/185.226.52.28%3B45.136.20.24/clientType/0/zs/43/id/3960234969715/video/
+MC-RBL 1,https://ok6-3.vkuser.net/expires/1678960895402/srcIp/138.75.12.249/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/IlJP_mW187I/ct/8/urls/45.136.20.24%3B185.226.52.28/clientType/1/zs/43/id/3960234969715/video/
+MC-RBL 2,https://ok6-9.vkuser.net/expires/1678960989170/srcIp/138.75.12.249/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/Sm57wui5eAc/ct/8/urls/45.136.22.33%3B185.226.53.19/clientType/1/zs/43/id/3960382818931/video/
+
 
 
 TEST,#genre#
