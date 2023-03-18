@@ -1,6 +1,15 @@
 LIVE
 
 PL 28,#genre#
+Southampton-Tottenham,https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzA6MzIgUE0maGFzaF92YWx1ZT1qc0paQ0h6Z3lSVVUwajhHSTVEWklRPT0mdmFsaWRtaW51dGVzPTcw 
+
+Brentford-Leicester City,https://play.tryafs.online:443/hls/epl3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzQ6NDIgUE0maGFzaF92YWx1ZT15QVl4VHB2VlZ0NTg2NmZiaUFCdm1nPT0mdmFsaWRtaW51dGVzPTcw
+
+Wolverhampton-Leeds,https://play.tryafs.online:443/hls/epl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzU6MzIgUE0maGFzaF92YWx1ZT1vSjl5NGZkMGdsek9ocks2VGVrcmxRPT0mdmFsaWRtaW51dGVzPTcw
+
+Aston Villa-Bournemouth,https://play.tryafs.online:443/hls/epl2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzM6MzggUE0maGFzaF92YWx1ZT1PWGk5OEVmWVpSY1NBSGV1ZENEczR3PT0mdmFsaWRtaW51dGVzPTcw
+
+PL 28a,#genre#
 Forest-Newcastle1,https://streamtape.com/get_video?id=eoj3DyL0QPFY4aL&expires=1679167206&ip=FREOD0yQERSXFxf&token=4M5dmdGCTvp6&dl=1I
 
 Forest-Newcastle2,https://streamtape.com/get_video?id=o9bv9GbVJmHJm42&expires=1679167288&ip=FREOD0yQERSXFxf&token=b3-IzB2HHGKf&dl=1
