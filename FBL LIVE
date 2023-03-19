@@ -1,37 +1,12 @@
 LIVE
 
-PL 28,#genre#
-Southampton-Tottenham,https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzA6MzIgUE0maGFzaF92YWx1ZT1qc0paQ0h6Z3lSVVUwajhHSTVEWklRPT0mdmFsaWRtaW51dGVzPTcw 
+FA CUP QF ,#genre#
+M.City-Burnley1,https://ok6-11.vkuser.net/expires/1679276436287/srcIp/124.246.76.59/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/tay33pmZbew/ct/8/urls/185.226.53.73%3B45.136.20.32/clientType/0/zs/43/id/3997265300083/video/
 
-Brentford-Leicester City,https://play.tryafs.online:443/hls/epl3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzQ6NDIgUE0maGFzaF92YWx1ZT15QVl4VHB2VlZ0NTg2NmZiaUFCdm1nPT0mdmFsaWRtaW51dGVzPTcw
-
-Wolverhampton-Leeds,https://play.tryafs.online:443/hls/epl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzU6MzIgUE0maGFzaF92YWx1ZT1vSjl5NGZkMGdsek9ocks2VGVrcmxRPT0mdmFsaWRtaW51dGVzPTcw
-
-Aston Villa-Bournemouth,https://play.tryafs.online:443/hls/epl2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDQ6MzM6MzggUE0maGFzaF92YWx1ZT1PWGk5OEVmWVpSY1NBSGV1ZENEczR3PT0mdmFsaWRtaW51dGVzPTcw
-
-PL 28a,#genre#
-Forest-Newcastle1,https://streamtape.com/get_video?id=eoj3DyL0QPFY4aL&expires=1679167206&ip=FREOD0yQERSXFxf&token=4M5dmdGCTvp6&dl=1I
-
-Forest-Newcastle2,https://streamtape.com/get_video?id=o9bv9GbVJmHJm42&expires=1679167288&ip=FREOD0yQERSXFxf&token=b3-IzB2HHGKf&dl=1
+M.City-Burnley2,https://ok6-11.vkuser.net/expires/1679276488889/srcIp/124.246.76.59/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/IJxnXNHVIKA/ct/8/urls/185.226.52.38%3B45.136.21.76/clientType/0/zs/43/id/3997525150323/video/
 
 
 
-
-UEFA DRAW,#genre#
-UEFA DRAW,https://live-uefa-com.akamaized.net:443/hls/live/2036934/170323_UCLQFSFF/master_1-archive.m3u8?startTime=1679050804&endTime=1679052118
-
-
-R16(2L) Europa,#genre#
-ARS-SportiRS1,https://ok6-13.vkuser.net/expires/1679096344221/srcIp/119.56.105.236/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/405TCv2UO_A/ct/8/urls/45.136.22.77%3B185.226.52.41/clientType/0/zs/43/id/3724252744197/video/
-
-ARS-SportiRS2,https://ok6-15.vkuser.net/expires/1679096371436/srcIp/119.56.105.236/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/qgGKLQbpZgc/ct/8/urls/45.136.21.73%3B185.226.53.38/clientType/0/zs/43/id/3724303600133/video/
-
-ET&PEN,https://ok6-15.vkuser.net/expires/1679096398461/srcIp/119.56.105.236/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/ffSrnM_78po/ct/8/urls/45.136.21.73%3B185.226.53.38/clientType/0/zs/43/id/3724303600133/video/
-
-
-Betis-MUN1,https://ok6-6.vkuser.net/expires/1679096726196/srcIp/119.56.105.236/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/kLRkKiNOU-g/ct/8/urls/45.136.20.42%3B185.226.52.44/clientType/0/zs/43/id/3723836787205/video/
-
-Betis-MUN2,https://ok6-15.vkuser.net/expires/1679096755348/srcIp/119.56.105.236/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/86gucwt_rZA/ct/8/urls/185.226.52.61%3B45.136.20.29/clientType/0/zs/43/id/3723868506629/video/
 
 
 
