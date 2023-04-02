@@ -7,18 +7,20 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 断网,https://data.cache.m3u8.lscsfw.com:3395/cache/20230331/9557_fa9220d7/index.m3u8
 
 
-PL29,#genre#
-Arsenal-Leeds,https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMjozMzozMCBQTSZoYXNoX3ZhbHVlPUtRWnV1bDd6NDdMeWVxMDV6M2plNHc9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMTozMToyMCBQTSZoYXNoX3ZhbHVlPXo1MXV1NmVJRVVpcHZzN3lIOEsvcVE9PSZ2YWxpZG1pbnV0ZXM9NzA=
-ARS1,https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMzozNzowNiBQTSZoYXNoX3ZhbHVlPTd1RXZHNHZCWnBLWDhuVWRDVmlDaFE9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/lsh1hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMTozMzoxOCBQTSZoYXNoX3ZhbHVlPTBNLzR2Zmk1TGJWekxoL1FzUnZDSHc9PSZ2YWxpZG1pbnV0ZXM9NzA=
-ARS2,http://pulldg.hongdel.top/live/hd-en-1-3747123.m3u8?auth_key=1680363132-0-0-4ff2a90719702f5178c1f437ea3acb56
+FULL MATCHES REPLAY,#genre#
+Chelsea-Villa 1,https://ok6-11.vkuser.net/expires/1680487350075/srcIp/124.246.109.236/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/BcaoHZ3qdDA/ct/8/urls/45.136.21.52%3B45.136.22.75/clientType/0/zs/43/id/3865770789381/video/
 
-CP-Leicester,https://play.tryafs.online:443/hls/epl4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMzo0MDoxOSBQTSZoYXNoX3ZhbHVlPXVwelZwQ2ZtRFZhRXp0bDFOSWNqa2c9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMjozOToyNiBQTSZoYXNoX3ZhbHVlPWRCZXlPblpUcmRybmJrWE4wbGVwSmc9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMTo0NjoxNSBQTSZoYXNoX3ZhbHVlPStLL0tEc3BXMVdZanlrTVJYM2RIN1E9PSZ2YWxpZG1pbnV0ZXM9NzA=
+Chelsea-Villa 2,https://ok6-2.vkuser.net/expires/1680487410725/srcIp/124.246.109.236/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/QS7DNxY90zI/ct/8/urls/185.226.53.27%3B45.136.20.31/clientType/0/zs/43/id/3866144016901/video/
 
-Brighton-Brentford,https://play.tryafs.online:443/hls/epl3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMzozOToyNiBQTSZoYXNoX3ZhbHVlPUNWbDQ0M2JZclBKbXRqUXcyMlIzOVE9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMjozNjo0MCBQTSZoYXNoX3ZhbHVlPUtEcDZaenp0K0tZS01TdUlycnFHR3c9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMTo0OTo1OCBQTSZoYXNoX3ZhbHVlPVdyV2d3MktreUNqYWxaOXMvMWZIOUE9PSZ2YWxpZG1pbnV0ZXM9NzA=
+ELC-BAR 1,https://ok6-4.vkuser.net/expires/1680487645437/srcIp/124.246.109.236/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/hy_VaL6J4YY/ct/8/urls/45.136.21.24%3B185.226.53.41/clientType/0/zs/43/id/3867265862149/video/
 
-Forest-Wolverhampton,https://play.tryafs.online:443/hls/epl5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMzozODozNSBQTSZoYXNoX3ZhbHVlPWo4aFVVMlI3cTFTdG9sT280OHNzMEE9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMjozNTozNCBQTSZoYXNoX3ZhbHVlPXJtOTdaQmN3Q2FUTm03UVJNSFhwOHc9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl5/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMTo0OToxMiBQTSZoYXNoX3ZhbHVlPWJkVk1mYlhLYkhOdWQ3NlZWMmNKdWc9PSZ2YWxpZG1pbnV0ZXM9NzA=  
+ELC-BAR 2,https://ok6-1.vkuser.net/expires/1680487684798/srcIp/124.246.109.236/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/nB2vEzc7yVM/ct/8/urls/45.136.21.4%3B185.226.53.45/clientType/0/zs/43/id/3867262585349/video/
 
-Bournemouth-Fulham,https://play.tryafs.online:443/hls/epl2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMzo0MToxMCBQTSZoYXNoX3ZhbHVlPUo1bENBMWxPRFpadTV0Y1NlY3JtWFE9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMjo0MDoyNCBQTSZoYXNoX3ZhbHVlPTRjaHlrT0ltZkE5L2c3NlNaSXdTRlE9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjMgMTo0NzoyMyBQTSZoYXNoX3ZhbHVlPU5SMG83c2tiNkxtUVhOMGoxL2hFTGc9PSZ2YWxpZG1pbnV0ZXM9NzA=
+
+
+
+
+
 
 
 
