@@ -6,8 +6,7 @@ Test,https://frontend-assets.viaplay.com/sanity/UK_TMS_promo_compressed.mp4
 Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c829ca37bcd358976de18fbe60239921f11e97d0da21.m3u8
 断网,https://data.cache.m3u8.lscsfw.com:3395/cache/20230331/9557_fa9220d7/index.m3u8
 
-F1 AUSTRALIA RACE,#genre#
-TSN,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10248 
+ 
 
 
 
@@ -48,6 +47,32 @@ TSN 4 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10247
 TSN 5 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10248 
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
 ELTA体育2台a,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+ESPN  4K¹,http://7go.xyz:8080/victorhugo/982451290/28792
+ESPN FHD Max²,http://7go.xyz:8080/victorhugo/982451290/72979
+ESPN FHD¹,http://7go.xyz:8080/victorhugo/982451290/29197
+ESPN FHD²,http://7go.xyz:8080/victorhugo/982451290/22668
+ESPN HD¹,http://7go.xyz:8080/victorhugo/982451290/153012
+ESPN HD²,http://7go.xyz:8080/victorhugo/982451290/22529
+ESPN HD ᶜᴰᴺ²,http://7go.xyz:8080/victorhugo/982451290/18664
+
+ESPN 2 FHD¹,http://7go.xyz:8080/victorhugo/982451290/22669
+ESPN 2 FHD²,http://7go.xyz:8080/victorhugo/982451290/31593
+ESPN 2 HD¹,http://7go.xyz:8080/victorhugo/982451290/18662
+ESPN 2 HD²,http://7go.xyz:8080/victorhugo/982451290/22530
+
+ESPN 3 FHD¹,http://7go.xyz:8080/victorhugo/982451290/99445
+ESPN 3 FHD²,http://7go.xyz:8080/victorhugo/982451290/72980
+ESPN 3 HD¹,http://7go.xyz:8080/victorhugo/982451290/22528
+ESPN 3 HD²,http://7go.xyz:8080/victorhugo/982451290/18663
+
+ESPN 4 FHD MAX²,http://7go.xyz:8080/victorhugo/982451290/18653
+ESPN 4 FHD¹,http://7go.xyz:8080/victorhugo/982451290/18656
+ESPN 4 FHD²,http://7go.xyz:8080/victorhugo/982451290/22675
+ESPN 4 HD¹,http://7go.xyz:8080/victorhugo/982451290/18667
+ESPN 4 HD²,http://7go.xyz:8080/victorhugo/982451290/22539
+
+ESPN EXTRA FHD²,http://7go.xyz:8080/victorhugo/982451290/64653
+ESPN EXTRA HD²,http://7go.xyz:8080/victorhugo/982451290/22332
  
 
 
