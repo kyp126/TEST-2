@@ -7,10 +7,6 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 断网,https://data.cache.m3u8.lscsfw.com:3395/cache/20230331/9557_fa9220d7/index.m3u8
 
  
-PL 29,#genre#
-Newcastle-M.United,https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjMgNDo1ODo0NCBQTSZoYXNoX3ZhbHVlPUg5dWtXV21jVW1hbXpkVVhZWXVGZ1E9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjMgNDoxNzoxMiBQTSZoYXNoX3ZhbHVlPW0yU2JsOVBDbUYwNVFmMWlVcUVmWEE9PSZ2YWxpZG1pbnV0ZXM9NzA=
-MU SKY,https://play.tryafs.online:443/hls/skymaineventhd91/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjMgNDo1OTo1NiBQTSZoYXNoX3ZhbHVlPUhlUUxTRWVFbVFZOVArWFhBTVFSYWc9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/skymaineventhd91/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjMgNDoyMDozMSBQTSZoYXNoX3ZhbHVlPVdkUXZTcENHMkJXbUh3eGRqZHo3TFE9PSZ2YWxpZG1pbnV0ZXM9NzA=
-MU HD3,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjMgNTowMDo0OCBQTSZoYXNoX3ZhbHVlPSttajRiSitjTjhRWlN2dVdNUnVRT2c9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjMgNDozMjo0OSBQTSZoYXNoX3ZhbHVlPWcvc3JWb3FvZk5FWVI2WmU5VVFhUHc9PSZ2YWxpZG1pbnV0ZXM9NzA=
 
 
 
@@ -18,6 +14,13 @@ MU HD3,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2Vy
 
 
 FULL MATCHES REPLAY,#genre#
+Napoli-Milan 1,https://ok6-7.vkuser.net/expires/1680566700317/srcIp/119.56.97.191/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/tR_AV_eO8Co/ct/8/urls/185.226.53.17%3B45.136.20.41/clientType/0/zs/43/id/4133279697523/video/
+
+Napoli-Milan 2,https://ok6-12.vkuser.net/expires/1680566729303/srcIp/119.56.97.191/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/i9UTe_g86Q8/ct/8/urls/45.136.20.51%3B45.136.21.16/clientType/0/zs/43/id/4133284874867/video/
+
+
+
+
 Chelsea-Villa 1,https://ok6-11.vkuser.net/expires/1680487350075/srcIp/124.246.109.236/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/BcaoHZ3qdDA/ct/8/urls/45.136.21.52%3B45.136.22.75/clientType/0/zs/43/id/3865770789381/video/
 
 Chelsea-Villa 2,https://ok6-2.vkuser.net/expires/1680487410725/srcIp/124.246.109.236/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/QS7DNxY90zI/ct/8/urls/185.226.53.27%3B45.136.20.31/clientType/0/zs/43/id/3866144016901/video/
