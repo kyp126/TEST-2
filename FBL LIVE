@@ -6,7 +6,18 @@ Test,https://frontend-assets.viaplay.com/sanity/UK_TMS_promo_compressed.mp4
 Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c829ca37bcd358976de18fbe60239921f11e97d0da21.m3u8
 断网,https://data.cache.m3u8.lscsfw.com:3395/cache/20230331/9557_fa9220d7/index.m3u8
 
- 
+PL R30,#genre#
+Man United-Everton,https://play.tryafs.online:443/hls/bt1hd90/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMTE6MDk6MzggQU0maGFzaF92YWx1ZT1GeTNnbjU3M2NQdVVnUDZCdVlEOGxRPT0mdmFsaWRtaW51dGVzPTcw  
+
+
+
+
+
+
+
+
+
+
 
 
 FULL MATCHES REPLAY,#genre#
