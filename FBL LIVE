@@ -6,29 +6,6 @@ Test,https://frontend-assets.viaplay.com/sanity/UK_TMS_promo_compressed.mp4
 Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c829ca37bcd358976de18fbe60239921f11e97d0da21.m3u8
 断网,https://data.cache.m3u8.lscsfw.com:3395/cache/20230331/9557_fa9220d7/index.m3u8
 
-PL R30,#genre#
-Wol-Chelsea,https://play.tryafs.online:443/hls/usanet1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMzowNjoyOCBQTSZoYXNoX3ZhbHVlPWdhSHQrR3VKUyt3RW9rWmN3STRIL1E9PSZ2YWxpZG1pbnV0ZXM9NzA=
-CHE1,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMTozNTowMiBQTSZoYXNoX3ZhbHVlPW1GT3RrdUZTUCsrUnBybGJPWU5FTHc9PSZ2YWxpZG1pbnV0ZXM9NzA=
-CHE2,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMzozNTozNCBQTSZoYXNoX3ZhbHVlPWt2eWFIWEt4ekp0NTZPTTVrMldOT3c9PSZ2YWxpZG1pbnV0ZXM9NzA=
-
-
-Tottenham-Brighton,https://play.tryafs.online:443/hls/channel11hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMjoyNjowNCBQTSZoYXNoX3ZhbHVlPUlYOENvTFd6ZjdmaHFmZVlXd2NTS3c9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/channel11hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMTozNjozMSBQTSZoYXNoX3ZhbHVlPXNXdEQ4M1ZUTk5qQ0dDWDcxaURsZWc9PSZ2YWxpZG1pbnV0ZXM9NzA=
-TOT1,https://play.tryafs.online:443/hls/channel11hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMzowOTowMCBQTSZoYXNoX3ZhbHVlPXVkckNvVzZOUWhDL1pPazJEdUxNb2c9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/channel11hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMTo1NzowNCBQTSZoYXNoX3ZhbHVlPVppTnlCWWNnUE9KVFlpai9CTityREE9PSZ2YWxpZG1pbnV0ZXM9NzA=
-TOT2,http://pulldg.hongdel.top/live/hd-en-1-3747093.m3u8?auth_key=1680967391-0-0-577376193de7cc8600b874f94ee64c70 
-Brentford-Newcastle United,http://play.iouy9cvtx.xyz/tianxiatv/stream-580e5650c3ca4fe9a63a0703cb748bea.m3u8
-NEW1,http://pulldg.hongdel.top/live/hd-en-1-3747080.m3u8?auth_key=1680966850-0-0-7db49546323514099070c5882b225b2d 
-Fulham-West Ham,https://play.tryafs.online:443/hls/channel13hd202/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMTo0NDowOCBQTSZoYXNoX3ZhbHVlPWdVaXUyb05hUnRQVU9Icjl2N1Y4U3c9PSZ2YWxpZG1pbnV0ZXM9NzA= 
-FUL1,https://play.tryafs.online:443/hls/channel13hd202/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMzozMzo1MyBQTSZoYXNoX3ZhbHVlPTJnU1RiRDg3cHVxNFl4M3NvNDNEQXc9PSZ2YWxpZG1pbnV0ZXM9NzA=
-
-
-
-Leicester-Bournemouth,https://play.tryafs.online:443/hls/ch12hd202/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMTo0ODo0OSBQTSZoYXNoX3ZhbHVlPVNhWE42SVZrNzFRT3c4UGxaaUthR2c9PSZ2YWxpZG1pbnV0ZXM9NzA= 
-LEI2,https://play.tryafs.online:443/hls/ch12hd202/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMjoyNzo0MSBQTSZZG1pbnV0ZXM9NzA=
-
-
-VIL 1,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMzozODozMSBQTSZoYXNoX3ZhbHVlPWtkcWd6TlRldE81ZUxyL042YW9oenc9PSZ2YWxpZG1pbnV0ZXM9NzA=
-VIL,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjMgMTo1ODoyMyBQTSZoYXNoX3ZhbHVlPWJWZUx2dnFMRnkyK1RhbVRSM1I1S1E9PSZ2YWxpZG1pbnV0ZXM9NzA=
-
 
 
 
@@ -38,6 +15,17 @@ VIL,https://play.tryafs.online:443/hls/lsh2hd201/chunks.m3u8?wmsAuthSign=c2VydmV
 
 
 FULL MATCHES REPLAY,#genre#
+Real Madrid-Villarreal 1H,https://ok6-1.vkuser.net/expires/1681096585652/srcIp/124.197.88.107/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/GTphWgb8lWk/ct/8/urls/185.226.53.39%3B45.136.22.80/clientType/0/zs/43/id/3931804535301/video/
+Real Madrid-VillarreaH 2H,https://ok6-11.vkuser.net/expires/1681096628671/srcIp/124.197.88.107/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/YD6d0PoLuQI/ct/8/urls/185.226.53.75%3B185.226.52.71/clientType/0/zs/43/id/3931984759301/video/
+
+
+
+
+
+
+
+
+
 Al Adalah-Al Nassr,https://ok6-11.vkuser.net/expires/1680913882168/srcIp/119.56.102.123/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/OLZqS678PCo/ct/8/urls/45.136.22.12%3B185.226.52.29/clientType/0/zs/43/id/3954730273288/video/
 
 BAR-RMA 1,https://ok6-9.vkuser.net/expires/1680822964903/srcIp/175.156.138.11/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/Xzz6v5qku28/ct/8/urls/185.226.52.73%3B185.226.53.43/clientType/0/zs/43/id/3954640226824/video/
@@ -57,19 +45,6 @@ West Ham-Newcastle2,https://sto120.akamai-video-content.com/tysxehvykw7oj6cdab5t
 
 
 
-
-
-Juventus-Inter 1,https://ok6-8.vkuser.net/expires/1680745303114/srcIp/119.56.102.250/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/QIfsKzU2g9Q/ct/8/urls/45.136.20.28%3B185.226.52.59/clientType/0/zs/43/id/3944900921864/video/
-
-Juventus-Inter 2,https://ok6-13.vkuser.net/expires/1680745330392/srcIp/119.56.102.250/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/Prvn2qP-XGc/ct/8/urls/45.136.21.53%3B185.226.53.25/clientType/0/zs/43/id/3944902822408/video/
-
-Chelsea-Liverpool 1,https://ok6-15.vkuser.net/expires/1680745468784/srcIp/119.56.102.250/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/pYAFNBMY8xM/ct/8/urls/185.226.52.75%3B45.136.21.51/clientType/0/zs/43/id/3944906754568/video/
-
-Chelsea-Liverpool 2,https://ok6-7.vkuser.net/expires/1680745495596/srcIp/119.56.102.250/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/zYbnwvlpuv8/ct/8/urls/45.136.22.16%3B185.226.53.27/clientType/0/zs/43/id/3944917371400/video/
-
-Bayer-Freiburg 1,https://streamtape.com/get_video?id=wVgLaz1017cxdz&expires=1680729177&ip=FREOD0yQERSXFxf&token=5L5vDWSM_4eI&stream=1
-
-Bayer-Freiburg 2,https://streamtape.com/get_video?id=r2gJgXV7JbUgGp&expires=1680729502&ip=FREOD0yQERSXFxf&token=-eAlirvJDkwy&stream=1
 
 
 
