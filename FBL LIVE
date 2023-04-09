@@ -8,19 +8,16 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 
 
 
-PL R30,#genre#
-LIV-ARS,https://play.tryafs.online:443/hls/epl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDo0NzoyOSBQTSZoYXNoX3ZhbHVlPXN6eEQxOURqeVE2UEtxTnlwajdCR1E9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMzo0ODo1NSBQTSZoYXNoX3ZhbHVlPWFGNEVGdXZXOUtXSittSUF5bmNSU2c9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/epl1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMzoxMjo1MiBQTSZoYXNoX3ZhbHVlPVVnRFRPcy9pTFJTajZqTTh1bXdWTWc9PSZ2YWxpZG1pbnV0ZXM9NzA=
-LIV1,https://play.tryafs.online:443/hls/skymaineventhd91/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDo0ODozNiBQTSZoYXNoX3ZhbHVlPWVCYlo0RERZUUIrNUxjdmR3TW1hc3c9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/skymaineventhd91/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDowMTowMiBQTSZoYXNoX3ZhbHVlPUpDTXcyWmdQaGpobkZWcGFsb0lKL1E9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/skymaineventhd91/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMzoxNDowNyBQTSZoYXNoX3ZhbHVlPXlSTWtsZ0JQTXU2MitsSUdHS05TREE9PSZ2YWxpZG1pbnV0ZXM9NzA=
-LIV2,https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDo0OTo0OSBQTSZoYXNoX3ZhbHVlPW4yRU0xdDBGY3NtYjczU3h0YjVld1E9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgNDowMjowMyBQTSZoYXNoX3ZhbHVlPW9sd3RkUW5YY0hOYUVqODlIRkdYUEE9PSZ2YWxpZG1pbnV0ZXM9NzA=#https://play.tryafs.online:443/hls/lsh3hd201/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjMgMzoxNDo1NiBQTSZoYXNoX3ZhbHVlPU1TRUovL0k5RU0weThtbzljYnNmNHc9PSZ2YWxpZG1pbnV0ZXM9NzA=
-
-
-
-
 
 
 
 
 FULL MATCHES REPLAY,#genre#
+LIV-ARS1,https://ok6-7.vkuser.net/expires/1681168151916/srcIp/119.56.101.122/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/xkdS5P6iBtk/ct/8/urls/45.136.22.8%3B185.226.52.73/clientType/0/zs/43/id/4196816980595/video/
+
+LIV-ARS2,https://ok6-1.vkuser.net/expires/1681168173392/srcIp/119.56.101.122/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/fmTo_kOZRc8/ct/8/urls/185.226.53.36%3B45.136.20.30/clientType/0/zs/43/id/4197019683443/video/
+
+
 Real Madrid-Villarreal 1H,https://ok6-1.vkuser.net/expires/1681096585652/srcIp/124.197.88.107/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/GTphWgb8lWk/ct/8/urls/185.226.53.39%3B45.136.22.80/clientType/0/zs/43/id/3931804535301/video/
 Real Madrid-VillarreaH 2H,https://ok6-11.vkuser.net/expires/1681096628671/srcIp/124.197.88.107/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/YD6d0PoLuQI/ct/8/urls/185.226.53.75%3B185.226.52.71/clientType/0/zs/43/id/3931984759301/video/
 
