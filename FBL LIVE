@@ -8,18 +8,17 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 断网,https://data.cache.m3u8.lscsfw.com:3395/cache/20230331/9557_fa9220d7/index.m3u8
 
 
-PL R31,#genre#
-CHE-BHA,http://pulldg.hongdel.top/live/sd-1-3747058.m3u8?auth_key=1681567153-0-0-0fe4e81fc29b120d1be6744c5a1779c4
 
-EVE-FUL,http://pulldg.hongdel.top/live/sd-1-3747061.m3u8?auth_key=1681567214-0-0-862841a5e616c8723357c952c3ef95a3
-
-SOU-CP,http://pulldg.hongdel.top/live/sd-1-3747070.m3u8?auth_key=1681567214-0-0-85ccc0ec96b10e1f75b269ac805def80
-
-WOL-BRE,http://pulldg.hongdel.top/live/sd-1-3747074.m3u8?auth_key=1681567153-0-0-6db81e491d3b90c053d1ec9d1b58e953
 
 
 
 FULL MATCHES REPLAY,#genre#
+MC-LEI 1,https://ok6-6.vkuser.net/expires/1681693942655/srcIp/119.56.97.123/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/G_dBqTNNc-E/ct/8/urls/185.226.52.33%3B45.136.22.42/clientType/0/zs/43/id/4258280901235/video/
+
+MC-LEI 2,https://ok6-12.vkuser.net/expires/1681693964977/srcIp/119.56.97.123/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/8HPJDChu87Q/ct/8/urls/45.136.21.8%3B45.136.22.70/clientType/0/zs/43/id/4258456865395/video/
+
+
+
 MUN-SEV 1,https://ok6-8.vkuser.net/expires/1681513994193/srcIp/119.56.102.240/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/2GfnTIiiSZw/ct/8/urls/185.226.53.62%3B45.136.22.78/clientType/0/zs/43/id/3979333601797/video/
 
 MUN-SEV 2,https://ok6-6.vkuser.net/expires/1681514022181/srcIp/119.56.102.240/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/uiRP1ErHmwY/ct/8/urls/185.226.53.37%3B45.136.21.10/clientType/0/zs/43/id/3979442194949/video/
@@ -46,26 +45,6 @@ FEY-ROMA2,https://streamtape.com/get_video?id=YK7DZ7yr31FvWVw&expires=1681507076
 
 
 
-RMA-CHE1,https://ok6-8.vkuser.net/expires/1681430844145/srcIp/119.56.101.40/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/CntAqJTjvK4/ct/8/urls/45.136.22.34%3B45.136.21.78/clientType/0/zs/43/id/3969451100677/video/
-
-RMA-CHE2,https://ok6-3.vkuser.net/expires/1681430860370/srcIp/119.56.101.40/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/FqXoRAOSoL4/ct/8/urls/45.136.20.48%3B45.136.21.5/clientType/0/zs/43/id/3969510345221/video/
-
-MILAN-NAPOLI 1,https://ok6-15.vkuser.net/expires/1681431027689/srcIp/119.56.101.40/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/0XZTSKEtOyw/ct/8/urls/45.136.21.67%3B185.226.53.42/clientType/0/zs/43/id/3969402669573/video/
-
-MILAN-NAPOLI 2,https://ok6-9.vkuser.net/expires/1681431045798/srcIp/119.56.101.40/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/0uYNPr0X6qU/ct/8/urls/45.136.21.23%3B45.136.20.39/clientType/0/zs/43/id/3969561397765/video/
-
-
-
-
-
-
-MC-BAY1,https://ok6-9.vkuser.net/expires/1681340913356/srcIp/119.56.101.253/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/7kAIaMeIzEk/ct/8/urls/185.226.53.43%3B45.136.21.36/clientType/0/zs/43/id/4009391688200/video/
-
-MC-BAY2,https://ok6-2.vkuser.net/expires/1681340935216/srcIp/119.56.101.253/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/agomGY4nm7U/ct/8/urls/185.226.53.14%3B45.136.21.19/clientType/0/zs/43/id/4009456437768/video/
-
-BEN-INTER1,https://ok6-10.vkuser.net/expires/1681353526810/srcIp/119.56.103.25/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/KDSxJyZUjB4/ct/8/urls/185.226.52.81%3B45.136.22.78/clientType/0/zs/43/id/4009393326600/video/
-
-BEN-INTER2,https://ok6-5.vkuser.net/expires/1681353560941/srcIp/119.56.103.25/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/ACLF0VN3ZEA/ct/8/urls/45.136.21.68%3B185.226.53.74/clientType/0/zs/43/id/4009464105480/video/
 
 
 
