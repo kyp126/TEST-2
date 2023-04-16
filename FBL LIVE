@@ -9,6 +9,9 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 
 
 PL R31,#genre#
+west1,,http://103.68.63.37:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
+west2,http://103.68.63.37:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+
 West Ham-Arsenal,https://ssss36.jokerplayer7.online:8081/live/usanet.m3u8?e=1681654782&st=SnDXxrHTKiEyUFPXDOPUOQ
 ARS,https://ssss43.jokerplayer7.online:8081/live/skymaineventsd44.m3u8?e=1681655305&st=fTGdxKRkLtdXU4LISy1uHg
 ARS1,https://php.p2plinks.online:2096/asset/bn1_hd/index.m3u8
