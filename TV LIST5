@@ -20,6 +20,14 @@ LIVE,#genre#
 東方,https://node1.olelive.com:6443/live/DFHD/hls.m3u8
 湖南,https://node1.olelive.com:6443/live/HNHD/hls.m3u8
 
+極度俏郎君,#genre#
+俏郎君1,https://m3u.haiwaikan.com/xm3u8/11fd24b11457359c8d0757b98b1423cfd773f228827042ea0dbd68539689d0169921f11e97d0da21.m3u8
+俏郎君2,https://m3u.haiwaikan.com/xm3u8/aa0b7ff3037bf7aca695c589b56d1fbd4ffca4af63e217cb94d1f2e2755458f79921f11e97d0da21.m3u8
+俏郎君3,https://m3u.haiwaikan.com/xm3u8/9c2cea2c57bb4cf4914cfbcf3fe8e7c75eb3eb88c29ffa36c6cff717c9672dbc9921f11e97d0da21.m3u8
+
+
+
+
 
 法言人,#genre#
 法言人1,https://m3u.haiwaikan.com/xm3u8/9d93073a0fa12c4c662460215c3cec18cbd613eb148c41234c504913aa3b3a2c9921f11e97d0da21.m3u8#https://6tm.wdubo.com:443/20230410/VH0fpqLQ/hls/index.m3u8
