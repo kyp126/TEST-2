@@ -16,6 +16,10 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 PL R32,#genre#
 LIV-NTF,https://storage.googleapis.com:443/dfbseg/mux_video_ts/index-1.m3u8
 LEI-WOL,https://storage.googleapis.com:443/realovo5/mux_video_ts/index-1.m3u8 
+CP-EVE,https://storage.googleapis.com:443/realovo4/mux_video_ts/index-1.m3u8
+
+
+
 
 
 FULL MATCHES REPLAY,#genre#
