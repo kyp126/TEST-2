@@ -17,6 +17,7 @@ PL R32,#genre#
 LIV-NTF,https://storage.googleapis.com:443/dfbseg/mux_video_ts/index-1.m3u8
 LEI-WOL,https://storage.googleapis.com:443/realovo5/mux_video_ts/index-1.m3u8 
 CP-EVE,https://storage.googleapis.com:443/realovo4/mux_video_ts/index-1.m3u8
+BRE-AVL,https://storage.googleapis.com:443/realovo3/mux_video_ts1/index-1.m3u8
 
 
 
