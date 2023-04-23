@@ -10,13 +10,8 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 
 XXXXXXXXXXXXXXXXXXXX
 原生
-PL R32,#genre#
-Newcastle-Tottenham,https://sports.fordems.live/live/-1/playlist.m3u8
-NEW,https://storage.googleapis.com:443/buoksy/mux_video_ts/index-1.m3u8
-NEW1,https://storage.googleapis.com:443/lajreal2/mux_video_ts/index-1.m3u8
-
-Bournemouth-West Ham,https://storage.googleapis.com/fywupv/main.m3u8
-WHU,http://pull.hangkongjiaqi.com/leisu/1117716594454228.m3u8?auth_key=1682267590-0-0-238938579e6d2b384d1a04b8f225244c
+FA CUP SF,#genre#
+BRI-MUN,https://storage.googleapis.com:443/buoksy/mux_video_ts/index-1.m3u8
 
 
 
