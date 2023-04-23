@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXX
 FA CUP SF,#genre#
 BRI-MUN,https://storage.googleapis.com:443/buoksy/mux_video_ts/index-1.m3u8
 MUN,https://ecloud.ilive.sbs:8089/hls/r2uNFcUglnH0/index.m3u8?st=rAnxCziNpc1xzurmHwMxvg&e=1682273388
-
+MUN1,https://storage.googleapis.com:443/buoksy/mux_video_ts/index-1.m3u8
 
 
 
