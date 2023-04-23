@@ -9,10 +9,10 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 断网,https://data.cache.m3u8.lscsfw.com:3395/cache/20230331/9557_fa9220d7/index.m3u8
 
 XXXXXXXXXXXXXXXXXXXX
-
+原生
 PL R32,#genre#
 Newcastle-Tottenham,https://sports.fordems.live/live/-1/playlist.m3u8
-NEW,https://cloud.ovocloud.site:443/live/abr_s-2/live/s-2_720p/chunks.m3u8
+NEW,https://storage.googleapis.com:443/lajreal2/mux_video_ts/index-1.m3u8#https://cloud.ovocloud.site:443/live/abr_s-2/live/s-2_720p/chunks.m3u8
 
 Bournemouth-West Ham,https://storage.googleapis.com/fywupv/main.m3u8
 WHU,https://storage.googleapis.com:443/lajreal1/mux_video_ts/index-1.m3u8
