@@ -10,10 +10,20 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 
 XXXXXXXXXXXXXXXXXXXX
 硬解
-FA CUP SF,#genre#
-BRI-MUN,https://storage.googleapis.com:443/buoksy/mux_video_ts/index-1.m3u8
-MUN,https://ecloud.ilive.sbs:8089/hls/r2uNFcUglnH0/index.m3u8?st=rAnxCziNpc1xzurmHwMxvg&e=1682273388
-MUN1,https://storage.googleapis.com:443/buoksy/mux_video_ts/index-1.m3u8
+
+FA CUP SF ,#genre#
+
+BHA-MUN 1,https://ok6-15.vkuser.net/expires/1682378501302/srcIp/119.56.103.244/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/rkjlCbcOZO0/ct/8/urls/185.226.52.44%3B45.136.20.11/clientType/0/zs/43/id/4133055957512/video/
+
+BHA-MUN 2,https://ok6-5.vkuser.net/expires/1682378523339/srcIp/119.56.103.244/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/fuw5nCM5Ycw/ct/8/urls/45.136.22.32%3B45.136.20.74/clientType/0/zs/43/id/4133189061128/video/
+
+ET&PEN,https://ok6-6.vkuser.net/expires/1682378554712/srcIp/119.56.103.244/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/GvlIXhh0YDs/ct/8/urls/45.136.21.17%3B45.136.22.14/clientType/0/zs/43/id/4133675469320/video/
+ 
+
+
+
+
+
 
 
 
@@ -21,6 +31,16 @@ MUN1,https://storage.googleapis.com:443/buoksy/mux_video_ts/index-1.m3u8
 
 
 FULL MATCHES REPLAY,#genre#
+
+
+BHA-MUN 1,https://ok6-15.vkuser.net/expires/1682378501302/srcIp/119.56.103.244/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/rkjlCbcOZO0/ct/8/urls/185.226.52.44%3B45.136.20.11/clientType/0/zs/43/id/4133055957512/video/
+
+BHA-MUN 2,https://ok6-5.vkuser.net/expires/1682378523339/srcIp/119.56.103.244/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/fuw5nCM5Ycw/ct/8/urls/45.136.22.32%3B45.136.20.74/clientType/0/zs/43/id/4133189061128/video/
+
+ET&PEN,https://ok6-6.vkuser.net/expires/1682378554712/srcIp/119.56.103.244/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/GvlIXhh0YDs/ct/8/urls/45.136.21.17%3B45.136.22.14/clientType/0/zs/43/id/4133675469320/video/
+ 
+
+
 MC-SHU 1,https://ok6-5.vkuser.net/expires/1682292784337/srcIp/119.56.98.20/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/6yqenRZ_Iqo/ct/8/urls/45.136.20.20%3B45.136.22.22/clientType/0/zs/43/id/4330262039155/video/
 
 MC-SHU 2,https://ok6-6.vkuser.net/expires/1682292804400/srcIp/119.56.98.20/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/KxzKZgHR_T4/ct/8/urls/45.136.22.80%3B185.226.53.72/clientType/0/zs/43/id/4330743532147/video/
