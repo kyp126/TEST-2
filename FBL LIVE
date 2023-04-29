@@ -19,7 +19,7 @@ BRE,https://storage.googleapis.com:443/opetir1/mux_video_ts/index-1.m3u8
 
 BHA-WOL,https://storage.googleapis.com:443/iziove2/mux_video_ts1/index-1.m3u8
 BHA,https://storage.googleapis.com:443/stream-live-kotrua/mux_video_ts/index-1.m3u8
-
+BHA1,https://sports.fordems.live:443/live/-2/chunks.m3u8?nimblesessionid=137485
 
 
 
