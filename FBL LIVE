@@ -19,7 +19,7 @@ MU-AVL,https://storage.googleapis.com:443/stream-for1/mux_video_ts/index-1.m3u8
 BOU-LEE,https://storage.googleapis.com:443/rintov1/mux_video_ts1/index-1.m3u8
 
 
-NEW-SOU,https://sports.fordems.live:443/live/r-4/chunks.m3u8?nimblesessionid=43308
+NEW-SOU,https://storage.googleapis.com:443/rintov4/mux_video_ts1/index-1.m3u8#https://sports.fordems.live:443/live/r-4/chunks.m3u8?nimblesessionid=43308
 NEW1,https://storage.googleapis.com:443/rintov4/mux_video_ts1/index-1.m3u8
 
 
