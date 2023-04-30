@@ -11,21 +11,15 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 XXXXXXXXXXXXXXXXXXXX
 硬解
 
-EPL,#genre#
-FUL-MC,https://storage.googleapis.com:443/stream-for2/mux_video_ts/index-1.m3u8
-
-MU-AVL,https://storage.googleapis.com:443/stream-for1/mux_video_ts/index-1.m3u8
-MU1,https://storage.googleapis.com:443/rintov3/mux_video_ts/index-1.m3u8#https://storage.googleapis.com:443/rintov3/mux_video_ts/index-1.m3u8
-
-BOU-LEE,https://storage.googleapis.com:443/rintov1/mux_video_ts1/index-1.m3u8
-BOU,https://storage.googleapis.com:443/rintov1/mux_video_ts1/index-1.m3u8
-
-NEW-SOU,https://storage.googleapis.com:443/rintov4/mux_video_ts1/index-1.m3u8#https://sports.fordems.live:443/live/r-4/chunks.m3u8?nimblesessionid=43308
-NEW1,https://storage.googleapis.com:443/rintov4/mux_video_ts1/index-1.m3u8
 
 
 
 FULL.MATCHES.REPLAY,#genre#
+LIV-TOT.1,https://ok6-12.vkuser.net/expires/1682984669649/srcIp/119.56.99.172/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/q9NfUEcqZ6Y/ct/8/urls/185.226.52.73%3B185.226.53.9/clientType/0/zs/43/id/4203507550728/video/
+
+LIV-TOT.2,https://ok6-8.vkuser.net/expires/1682984709949/srcIp/119.56.99.172/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/op-o5cmwOSU/ct/8/urls/185.226.52.61%3B45.136.20.67/clientType/0/zs/43/id/4203606182408/video/
+
+
 BAR-BETIS.1,https://ok6-3.vkuser.net/expires/1682897841538/srcIp/119.56.101.188/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/WgdXG5t_66w/ct/8/urls/185.226.52.75%3B185.226.53.18/clientType/0/zs/43/id/4407202613875/video/
 
 BAR-BETIS.2,https://ok6-7.vkuser.net/expires/1682897887972/srcIp/119.56.101.188/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/GgdZVe0MaSQ/ct/8/urls/45.136.21.16%3B45.136.22.77/clientType/0/zs/43/id/4407234333299/video/
