@@ -11,12 +11,14 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 XXXXXXXXXXXXXXXXXXXX
 硬解
 
-Formula 1 2023,#genre# 
-Azerbaijan.Race,https://s16.wolfstream.tv/hls2/01/02054/t58fkxwendhy_h/index-v1-a1.m3u8?t=IGhg4DJ0A6INDNuJemWusVLQUw-zKrtZ_Om98IjIRH8&s=1682904608&e=43200&f=10270689&i=0.0&sp=0
-MotorGP Spain,https://s16.wolfstream.tv/hls2/01/02054/57v58pc3gyx5_x/index-v1-a1.m3u8?t=pD78v3brm_bPV6Sos4V6rZvsJoykK4V6694jMEsim8o&s=1682905433&e=43200&f=10270578&i=0.0&sp=0
 
 
 FULL.MATCHES.REPLAY,#genre#
+SOC-RMA.1,https://ok6-6.vkuser.net/expires/1683155953249/srcIp/119.56.102.206/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/d9c08_IMqZQ/ct/8/urls/45.136.22.29%3B185.226.52.80/clientType/0/zs/43/id/4170902735365/video/
+
+SOC-RMA.2,https://ok6-1.vkuser.net/expires/1683155976677/srcIp/119.56.102.206/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/q6Np31Qq7Mo/ct/8/urls/185.226.52.36%3B45.136.22.17/clientType/0/zs/43/id/4170931767813/video/
+
+
 ARS-CHE.1,https://ok6-4.vkuser.net/expires/1683155718088/srcIp/119.56.102.206/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/elWPiYO9J8Q/ct/8/urls/185.226.52.62%3B45.136.21.32/clientType/0/zs/43/id/4170406431237/video/
 
 ARS-CHE.2,https://ok6-1.vkuser.net/expires/1683155736452/srcIp/119.56.102.206/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/1Q_68IfX2n0/ct/8/urls/185.226.53.14%3B45.136.21.21/clientType/0/zs/43/id/4170606053893/video/
