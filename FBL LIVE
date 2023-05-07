@@ -11,11 +11,12 @@ Avatar 2,https://m3u.haiwaikan.com/xm3u8/70ac4f2cfdbe0c9af8395517da611ba28025c82
 XXXXXXXXXXXXXXXXXXXX
 硬解
 
-PL.R35,#genre#
-Liverpool-Brentford,https://forsport.fordems.live/live/poolfordems/playlist.m3u8
-LIV1,https://web.realbitsport.com/live/r-1/playlist.m3u8
-LIV2,https://storage.googleapis.com/uerfsu/main.m3u8
-LIV2b,https://storage.googleapis.com/ilireal3/mux_video_ts/index-1.m3u8
+Copa del Rey,#genre#
+RM-OSA.1,https://ok6-9.vkuser.net/expires/1683508032472/srcIp/119.56.102.238/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/kI1AV0_lWRs/ct/8/urls/45.136.21.24%3B185.226.52.18/clientType/0/zs/43/id/4271487257096/video/
+
+RM-OSA.2,https://ok6-7.vkuser.net/expires/1683508003139/srcIp/119.56.102.238/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/U4CQqiNyfxs/ct/8/urls/185.226.53.72%3B45.136.20.78/clientType/0/zs/43/id/4271493089800/video/
+
+Trophy,https://ok6-6.vkuser.net/expires/1683508067198/srcIp/119.56.102.238/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/gTUPmS2nRiM/ct/8/urls/185.226.52.35%3B185.226.53.45/clientType/0/zs/43/id/4271494597128/video/
 
 
 
