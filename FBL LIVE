@@ -12,15 +12,18 @@ XXXXXXXXXXXXXXXXXXXX
 硬解
 
 
-PL.R35,#genre#
-Newcastle-Arsenal,https://storage.googleapis.com/nuuuyp/main.m3u8
-ARS1,https://storage.googleapis.com:443/litreal1/mux_video_ts1/index-1.m3u8
-ARS1a,http://pull.chxyfsh.com/live/dps-57722659-saturn-ali.m3u8?auth_key=1683489660-0-0-87dd7ba85d346e94519c584bf76a4d10
-ARS2,https://storage.googleapis.com:443/nuuuyp/mux_video_ts/index-1.m3u8
-ARS2a,https://storage.googleapis.com:443/qetione2/mux_video_ts/index-1.m3u8
 
 
-Copa del Rey,#genre#
+
+
+
+FULL.MATCHES.REPLAY,#genre#
+TROYES-PSG.1,https://ok6-7.vkuser.net/expires/1683592635803/srcIp/119.56.96.202/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/o0Q2oXAY3-U/ct/8/urls/45.136.20.15%3B185.226.53.59/clientType/0/zs/43/id/4236958108165/video/
+
+TROYES-PSG.2,https://ok6-12.vkuser.net/expires/1683592659977/srcIp/119.56.96.202/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/k1GO2c40yq0/ct/8/urls/185.226.52.72%3B45.136.21.53/clientType/0/zs/43/id/4236968790533/video/
+
+
+
 RM-OSA.1,https://ok6-9.vkuser.net/expires/1683508032472/srcIp/119.56.102.238/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/kI1AV0_lWRs/ct/8/urls/45.136.21.24%3B185.226.52.18/clientType/0/zs/43/id/4271487257096/video/
 
 RM-OSA.2,https://ok6-7.vkuser.net/expires/1683508003139/srcIp/119.56.102.238/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/U4CQqiNyfxs/ct/8/urls/185.226.53.72%3B45.136.20.78/clientType/0/zs/43/id/4271493089800/video/
@@ -28,9 +31,6 @@ RM-OSA.2,https://ok6-7.vkuser.net/expires/1683508003139/srcIp/119.56.102.238/src
 Trophy,https://ok6-6.vkuser.net/expires/1683508067198/srcIp/119.56.102.238/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/gTUPmS2nRiM/ct/8/urls/185.226.52.35%3B185.226.53.45/clientType/0/zs/43/id/4271494597128/video/
 
 
-
-
-FULL.MATCHES.REPLAY,#genre#
 Brighton-M.United.1,https://860698142.tapecontent.net/radosgw/0Vbgx4RkAlHbqOD/XNyCo-LcQbQ-0BYZYGiW7pclmkmDwwhhibPBKRF_415Bl1FLTQgGSEZGJt88UTuCoacdtwfdwVG_UeQA_RfyeArVi5k4oheX48SzPddD9B-SbYvoIfvngJln3_IoTEF0rp-jdXscltNiG4CbclNgFJCvXSkoiC78hEyZUqb4gdcMght3wcu6eRIVkIK4juStfkWpjmaPJRsc9t_mXjnLQ8zZzKd-Q5T-3TGMVGGS7qzuodqDfk9pUGxwca4Bpo6BNIqgjbMai24f1Mj6-G3Nfm5Q0JVGrQIcRhz9yNGn5-PCm0zh2sbEb2QhaGs/BRI+vs+MAN+-+First-Half+-+Sky.mp4.mp4?dl=1
 
 Brighton-M.United.2,https://860718372.tapecontent.net/radosgw/grabJoWoBwtqdV9/PNrx6S-18aBc45o9LQfFxWY1EyFFO-bHmI-2qoT9Nkgosu_G2viUBTmd7WazecEUk-7IJntHTbVO2jwkBfKwUpzhpi_j9shY2bwNiHGGGvUlQT4C_chff07gJIjNlbtSFkArGTS2eiyxckEJU8Qisp9EG8ujhrw7sz6ZLhowjApXyDAi27btzmC8sJ_2Q-i7G57lzslAdcl3pZ8oZ8nm3OOZSQ8735pK4McRpJDatG1X-4u6V3ssrkv80ovKKFbVX9ERtNza1n4-PjP7h3Jajt6q5I24AO3UdNd0B7maf4Txw3LrxS4H6uVmYCPvA8goqB7yRnlYFx_XyYa4/BRI+vs+MAN+-+HFA+%26+Second-Half+-+Sky.mp4.mp4?dl=1
