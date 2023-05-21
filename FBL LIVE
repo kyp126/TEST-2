@@ -16,18 +16,12 @@ PL.R37,#genre#
 MC-CHE,https://1test.fordems.live/live/for-dems1/chunks.m3u8
 
 MC1,https://nun.realbitsport.com/live/n-1/chunks.m3u8
+MC2,https://pull9.douxunyx.com/live/cb11d8de403dfa75.m3u8?txSecret=221cc061160a72f7cbf411a0914f94d2&txTime=646A31F4 
 
 
 
 
 
-Brighton-Southampton,https://1test.fordems.live/live/for-dems2/chunks.m3u8
-BRI2,https://pull9.douxunyx.com/live/6c066097ea0d7805.m3u8?txSecret=1fd4d833726766aac3262fbe8131133b&txTime=646A18C4
-BRI,https://nun.realbitsport.com/live/n-2/chunks.m3u8 
-West.Ham-Leeds,https://1test.fordems.live/live/for-dems1/chunks.m3u8
-LEE,https://nun.realbitsport.com/live/n-1/chunks.m3u8
-LEE1,https://pull9.douxunyx.com/live/c5b46371f44b2754.m3u8?txSecret=d55bd209e058048ae32761cf6848ed38&txTime=646A105E
-LEE2,https://tpull-qc.ape520.com/live/stream-202507.m3u8?txSecret=247dc5d9a66a116394936d37bd54f487&txTime=1684696578
 
 
 FULL.MATCHES.REPLAY,#genre#
