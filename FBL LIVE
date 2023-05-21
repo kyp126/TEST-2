@@ -12,13 +12,12 @@ XXXXXXXXXXXXXXXXXXXX
 硬解
 
 
-PL.R37,#genre#
-Forest-Arsenal,https://storage.googleapis.com:443/ptphalbzu/mux_video_ts/index-1.m3u8
-ARS,https://storage.googleapis.com:443/cokcokre2/mux_video_ts/index-1.m3u8
-
 
 
 FULL.MATCHES.REPLAY,#genre#
+NOT-ARS.1,https://ok6-9.vkuser.net/expires/1684713870627/srcIp/119.56.104.34/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/nV5kG-4VqWw/ct/8/urls/45.136.22.49%3B185.226.52.34/clientType/0/zs/43/id/4419727264261/video/
+
+NOT-ARS.2,https://ok6-4.vkuser.net/expires/1684713893919/srcIp/119.56.104.34/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/NbvzSvpRS5k/ct/8/urls/185.226.52.26%3B45.136.22.14/clientType/0/zs/43/id/4419742468613/video/
 SEV-JUV.1,https://vd368.mycdn.me/expires/1684589580007/srcIp/124.246.85.173/srcAg/CHROME_ANDROID/ms/185.226.53.75/type/5/sig/MHECVJXorW0/ct/8/urls/45.136.22.31/clientType/0/id/4434122050056/video/
 SEV-JUV.2,https://ok6-8.vkuser.net/expires/1684538237089/srcIp/119.56.107.155/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/q6VzLcTt9Lg/ct/8/urls/45.136.21.54%3B45.136.22.42/clientType/0/zs/43/id/4434422598152/video/ 
 
@@ -38,30 +37,6 @@ NEW-BHA.2,https://ok6-15.vkuser.net/expires/1684539917109/srcIp/119.56.107.155/s
 
 
 MCI-RMA.1,https://ok6-12.vkuser.net/expires/1684451424350/srcIp/138.75.31.56/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/OrLPc7Iz_Pw/ct/8/urls/45.136.20.54%3B185.226.52.58/clientType/0/zs/43/id/4627737676403/video/
-
-MCI-RMA.2,https://ok6-1.vkuser.net/expires/1684451446677/srcIp/138.75.31.56/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/-vf-4gaeaI0/ct/8/urls/45.136.21.68%3B45.136.21.31/clientType/0/zs/43/id/4628137904755/video/  
-INTER-MILAN.1,https://ok6-6.vkuser.net/expires/1684364264656/srcIp/175.156.237.25/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/t3pWvm2Ktqg/ct/8/urls/185.226.53.40%3B45.136.20.68/clientType/0/zs/43/id/4357448141317/video/
-
-INTER-MILAN.2,https://ok6-14.vkuser.net/expires/1684364284260/srcIp/175.156.237.25/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/bJSRavD_jOU/ct/8/urls/185.226.53.89%3B45.136.21.38/clientType/0/zs/43/id/4357507516933/video/
- LEI-LIV.1,https://ok6-9.vkuser.net/expires/1684278240729/srcIp/119.56.108.207/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/MznVfowj5Sw/ct/8/urls/45.136.20.72%3B45.136.21.70/clientType/0/zs/43/id/4394291038728/video/
-
-LEI-LIV.2,https://ok6-11.vkuser.net/expires/1684278266220/srcIp/119.56.108.207/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/6DVdcclriQ8/ct/8/urls/45.136.20.27%3B185.226.52.81/clientType/0/zs/43/id/4394312403464/video/ 
-ARS-BHA.1,https://ok6-6.vkuser.net/expires/1684191589916/srcIp/124.246.120.250/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/67aQsz9X8T4/ct/8/urls/185.226.52.36%3B45.136.22.23/clientType/0/zs/43/id/4382993877512/video/
-
-ARS-BHA.2,https://ok6-15.vkuser.net/expires/1684191610368/srcIp/124.246.120.250/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/2pN9NTJlPB4/ct/8/urls/45.136.21.15%3B45.136.20.76/clientType/0/zs/43/id/4383006919176/video/
-PSG-AJACCIO.1,https://ok6-10.vkuser.net/expires/1684109668955/srcIp/119.56.104.111/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/gek-rwvgJO8/ct/8/urls/45.136.22.46%3B185.226.53.92/clientType/0/zs/43/id/4583253740147/video/
-
-PSG-AJACCIO.2,https://ok6-9.vkuser.net/expires/1684109691523/srcIp/119.56.104.111/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/8f2rf7TYkVM/ct/8/urls/185.226.53.21%3B45.136.22.26/clientType/0/zs/43/id/4583611239027/video/  
-
-CHE-NFT.1,https://ok6-8.vkuser.net/expires/1684109936750/srcIp/119.56.104.111/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/KKMNn9C27DQ/ct/8/urls/45.136.21.37%3B185.226.52.20/clientType/0/zs/43/id/4579690089075/video/
-
-CHE-NFT.2,https://ok6-9.vkuser.net/expires/1684109957054/srcIp/119.56.104.111/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/0pHNN7VJYN4/ct/8/urls/45.136.21.70%3B45.136.22.21/clientType/0/zs/43/id/4579990899315/video/   
-
-MU-WOL.1,https://ok6-12.vkuser.net/expires/1684110092807/srcIp/119.56.104.111/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/lGrJBP-uKx4/ct/8/urls/45.136.20.40%3B185.226.52.11/clientType/0/zs/43/id/4579597486707/video/
-
-MU-WOL.2,https://ok6-5.vkuser.net/expires/1684110120297/srcIp/119.56.104.111/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/M0rltqtgM7k/ct/8/urls/185.226.53.61%3B185.226.52.76/clientType/0/zs/43/id/4580201335411/video/   
-
-
 
 
 
