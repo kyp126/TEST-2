@@ -12,12 +12,6 @@ XXXXXXXXXXXXXXXXXXXX
 硬解
 
 
-PL.R37,#genre#
-MC-CHE,https://1test.fordems.live/live/for-dems1/chunks.m3u8
-
-MC1,https://nun.realbitsport.com/live/n-1/chunks.m3u8
-MC2,https://pull9.douxunyx.com/live/cb11d8de403dfa75.m3u8?txSecret=221cc061160a72f7cbf411a0914f94d2&txTime=646A31F4 
-
 
 
 
@@ -25,6 +19,9 @@ MC2,https://pull9.douxunyx.com/live/cb11d8de403dfa75.m3u8?txSecret=221cc061160a7
 
 
 FULL.MATCHES.REPLAY,#genre#
+MC-CHE.1,https://ok6-3.vkuser.net/expires/1684797519581/srcIp/124.246.121.93/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/L6-vd_1nqs8/ct/8/urls/185.226.52.28%3B45.136.22.20/clientType/0/zs/43/id/4692349291123/video/
+
+MC-CHE.2,https://ok6-1.vkuser.net/expires/1684797541831/srcIp/124.246.121.93/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/8etuBH3q4_E/ct/8/urls/185.226.52.76%3B45.136.21.17/clientType/0/zs/43/id/4692444514931/video/  
 NOT-ARS.1,https://ok6-9.vkuser.net/expires/1684713870627/srcIp/119.56.104.34/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/nV5kG-4VqWw/ct/8/urls/45.136.22.49%3B185.226.52.34/clientType/0/zs/43/id/4419727264261/video/
 
 NOT-ARS.2,https://ok6-4.vkuser.net/expires/1684713893919/srcIp/119.56.104.34/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/NbvzSvpRS5k/ct/8/urls/185.226.52.26%3B45.136.22.14/clientType/0/zs/43/id/4419742468613/video/
