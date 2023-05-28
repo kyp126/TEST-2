@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXX
 BADMINTON,#genre#
 Astro SuperSport 4,http://iptvmedia.live:8080/F19591/d7d02309/157558
 
-PL.R38,#genre#
+PL.R38,
 
 Man.United-Fulham  
 
@@ -40,26 +40,13 @@ Everton-,Bournemouth
 Crystal-Forest 
 
 
-R34.BUNDES,#genre#
-Köln-Bayern München,https://2test.fordems.live/live/for-dems1/chunks.m3u8
-BAY,https://oni.realbitsport.com/live/n-3/chunks.m3u8
-
-Dortmund-Mainz,https://2test.fordems.live/live/for-dems2/chunks.m3u8
-DOR,https://oni.realbitsport.com/live/n-4/chunks.m3u8
-
 
 FULL.MATCHES.REPLAY,#genre#
-Man.U-Chelsea.1,https://ok6-11.vkuser.net/expires/1685142651453/srcIp/119.56.106.120/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/Mpw9SmIl2LU/ct/8/urls/45.136.22.74%3B45.136.20.68/clientType/0/zs/43/id/4535077046792/video/
+KOLN-BAY.1,https://861605437.tapecontent.net/radosgw/Jo9XrzbqrDtj1VQ/Bkb_MoCRYy3q-lmyLIWCxJqUcMi1bbZ8u9PazCjRF-Jzn2h8gmKKDjUZs9KkM69xpbpthUUP2skJPjGT2SRvF2uG0jkTdGqH1Z334lBGOUgnvIbLA1wFuln8tDA3OOCc0REgjcMesfvgWY185B1rVZfAkWekAvrW9AUDkGqH5h71wXGc94ODa_xEFGZOquCiv1gllHGFxhO9UitTfQVkLGTSuVJzrnVUYZ6TI8_b2tDAvgAY-RGaG7WZaesOIjUbdX6MV7dYRskLzRVx39HH4LtSyqxLxdbJtdjxccxVzICGu-Zn8HV8kRn0wsGIvCMTx23eSBPiAdryD4i6/KOE+vs+BAY+-+First-Half+-+Sky.mp4.mp4?dl=1
 
-Man.U-Chelsea.2,https://ok6-7.vkuser.net/expires/1685142679245/srcIp/119.56.106.120/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/JPVvBNCbOFk/ct/8/urls/185.226.53.38%3B45.136.20.32/clientType/0/zs/43/id/4535138847240/video/  
-Fio-Inter.1,https://ok6-3.vkuser.net/expires/1685056143680/srcIp/119.56.107.39/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/KB-vhvKhKBg/ct/8/urls/45.136.21.77%3B185.226.53.58/clientType/0/zs/43/id/4736165481075/video/
+KOLN-BAY.2,https://861133827.tapecontent.net/radosgw/bPqDxWeRmpuDXp/SZx5X1QpUB3tSfr15D4UbYyVhPR2sMZXIXJ0cqGwQx4S9TLHgcgEbT4u5mZZrvKnYvcekOg-j9ihFJLAdsea_o2KqOk1GRZQKmwMyBDZv75V8zdqFuaqc4swFEm7ldF7F_ckNygkmJKTFf8AMx0RTl1AzPBZdejn-FgGkidedKGGqiS2dgWex0TzOmA2OiCiKG2YWFKaLfBkXDT-qakqxz9_hJTjIRJk3i4K8C6Tmr6Y_FogzTn3r3w_AkRJElH_0GMln4LrMBF39WGtmHyZ8c3gwy82IqIJwhOAG00znEoFHTw1Vx10C2TJ77a9BxltquPRJpQ5DMBfKswY/KOE+vs+BAY+-+Second-Half+-+Sky.mp4.mp4?dl=1
 
-Fio-Inter.2,https://ok6-1.vkuser.net/expires/1685056172480/srcIp/119.56.107.39/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/YMJ7cIYcEhY/ct/8/urls/45.136.22.20%3B185.226.52.29/clientType/0/zs/43/id/4736199559795/video/
-
-Trophy.INTER,https://ok6-7.vkuser.net/expires/1685056325780/srcIp/119.56.107.39/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/j6idEITTxhw/ct/8/urls/45.136.20.53%3B45.136.21.75/clientType/0/zs/43/id/4736225577587/video/    
-AUSERRE-PSG.1,https://ok6-8.vkuser.net/expires/1684805624950/srcIp/119.56.104.209/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/N7ReNyvp71s/ct/8/urls/45.136.22.74%3B45.136.21.22/clientType/0/zs/43/id/4693620099699/video/
-
-AUSERRE-PSG.2,https://ok6-7.vkuser.net/expires/1684805649504/srcIp/119.56.104.209/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/bs-WPpgYQec/ct/8/urls/45.136.20.25%3B185.226.52.35/clientType/0/zs/43/id/4693911734899/video/
+TROPHY BAY,https://858142478.tapecontent.net/radosgw/Ba8Vz37YxJh2J0/5UjM4eLgDie_6FaFyiS3Nk-VL3KVzAIHAcfy6Ciw9Y0dgB_KEH5RRuY1oyocBEvz5g5j9ImZAcgKwI6NmGOEyj4NvVRrxqCkiuey4jZJ1CiRN9wwTTXPWY6fa1vzPZpuJ0hVLUwIMNH5a1QvOE9m2gWHRSCbTWAdDYEQHZGbC2hadQ820TgyNyeoBqGE7T7g74Vq8x-BQz2Z48n8-HjLz7AipYYW_-qT9UbDJWs4VurRT4GqM3JoA2zyidBBiO9FoNqazQSlPjeYYQsvjYNa86Lk5a5smgjV29f-IkCbIDx5VCWckpMlpuxpwMNl6qJ8UxYIqauTZ1HAkBoT/KOE+vs+BAY+-+Trophy+Celebration+-+Sky.mp4.mp4?dl=1
 
 
 
