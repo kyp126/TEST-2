@@ -17,7 +17,7 @@ XXXXXXXXXXXXXXXXXXXX
 BADMINTON,#genre#
 Astro SuperSport 4,http://iptvmedia.live:8080/F19591/d7d02309/157558
 
-PL.R38
+PL.R38,#genre#
 
 Man.United-Fulham  
 
@@ -29,13 +29,13 @@ Chelsea-Newcastle
 
 Arsenal-Wolves  
 
-Leeds-Tottenham 
+Leeds-Tottenham,https://2test.fordems.live/live/for-dems1/chunks.m3u8
   
 Leicester-West Ham  
 
 Villa-Brighton 
  
-Everton-Bournemouth  
+Everton-Bournemouth,https://2test.fordems.live/live/for-dems1/chunks.m3u8 
 
 Crystal-Forest 
 
