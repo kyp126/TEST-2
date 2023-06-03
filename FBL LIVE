@@ -18,6 +18,7 @@ FA FINAL,#genre#
 
 MC-MU,https://storage.googleapis.com:443/opunytsed/mux_video_ts/index-1.m3u8#https://storage.googleapis.com:443/opunytsed/mux_video_ts/index-1.m3u8
 MC1,https://storage.googleapis.com:443/govesreal1/mux_video_ts1/index-1.m3u8
+MC2,https://storage.googleapis.com:443/opunytsed/mux_video_ts/index-1.m3u8
 Astro SuperSport 4,http://iptvmedia.live:8080/F19591/d7d02309/157558
 
 FULL MATCH REPLAY,#genre#
