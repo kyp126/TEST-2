@@ -41,10 +41,6 @@
     "type": 0,
     "url": "http://home.jundie.top:81/Cat/tv/live.txt" },
 {
-    "name": "网络综播2",
-    "type": 0,
-    "url": "https://telegram-feiyangdigital.v1.mk" },
-{
     "name": "本地成人",
     "type": 0,
     "url": "clan://TVBox/tv/sex.txt" }
