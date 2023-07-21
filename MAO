@@ -27,11 +27,11 @@
 {
     "name": "线更直播",
     "type": 0,
-    "url": "https://f004.backblazeb2.com/file/20232023/js.txt" },
+    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt" },
 {
     "name": "网络直播",
     "type": 0,
-    "url": "https://f004.backblazeb2.com/file/20232023/bc.txt" },
+    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt" },
 {
     "name": "网络新剧",
     "type": 0,
