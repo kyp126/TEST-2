@@ -1,53 +1,17 @@
-// 配置地址 --> clan://localhost/TVBox/1818.json
+// 配置地址 --> clan://localhost/TVBox/6666.json
 {
-"spider":"clan://TVBox/1818.jar",
-"lives": [{
-    "group": "redirect",
-    "channels": [{
-      "name": "live",
-      "urls": ["proxy://do=live&type=eth&txt&m3u&ext=多线直播"]
-    }]
-  },
-{
-    "name": "本地直播",
-    "type": 0,
-    "url": "clan://TVBox/tv/live.txt" },
-{
-    "name": "本地新剧",
-    "type": 0,
-    "url": "clan://TVBox/tv/sg.txt" },
-{
-    "name": "本地m3u",
-    "type": 0,
-    "url": "clan://TVBox/tv/tv.m3u" },
-{
-    "name": "线更新剧",
-    "type": 0,
-    "url": "https://f004.backblazeb2.com/file/20232023/sg.txt" },
-{
-    "name": "线更直播",
-    "type": 0,
-    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt" },
-{
-    "name": "网络直播",
-    "type": 0,
-    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt" },
-{
-    "name": "网络新剧",
-    "type": 0,
-    "url": "https://f004.backblazeb2.com/file/20232023/live.txt" },
-{
-    "name": "网络综播1",
-    "type": 0,
-    "url": "http://home.jundie.top:81/Cat/tv/live.txt" },
-{
-    "name": "本地成人",
-    "type": 0,
-    "url": "clan://TVBox/tv/sex.txt" }
+"spider":"clan://TVBox/6666.jar",
+ "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/kyp126/TVBox/main/Live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": ""
+    }
+    
+  ],     
 
-
-  
-  ],
 
 
 
@@ -477,6 +441,89 @@
                
       ]
     },                                               
+{
+      "key": "鸡婆","name": "基珀云","type": 1,"api": "http://www.jipo.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "港台剧",
+        "国产剧",
+        "泰国剧",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "其他剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "历史片",
+        "武侠片",
+        "动画片",
+        "其他片",        
+        "港台综艺",
+        "大陆综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "其他综艺",
+        "港台动画",
+        "日韩动画",
+        "欧美动画",
+        "海外动画",
+        "电影",
+        "剧集",
+        "综艺",
+        "番剧",
+        "国创",
+        "体育"
+        
+      ]
+    },
+{
+      "key": "米杏","name": "米杏云","type": 1,"api": "http://www.mixing.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,             
+      "changeable": 1,                 
+      "categories": [
+        "港台剧",
+        "国产剧",
+        "泰国剧",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "其他剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "历史片",
+        "武侠片",
+        "动画片",
+        "其他片",        
+        "港台综艺",
+        "大陆综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "其他综艺",
+        "港台动画",
+        "日韩动画",
+        "欧美动画",
+        "海外动画",
+        "电影",
+        "剧集",
+        "综艺",
+        "番剧",
+        "国创",
+        "体育"
+        
+        
+      ]
+    },
 {
       "key": "飞速","name": "飞速云","type": 1,"api": "http://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,
       "changeable": 1,
@@ -919,6 +966,41 @@
       ]
     },
 {
+      "key": "ikun","name": "爱看(vpn)","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "categories": [
+        "香港剧",
+        "国产剧",
+        "台湾剧",
+        "泰国剧",
+        "韩剧",
+        "日本剧",
+        "美国剧",
+        "海外剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "动画片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",        
+        "港台综艺",
+        "大陆综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "港台动画",
+        "国产动画",
+        "日韩动画",
+        "欧美动画",
+        "海外动画",
+        "体育赛事"
+      ]
+    },           
+{
       "key": "csp_xp_lezhutv",
       "name": "乐猪影视",
       "type": 3,
@@ -1074,6 +1156,16 @@
             "filterable": 1,
             "ext": "https://www.looo.top/app/json/数字看片.json"
         },                    
+{
+            "key": "农民",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"
+        },
 {
             "key": "csp_XBPQCokemv",
             "name": " Cokeme",
@@ -2074,8 +2166,17 @@
             "api": "https://www.lianyingtv.com/fast/lib/drpy2.min.js",
             "ext": "https://www.lianyingtv.com/fast/js/小狗影院.js",
             "jar": "https://www.lianyingtv.com/fast/www.lianyingtv.com.jar"
-        }
-
+        },           
+{
+            "key": "csp_bendi",
+            "name": "🌀本地播放器🌀",
+            "type": 3,
+            "api": "csp_LocalFile",
+            "playerType": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar":"https://f004.backblazeb2.com/file/20232023/2023.jar"}
         
 
 ],
