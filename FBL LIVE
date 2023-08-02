@@ -20,6 +20,14 @@ Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 Source4,https://us.livenflstream.xyz/playlist/stream_3.m3u8
 
 HL WC WOMEN,#genre#
+PAN-FRA,https://vd218.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104020018&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.22.26&type=4&sig=bVnpqt_DoUc&ct=8&urls=45.136.21.71&clientType=0&id=4969768618714
+
+JAM-BRA,https://vd399.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104073520&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.20.28&type=4&sig=XxMKsuWfsE0&ct=8&urls=185.226.52.58&clientType=0&id=4969757477594
+
+RSA-ITA,https://vd455.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104142640&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.20.72&type=4&sig=FHLXAlwLyIk&ct=8&urls=45.136.22.70&clientType=0&id=4969764096730
+
+ARG-SWE,https://vd469.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104199610&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=185.226.52.83&type=4&sig=rxQvu8gTJTw&ct=8&urls=45.136.21.11&clientType=0&id=4969753021146
+
 CHI-ENG,https://vd393.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023486182&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=45.136.20.22&type=4&sig=djb6jIpbLWA&ct=8&urls=185.226.53.40&clientType=0&id=4964270082778
 
 VIE-NET,https://vd203.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023538413&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=45.136.22.11&type=4&sig=okRurX4LLaE&ct=8&urls=45.136.20.25&clientType=0&id=4963398978266
