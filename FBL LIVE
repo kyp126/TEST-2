@@ -22,6 +22,12 @@ Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 Source4,https://us.livenflstream.xyz/playlist/stream_3.m3u8
 
 HL WC WOMEN,#genre#
+CHI-ENG,https://vd393.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023486182&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=45.136.20.22&type=4&sig=djb6jIpbLWA&ct=8&urls=185.226.53.40&clientType=0&id=4964270082778
+
+VIE-NET,https://vd203.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023538413&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=45.136.22.11&type=4&sig=okRurX4LLaE&ct=8&urls=45.136.20.25&clientType=0&id=4963398978266
+
+POR-USA,https://vd450.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023645555&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=185.226.53.34&type=4&sig=N6nIcL_Hxtc&ct=8&urls=45.136.22.60&clientType=0&id=4964100672218
+
 HAI-DEN,https://vd331.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691021664088&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=185.226.53.40&type=4&sig=vKm47rNxkzI&ct=8&urls=185.226.52.58&clientType=0&id=4964361898714
 JPN-SPA,https://hooo.topravideo.com:443/UpFiles/2023/7/31/51/259653/720p.m3u8
 
