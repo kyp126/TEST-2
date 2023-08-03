@@ -23,6 +23,9 @@ Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 Source4,https://us.livenflstream.xyz/playlist/stream_3.m3u8
 
 HL WC WOMEN,#genre#
+KOR-GER,https://vd367.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691192763576&srcIp=111.65.44.171&srcAg=CHROME_ANDROID&ms=185.226.53.74&type=4&sig=Jh0_h8z1gYM&ct=8&urls=45.136.20.13&clientType=0&id=4973837945562
+
+MOR-COL,https://vd481.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691192815893&srcIp=111.65.44.171&srcAg=CHROME_ANDROID&ms=45.136.22.38&type=4&sig=L40mQu3yU3I&ct=8&urls=45.136.20.41&clientType=0&id=4973841025754
 PAN-FRA,https://vd218.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104020018&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.22.26&type=4&sig=bVnpqt_DoUc&ct=8&urls=45.136.21.71&clientType=0&id=4969768618714
 
 JAM-BRA,https://vd399.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104073520&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.20.28&type=4&sig=XxMKsuWfsE0&ct=8&urls=185.226.52.58&clientType=0&id=4969757477594
