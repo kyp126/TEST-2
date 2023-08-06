@@ -31,6 +31,11 @@ Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 Source4,https://us.livenflstream.xyz/playlist/stream_3.m3u8
 
 HL WC WOMEN,#genre#
+SWE-USA,https://vd258.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691451940657&srcIp=111.65.32.88&srcAg=CHROME_ANDROID&ms=185.226.52.8&type=4&sig=eSsgEw0PbOo&ct=8&urls=45.136.20.76&clientType=0&id=4988821965530
+
+NET-SA,https://vd477.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691452071805&srcIp=111.65.32.88&srcAg=CHROME_ANDROID&ms=185.226.53.93&type=4&sig=baaInFczJfY&ct=8&urls=45.136.22.60&clientType=0&id=4988819213018
+
+
 SWI-SPA,https://vd432.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691368453219&srcIp=111.65.35.152&srcAg=CHROME_ANDROID&ms=45.136.21.29&type=4&sig=R7TSPOGXEys&ct=8&urls=185.226.52.33&clientType=0&id=4984765090522
 
 JPN-NOR,https://vd223.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691368514903&srcIp=111.65.47.26&srcAg=CHROME_ANDROID&ms=45.136.22.31&type=4&sig=RweGNRT_-5M&ct=8&urls=185.226.53.33&clientType=0&id=4984742415066
