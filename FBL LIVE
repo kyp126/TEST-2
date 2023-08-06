@@ -12,14 +12,7 @@ EP5(eng),http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4e
 EP5(chi),http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_l743pzja/v/1/pv/1/ev/16/flavorId/1_9djygib2/name/a.mp4/index.m3u8
 
 
-Club Friendly,#genre#
-MU-RCL,https://storage.googleapis.com:443/rbsttx11/mux_video_ts1/index-1.m3u8
-
-CHE-DOR,https://us.livenflstream.xyz/playlist/stream_1.m3u8
-JUV-RMA,https://us.livenflstream.xyz/playlist/stream_2.m3u8
-MU,https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
-
-MILAN-BAR,https://y.topravideo.com:443/UpFiles/2023/8/2/42/259741/720p.m3u8
+Club Friendly
 
 
 
@@ -29,6 +22,10 @@ Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
 Source4,https://us.livenflstream.xyz/playlist/stream_3.m3u8
 
 HL WC WOMEN,#genre#
+SWI-SPA,https://vd432.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691368453219&srcIp=111.65.35.152&srcAg=CHROME_ANDROID&ms=45.136.21.29&type=4&sig=R7TSPOGXEys&ct=8&urls=185.226.52.33&clientType=0&id=4984765090522
+
+JPN-NOR,https://vd223.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691368514903&srcIp=111.65.47.26&srcAg=CHROME_ANDROID&ms=45.136.22.31&type=4&sig=RweGNRT_-5M&ct=8&urls=185.226.53.33&clientType=0&id=4984742415066
+
 KOR-GER,https://vd367.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691192763576&srcIp=111.65.44.171&srcAg=CHROME_ANDROID&ms=185.226.53.74&type=4&sig=Jh0_h8z1gYM&ct=8&urls=45.136.20.13&clientType=0&id=4973837945562
 
 MOR-COL,https://vd481.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691192815893&srcIp=111.65.44.171&srcAg=CHROME_ANDROID&ms=45.136.22.38&type=4&sig=L40mQu3yU3I&ct=8&urls=45.136.20.41&clientType=0&id=4973841025754
