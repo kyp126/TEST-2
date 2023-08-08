@@ -23,7 +23,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/kyp126/TVBox/main/custom_spider.jar"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/kyp126/TVBox/main/custom_spider.jar"
         },
 {
       "key": "獨",
