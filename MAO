@@ -23,7 +23,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+      "jar":"hhttps://raw.githubusercontent.com/kyp126/TVBox/main/custom_spider.jarhttps://raw.githubusercontent.com/kyp126/TVBox/main/custom_spider.jar"
         },
 {
       "key": "獨",
