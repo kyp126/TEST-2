@@ -1,6 +1,6 @@
 // 配置地址 --> clan://localhost/TVBox/1818.json
 {
-"spider":"https://raw.githubusercontent.com/kyp126/TVBox/main/1818.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/kyp126/TVBox/main/1818.jar",
  "lives": [
     {
       "name": "直播",
