@@ -5,6 +5,7 @@ WC WOMEN LIVE,#genre#
 JPN-SWE,https://us.catchystream.xyz/playlist/stream_1.m3u8
 JPN,https://us.livenflstream.xyz/playlist/stream_1.m3u8
 
+LIVE,#genre#
 L1,https://us.catchystream.xyz/playlist/stream_1.m3u8
 
 L2,https://us.catchystream.xyz/playlist/stream_2.m3u8
@@ -30,122 +31,6 @@ LIVE3,https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
 LIVE4,https://qyfb8377447rtirq.fordems.live/live/for-dems4/chunks.m3u8
 
 
-Crimewatch 2023,#genre#
-EP5(eng),http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4efkntzm/v/1/pv/1/ev/16/flavorId/1_dk3v5oez/name/a.mp4/index.m3u8
-EP5(chi),http://k.toggle.sg/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_l743pzja/v/1/pv/1/ev/16/flavorId/1_9djygib2/name/a.mp4/index.m3u8
-
-
-
-
-
-
-Source1,https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
-Source2,https://us.livenflstream.xyz/playlist/stream_1.m3u8
-Source3,https://us.livenflstream.xyz/playlist/stream_2.m3u8
-Source4,https://us.livenflstream.xyz/playlist/stream_3.m3u8
-
-HL WC WOMEN,#genre#
-SPA vs NET,#genre#
-1HF,https://ok6-8.vkuser.net/expires/1691844573726/srcIp/138.75.61.48/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/3WtMNi1haw8/ct/8/urls/45.136.22.79%3B45.136.21.17/clientType/0/zs/43/id/5230497368691/video/
-2HF,https://ok6-2.vkuser.net/expires/1691844659561/srcIp/138.75.61.48/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/LXCLGmLPM6g/ct/8/urls/45.136.20.55%3B45.136.22.44/clientType/0/zs/43/id/5230502349427/video/
-0808,https://2448424590.tapecontent.net/radosgw/o1m0KdYMDehJJW8/Q2EYGqUBSi5Up0l_0rQWMvanSQWaLp8xxD21iwcMJPIjEUYh4vxgjsxCSFh0PJRM-SOPDrP0Fjr57h_v9qENQy_x7SdY5RL1JsC7uX4Af0WRVODRR5RBbqQWyMCaXDJyTSvtPbdRIhQD82aSkalZTLLJNgKn4tEox-kUNZZdM0UhiTMfkFkaI9VrTROhFEIYtwvI1jGNlwSHd1cJRVWCIVSJ0KcZL0k4IvpZXgjFKd_v2-IEibxUloWb_-Z_iiXQ-HLN1ePnWj0eYYN98ZYipPEf22y2_I2osokUiZMnqAtx1xj-joOjUpAs-5NyyZPhaR_DWWjbuHsQUwMR/Fifa+Women%27s+World+Cup+Highlights+Show+-+Day+19.mp4.mp4?stream=1
-0807,https://2448424590.tapecontent.net/radosgw/bQ2Wb8GLWgIPeYk/iz5qJRBs3bmcBd8-TishVq2ZJPBwXZE1q72WFIJN4SnQGvof0aeCpd2UAmkqsFzc9PzRR7cEE0XGrScCAHajsyQwsOIwEfh4XnPmgEct_dCTpOBXYIIjVctxy0SmaNzHo0fHUxvff8sZ-kAg1FrbsS43qnsQD2jSO_ayax6InjJ0h4kkezB7cHWfwtREajU8L_XuN0bOi1uZX48KoKJTJpBlZcj7tcTneH8j5e3NLR50fI0Lv8j19wgmaqpNKoIlovA9iLD8owgRzGhfq7u9P-J03laZOz6ZTRqVYqp7lxJzJXyV55baICNOhZWKg2Fy5D9GmAhDwag32EfG/Fifa+Women%27s+World+Cup+Highlights+Show+-+Day+17.mp4.mp4?dl=1
-SWE-USA,https://vd258.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691451940657&srcIp=111.65.32.88&srcAg=CHROME_ANDROID&ms=185.226.52.8&type=4&sig=eSsgEw0PbOo&ct=8&urls=45.136.20.76&clientType=0&id=4988821965530
-
-NET-SA,https://vd477.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691452071805&srcIp=111.65.32.88&srcAg=CHROME_ANDROID&ms=185.226.53.93&type=4&sig=baaInFczJfY&ct=8&urls=45.136.22.60&clientType=0&id=4988819213018
-
-
-SWI-SPA,https://vd432.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691368453219&srcIp=111.65.35.152&srcAg=CHROME_ANDROID&ms=45.136.21.29&type=4&sig=R7TSPOGXEys&ct=8&urls=185.226.52.33&clientType=0&id=4984765090522
-
-JPN-NOR,https://vd223.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691368514903&srcIp=111.65.47.26&srcAg=CHROME_ANDROID&ms=45.136.22.31&type=4&sig=RweGNRT_-5M&ct=8&urls=185.226.53.33&clientType=0&id=4984742415066
-
-KOR-GER,https://vd367.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691192763576&srcIp=111.65.44.171&srcAg=CHROME_ANDROID&ms=185.226.53.74&type=4&sig=Jh0_h8z1gYM&ct=8&urls=45.136.20.13&clientType=0&id=4973837945562
-
-MOR-COL,https://vd481.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691192815893&srcIp=111.65.44.171&srcAg=CHROME_ANDROID&ms=45.136.22.38&type=4&sig=L40mQu3yU3I&ct=8&urls=45.136.20.41&clientType=0&id=4973841025754
-PAN-FRA,https://vd218.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104020018&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.22.26&type=4&sig=bVnpqt_DoUc&ct=8&urls=45.136.21.71&clientType=0&id=4969768618714
-
-JAM-BRA,https://vd399.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104073520&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.20.28&type=4&sig=XxMKsuWfsE0&ct=8&urls=185.226.52.58&clientType=0&id=4969757477594
-
-RSA-ITA,https://vd455.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104142640&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=45.136.20.72&type=4&sig=FHLXAlwLyIk&ct=8&urls=45.136.22.70&clientType=0&id=4969764096730
-
-ARG-SWE,https://vd469.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691104199610&srcIp=111.65.45.173&srcAg=CHROME_ANDROID&ms=185.226.52.83&type=4&sig=rxQvu8gTJTw&ct=8&urls=45.136.21.11&clientType=0&id=4969753021146
-
-CHI-ENG,https://vd393.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023486182&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=45.136.20.22&type=4&sig=djb6jIpbLWA&ct=8&urls=185.226.53.40&clientType=0&id=4964270082778
-
-VIE-NET,https://vd203.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023538413&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=45.136.22.11&type=4&sig=okRurX4LLaE&ct=8&urls=45.136.20.25&clientType=0&id=4963398978266
-
-POR-USA,https://vd450.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691023645555&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=185.226.53.34&type=4&sig=N6nIcL_Hxtc&ct=8&urls=45.136.22.60&clientType=0&id=4964100672218
-
-HAI-DEN,https://vd331.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691021664088&srcIp=119.234.6.40&srcAg=CHROME_ANDROID&ms=185.226.53.40&type=4&sig=vKm47rNxkzI&ct=8&urls=185.226.52.58&clientType=0&id=4964361898714
-JPN-SPA,https://hooo.topravideo.com:443/UpFiles/2023/7/31/51/259653/720p.m3u8
-
-COS-ZAM,https://hooo.topravideo.com:443/UpFiles/2023/7/31/51/259652/720p.m3u8
-
-CAN-AUS,https://861530173.tapecontent.net/radosgw/9yDgbQbrG4Fak9Q/rr_NA8oe0354mDGCtvegqw1ma02nSiRkf4omzLl-hA01NVNhJqwHAmnyabx499-pkJxt_NClnqF7qxGSeZ-xtugbdTTnZ1JZMfOHTZJur-sCi368XQ33Q9tDcnVwULWLcevCo4ld0Z9b9Xjn7BGQg-UcNAWtlQDmyNqvIj6T3AL7TMdZPM22YTKJNzHyyR4AOJ7In7BNqwe_ZjKGMnQUyseWzwWO59MdAvIcvAiOO3DxnHQLS-u5YN1JvbX_V0Kpp8ciYrPk9uuLw_1l/can.mp4.mp4?stream=1
-
-IRE-NIG,https://2371755316.tapecontent.net/radosgw/PLWB0jzJzbFWQy/dHs-rnTtalW8dHCXtczX5LVreDSgGqQftzn1vznlinEJMrvKX7angHgcpUuLMaEbWH856TFWR2E58h8WMD9U_nndWro5lmwOim6-69r4cfZMM3R1e-rZsQBmx0YOu6p0wfTfUyFusIsqApbiWHpcS0Fwuu0b5CI09W2jlievSg4FOWiP6gY_hGbpcydxzh6Gtw6lNVcVAt8NpuCWcYX17aQxE7vub-T9VWJ3wmHB4gMYUjfHCzXPIoJe-BPRb58gVz8J1MMcmKCibS7J/irl.mp4.mp4?dl=1
-
-NOR-PHI,https://knro.topravideo.com:443/UpFiles/2023/7/30/51/259522/720p.m3u8
-GRE-COL,https://knro.topravideo.com:443/UpFiles/2023/7/30/51/259530/720p.m3u8
-SOU-MOR,https://knro.topravideo.com:443/UpFiles/2023/7/30/51/259521/720p.m3u8
-
-
-SWE-ITA,https://onuva.topravideo.com:443/UpFiles/2023/7/29/51/259447/720p.m3u8
-FRA-BRA,https://onuva.topravideo.com:443/UpFiles/2023/7/29/42/259449/720p.m3u8
-CHI-HAI,https://onuva.topravideo.com:443/UpFiles/2023/7/28/42/259392/720p.m3u8
-ARG-SA,https://onuva.topravideo.com:443/UpFiles/2023/7/28/51/259385/720p.m3u8
-ENG-DEN,https://onuva.topravideo.com:443/UpFiles/2023/7/28/42/259391/720p.m3u8
-AUS-NIG,https://onuva.topravideo.com:443/UpFiles/2023/7/27/51/259323/720p.m3u8
-POR-VIE,https://onuva.topravideo.com:443/UpFiles/2023/7/27/51/259308/720p.m3u8
-
-USA-NET,https://onuva.topravideo.com:443/UpFiles/2023/7/27/51/259307/720p.m3u8
-JP-COS,https://m.topravideo.com:443/UpFiles/2023/7/26/51/259241/720p.m3u8
-SPA-ZAM,https://m.topravideo.com:443/UpFiles/2023/7/26/51/259242/720p.m3u8
-NZ-PHI,https://ui.topravideo.com:443/UpFiles/2023/7/25/42/259208/720p.m3u8
-COL-KOR,https://ui.topravideo.com:443/UpFiles/2023/7/25/42/259209/720p.m3u8
-SWIT-NOR,https://ui.topravideo.com:443/UpFiles/2023/7/25/42/259218/720p.m3u8
-BRA-PANAMA,https://nlii.topravideo.com:443/UpFiles/2023/7/24/51/259199/720p.m3u8
-GER-MOR,https://nlii.topravideo.com:443/UpFiles/2023/7/24/51/259187/720p.m3u8
-ITALY-ARG,https://nlii.topravideo.com:443/UpFiles/2023/7/24/51/259182/720p.m3u8
-
-NET-POR,https://nlii.topravideo.com:443/UpFiles/2023/7/23/51/259110/720p.m3u8
-
-SWE-SA,https://nlii.topravideo.com:443/UpFiles/2023/7/23/51/259109/720p.m3u8
-
-FRA-JAM,https://nlii.topravideo.com:443/UpFiles/2023/7/23/42/259117/720p.m3u8
-
-ENG-HAITI,https://nlii.topravideo.com:443/UpFiles/2023/7/22/51/259057/720p.m3u8
-Denmark-China,https://nlii.topravideo.com:443/UpFiles/2023/7/22/42/259062/720p.m3u8
-ZAM-JP,https://nlii.topravideo.com:443/UpFiles/2023/7/22/51/259056/720p.m3u8
-US-VIETNAM,https://nlii.topravideo.com:443/UpFiles/2023/7/22/42/259055/720p.m3u8
-Spain-Costa Rica,https://nlii.topravideo.com:443/UpFiles/2023/7/21/51/259025/720p.m3u8
-Nigeria VS Canada,https://nlii.topravideo.com:443/UpFiles/2023/7/21/51/259026/720p.m3u8
-
-PHILIP-SWITZ,https://nlii.topravideo.com:443/UpFiles/2023/7/21/51/259027/720p.m3u8
-
-NZ-NORWAY,https://nlii.topravideo.com:443/UpFiles/2023/7/20/42/259006/720p.m3u8
-
-Australia VS Ireland,https://nlii.topravideo.com:443/UpFiles/2023/7/20/42/259005/720p.m3u8
-
-
-
-
-SPORT.KAKI,#genre#
-72小时黄金行动(粤),https://m3u.haiwaikan.com/xm3u8/197f0fea3cd453b21a4d73c754298f56c493fb17c6fbe507a106906cf13d23619921f11e97d0da21.m3u8
-
-72小时黄金行动(国),https://m3u.haiwaikan.com/xm3u8/c53960e56c3308cc97786f2cf2ed655ebbdceb7ff1570881e2a754dc242b1da29921f11e97d0da21.m3u8
-
-
-扫毒3-人在天涯(国),https://m3u.haiwaikan.com/xm3u8/89a11c43f8cabad505353b8d8b21714250f9a99936adaea42c5a3b1a003b26359921f11e97d0da21.m3u8
-扫毒3-人在天涯(粤),https://m3u.haiwaikan.com/xm3u8/7c7ba522867a3a55aab12f04450a64db734057571c016766c3540bb61fc8e8de9921f11e97d0da21.m3u8
-猫山王中王,https://m3u.haiwaikan.com/xm3u8/41207ce81fc8d6602589a3f2fb57ab42764e8cfb1ce37dbcbe6440bf31a2311b9921f11e97d0da21.m3u8
-无间之战粤语,https://s9.fsvod1.com:443/20230804/OwwTn0jJ/2000kb/hls/index.m3u8?dpvt=93958199994610011111810412146109
-无间之战,https://europe.olemovienews.com:443/ts2/20230805/nmyvdhsz/mp4/nmyvdhsz.mp4/index-v1-a1.m3u8
-MEGA 2 Trailer,https://us-xpc5.xpccdn.com/49edd473-9840-4d8a-ae73-dcf26fca6207/071d639b-fd46-457a-b86d-231772b12a87.mp4
-Test,https://frontend-assets.viaplay.com/sanity/UK_TMS_promo_compressed.mp4
-
-XXXXXXXXXXXXXXXXXXXX
-硬解
 
 
 
@@ -161,59 +46,13 @@ XXXXXXXXXXXXXXXXXXXX
 
 
 
- XXXXXXXXXXXXXXXXXXXX
-Sports.CH,#genre#
-SKY,http://nocable.cc:8080/jonathan/jonathan/35243
-CCTV,http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_brgntcle_keyF600C1AD86CE9F47593CDE4AF278DE5CA266B9E1B211331D90159EC11779246317A758B5C230D8AE2CBA2E6B04935EFA914C83B343E66C22FF38D8250BA1F7727DB6E078FC1364D24687078B4053ECF40AAF585AC94B4A284A6E3ACC3AD7F9290F61273908ED6681E99191C0762E5C5A_/li  
-ASSP1,http://103.68.63.37:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
-ASSP3,http://103.68.63.37:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
-Supersports 4,http://103.68.63.37:8278/Assp4/playlist.m3u8?tid=MC3C8659251086592510&ct=19249&tsum=94b1b760d8384a41d62be6113bfc36a5
-Supersports 3,http://103.68.63.37:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
-Supersports 2,http://103.68.63.37:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
-Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-TSN 3 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10246
-TSN 4 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10247
-TSN 5 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10248
-TSN 3 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10246
-TSN 4 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10247
-TSN 5 HD,http://beams-tv.stream:80/beams-iptv1@protonmail.com/GYkidccfzv/10248 
-ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育2台a,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ESPN  4K¹,http://7go.xyz:8080/victorhugo/982451290/28792
-ESPN FHD Max²,http://7go.xyz:8080/victorhugo/982451290/72979
-ESPN FHD¹,http://7go.xyz:8080/victorhugo/982451290/29197
-ESPN FHD²,http://7go.xyz:8080/victorhugo/982451290/22668
-ESPN HD¹,http://7go.xyz:8080/victorhugo/982451290/153012
-ESPN HD²,http://7go.xyz:8080/victorhugo/982451290/22529
-ESPN HD ᶜᴰᴺ²,http://7go.xyz:8080/victorhugo/982451290/18664
 
-ESPN 2 FHD¹,http://7go.xyz:8080/victorhugo/982451290/22669
-ESPN 2 FHD²,http://7go.xyz:8080/victorhugo/982451290/31593
-ESPN 2 HD¹,http://7go.xyz:8080/victorhugo/982451290/18662
-ESPN 2 HD²,http://7go.xyz:8080/victorhugo/982451290/22530
 
-ESPN 3 FHD¹,http://7go.xyz:8080/victorhugo/982451290/99445
-ESPN 3 FHD²,http://7go.xyz:8080/victorhugo/982451290/72980
-ESPN 3 HD¹,http://7go.xyz:8080/victorhugo/982451290/22528
-ESPN 3 HD²,http://7go.xyz:8080/victorhugo/982451290/18663
 
-ESPN 4 FHD MAX²,http://7go.xyz:8080/victorhugo/982451290/18653
-ESPN 4 FHD¹,http://7go.xyz:8080/victorhugo/982451290/18656
-ESPN 4 FHD²,http://7go.xyz:8080/victorhugo/982451290/22675
-ESPN 4 HD¹,http://7go.xyz:8080/victorhugo/982451290/18667
-ESPN 4 HD²,http://7go.xyz:8080/victorhugo/982451290/22539
 
-ESPN EXTRA FHD²,http://7go.xyz:8080/victorhugo/982451290/64653
-ESPN EXTRA HD²,http://7go.xyz:8080/victorhugo/982451290/22332
-FOX SPORTS 2 FHD MAX²,http://7go.xyz:8080/victorhugo/982451290/65735
-FOX SPORTS 2 FHD¹,http://7go.xyz:8080/victorhugo/982451290/18655
-FOX SPORTS 2 FHD²,http://7go.xyz:8080/victorhugo/982451290/22674
-FOX SPORTS 2 HD¹,http://7go.xyz:8080/victorhugo/982451290/18666
-FOX SPORTS 2 HD²,http://7go.xyz:8080/victorhugo/982451290/22538
-FOX SPORTS 2 SD¹,http://7go.xyz:8080/victorhugo/982451290/18671
-FOX SPORTS 2 SD²,http://7go.xyz:8080/victorhugo/982451290/22343
-HISTORY FHD¹,http://7go.xyz:8080/victorhugo/982451290/45217
+
+
+
+
+
  
-
-
-
