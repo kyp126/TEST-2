@@ -2,11 +2,11 @@
 PL,#genre#
 BUR-MCI,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/11/51/260257/720p.m3u8
 1HF,https://vd336.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691884974324&srcIp=138.75.61.48&srcAg=CHROME_ANDROID&ms=185.226.53.45&type=4&sig=sLdzXL_CNrk&ct=8&urls=185.226.52.82&clientType=0&id=5233168353907
-
 2HF,https://vd415.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1691885034067&srcIp=138.75.61.48&srcAg=CHROME_ANDROID&ms=45.136.20.52&type=4&sig=LGXJJ6fpeYo&ct=8&urls=45.136.22.8&clientType=0&id=5233336650355
 
-
-
+LIGA,#genre#
+SEV-VAL,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/12/42/260261/720p.m3u8
+FM,https://ok6-15.vkuser.net/expires/1691885271599/srcIp/138.75.61.48/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/BFyl2anmfOk/ct/8/urls/45.136.20.70%3B45.136.22.37/clientType/0/zs/43/id/5233453763187/video/
 
 
 
