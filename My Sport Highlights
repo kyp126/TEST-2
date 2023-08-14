@@ -29,6 +29,7 @@ BAY-RBL,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/12/42/260423/720p.m3u8
 
 
 LIGA,#genre#
+ATL-GRA,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/14/42/260685/720p.m3u8
 GET-BAR,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/13/42/260593/720p.m3u8
 
 VILL-BETIS,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/13/42/260566/720p.m3u8
@@ -48,15 +49,9 @@ UDI-CAT,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/11/42/260215/720p.m3u8
 LIGUE1,#genre#
 PSG-LOR,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/12/42/260444/720p.m3u8
 
-DFB,#genre#
-TEU-LEV,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/12/51/260344/720p.m3u8
-SCH-DOR,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/12/42/260302/720p.m3u8
 
 
-ARAB CHAMP,#genre#
-HILAL-NASSR1,https://ok6-1.vkuser.net/expires/1691977966161/srcIp/124.246.109.118/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/JKm270OulX4/ct/8/urls/45.136.20.56%3B45.136.22.28/clientType/0/zs/43/id/5017195448840/video/
-HILAL-NASSR2
-
-
+SAUDI PRO,#genre#
+ETT-NAS,https://t.vstreamnnetwork.com:443/UpFiles/2023/8/14/51/260677/720p.m3u8
 
 
