@@ -13,6 +13,11 @@ NFO-SHE,https://po.vstreamnnetwork.com:443/UpFiles/2023/8/18/42/260791/720p.m3u8
 R1 BUNDES,#genre#
 BRE-BAY,https://po.vstreamnnetwork.com:443/UpFiles/2023/8/18/51/260790/720p.m3u8
 
+R2 LALIGA,#genre#
+MALL-VILL,https://po.vstreamnnetwork.com:443/UpFiles/2023/8/18/42/260775/720p.m3u8
+VAL-PAL,https://po.vstreamnnetwork.com:443/UpFiles/2023/8/18/42/260800/720p.m3u8
+
+
 
 R2 ARAB,#genre#
 NASS-TAA,https://po.vstreamnnetwork.com:443/UpFiles/2023/8/18/51/260784/720p.m3u8
