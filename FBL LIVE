@@ -2,14 +2,14 @@
 
 PL Live,#genre#
 Liv-Bou,https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8
-LIV,https://work.realbitsport.com/live/n-2/chunks.m3u8
+LIV1,https://work.realbitsport.com/live/n-2/chunks.m3u8
 Liv2,https://us.catchystream.xyz/playlist/stream_2.m3u8
 Wolves-Brighton,https://m4iswbjnhzrz.fordems.live/live/for-dems3/chunks.m3u8 
-WOL,https://work.realbitsport.com/live/n-3/chunks.m3u8
-WOL3,https://us.catchystream.xyz/playlist/stream_3.m3u8
+WOL1,https://work.realbitsport.com/live/n-3/chunks.m3u8
+WOL2,https://us.catchystream.xyz/playlist/stream_3.m3u8
 Fulham-Bre,https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
-FUL,https://work.realbitsport.com/live/n-1/chunks.m3u8
-Ful1,https://us.catchystream.xyz/playlist/stream_1.m3u8
+FUL1,https://work.realbitsport.com/live/n-1/chunks.m3u8
+Ful2,https://us.catchystream.xyz/playlist/stream_1.m3u8
 
 WC WOMEN,#genre#
 SPA-ENG,https://us.catchystream.xyz/playlist/stream_1.m3u8
