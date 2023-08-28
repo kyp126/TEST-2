@@ -1,9 +1,6 @@
 
-NET F1 GP,#genre#
-RACE,https://storage.googleapis.com:443/iobzpaernh/mux_video_ts/index-1.m3u8
-RACE1,https://storage.googleapis.com:443/lajover2/mux_video_ts1/index-1.m3u8
-RACE2,https://webproxifiers.online/playlist/stream_e10.m3u8
-
+FUTCH F1 GP,#genre#
+RECE RP,https://s14.wolfstream.tv/hls2/01/02145/2fvoos8kockr_h/index-v1-a1.m3u8?t=v1sx1uMYFmKs1i1TSJSZ8wxXbVBBLKVH1fcec7nosXU&s=1693188467&e=43200&f=10727184&i=0.1&sp=0
 
 
 
