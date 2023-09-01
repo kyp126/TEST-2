@@ -1,6 +1,6 @@
-// 配置地址 --> clan://localhost/TVBox/6666.json
+// 配置地址 --> clan://localhost/TVBox/1818.json
 {
-"spider":"clan://TVBox/6666.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/kyp126/TVBox/main/1818.jar",
  "lives": [
     {
       "name": "直播",
@@ -23,7 +23,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
 {
       "key": "獨",
