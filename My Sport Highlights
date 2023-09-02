@@ -2,36 +2,9 @@
 
 
 
-PL R3,#genre#
-NEW-Liverpool,https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/27/51/261578/720p.m3u8
+PL R4,#genre#
+LUT-WHU,https://ok6-9.vkuser.net/expires/1693739507153/srcIp/119.234.8.24/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/IexN7ifwojg/ct/8/urls/45.136.22.61%3B185.226.53.10/clientType/0/zs/43/id/5121353190106/video/
 
-LIV1H,https://2448424590.tapecontent.net/radosgw/oem7WmkDjLsJXlM/TWc33qEw1a0cerosScTr3zu8C58Jz1MiGjyA0bC9VqEtNUa3B86EUf5XuuJbsSvs525g24rBq2zXeiQbCwMewkfVVATFDCSnytNl03gpWRKhlRqs8IBJhtxWnY0X40fdGCuN_es0kF1JR7gLVkjyAbBmIiyHoPl5shtMEt02R8H0KpIW67Nplh2qgbgP6ecvXjo9k6euGTYFEKkuAlvjQxFnHWbyttCPnn04aP8EHLMPGBsIdTVsLHnJ6HL0bEjTjw3xWUGb6QbYYVH7poi-i2eQnLnRQ3FgaNkRR2vHxXuMDSFAAW7r-tEnRUo/NEW+vs+LIV+-+First-Half+-+Sky.mp4.mp4?dl=1
-
-
-LIV1,https://ok6-4.vkuser.net/expires/1693268170907/srcIp/111.65.71.165/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/ZSQtyIYq6f4/ct/8/urls/45.136.21.37%3B185.226.53.40/clientType/0/zs/43/id/5042543856133/video/
-
-LIV2H,https://ok6-12.vkuser.net/expires/1693268200931/srcIp/111.65.71.165/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/LptVxYFt_IU/ct/8/urls/185.226.53.16%3B185.226.52.58/clientType/0/zs/43/id/5042956929541/video/
-
-LIV2,https://860718379.tapecontent.net/radosgw/aZgoyao0oktb1j/iIezicExwF4hClrS1nkH-baovD51IMvAEfNCPfMdyhqaZCV1yQzJgqdCs-_NP4qi-rmiRLgCmKkTqmBmCV-7r8wu2m1JOKB0lHWsmBXeY5U0eqTun-P_zoqYgUbuiqmi5Mwy3lrQvRq8Nlz9oSUzEvQuJg2hGpsp17-Xtfys1iZ1MqgukMeDYYCo47RSUq8TPLQZR0qAH5xaSeCxzp-iWx_Fq_YRn_iYqJhtmlqmXZfiLCyYLet0NvJJkWuEgdwNRnhVe3o4i-nQzN4t_XW5ShWTRWDAuxiJ6YzhgPNatZ1WT9vncU7EKgkptNo/NEW+vs+LIV+-+HFA+%26+Second-Half+-+Sky.mp4.mp4?dl=1
-SHE-MCI,https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/27/51/261503/720p.m3u8
-
-BUR-AVL,https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/27/51/261527/720p.m3u8
-BHA-WHU,https://861531064.tapecontent.net/radosgw/XqbWojMPBpsDqJP/z5QiF1TUPaZBod8ddr7L-lemgmJcij82xMYwjLluz1IF_eJuAZmGMk5t1OXyyzCxVWzYxB8iswKEIPOd-zmxv45AnhtULfjnOiJ2Q8ZLZuTVnfnkrTs-0gMumyycs0wINs0KLqS6xjFV5cRGBJ-kS4-VviG3chnQ0Wjann5ASmB6UUF7GKKek2vm3ZV3mtE8vpXaflXteS6KXcVw6ryWOSnzQ4uiyRzZzRBz4VCMeZKCSkGI9Ujmt7hE75jtbRpBXY1dy6bRyClwazL5/Bri.mp4.mp4?dl=1#https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/26/51/261422/720p.m3u8
-BHA,https://861531064.tapecontent.net/radosgw/XqbWojMPBpsDqJP/WmU2os3-MQDg7QN28G0TWitExa7dwxuZ83-qJgqP0kLKmHehLhZHJ32-NCNQp5recdJjjb4jczKy-qGuhuvTZD-y8to2zKh4DRMIGtzfJlsy66HyT2IA7htAIYandA-b6AjhKqZjt3R2rpSkgIzKpSeqvJTRnHAU7HiuK98Eq1D88bTi5_EBCiVcMvaxPRHQTh4r2Q3zeAfZSfIn3IMnza8ML6hyzSLspF6TvX76LdpJJ6nNqZGYqK5sEbO4ieQnnoMcxZReySUzxNNE/Bri.mp4.mp4?dl=1
-
-WHU FULL,https://908472281.tapecontent.net/radosgw/pVWKpg48prSrQq8/0Pss-O96eR-1fgk-Ur8xaalQ0N_lGbbf99jpFhmh4u83iBOVuFpHb-eIskWLJKfv4E3Qm-WL6EfzvuXUuzRt4BDokbONmb7YY5tAFFVMTkmyw_-lwRE4BxipGmkGzX9LwX3aDfLNuED2Ko5JaUKAjo3dQgTDhdrwRfIfcNKtp5gQLz4wnRF8w_M1fQCY225pQDCqun4pKJ9S_ZQDL6RpSKiv4L8tqGVupIHCDKHaW-MsampZFpnfKJDR9tloqUBm20Lmtkl4-UNF8YqDeXWNl_mHFKNnjYpJMaViNMXMTm4Gkv5XQZaOQIavYIw/Brighton+v+WHU+-+NBC+-+1080p.mp4.mp4?dl=1
-W1HF,https://867320103.tapecontent.net/radosgw/12adDJyKJOteobm/H-afPiRtenaWMMJPJB6fcb0Uwf70AaiF-8z_PTamD4j6XgF95PfG9bqt9ZUyhxyHyP6og2uiut4EOgzsC5disPcQ0QrEmIZPZhOxeBr4gcPPIPsNc5jGWkGTFcvnyEyEMvPRT-SZvxYlNoINWsdtTUPfwsl_v4Lel-TuFAkX7TQNyQAXjllsTS_TZF80aZ02ArvZjZHRfDL5rjq4RAECvx9KGxIf_7WBClyrmXj9pUG2NnkgQzuaEwLlDMeNZjNlYqPqn09pU_iRjur-XwBU4qMQl8DFnzOVMxd0RgouuYbm0GqyPvU8fYicLEg/BRI+vs+WES+-+First-Half+-+Sky.mp4.mp4?stream=1
-W2HF,https://867320103.tapecontent.net/radosgw/12adDJyKJOteobm/H-afPiRtenaWMMJPJB6fcb0Uwf70AaiF-8z_PTamD4j6XgF95PfG9bqt9ZUyhxyHyP6og2uiut4EOgzsC5disPcQ0QrEmIZPZhOxeBr4gcPPIPsNc5jGWkGTFcvnyEyEMvPRT-SZvxYlNoINWsdtTUPfwsl_v4Lel-TuFAkX7TQNyQAXjllsTS_TZF80aZ02ArvZjZHRfDL5rjq4RAECvx9KGxIf_7WBClyrmXj9pUG2NnkgQzuaEwLlDMeNZjNlYqPqn09pU_iRjur-XwBU4qMQl8DFnzOVMxd0RgouuYbm0GqyPvU8fYicLEg/BRI+vs+WES+-+First-Half+-+Sky.mp4.mp4?stream=1
-
-Arsenal-Fulham,https://2448424546.tapecontent.net/radosgw/wgjWrbGVbLFWGB/umkmpDCNDwNcu-_YmKVweVnNap6l4r0EkRG8WiRJ1cHC-daCpt3dSsVwQd-7p-Htl28B8akBSvl6jLyKrIgb2vCerf9fteFLF8CV4wWQw2uJtJrtEAXPpWn4Qmcm2dxWE731FgW2OJJ_K6K0hnni8Sqgi_YG9kXGEoKnrFF5K6vR438R1UDOJRw37ZoTFbTbhPbEiQQvWZeBmUk_Mj3Pou9QYiBKIHp1jULc7AqBGeq0tLCJ9yjHNlDT-aHXsq8UvC_7D2XLp9Tf9BVT/ars_edit.mp4.mp4?dl=1#https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/26/51/261389/720p.m3u8
-
-Brentford-Crystal P,https://3242599122.tapecontent.net/radosgw/ReK4Wvg1kqhxjk/MSP-OGBK_eCHyiUf3zcwcW_5glLsmSoRcvR_s3Y6L0nhlgfpcmmrI1y-a4FG2OUstUhafyO7wMHkxO9zl07HoYmqOw1wanDqf_0iiHZtXL8iGpONOw0Sgzqc-CfeBQW_BvcKSXY1RFAuENLynNLHsc8TRx_NXXDmNqob1eZWhSuawDShofXxyjKoTXsIjXnx-B6pmsl82Lal50dbxPteA9GroGZHMwEWi9oC8Ky76KeGAhK9_xI1lyVIGLsEdyBj8EHe4d8jAsbIklLs/bre.mp4.mp4?dl=1#https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/26/51/261393/720p.m3u8
-BRE EXT,https://3242599122.tapecontent.net/radosgw/ReK4Wvg1kqhxjk/z4Az987uauch2eBfQC6u63plyVDMcblkl8QGJI8GhNZq8cfhSb7urW_VwjRebtSqwuB764YoaxG8PfRf7bJe0_EPc0CrD7BqboIj03zWcW5SeVOOjfWN84tSpwPEJcnmBvyeZu1eBWPb83Dn9kSroIKW1h9m07TMyr3R1ak9rQqtnmoFHk2i14eX2jdNNDjVc3PXBt_2Jq4HUyps04YzSOztehnULXeZmpnsl4oKDvRvAPoO0hrt8-MBdok2kNq4wZcpDLVLZW_VWDdY/bre.mp4.mp4?dl=1
-Everton-Wolves,https://2565143240.tapecontent.net/radosgw/Oklv7vJQkzUZQro/s7cFkcz8QqfW9QLIUpiGiuFkmQwE8FlC7-vxORnzqP_eCiD136KJ9PqJCyxFLSm4xqOnTtKFNMYcDeGPBuEHgNLYxBzFHS6VsIlNdLm_d7C0S2PdY2TCX8JqNxwSkbYzVn2XwSJjxTjIMXMCAOM_AVfntX2Wb-JODs-5GY6ywhPSwUibXEXnorp2z_vtH2yCJchqEhb_FlQ2cTZuwVb-1cU7BvCbgkdeD2xQ9FYiZehB1qzJvOxTKCsu3IXLWZQGjm6RFj_ADTYAkpef/eve.mp4.mp4?dl=1#https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/26/51/261396/720p.m3u8
-EVE EXT,https://2565143240.tapecontent.net/radosgw/Oklv7vJQkzUZQro/EYWzkYcbHlqMM9UOi8zHo8fbakEvl2rOZa3Zf84DApKgJUM8FUdTejQZZlRrETHNG15nv7GlPlnF5CC7iyRaEUX8gO0alEaHozUVXl2wEpVulwwlqBlbCijnNsIW54NWti_joerJixQwFbRSAFvy-GL9JeHkQ69gZzDevxqeNnUhm-WL0tLTgb9aQu4n1qtyLbb9_x7Q3_raGeBZCAkSnNIZ_q49OufRd_1i7bgKfytOr0c73JLQ3BbdyNSBasCYVR52-rQNMpVXJR2e/eve.mp4.mp4?dl=1
-Man Utd-Forest,https://908373051.tapecontent.net/radosgw/ZbJ4qGdKMkIqQ1Q/7ZwOK5XWSqmSXrbXVR-zjf-wYFtrZLM7_JhvD7goik5W_EZLfPtnSYu5aHDLIDh6LVdCz2Z7Xq0XieetKESY5XZ0aamZDUyVjyROcqMdcwvyyiTE1lHAhlqBlbkDu5RFpvf84b-2ZpSbHvdZ7MgdQlcxr2XPU5_-hG2i-_b4e5LB1ydwP6eVvHtl5d5fVifZuRVqqtjx5_evCiLN9x7UDKc3MIMlKuz8nqZXidnu1ziNE8twHEXuBxTbRTEqngnAMWj0BCYLbTJ-36sO/man.mp4.mp4?dl=1#https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/26/51/261417/720p.m3u8
-MAN EXT,https://908373051.tapecontent.net/radosgw/ZbJ4qGdKMkIqQ1Q/9MEhfuDwqairc9EEVuBAlgHQrToL-lE1AH5VFImXNtfuvqLzMPeOndQB-tQ8i_DAMPuunaPdGSWv7_u-tIkKAQvvNcV3j2TgeDp661s_vWNXUaRR1aHrA5SbPVkBUQPeQ0TTRnmtmo_0OQ5YZB_sca0mSrfaDyrrMV3_5o1Rpj1UaFYL9OeEA0N8EwFxiAhd_OhjYDeAgAsG4VBv4YPDKVDWzL4fYlBPpHV9R62LGSVXWzJC_Ez2oiNsA7orF9R0xug_-4YFbqaOvyB5/man.mp4.mp4?dl=1
-BOU-TOT,https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/26/51/261356/720p.m3u8
 
 
 EFL CUP,#genre#
