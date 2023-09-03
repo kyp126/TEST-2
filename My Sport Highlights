@@ -38,13 +38,17 @@ LEV-DAR,https://ok6-7.vkuser.net/expires/1693789768017/srcIp/124.246.102.147/src
 
 
 
+R4 LALIGA,#genre#
+RMA-GET,https://yu.vstreamnnetwork.com:443/UpFiles/2023/9/2/39/261970/720p.m3u8
+
+ALA-VAL,https://yu.vstreamnnetwork.com:443/UpFiles/2023/9/2/42/261999/720p.m3u8
+
+BET-VALL,https://yu.vstreamnnetwork.com:443/UpFiles/2023/9/2/42/262108/720p.m3u8
+
+SOC-GRA,https://ok6-10.vkuser.net/expires/1693790127950/srcIp/124.246.102.147/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/BbbBJh4zGoI/ct/8/urls/185.226.53.43%3B185.226.52.22/clientType/0/zs/43/id/5124342680282/video/
 
 
 
-R3 LALIGA,#genre#
-VALL-ATM,https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/28/42/261660/720p.m3u8
-Villarreal-Barcelona,https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/27/39/261557/720p.m3u8
-SEV-GIR,https://pooi.vstreamnnetwork.com:443/UpFiles/2023/8/26/42/261455/720p.m3u8
 
 US OPEN,#genre#
 
