@@ -3,6 +3,9 @@ WC QUALIFY,#genre#
 ARG-ECU,https://work.realbitsport.com/live/n-1/chunks.m3u8
 ARG,https://livenflstream.xyz/playlist/stream_3.m3u8
 
+COL-VEN,https://livenflstream.xyz/playlist/stream_1.m3u8
+
+
 EURO  QUALIFY,#genre#
 
 
