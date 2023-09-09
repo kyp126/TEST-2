@@ -1,19 +1,9 @@
 
-WC QUALIFY,#genre#
-URU-CHI,https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
-URU1,https://work.realbitsport.com/live/n-1/chunks.m3u8
-URU2,https://livenflstream.xyz/playlist/stream_1.m3u8
-
-BRA-BOL,https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8
-BRA1,https://work.realbitsport.com/live/n-2/chunks.m3u8
-BRA2,https://livenflstream.xyz/playlist/stream_2.m3u8
-
-
 
 EURO  QUALIFY,#genre#
 AZE-BEL,https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
-
-
+BEL1,https://work.realbitsport.com/live/n-1/chunks.m3u8
+BEL2,https://livenflstream.xyz/playlist/stream_1.m3u8
 LIVE,#genre#
 N1,https://work.realbitsport.com/live/n-1/chunks.m3u8
 N2,https://work.realbitsport.com/live/n-2/chunks.m3u8
