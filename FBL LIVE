@@ -3,7 +3,7 @@ SG F1,#genre#
 Q123,https://work.realbitsport.com/live/n-f1/chunks.m3u8
 Q1,https://m4iswbjnhzrz.fordems.live/live/for-demsf1/chunks.m3u8
 Q2,https://webproxifiers.online/playlist/stream_f1.m3u8
-
+Q3,https://storage.googleapis.com:443/workovoer3/mux_video_ts/index-1.m3u8
 
 PL R5,#genre#
 West Ham-Man City,https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8  
