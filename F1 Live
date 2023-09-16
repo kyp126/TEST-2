@@ -1,5 +1,4 @@
 
-ITALY F1 GP,#genre#
-RECE1,https://work.realbitsport.com/live/n-6/chunks.m3u8
-RACE2,https://livenflstream.xyz/playlist/stream_f1.m3u8
-RACE3,https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8
+SG F1,#genre#
+Q123,SG,https://work.realbitsport.com/live/n-f1/chunks.m3u8
+
