@@ -1,10 +1,12 @@
 
+SG F1,#genre#
+Q123,SG,https://work.realbitsport.com/live/n-f1/chunks.m3u8
 
-EURO  QUALIFY,#genre#
-KAZ-N.ISLAND,https://work.realbitsport.com/live/n-1/chunks.m3u8
-KAZ1,https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
-KAZ2,https://livenflstream.xyz/playlist/stream_1.m3u8
-KAZ3,https://d38aewyptxtc0r.cloudfront.net/for1_1.m3u8
+
+
+
+EURO  QUALIFY
+
 
 LIVE,#genre#
 N1,https://work.realbitsport.com/live/n-1/chunks.m3u8
