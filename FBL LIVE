@@ -1,15 +1,16 @@
 
 
-SG F1,#genre#
-RACE1,https://m4iswbjnhzrz.fordems.live/live/for-demsf1/chunks.m3u8
-RACE2,https://work.realbitsport.com/live/n-f1/chunks.m3u8
-RACE3,https://storage.googleapis.com:443/dpmjmsngrz/mux_video_ts/index-1.m3u8
-RACE4,https://storage.googleapis.com:443/anticovo1/mux_video_ts1/index-1.m3u8
 
 R5 PL,#genre#
 Bournemouth-Chelsea,https://livenflstream.xyz/playlist/stream_1.m3u8
 CHE,https://work.realbitsport.com/live/n-1/chunks.m3u8
 CHE1,https://livenflstream.xyz/playlist/stream_1.m3u8
+
+R5 LIGA,#genre#
+VIL-ALM,https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8
+VIL,https://work.realbitsport.com/live/n-2/chunks.m3u8
+VIL1,https://webproxifiers.online/playlist/stream_e10.m3u8
+
 
 
 R4 SERIA A,#genre#
