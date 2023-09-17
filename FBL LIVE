@@ -4,6 +4,8 @@ SG F1,#genre#
 RACE1,https://m4iswbjnhzrz.fordems.live/live/for-demsf1/chunks.m3u8
 RACE2,https://work.realbitsport.com/live/n-f1/chunks.m3u8
 RACE3,https://storage.googleapis.com:443/dpmjmsngrz/mux_video_ts/index-1.m3u8
+RACE4,https://storage.googleapis.com:443/anticovo1/mux_video_ts1/index-1.m3u8
+
 
 
 R4 SERIA A,#genre#
