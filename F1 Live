@@ -1,8 +1,5 @@
 
 SG F1,#genre#
-RACE1,https://m4iswbjnhzrz.fordems.live/live/for-demsf1/chunks.m3u8
-RACE2,https://work.realbitsport.com/live/n-f1/chunks.m3u8
-RACE3,https://storage.googleapis.com:443/dpmjmsngrz/mux_video_ts/index-1.m3u8
-
+SG RACE,https://be4242.rcr52.ams03.cdn112.com/hls2/01/04641/rjj3agy4vkno_x/index-v1-a1.m3u8?t=3WF4Y6nneeMa_z-FOlOEknl85yP45GUXreFVQTz4AjU&s=1694993626&e=43200&f=23207664&srv=09&asn=45143&sp=2500
 
 
