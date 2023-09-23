@@ -4,7 +4,7 @@
 
 PL R6,#genre#
 MCI-NTF,https://forlive01.fordems.live/live/for-dems3/chunks.m3u8
-CPL-FUL
+CPL-FUL,https://forlive01.fordems.live/live/for-dems1/chunks.m3u8
 LUT-WOL
 BRE-EVE
 BUR-MUN
