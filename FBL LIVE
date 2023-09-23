@@ -4,6 +4,7 @@
 
 PL R6,#genre#
 MCI-NTF,https://forlive01.fordems.live/live/for-dems3/chunks.m3u8
+MCI,https://storage.googleapis.com:443/ungsamovo1/mux_video_ts/index-1.m3u8
 CPL-FUL,https://forlive01.fordems.live/live/for-dems1/chunks.m3u8
 LUT-WOL,https://forlive01.fordems.live/live/for-dems2/chunks.m3u8
 BRE-EVE
