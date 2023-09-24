@@ -1,29 +1,14 @@
 
 PL R6,#genre#
-SHEF-NEW,https://storage.googleapis.com:443/ktlqwt/mux_video_ts/index-1.m3u8
-NEW,https://work.ovo-line.com/live/n-1/playlist.m3u8
-NEW2,https://sportsleading.online/live/stream_2.m3u8
-
-LIV-WHU,https://forlive01.fordems.live/live/for-dems3/chunks.m3u8
-LIV,https://work.ovo-line.com:443/live/n-2/chunks.m3u8
-LIV2,https://sportsleading.online/live/stream_4.m3u8
-ARS-TOT,https://forlive01.fordems.live/live/for-dems1/chunks.m3u8
-ARS,https://work.ovo-line.com/live/n-1/playlist.m3u8
-ARS2,https://streameasts.info/playlist/streamfree1.m3u8
-ARS3,https://storage.googleapis.com:443/ktlqwt/mux_video_ts/index-1.m3u8
-CHE-AVL,https://forlive01.fordems.live/live/for-dems2/chunks.m3u8
-CHE,https://work.ovo-line.com/live/n-3/playlist.m3u8
-CHE2,https://sportsleading.online/live/stream_3.m3u8
-BHA-BOU,https://forlive01.fordems.live/live/for-dems4/chunks.m3u8
-BHA,https://work.ovo-line.com:443/live/n-4/chunks.m3u8
-BHA2,https://sportsleading.online/live/stream_2.m3u8
+LIV-WHU,https://ok6-6.vkuser.net/expires/1695683307675/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/Bc4oxmEyKoM/ct/8/urls/185.226.53.39%3B185.226.52.70/clientType/0/zs/43/id/5317739481800/video/
+ARS-TOT,https://ok6-5.vkuser.net/expires/1695683269978/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/8QXMJf4fRmg/ct/8/urls/45.136.21.32%3B185.226.52.26/clientType/0/zs/43/id/5317738040008/video/
+CHE-AVL,https://ok6-4.vkuser.net/expires/1695683391038/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/rtWxA7llP3U/ct/8/urls/45.136.21.28%3B185.226.53.87/clientType/0/zs/43/id/5317735877320/video/
+BHA-BOU,https://ok6-12.vkuser.net/expires/1695683464484/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/xl8i2EmGydA/ct/8/urls/45.136.20.77%3B45.136.21.68/clientType/0/zs/43/id/5317741054664/video/
+SHEF-NEW,https://ok6-8.vkuser.net/expires/1695683343477/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/-Ph6EuwVGEc/ct/8/urls/45.136.22.7%3B185.226.53.13/clientType/0/zs/43/id/5317798398664/video/
 
 
 
-R5 SERIA A,#genre#
-Empoli-Inter,https://forlive01.fordems.live/live/for-demsse-1/chunks.m3u8 
-INTER,https://work.ovo-line.com/live/n-6/playlist.m3u8
-INTER1,https://sportsleading.online/live/stream_6.m3u8
+
 
 
 
