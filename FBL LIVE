@@ -1,11 +1,7 @@
 
 
-JP F1,#genre#
-JP RACE,https://storage.googleapis.com:443/fmjpgirjusvo/mux_video_ts/index-1.m3u8#https://storage.googleapis.com:443/ypfmfhzzkhfd/mux_video_ts/index-1.m3u8
-RACE1,https://work.ovo-line.com/live/n-f1/playlist.m3u8
-RACE2,https://sportsleading.online/live/stream_f1.m3u8
-
-
+R5 SERIA A,#genre#
+Empoli-Inter,https://forlive01.fordems.live/live/for-demsse-1/chunks.m3u8 
 
 
 
