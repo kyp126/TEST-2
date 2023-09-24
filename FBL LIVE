@@ -1,5 +1,8 @@
 
 PL R6,#genre#
+SHEF-NEW,https://storage.googleapis.com:443/ktlqwt/mux_video_ts/index-1.m3u8
+NEW,https://work.ovo-line.com/live/n-1/playlist.m3u8
+NEW2,https://sportsleading.online/live/stream_2.m3u8
 
 LIV-WHU,https://forlive01.fordems.live/live/for-dems3/chunks.m3u8
 LIV,https://work.ovo-line.com:443/live/n-2/chunks.m3u8
