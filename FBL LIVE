@@ -5,7 +5,12 @@ BOL-EMP,https://chop.fordems.live/hls/for-dems2.m3u8
 EMP,https://work.ovo-line.com/live/n-3/chunks.m3u8
 EMP2,https://sportsleading.online/live/stream_2.m3u8
 
+R8 LIGA,#genre#
+Almería-Granada,https://chop.fordems.live/hls/for-dems3.m3u8
 
+ALM,https://work.ovo-line.com/live/n-2/chunks.m3u8
+
+ALM2,https://sportsleading.online/live/stream_4.m3u8
 
 
 LIVE,#genre#
