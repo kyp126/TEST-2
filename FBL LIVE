@@ -1,47 +1,9 @@
 
-PL R7,#genre#
-TOT-LIV,https://storage.googleapis.com:443/naturrealbit1/mux_video_ts/index-1.m3u8
-LIV,https://gfduenkie.site/chunklist/hlsch5.m3u8
-LIV2,https://sportsleading.online/live/stream_1.m3u8
-WOL-MCI,https://work.ovo-line.com/live/n-3/chunks.m3u8
-MCI,https://gfduenkie.site/chunklist/hlsch7.m3u8
-MCI2,https://sportsleading.online/live/stream_3.m3u8
 
-MUN-CPL,https://storage.googleapis.com:443/naturrealbit2/mux_video_ts/index-1.m3u8
-MUN,https://gfduenkie.site/chunklist/hlsch5.m3u8
-MUN2,https://sportsleading.online/live/stream_2.m3u8
-
-BOU-ARS,https://work.ovo-line.com/live/n-1/chunks.m3u8
-ARS,https://gfduenkie.site/chunklist/hlsch9.m3u8#https://gunswigso.site/chunklist/hlsch9.m3u8
-ARS2,https://sportsleading.online/live/stream_1.m3u8
-NEW-BUR,https://work.ovo-line.com/live/n-5/chunks.m3u8
-NEW,https://gfduenkie.site/chunklist/hlsch8.m3u8
-NEW2,https://sportsleading.online/live/stream_5.m3u8
-WHU-SHE,https://work.ovo-line.com/live/n-6/chunks.m3u8
-WHU,https://gfduenkie.site/chunklist/hlsch10.m3u8
-WHU2,https://sportsleading.online/live/stream_e1.m3u8
-EVE-LUT,https://work.ovo-line.com/live/n-4/chunks.m3u8
-EVE,https://gfduenkie.site/chunklist/hlsch11.m3u8
-EVE2,https://sportsleading.online/live/stream_4.m3u8
-
-CLE-PSG,https://work.ovo-line.com/live/n-9/chunks.m3u8
-PSG,https://gunswigso.site/chunklist/hlsch14.m3u8
-PSG2,https://sportsleading.online/live/stream_8.m3u8
-
-
-LEC-NAP,https://work.ovo-line.com/live/n-8/chunks.m3u8
-NAP,https://work.ovo-line.com/live/n-1/chunks.m3u8
-NAP2,https://sportsleading.online/live/stream_6.m3u8
-GET-VILL,https://work.ovo-line.com/live/n-7/chunks.m3u8
-VIL,https://gunswigso.site/chunklist/hlsch4.m3u8
-VIL2,https://sportsleading.online/live/stream_7.m3u8
-
-
-AVL-BHA,https://chop.fordems.live/hls/for-dems1.m3u8
-AVL,https://work.ovo-line.com/live/n-1/chunks.m3u8
-AVL2,https://sportsleading.online/live/stream_1.m3u8
-
-
+R7 SERIE A,#genre#
+BOL-EMP,https://chop.fordems.live/hls/for-dems2.m3u8
+EMP,https://work.ovo-line.com/live/n-3/chunks.m3u8
+EMP2,https://sportsleading.online/live/stream_2.m3u8
 
 
 
