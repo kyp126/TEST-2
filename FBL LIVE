@@ -1,22 +1,6 @@
 
 R7 PL,#genre#
-NTF-BRE,https://chop.fordems.live/hls/for-dems1.m3u8
-NTF,https://work.ovo-line.com/live/n-1/chunks.m3u8
-NTF2,https://sportsleading.online/live/stream_1.m3u8
-
-R7 SERIE A,#genre#
-UDI-GEN,https://cdn1.alexsportz.online/stream/es13/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NjE2NjgxMCZoYXNoX3ZhbHVlPU1XSmlZMkZoTVdRNFpqYzVZek16TmpCbU1EWTFaRGRoTlRVNU9ESXdaR0UmZXhwaXJ5PTE2OTYxNzc2MTAmaXA9MTI0LjI0Ni43Mi42Mw%3D%3D
-UDI,https://sportsleading.online/live/stream_2.m3u8
-BOL-EMP,https://chop.fordems.live/hls/for-dems2.m3u8
-EMP,https://work.ovo-line.com/live/n-3/chunks.m3u8
-EMP2,https://sportsleading.online/live/stream_2.m3u8
-
-R8 LIGA,#genre#
-Almería-Granada,https://chop.fordems.live/hls/for-dems3.m3u8
-
-ALM,https://work.ovo-line.com/live/n-2/chunks.m3u8
-
-ALM2,https://sportsleading.online/live/stream_4.m3u8
+NFT-BRE,https://ok6-15.vkuser.net/expires/1696287988977/srcIp/119.234.6.217/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/MDRPyOYTO1s/ct/8/urls/45.136.20.76%3B185.226.53.39/clientType/0/zs/43/id/5351725140680/video/
 
 
 LIVE,#genre#
