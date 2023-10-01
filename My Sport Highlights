@@ -21,7 +21,8 @@ Lecce-Napoli,https://proxy-24.sg1.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5lXOBCT
 Milan-Lazio,https://proxy-28.sg1.dailymotion.com/sec(eN_O0L9vhGgUcOMg9A9kEGY3uiB2_fFeubCCkuDCYroA-Fbv3Skh1ZvWGqV1EzRC1E-huiAUwn51d5_MTwVgTdVavhXQ0OVGuQosq3tV8LU)/video/911/687/524786119_mp4_h264_aac_hd_4.m3u8#cell=sg1 
 Salernitana-Inter,https://proxy-37.sg1.dailymotion.com/sec(KATIkk8whdE3Tc4uE-4pKpu2Dt-Pd3wz-eKVBHFVsDnA363-TkWwae0YHad_qGHobK7-H8muAgvR85NBXM-ltnAZ43uUuk8rJIPk_XOjKgg)/video/901/687/524786109_mp4_h264_aac_hd_hfr_8.m3u8#cell=sg1
 
-
+R7 LIGUE 1,#genre#
+Clermont-PSG,https://ok6-6.vkuser.net/expires/1696208306883/srcIp/119.234.6.78/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/z9oI4M67mvs/ct/8/urls/185.226.52.12%3B45.136.20.51/clientType/0/zs/43/id/5347268299464/video/
 
 
 EFL,#genre#
@@ -52,44 +53,6 @@ MUN-CPL,https://ok6-15.vkuser.net/expires/1695985221667/srcIp/124.197.78.244/src
 
 
 
-R6 SERIE A,#genre#
-GEN-ROM,https://ioo.vstreamnnetwork.com:443/UpFiles/2023/9/28/42/264298/720p.m3u8
-Inter-Sassuolo,https://ioo.vstreamnnetwork.com:443/UpFiles/2023/9/27/42/264235/720p.m3u8
-
-Lazio-Torino,https://ioo.vstreamnnetwork.com:443/UpFiles/2023/9/27/42/264240/720p.m3u8  
-
-Napoli-Udinese,https://ioo.vstreamnnetwork.com:443/UpFiles/2023/9/27/42/264234/720p.m3u8
-
-
-EMP-SAL,https://ioo.vstreamnnetwork.com:443/UpFiles/2023/9/27/42/264220/720p.m3u8
-CAG-MILAN,https://ioo.vstreamnnetwork.com:443/UpFiles/2023/9/27/42/264207/720p.m3u8
-JUV-LEC,https://ioo.vstreamnnetwork.com:443/UpFiles/2023/9/26/42/264165/720p.m3u8
-
-
-
-
-
-
-
-R5 BUNDES,#genre#
-Leverkusen-Heidenheim,https://vd352.mycdn.me/expires/1695692867179/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/45.136.21.67/type/3/sig/G41mIt_cyyU/ct/8/urls/185.226.52.36/clientType/0/zs/43/id/5316798909128/video/  
-
-Frankfurt-Freiburg,https://ok6-3.vkuser.net/expires/1695692895717/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/kFWi426u_AI/ct/8/urls/45.136.21.13%3B185.226.52.56/clientType/0/zs/43/id/5504163580655/video/
-M'gladbach-Leipzig,https://ncdn.vstreamnnetwork.com:443/UpFiles/2023/9/23/42/263763/720p.m3u8 
-
-Dortmund-Wolfsburg,https://ok6-7.vkuser.net/expires/1695600419534/srcIp/119.234.4.39/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/nTwLICCM3e4/ct/8/urls/185.226.53.73%3B45.136.21.16/clientType/0/zs/43/id/5498389400303/video/#https://ncdn.vstreamnnetwork.com:443/UpFiles/2023/9/23/42/263753/720p.m3u8  
-
-Bayern-Bochum,https://ok6-10.vkuser.net/expires/1695600337714/srcIp/119.234.4.39/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/A5UUcrBfHJs/ct/8/urls/185.226.52.59%3B45.136.22.12/clientType/0/zs/43/id/5311675501256/video/#https://ncdn.vstreamnnetwork.com:443/UpFiles/2023/9/23/42/263755/720p.m3u8
-
-
-
-USA,#genre#
-MIAMI-TOR,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/5530036774001/d6bc5b8a-70cc-4c51-b4e3-35d224fc9a3e/10s/master.m3u8?fastly_token=NjZmMGE5MmZfNmMwYzYzZGM5NmMyYjU0ZGIzYzdmNTI5YzNjYzMxNWI5YWZhNThiZTUxNjQwNGE3ZjUyMTAxMjAyYmI0Zjg1NQ%3D%3D&pubid=6006779175001
-
-
-
-LIGUE 1 R6
-PSG-MAR,https://ok6-10.vkuser.net/expires/1695692280915/srcIp/111.65.45.132/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/KzPs0eeVk-I/ct/8/urls/45.136.22.11%3B45.136.20.32/clientType/0/zs/43/id/5504957221615/video/
 
 
 
@@ -104,11 +67,6 @@ PSG-MAR,https://ok6-10.vkuser.net/expires/1695692280915/srcIp/111.65.45.132/srcA
 
 
 
-
-
-USA,#genre#
-mia1,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/5530036774001/c764e957-b8bd-495c-9c6b-d9278ae9fc40/8c544b38-82cf-4536-abb2-3113a837fe17/rendition.m3u8?fastly_token=NjZkZTZkNDdfNGYwYzliNmYwNzJkODAwODdjOTE2M2MwZWU0MzUxNjc5NTFkYmY2MmU0OGE2NWIxNTY0OWRmOGE1ZDY3YzVmZg%3D%3D&pubid=6006779175001
-mi2,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/5530036774001/f6e60e62-f844-4771-a5c0-17d209dae528/10s/master.m3u8?fastly_token=NjZlY2JmYzhfZDQ3ZTU5YjZkMGU2ZWJhYzJhNjY5M2Q0ODZmNGM0M2RjMzI4ODU0ZTQwY2VkNzUxOTQ2MDBhNjNlMDQ5YThhMg%3D%3D&pubid=6006779175001
 
 
 
