@@ -6,6 +6,10 @@ NEW-PSG2,https://ok6-12.vkuser.net/expires/1696547683380/srcIp/111.65.69.8/srcAg
 RBL-MCI1,https://ok6-7.vkuser.net/expires/1696549039050/srcIp/111.65.69.8/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/gA5tkPwOVBo/ct/8/urls/185.226.52.44%3B185.226.52.43/clientType/0/zs/43/id/5539256666836/video/
 RBL-MCI2,https://ok6-2.vkuser.net/expires/1696549095607/srcIp/111.65.69.8/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/nLhrsP91_Fk/ct/8/urls/45.136.21.28%3B185.226.52.74/clientType/0/zs/43/id/5539335768788/video/
 
+POR-BAR1,https://ok6-8.vkuser.net/expires/1696549238973/srcIp/111.65.69.8/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/HPNocCvelX8/ct/8/urls/185.226.53.71%3B185.226.52.42/clientType/0/zs/43/id/5539265383124/video/
+POR-BAR2,https://ok6-6.vkuser.net/expires/1696549258531/srcIp/111.65.69.8/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/DZj9-DERNZg/ct/8/urls/45.136.22.36%3B185.226.53.40/clientType/0/zs/43/id/5539334916820/video/
+
+
 LEN-ARS 1,https://ok6-7.vkuser.net/expires/1696463009723/srcIp/111.65.59.25/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/ceq9YhMXlpA/ct/8/urls/45.136.22.8%3B45.136.21.31/clientType/0/zs/43/id/5230291323397/video/
 LEN-ARS 2,https://ok6-7.vkuser.net/expires/1696463040727/srcIp/111.65.59.25/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/f5tf__UUEdY/ct/8/urls/185.226.52.62%3B45.136.21.76/clientType/0/zs/43/id/5230353385989/video/
 
