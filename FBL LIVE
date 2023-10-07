@@ -24,11 +24,12 @@ TOT2,https://gobezwoo.xyz/chunklist/hlsch5.m3u8
 
 
 LIVE,#genre#
-N1,https://work.realbitsport.com/live/n-1/chunks.m3u8
-N2,https://work.realbitsport.com/live/n-2/chunks.m3u8
-N3,https://work.realbitsport.com/live/n-3/chunks.m3u8
-N4,https://work.realbitsport.com/live/n-4/chunks.m3u8
-N5,https://work.realbitsport.com/live/n-5/chunks.m3u8
+S1,https://chop.fordems.live/hls/for-dems1.m3u8
+S2,https://chop.fordems.live/hls/for-dems2.m3u8
+S3,https://chop.fordems.live/hls/for-dems3.m3u8
+S4,https://chop.fordems.live/hls/for-dems4.m3u8
+S5,https://chop.fordems.live/hls/for-dems5.m3u8
+S6,https://chop.fordems.live/hls/for-dems6.m3u8
 L1,https://us.catchystream.xyz/playlist/stream_1.m3u8
 
 L2,https://us.catchystream.xyz/playlist/stream_2.m3u8
