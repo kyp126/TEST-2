@@ -1,3 +1,18 @@
+R8 PL,#genre#
+BHA-LIV,https://chop.fordems.live/hls/for-dems1.m3u8
+LIV,https://work.312work312.pro/live/n-1/chunks.m3u8
+LIV2,https://sportsleading.online/live/stream_1.m3u8
+WHU-NEW,https://chop.fordems.live/hls/for-dems2.m3u8
+NEW,https://work.312work312.pro/live/n-2/chunks.m3u8
+NEW2,https://sportsleading.online/live/stream_2.m3u8
+WOL-AVL,https://chop.fordems.live/hls/for-dems3.m3u8
+WOL,https://work.312work312.pro/live/n-3/chunks.m3u8
+WOL2,https://sportsleading.online/live/stream_3.m3u8
+
+
+
+
+
 
 REPLAY,#genre#
 MUN-BRE1,https://ok6-15.vkuser.net:443/expires/1696812115488/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/9cc9RNGQoSA/ct/8/urls/45.136.22.37%3B185.226.53.41/clientType/0/zs/43/id/5553346317012/video/
