@@ -1,36 +1,12 @@
-R8 PL,#genre#
-ARS-MCI,https://storage.googleapis.com:443/czgieandqqyzjie/mux_video_ts/index-1.m3u8
-ARS,https://sportsleading.online/live/stream_1.m3u8
-ARS2,https://storage.googleapis.com:443/luberingchamp1/mux_video_ts1/index-1.m3u8
-BHA-LIV,https://chop.fordems.live/hls/for-dems1.m3u8
-LIV,https://work.312work312.pro/live/n-1/chunks.m3u8
-LIV2,https://sportsleading.online/live/stream_1.m3u8
-WHU-NEW,https://chop.fordems.live/hls/for-dems2.m3u8
-NEW,https://work.312work312.pro/live/n-2/chunks.m3u8
-NEW2,https://sportsleading.online/live/stream_2.m3u8
-WOL-AVL,https://chop.fordems.live/hls/for-dems3.m3u8
-WOL,https://work.312work312.pro/live/n-3/chunks.m3u8
-WOL2,https://sportsleading.online/live/stream_3.m3u8
-
-R8 SERIE A,#genre#
-Fro-Ver,https://sportsleading.online/live/stream_4.m3u8
-
-Lazio-Atalanta,https://chop.fordems.live/hls/for-dems4.m3u8
-LAZ,https://work.312work312.pro/live/n-5/chunks.m3u8
-LAZ2,https://sportsleading.online/live/stream_5.m3u8
 
 
 
 
 REPLAY,#genre#
-MUN-BRE1,https://ok6-15.vkuser.net:443/expires/1696812115488/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/9cc9RNGQoSA/ct/8/urls/45.136.22.37%3B185.226.53.41/clientType/0/zs/43/id/5553346317012/video/
-MUN-BRE2,https://ok6-15.vkuser.net:443/expires/1696812135034/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/OzaHNttl428/ct/8/urls/45.136.21.34%3B45.136.20.40/clientType/0/zs/43/id/5553400253140/video/
+GRA-BAR1,https://ok6-6.vkuser.net/?expires=1696895036394&srcIp=119.234.10.250&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=4&sig=DoDhO90qbxc&ct=14&urls=45.136.20.68%3B45.136.22.70&clientType=0&zs=43&id=5254538136069
 
-JUV-TOR1,https://ok6-1.vkuser.net:443/expires/1696812192840/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/eumypTh7xaI/ct/8/urls/45.136.20.68%3B185.226.53.45/clientType/0/zs/43/id/5554974755540/video/
-JUV-TOR2,https://ok6-8.vkuser.net:443/expires/1696812275558/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/qT-wm6_oSrM/ct/8/urls/45.136.21.8%3B185.226.52.76/clientType/0/zs/43/id/5554976197332/video/
+GRA-BAR2,https://ok6-13.vkuser.net/?expires=1696895057361&srcIp=119.234.10.250&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=4&sig=muky-YoAGTk&ct=14&urls=45.136.21.35%3B185.226.53.12&clientType=0&zs=43&id=5254543641093
 
-RMA-OSA1,https://ok6-5.vkuser.net:443/expires/1696812341530/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/zSvM7axg3aA/ct/8/urls/185.226.53.16%3B45.136.22.32/clientType/0/zs/43/id/5553462053588/video/
-RMA-OSA2,https://ok6-1.vkuser.net:443/expires/1696812408984/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/l8Ptd6Scemg/ct/8/urls/185.226.52.8%3B45.136.21.37/clientType/0/zs/43/id/5553700342484/video/
 
 
 
