@@ -1,8 +1,5 @@
 
-JP F1,#genre#
-JP RACE,https://storage.googleapis.com:443/fmjpgirjusvo/mux_video_ts/index-1.m3u8#https://storage.googleapis.com:443/ypfmfhzzkhfd/mux_video_ts/index-1.m3u8
-RACE1,https://work.ovo-line.com/live/n-f1/playlist.m3u8
-RACE2,https://sportsleading.online/live/stream_f1.m3u8
-
+F1 QATAR,#genre#
+SPRINT QATAR,https://s18.wolfstream.tv/hls2/01/02174/80fw7kiu0aka_h/index-v1-a1.m3u8?t=3sSYdVX5eyYUQTW2UORv8KFJdHL8hRyvDZdeltajQyM&s=1696729328&e=43200&f=10874496&i=0.0&sp=0
 
 
