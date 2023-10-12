@@ -1,49 +1,22 @@
 
-INT FRIENDLY,#genre#
-WALES-GIB,https://proxy-35.sg1.dailymotion.com/sec(zlsE6ZSaVLSMXxY4GyPBt_QBkxphPj2cx_ZFLP2nvR6VAsatFroFO1bSdd6nDmZnyT__CwCjs0sWlYXCqqKeMLtMnW6bSx6TTITPyTLibIA)/video/538/013/525310835_mp4_h264_aac_hd_4.m3u8
-PL R8,#genre#
-ARS-MCI,https://ok6-2.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1696931873997&srcIp=138.75.46.219&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=2&sig=E3ZgBxZSBXI&ct=8&urls=185.226.52.8%3B45.136.22.75&clientType=0&zs=43&id=5386265561800#https://ok6-2.vkuser.net:443/expires/1696892723346/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/InxQ5pEQ4lQ/ct/8/urls/45.136.22.75%3B185.226.53.35/clientType/0/zs/43/id/5386265561800/video/#https://ok6-2.vkuser.net:443/expires/1696892723346/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/q1Bj_2rPBmY/ct/8/urls/45.136.22.75%3B185.226.53.35/clientType/0/zs/43/id/5386265561800/video/
-BHA-LIV,https://ok6-9.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1696932023632&srcIp=138.75.46.219&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=2&sig=rAoN5ROCxCs&ct=8&urls=185.226.52.8%3B45.136.21.29&clientType=0&zs=43&id=5385399765704#https://ok6-9.vkuser.net:443/expires/1696892795687/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/t6Th7o7BH3g/ct/8/urls/45.136.20.22%3B185.226.52.8/clientType/0/zs/43/id/5385399765704/video/#https://ok6-9.vkuser.net:443/expires/1696892795687/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/jMhZyHK-dgI/ct/8/urls/45.136.20.22%3B185.226.52.8/clientType/0/zs/43/id/5385399765704/video/
-WHU-NEW,https://ok6-4.vkuser.net:443/expires/1696892849367/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/3/sig/OTc65IxoYmc/ct/8/urls/45.136.20.15%3B185.226.53.45/clientType/0/zs/43/id/5385372895944/video/
-WOL-AVL,https://ok6-11.vkuser.net:443/expires/1696892878657/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/KGR4OQ2HvRo/ct/8/urls/185.226.52.58%3B45.136.21.71/clientType/0/zs/43/id/5385403763400/video/
+EURO.Q7-D,#genre#
+LATVIA-ARMENIA,https://ok6-8.vkuser.net:443/expires/1697240012434/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/HV7lqikASP8/ct/8/urls/45.136.21.28%3B185.226.52.61/clientType/0/zs/43/id/5405433989832/video/
+CROATIA-TURKIYE,https://ok6-1.vkuser.net:443/expires/1697238812372/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/zobbfC6o4ww/ct/8/urls/45.136.22.31%3B45.136.20.30/clientType/0/zs/43/id/5406022896328/video/
 
-Man Utd-Brentford,https://ok6-7.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1696933247705&srcIp=138.75.46.219&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=2&sig=nn3TASdXsjk&ct=8&urls=185.226.53.10%3B45.136.20.39&clientType=0&zs=43&id=5380886301384#https://ok6-7.vkuser.net:443/expires/1696810785966/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/4cV45xXbLmU/ct/8/urls/45.136.22.74%3B45.136.22.10/clientType/0/zs/43/id/5380886301384/video/  
-Burnley-Chelsea,https://ok6-2.vkuser.net:443/expires/1696814331992/srcIp/124.246.119.180/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/dMW07lG4b0I/ct/8/urls/45.136.21.5%3B185.226.52.69/clientType/0/zs/43/id/5381018356424/video/#https://ok6-2.vkuser.net:443/expires/1696810837466/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/X8V3_KNgzyo/ct/8/urls/45.136.21.5%3B45.136.20.43/clientType/0/zs/43/id/5381018356424/video/  
-Everton-Bournemouth,https://ok6-5.vkuser.net:443/expires/1696810985507/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/tti0hlVaVlw/ct/8/urls/45.136.22.78%3B45.136.20.68/clientType/0/zs/43/id/5380823976648/video/
-Fulham-Sheffield Utd,https://ok6-2.vkuser.net:443/expires/1696810946056/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/TxfaaZZlg_E/ct/8/urls/45.136.20.56%3B45.136.21.5/clientType/0/zs/43/id/5569285786351/video/ 
-Crystal Palace-Forest,https://ok6-5.vkuser.net:443/expires/1696810877746/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/R0RYc-GjC9M/ct/8/urls/45.136.20.38%3B185.226.53.16/clientType/0/zs/43/id/5381658381000/video/
-LUT-TOT,https://ok6-9.vkuser.net:443/expires/1696811032616/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/DHJC0BAddSU/ct/8/urls/185.226.52.37%3B45.136.21.20/clientType/0/zs/43/id/5380107537096/video/
+EURO.Q7-A,#genre#
+SPAIN-SCOTLAND,https://ok6-11.vkuser.net:443/expires/1697238677191/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/DI4ksu9qmmk/ct/8/urls/45.136.20.48%3B185.226.52.60/clientType/0/zs/43/id/5406014376648/video/
+CYPRUS-NORWAY,https://ok6-10.vkuser.net:443/expires/1697238897443/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/p9P8f8t5Auc/ct/8/urls/45.136.22.12%3B45.136.20.30/clientType/0/zs/43/id/5405983247048/video/
 
-R8 LIGUE 1,#genre#
-REN-PSG,https://ok6-7.vkuser.net:443/expires/1696897219566/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/cRL85cHGG_A/ct/8/urls/185.226.52.70%3B185.226.53.8/clientType/0/zs/43/id/5575644285679/video/
+EURO.Q7-E,#genre#
+FAROE-POLAND,https://ok6-11.vkuser.net:443/expires/1697240049988/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/t1ZcjmgeStg/ct/8/urls/185.226.52.34%3B45.136.22.26/clientType/0/zs/43/id/5406006643400/video/
+ALBANIA-CZECH,https://ok6-11.vkuser.net:443/expires/1697238851773/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/azcue0feSr8/ct/8/urls/45.136.21.16%3B45.136.22.46/clientType/0/zs/43/id/5406038297288/video/
 
-R9 LIGA,#genre#
-GRA-BAR,https://ok6-8.vkuser.net:443/expires/1696893047528/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/9BehS9jGdY4/ct/8/urls/45.136.21.75%3B185.226.52.41/clientType/0/zs/43/id/5386951854792/video/
-
-ATM-SOC,https://ok6-10.vkuser.net:443/expires/1696893092038/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/yjZHsNyjiMI/ct/8/urls/185.226.53.42%3B185.226.52.10/clientType/0/zs/43/id/5386158541512/video/
+EURO.Q7-I,#genre#
+ISRAEL-SWITZERLAND
+BELARUS-ROMANIA,https://ok6-7.vkuser.net:443/expires/1697240370959/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/1VihVrbstZM/ct/8/urls/45.136.20.16%3B185.226.52.40/clientType/0/zs/43/id/5594841484015/video/
+ANDORRA-KOSOVO,https://ok6-6.vkuser.net:443/expires/1697240080595/srcIp/119.234.10.87/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/kCqt93C4K4w/ct/8/urls/45.136.22.61%3B185.226.53.28/clientType/0/zs/43/id/5406034758344/video/
 
 
-Athletic-Almería,https://ok6-12.vkuser.net:443/expires/1696811434497/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/CV07vpwmPtI/ct/8/urls/45.136.22.14%3B185.226.53.42/clientType/0/zs/43/id/5565432859375/video/
-Cádiz-Girona,https://vd364.mycdn.me/expires/1696811400901/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/185.226.53.71/type/3/sig/YxlZmj4jVpM/ct/8/urls/45.136.21.8/clientType/0/zs/43/id/5380481551048/video/
-Real Madrid-Osasuna,https://ok6-10.vkuser.net:443/expires/1696811313657/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/udP_fxS6JdE/ct/8/urls/185.226.52.22%3B185.226.53.74/clientType/0/zs/43/id/5569316195055/video/ 
-Mallorca-Valencia,https://ok6-8.vkuser.net:443/expires/1696811367978/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/VZ-i9ghCURA/ct/8/urls/45.136.20.53%3B185.226.53.73/clientType/0/zs/43/id/5381717887688/video/
-Sevilla-R.Vallecano,https://ok6-2.vkuser.net:443/expires/1696811336208/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/TMVCGSvPBe8/ct/8/urls/45.136.21.18%3B185.226.53.40/clientType/0/zs/43/id/5382314986184/video/
-
-R8 SERIE A,#genre#
-CAG-ROM,https://www.dailymotion.com/cdn/manifest/video/x8ooalo.m3u8?sec=5JpXf5R_OHlWNCjoV5lS8hcznMUPW5DSEO8jgqrDZnFWBr7SGcEH_fLJ3_8gIwwG&dmTs=737577&dmV1st=c156162a-934f-465e-85f2-657985232364
-NAP-FIO,https://ok6-10.vkuser.net:443/expires/1696896983270/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/wPAp9z-sKtQ/ct/8/urls/45.136.21.4%3B185.226.53.72/clientType/0/zs/43/id/5575657065199/video/
-Lecce-Sassuolo,https://proxy-35.sg1.dailymotion.com/sec(dE83Zyoa3SvsSFjYNnBY1G-udeumB6wsqSJkx9Ua_U74Q-U9AQe2hvwTEdLV4DnAleh8W8cH3shA5AzhzeoHVDBNdg1dECBYauz1xJbrPHE)/video/838/721/525127838_mp4_h264_aac_hd_4.m3u8#cell=sg1 
-Inter-Bologna,https://www.dailymotion.com/cdn/manifest/video/x8oniqm.m3u8?sec=bX-F6CzszYd3BZrYS3W_dgEY1G0f8c9VyVWngHnJJmW_xB34E4OzFS3J6BrZEsnT&dmTs=737577&dmV1st=c156162a-934f-465e-85f2-657985232364#https://proxy-19.sg1.dailymotion.com/sec(mY07IAeONRUUJhi-jD5Epai5KNuSMM-e7PjXc5RQQ-muh4MCgV4aVK2cW4Q4ZxAD2YljWS-95liG4RVkg1Nm2RgBHKJFX3TcWkFOaj2fhW8)/video/395/041/525140593_mp4_h264_aac_hd_2.m3u8#cell=sg1  
-Juventus-Torino,https://www.dailymotion.com/cdn/manifest/video/x8onlii.m3u8?sec=-C1kX6JV7KK4H0oM-Z6s2-7P8o-0ZLsdayccntMoUTwzfGSggag0_x8BgrWHDmHN&dmTs=737577&dmV1st=c156162a-934f-465e-85f2-657985232364#https://www.dailymotion.com/cdn/manifest/video/x8onldx.m3u8?sec=asHoO3Mdew7COSdaOnMeTbj0NlssZ5-VdzeTQvZwMEmasrUisTUl3Go3iDUnrPcM&dmTs=737577&dmV1st=c156162a-934f-465e-85f2-657985232364#https://proxy-26.sg1.dailymotion.com/sec(5D-upqDJxZ7oMdF5vyvZyPOrjtLvvezQRYJ2ihPXxTZXj17TpvvDElS3EE6Rm6wUSyQJDpx9zqqn7Tgi1QulQ9JatwKK9bzFm41tBz151wY)/video/261/141/525141162_mp4_h264_aac_hd_6.m3u8#cell=sg1 
-Genoa-Milan,https://ok6-11.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1696934718490&srcIp=138.75.46.219&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=2&sig=AS4VRGkH3fU&ct=8&urls=45.136.20.51%3B185.226.53.91&clientType=0&zs=43&id=5535562074677#https://ok6-11.vkuser.net:443/expires/1696811631059/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/7Kctufn_cBY/ct/8/urls/185.226.53.91%3B185.226.52.69/clientType/0/zs/43/id/5535562074677/video/
-LAZ-ATA,https://www.dailymotion.com/cdn/manifest/video/x8oofpn.m3u8?sec=E0iAe_NIKZpo8rN8rNkEGGildbLBQLLejMWxRnKDOkaKSY1tixO6EpcglXxZ-NZ6&dmTs=737577&dmV1st=c156162a-934f-465e-85f2-657985232364
-
-R7 BUNDES,#genre#
-BAY-FRE,https://ok6-5.vkuser.net:443/expires/1696893192272/srcIp/111.65.57.227/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/YmbRV1RcC_o/ct/8/urls/45.136.20.29%3B45.136.22.44/clientType/0/zs/43/id/5386238954184/video/
-
-Leipzig-Bochum,https://ok6-10.vkuser.net:443/expires/1696811978057/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/hD3rAzfnr7s/ct/8/urls/185.226.53.41%3B185.226.52.28/clientType/0/zs/43/id/5569123388143/video/ 
-Dortmund-Union Berlin,https://ok6-15.vkuser.net:443/expires/1696811953241/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/goQ3crWQUrg/ct/8/urls/185.226.53.45%3B45.136.20.75/clientType/0/zs/43/id/5381639310024/video/
-Bremen-Hoffenheim,https://ok6-5.vkuser.net:443/expires/1696812000066/srcIp/119.234.10.230/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/5ZRisUxkpJc/ct/8/urls/45.136.20.41%3B45.136.21.74/clientType/0/zs/43/id/5570095155951/video/
 
 
 
