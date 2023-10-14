@@ -2,7 +2,9 @@
 NBA PRE,#genre#
 Sprus-Heat,https://pull.haoago.com/live/dps-58359523-hydra-ali.m3u8?auth_key=1697256060-0-0-3828116836b6559eee98c06edfdad9a3
 
-
+EURO QUA,#genre#
+NET-FRA1,https://ok6-3.vkuser.net:443/expires/1697329511943/srcIp/111.65.45.88/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/kACUVhIg-mE/ct/8/urls/185.226.53.45%3B45.136.21.32/clientType/0/zs/43/id/5584644868820/video/
+NET-FRA2,https://ok6-2.vkuser.net:443/expires/1697329524567/srcIp/111.65.45.88/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/2lduGR9M46U/ct/8/urls/185.226.52.75%3B45.136.20.41/clientType/0/zs/43/id/5584647490260/video/
 
 
 LIVE,#genre#
