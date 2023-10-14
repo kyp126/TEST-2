@@ -5,7 +5,8 @@ Sprus-Heat,https://pull.haoago.com/live/dps-58359523-hydra-ali.m3u8?auth_key=169
 EURO QUA,#genre#
 NET-FRA1,https://ok6-3.vkuser.net:443/expires/1697329511943/srcIp/111.65.45.88/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/kACUVhIg-mE/ct/8/urls/185.226.53.45%3B45.136.21.32/clientType/0/zs/43/id/5584644868820/video/
 NET-FRA2,https://ok6-2.vkuser.net:443/expires/1697329524567/srcIp/111.65.45.88/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/2lduGR9M46U/ct/8/urls/185.226.52.75%3B45.136.20.41/clientType/0/zs/43/id/5584647490260/video/
-
+AUS-BEL1,https://ok6-5.vkuser.net:443/expires/1697330009392/srcIp/111.65.45.88/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/w4rWvgS9R-s/ct/8/urls/45.136.22.12%3B45.136.20.41/clientType/0/zs/43/id/5584687336148/video/
+AUS-BEL2,https://ok6-11.vkuser.net:443/expires/1697330052446/srcIp/111.65.45.88/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/Osh7CSi4iNk/ct/8/urls/45.136.20.70%3B185.226.52.15/clientType/0/zs/43/id/5584689957588/video/
 
 LIVE,#genre#
 S1,https://chop.fordems.live/hls/for-dems1.m3u8
