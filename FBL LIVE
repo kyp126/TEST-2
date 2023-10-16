@@ -7,6 +7,10 @@ NET,https://cdn1.alexsportz.online/stream/ch140/tracks-v1a1/mono.m3u8?token=c2Vy
 SPURS-ROCKET,https://sportsleading.online/live/stream_nba4.m3u8
 SPURS,https://cdn1.alexsportz.online:443/stream/ch151/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NzUwMDM4OSZoYXNoX3ZhbHVlPU1EUmpabVZoT0dGaU4yTTBaV1V3WVRSbFpqVTJaVGszTWpjMVlqTmpabVkmZXhwaXJ5PTE2OTc1MTExODkmaXA9MTExLjY1LjY5Ljg2
 
+EURO FULL,#genre#
+BOS-POR1,https://vd337.mycdn.me/?expires=1697586995893&srcIp=111.65.69.86&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.58&type=4&sig=pfrL-Bk63DM&ct=27&urls=45.136.20.22&clientType=0&zs=43&id=5292460214789
+BOS-POR2,https://vd357.mycdn.me/expires/1697587076576/srcIp/111.65.69.86/srcAg/CHROME_ANDROID/ms/45.136.21.72/type/5/sig/SsY6dBDrGbY/ct/8/urls/45.136.22.44/clientType/0/zs/43/id/5292462443013/video/
+
 
 LIVE,#genre#
 S1,https://chop.fordems.live/hls/for-dems1.m3u8
