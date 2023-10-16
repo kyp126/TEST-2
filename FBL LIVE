@@ -2,12 +2,7 @@
  
 
 NBA PRE,#genre#
-HEAT-GRIZZ,https://cdn1.alexsportz.online/stream/ch37/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NzQxMTI4OSZoYXNoX3ZhbHVlPVlqa3hNR1E1WlRka05HSmlZalJoWldZNFlURTJZbVF6TlRobE9ESXpZalEmZXhwaXJ5PTE2OTc0MjIwODkmaXA9MTExLjY1LjQ3Ljgz
-HEAT,https://pull.haoago.com/live/dps-58368736-merak-ali.m3u8?auth_key=1697423460-0-0-42724e55b037d458711fff44e6fd36b3
-LA-MIL,https://cdn1.alexsportz.online/stream/ch49/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NzQxNTM3OCZoYXNoX3ZhbHVlPVlXTmxaVGN3WldFMVptSXpZVFkwTXprNE9HVTBNRFkyWVdJell6RTFNMkUmZXhwaXJ5PTE2OTc0MjYxNzgmaXA9MTExLjY1LjQ3Ljgz
-LA,https://sportsleading.online/live/stream_nba4.m3u8
-
-
+NET-76,https://sportsleading.online/live/stream_nba3.m3u8
 
 LIVE,#genre#
 S1,https://chop.fordems.live/hls/for-dems1.m3u8
