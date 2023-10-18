@@ -2,6 +2,10 @@
  
 
 NBA PRE,#genre#
+LAC-NUG,https://cdn1.alexsportz.online/stream/ch50/index.m3u8?token=c2VydmVyX3RpbWU9MTY5NzU5NzM0NSZoYXNoX3ZhbHVlPU16WTBNRFkzWXpFM1lXRmlaRGswTkRZNE16STNNVFprTVRoa09ESXdZV1kmZXhwaXJ5PTE2OTc2MDgxNDUmaXA9MTExLjY1LjcwLjExNA==
+
+LAC,https://sportsleading.online/live/stream_nba5.m3u8
+
 MAGIC-NOP,https://sportsleading.online/live/stream_nba1.m3u8
 BOS-NYK,https://sportsleading.online/live/stream_nba2.m3u8
 BULL-RAP,https://sportsleading.online/live/stream_nba3.m3u8
