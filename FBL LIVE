@@ -34,7 +34,10 @@ SOC-MAL,https://chop.fordems.live/hls/for-6.m3u8
 SOC,https://screenber.312work312.pro/live/n-6/chunks.m3u8
 SOC2,https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
-
+SERIE A,#genre#
+VER-NAP,https://chop.fordems.live/hls/for-7.m3u8
+NAP,https://screenber.312work312.pro/live/n-7/chunks.m3u8
+NAP2,https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 
 
 
