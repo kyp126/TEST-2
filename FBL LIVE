@@ -3,49 +3,11 @@
 
 
 PL R9,#genre#
-
-MCI-BHA,https://chop.fordems.live/hls/for-1.m3u8
-MCI,https://screenber.312work312.pro/live/n-1/chunks.m3u8
-MCI2,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-
-NEW-CPL,https://chop.fordems.live/hls/for-2.m3u8
-NEW,https://screenber.312work312.pro/live/n-4/chunks.m3u8
-NEW2,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
-
-BRE-BUR,https://chop.fordems.live/hls/for-4.m3u8
-BRE,https://screenber.312work312.pro/live/n-3/chunks.m3u8
-BRE1,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
-
-BOU-WOL,https://chop.fordems.live/hls/for-3.m3u8
-BOU,https://screenber.312work312.pro/live/n-2/chunks.m3u8
-BOU2,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-
-NTF-LUT,https://chop.fordems.live/hls/for-5.m3u8
-NTF,https://screenber.312work312.pro/live/n-5/chunks.m3u8
-NTF2,https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+CHE-ARS,https://ok6-29.vkuser.net/expires/1698022072182/srcIp/91.245.254.26/srcAg/CHROME_ANDROID/ms/95.142.206.33/type/5/sig/03EC4XVXPXo/ct/8/urls/185.226.52.4%3B45.136.21.26/clientType/0/zs/65/id/5623814818516/video/
+CHE-ARS2,https://ok6-29.vkuser.net/expires/1698022072182/srcIp/91.245.254.26/srcAg/CHROME_ANDROID/ms/95.142.206.33/type/5/sig/03EC4XVXPXo/ct/8/urls/185.226.52.4%3B45.136.21.26/clientType/0/zs/65/id/5623814818516/video/
 
 
-
-
-LIGA R10,#genre#
-SOC-MAL,https://chop.fordems.live/hls/for-6.m3u8
-SOC,https://screenber.312work312.pro/live/n-6/chunks.m3u8
-SOC2,https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-
-SERIE A,#genre#
-VER-NAP,https://chop.fordems.live/hls/for-7.m3u8
-NAP,https://screenber.312work312.pro/live/n-7/chunks.m3u8
-NAP2,https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-
-LIGU 1,#genre#
-PSG-STR,https://chop.fordems.live/hls/for-9.m3u8
-PSG,https://screenber.312work312.pro/live/n-9/chunks.m3u8
-PSG2,https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
-
-USA F1,#genre#
-Q123,https://nzxfhnnl6es7.lions-vidcdn.com:443/hls2/01/00745/zqwi5pzmm10h_n/index-v1-a1.m3u8?t=Rc0t88fR__bXSqqlhhL3R4FtmQfCdjGdGkfUP3CDEQ4&s=1697869780&e=129600&f=3726172&srv=C3RmmNeXUBuk&i=0.4&sp=1500&p1=C3RmmNeXUBuk&p2=C3RmmNeXUBuk&asn=4773
-Q,https://be4242.rcr52.ams03.cdn112.com/hls2/01/04825/e9uys1mysdqv_h/index-v1-a1.m3u8?t=qA_vAqZA4-syUIVjaWHv-UflscQmvh_nUuJF05sk_2U&s=1697870366&e=43200&f=24129075&srv=02&asn=4773&sp=2000
-
+:
 
 
 
