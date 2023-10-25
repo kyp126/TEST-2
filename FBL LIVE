@@ -21,6 +21,9 @@ NBA,#genre#
 
 10,https://headlinessportsfoot.com/chunklist/hlsch19.m3u8
 
+
+
+FMR,#genre#
 B-LEN-PSV
 BRA-RMA1,https://ok6-14.vkuser.net:443/expires/1698278943752/srcIp/111.65.70.26/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/ZK50f9Bhrm8/ct/8/urls/185.226.53.14%3B185.226.52.57/clientType/0/zs/43/id/5329482811909/video/
 BRA-RMA2,https://ok6-15.vkuser.net:443/expires/1698279002065/srcIp/111.65.70.26/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/TzqBHbOLY4Q/ct/8/urls/45.136.21.28%3B185.226.53.28/clientType/0/zs/43/id/5329521609221/video/
@@ -30,31 +33,9 @@ UNB-NAP2,https://ok6-10.vkuser.net:443/expires/1698278869301/srcIp/111.65.70.26/
 
 
 
-CHAMPION R3,#genre#
-A-GALA-BAY,https://chop.fordems.live/hls/for-2.m3u8
-BAY,https://crystalnower.crystalnew.pro/live/n-1/chunks.m3u8
-D-INT-RBS,https://chop.fordems.live/hls/for-1.m3u8
-INT,https://crystalnower.crystalnew.pro/live/n-2/chunks.m3u8
-A-MUN-KOB,https://chop.fordems.live/hls/for-1.m3u8
-MUN,https://crystalnower.crystalnew.pro/live/n-1/chunks.m3u8
-B-SEV-ARS,https://chop.fordems.live/hls/for-3.m3u8
-ARS,https://crystalnower.crystalnew.pro/live/n-2/chunks.m3u8
-B-LEN-PSV,https://chop.fordems.live/hls/for-4.m3u8
-PSV,https://crystalnower.crystalnew.pro/live/n-4/chunks.m3u8
-C-BRA-RMA,https://chop.fordems.live/hls/for-2.m3u8
-RMA,https://crystalnower.crystalnew.pro/live/n-3/chunks.m3u8
-C-UNB-NAP,https://chop.fordems.live/hls/for-6.m3u8
-NAP,https://crystalnower.crystalnew.pro/live/n-5/chunks.m3u8
-D-BEN-RSC,https://chop.fordems.live/hls/for-5.m3u8
-BEN,https://crystalnower.crystalnew.pro/live/n-6/chunks.m3u8
-
 
 
  
-PL REPLAY,#genre#
-TOT-FUL1,https://ok6-10.vkuser.net:443/expires/1698211844689/srcIp/111.65.69.100/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/MT05xZeGrjM/ct/8/urls/185.226.53.44%3B45.136.22.37/clientType/0/zs/43/id/5324968364549/video/
-
-TOT-FUL2,https://ok6-12.vkuser.net:443/expires/1698211864926/srcIp/111.65.69.100/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/JpGhhD3p_5k/ct/8/urls/185.226.53.25%3B45.136.20.29/clientType/0/zs/43/id/5324970199557/video/
 
 
 
