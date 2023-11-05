@@ -4,7 +4,9 @@ PL 11,#genre#
 NTF-AVL,https://chopz.fordems.live/hls/for-1.m3u8
 NTF,https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8
 NTF2,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-
+LUT-LIV,https://chopz.fordems.live/hls/for-1.m3u8
+LIV,https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8
+LIV2,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 
 SA 11,#genre#
 VER-MON,https://chopz.fordems.live/hls/for-2.m3u8
