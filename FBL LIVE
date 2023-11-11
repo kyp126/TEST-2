@@ -4,6 +4,9 @@ PL R12,#genre#
 ARS-BUR,https://xhop.fordems.live/hls/for-1.m3u8
 ARS,https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8
 ARS2,https://sports1.freesportstime.com/playlist/streamfree2.m3u8
+MUN-LUT,https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8
+MUN,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+MUN2,https://sports1.freesportstime.com/playlist/streamfree4.m3u8
 WOL-TOT,https://xhop.fordems.live/hls/for-1.m3u8
 TOT,https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8
 TOT2,https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
