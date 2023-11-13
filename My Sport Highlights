@@ -3,6 +3,12 @@
 PL R12,#genre#
 PL 12,#genre#
 CHE-MCI,https://k.vstreamnnetwork.com:443/UpFiles/2023/11/12/51/267339/720p.m3u8
+LIV-BRE,https://k.vstreamnnetwork.com:443/UpFiles/2023/11/12/51/267274/720p.m3u8
+
+
+
+
+
 MUN-LUT,https://y.vstreamnnetwork.com:443/UpFiles/2023/11/11/51/267171/720p.m3u8
 WOL-TOT,https://y.vstreamnnetwork.com:443/UpFiles/2023/11/11/51/267125/720p.m3u8
 ARS-BUR,https://y.vstreamnnetwork.com:443/UpFiles/2023/11/11/51/267158/720p.m3u8
