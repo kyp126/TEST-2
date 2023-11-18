@@ -1,12 +1,13 @@
 
 
-EURO QLY,#genre#
-KAZ-SMA,https://chopa.fordems.live/hls/for-1.m3u8
-KAZ,https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8
-FIN-NIRE,https://chopa.fordems.live/hls/for-1.m3u8
-FIN,https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8
-MOL-ALB,https://chopa.fordems.live/hls/for-2.m3u8
-MOL,https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8
+
+
+FMR 1118,#genre#
+ENG-MAL1,https://ok6-12.vkuser.net:443/expires/1700352377895/srcIp/111.65.47.217/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/1b3ijn41oNs/ct/8/urls/45.136.20.70%3B45.136.22.23/clientType/0/zs/43/id/5567220026087/video/
+ENG-MAL2,https://ok6-12.vkuser.net:443/expires/1700352404314/srcIp/111.65.47.217/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/8CUTRXFiNyw/ct/8/urls/45.136.22.11%3B185.226.52.36/clientType/0/zs/43/id/5567221926631/video/
+
+
+
 
 
 
