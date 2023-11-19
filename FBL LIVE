@@ -1,9 +1,20 @@
 
 
-EURO QUALIFY,#genre#
-ARM-WAL,https://chopa.fordems.live/hls/for-1.m3u8
-ARM,https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8
-ARM1,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+NBA 1119,#genre#
+BULL-HEAT,https://sportsleading.online/live/stream_nba3.m3u8
+
+
+SPUR-GRIZZ,https://sportsleading.online/live/stream_nba5.m3u8
+
+
+BUCK-MAV,https://sportsleading.online/live/stream_nba4.m3u8
+
+
+
+
+
+
+
 
 
 F1 LasVegas,#genre#
@@ -28,26 +39,6 @@ LIE-POR1,https://ok6-4.vkuser.net:443/expires/1700267896779/srcIp/111.65.69.224/
 LIE-POR2,https://ok6-6.vkuser.net:443/expires/1700267952834/srcIp/111.65.69.224/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/aadkVVcqxdM/ct/8/urls/45.136.22.11%3B45.136.20.68/clientType/0/zs/43/id/5562143607527/video/
 CYP-SPA1,https://ok6-1.vkuser.net:443/expires/1700270159075/srcIp/111.65.69.224/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/d9K0NgcaG3g/ct/8/urls/45.136.22.11%3B45.136.20.76/clientType/0/zs/43/id/5562144459495/video/
 CYP-SPA2,https://ok6-7.vkuser.net:443/expires/1700270186952/srcIp/111.65.69.224/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/Khbn15mvdOA/ct/8/urls/185.226.53.16%3B45.136.20.17/clientType/0/zs/43/id/5562144721639/video/
-
-
-
-
-NBA 1112,#genre#
-MAGIC,https://sportsleading.online/live/stream_nba1.m3u8
-CELTIC,https://sportsleading.online/live/stream_nba2.m3u8
-HAWKS,https://sportsleading.online/live/stream_nba3.m3u8
-GSW,https://sportsleading.online/live/stream_nba4.m3u8
-
-
-
-
-
-
-
-
-
-
- 
 
 
 
