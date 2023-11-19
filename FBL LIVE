@@ -1,9 +1,10 @@
 
-F1 L.VEGAS,#genre#
-RACE,https://hisoverline.crystalnew.pro/live/f1/chunks.m3u8
-RACE1,https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
+EURO QUA,#genre#
+HUN-MON,https://chopa.fordems.live/hls/for-1.m3u8
+HUN,https://chopa.fordems.live/live/live1/chunks.m3u8
 
-
+SER-BUL,https://chopa.fordems.live/hls/for-2.m3u8
+SER,https://chopa.fordems.live/live/live1/chunks.m3u8
 
 
 
