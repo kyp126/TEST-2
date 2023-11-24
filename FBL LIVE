@@ -1,4 +1,9 @@
 
+NBA 1125,#genre#
+Grizzlies-Suns,https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+SUNS,https://hls.streambtw.com/live/stream_nba1.m3u8
+
+
 
 NBA 1123,#genre#
 Suns-Warriors,https://hls.streambtw.com/live/stream_nba4.m3u8
@@ -35,52 +40,12 @@ KINGS,https://hls.streambtw.com/live/stream_nba6.m3u8
 
 
 
-WCQ1122,#genre#
-PAR-COL,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
-
-ECU-CHI,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-
-URU-BOL,https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
-
-BRA-ARG,https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-
-FMR 1121,#genre#
-NMAC-ENG1,https://ok6-12.vkuser.net:443/expires/1700611976076/srcIp/111.65.33.207/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/yJvR-eX3H8I/ct/8/urls/45.136.21.36%3B185.226.52.35/clientType/0/zs/43/id/5582209747687/video/
-NMAC-ENG2,https://ok6-15.vkuser.net:443/expires/1700612017887/srcIp/111.65.33.207/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/mGF_kRvHYc8/ct/8/urls/185.226.52.19%3B185.226.53.10/clientType/0/zs/43/id/5582254705383/video/
-NIRE-DEN1,https://vd408.mycdn.me:443/expires/1700617748131/srcIp/111.65.46.102/pr/10/srcAg/CHROME_ANDROID/ms/45.136.20.48/type/3/sig/SdkB5cOtXqE/ct/8/urls/45.136.21.29/clientType/0/zs/43/id/5582217743079/video/
-NIRE-DEN2,https://vd364.mycdn.me:443/expires/1700617764164/srcIp/111.65.46.102/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.71/type/3/sig/pJNALjgS028/ct/8/urls/45.136.22.73/clientType/0/zs/43/id/5582250969831/video/
-UKR-ITA1,https://ok6-13.vkuser.net:443/expires/1700617965437/srcIp/111.65.46.102/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/zotRgU7NIGk/ct/8/urls/45.136.20.40%3B45.136.21.32/clientType/0/zs/43/id/5582206667495/video/
-UKR-ITA2,https://ok6-2.vkuser.net:443/expires/1700617982227/srcIp/111.65.46.102/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/xxOgfkUQw2U/ct/8/urls/185.226.52.59%3B45.136.21.32/clientType/0/zs/43/id/5582252608231/video/
-
-
-
-F1 L.VEGAS,#genre#
-RECE1,https://s27.wolfstream.tv/hls2/01/02217/4r0jir8phnhf_x/index-v1-a1.m3u8?t=v4b9yOfg8konCNmwIULXjam3nHvdXoO0jZh3PCmDW6s&s=1700482137&e=43200&f=11085369&i=0.0&sp=0
-
-FMR 1120,#genre#
-POR-ICE1,https://ok6-13.vkuser.net:443/expires/1700525739544/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/1nwUvSaFMTs/ct/8/urls/185.226.53.7%3B45.136.22.70/clientType/0/zs/43/id/5770613492436/video/
-POR-ICE2,https://ok6-12.vkuser.net:443/expires/1700525767074/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/Pb8IvkrGApY/ct/8/urls/185.226.52.43%3B45.136.20.42/clientType/0/zs/43/id/5770629614292/video/
-SPA-GEO1,https://ok6-15.vkuser.net:443/expires/1700526167322/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/9PRM-rRApEs/ct/8/urls/185.226.53.34%3B45.136.22.79/clientType/0/zs/43/id/5770615851732/video/
-SPA-GEO2,https://ok6-8.vkuser.net:443/expires/1700526182830/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/5yrQ3M55gc4/ct/8/urls/185.226.53.23%3B45.136.21.34/clientType/0/zs/43/id/5770630990548/video/
-SCO-NOR1,https://ok6-5.vkuser.net:443/expires/1700526335739/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/RVHp6rTXYlc/ct/8/urls/185.226.52.75%3B45.136.20.56/clientType/0/zs/43/id/5770614934228/video/
-SCO-NOR2,https://ok6-12.vkuser.net:443/expires/1700526349742/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/XAy1cbDH2mI/ct/8/urls/45.136.20.42%3B45.136.22.75/clientType/0/zs/43/id/5770632891092/video/
-BEL-AZE1,https://ok6-14.vkuser.net:443/expires/1700526487183/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/MjXXBvA3scs/ct/8/urls/45.136.21.75%3B45.136.22.32/clientType/0/zs/43/id/5770609691348/video/
-BEL-AZE2,https://ok6-14.vkuser.net:443/expires/1700526501657/srcIp/111.65.56.133/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/j_XffFNXwJU/ct/8/urls/185.226.52.19%3B45.136.22.78/clientType/0/zs/43/id/5770610870996/video/
 
 
 
 
-NBA 1119,#genre#
-BULL-HEAT,https://sportsleading.online/live/stream_nba3.m3u8
-BULL,https://cdn.ienjoyhd.site:443/es110/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcwMDM1NTIxOCZoYXNoX3ZhbHVlPVpUSmpNbUkxTnpabU1tTmtZamMzWlRJd1pqUTRaVFE1T0RFM01EZzVZemsmZXhwaXJ5PTE3MDAzNjYwMTgmaXA9MTI0LjI0Ni4xMTEuNzk%3D
-BULL2,https://headlinessportsfoot.com/chunklist/hlsch17.m3u8
 
-SPUR-GRIZZ,https://sportsleading.online/live/stream_nba5.m3u8
-SPUR,https://cdn.ienjoyhd.site/es111/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcwMDM1NTM2NyZoYXNoX3ZhbHVlPVkySTNaR0ptWkRnMk5EUmxZVEF3TkdWbFl6WmlNMkZqTnpoalpUSTJObVEmZXhwaXJ5PTE3MDAzNjYxNjcmaXA9MTI0LjI0Ni4xMTEuNzk%3D
-SPUR2,https://headlinessportsfoot.com/chunklist/hlsch17.m3u8
-BUCK-MAV,https://sportsleading.online/live/stream_nba4.m3u8
-BUCK,https://sports.freesportstime.com/live/stream_nba4.m3u8
-BUCK2,https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
+
 
 
 
