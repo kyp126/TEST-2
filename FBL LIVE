@@ -4,6 +4,25 @@ PL R13,#genre#
 Man City-Liverpool,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 MC,https://hls.streambtw.com/live/stream_1.m3u8
 MC2,https://hls.streambtw.com/live/stream_1.m3u8
+Newcastle-Chelsea,https://storage.googleapis.com/crystalnew1/mux_video_ts/index-1.m3u8
+NEW,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+NEW2,https://hls.streambtw.com/live/stream_1.m3u8
+
+Burnley-West Ham,https://worknew.crystalnew.pro/live/n-2/chunks.m3u8
+WHU,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
+WHU2,https://hls.streambtw.com/live/stream_2.m3u8
+
+Forest-Brighton,https://worknew.crystalnew.pro/live/n-4/chunks.m3u8
+BHA,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+BHA2,https://hls.streambtw.com/live/stream_4.m3u8
+
+Luton-Crystal Palace,https://worknew.crystalnew.pro/live/n-3/chunks.m3u8
+LUT,https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+LUT2,https://hls.streambtw.com/live/stream_3.m3u8
+
+Sheffield Utd-Bournemouth,https://worknew.crystalnew.pro/live/n-5/chunks.m3u8
+BOU,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+BOU2,https://hls.streambtw.com/live/stream_5.m3u8
 
 
 
