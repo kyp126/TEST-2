@@ -20,7 +20,10 @@ Q123,https://storage.googleapis.com/crystalnew3/mux_video_ts/index-1.m3u8
 Q1,https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
 Q2,https://sportsleading.online/live/stream_f1.m3u8
 
-
+S A R13,#genre#
+Sal-Lazio,https://worknew.crystalnew.pro/live/n-7/chunks.m3u8
+LAZ,https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+LAZ2,https://hls.streambtw.com/live/stream_7.m3u8
 
 
 
