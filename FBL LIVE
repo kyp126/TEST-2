@@ -1,4 +1,8 @@
 
+PL R13,#genre#
+TOT-AVL,https://storage.googleapis.com/tazingerovo1/mux_video_ts/index-1.m3u8
+
+
 LIVE1126,#genre#
 Cagliari-Monza,https://hls.streambtw.com/live/stream_7.m3u8
 
