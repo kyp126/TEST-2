@@ -11,10 +11,8 @@ CAD-RMA1,https://ok6-2.vkuser.net:443/expires/1701162011752/srcIp/111.65.44.209/
 CAD-RMA2https://ok6-5.vkuser.net:443/expires/1701162136581/srcIp/111.65.44.209/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/ATx7MAxGwRs/ct/8/urls/45.136.20.32%3B45.136.21.35/clientType/0/zs/43/id/5807556659924/video/,
 
 UAE F1,#genre#
-RACE,https://sportsleading.online/live/stream_f1.m3u8
-RACE1,https://storage.googleapis.com/tazingerovo2/mux_video_ts/index-1.m3u8
-
-
+RACE HL,https://be6721.rcr72.waw04.cdn112.com/hls2/01/05021/jxrsqmtnu87d_h/index-v1-a1.m3u8?t=QdTdZpWEEYYX7s6eXZ8OFaBYZod2tO1d3443CNr0Hg8&s=1701077692&e=43200&f=25108766&srv=43&asn=4773&sp=2000
+RACE RP,https://vod.cf.dmcdn.net/sec2(U0nY3U8lTgtlX3qYCi2GF7euIe0KlKXoFLrBOLQTRKmy1M_h0NTccZdQMJ8Z2nHV38jKcMU1NltPb8HqkPR0eCLB-l71cY4UbJwg-UMbRSg-EuxAOvkNoZTCWKXjslbP35DMQ6KDb4D89_MmIIsjdw)/video/458/920/496029854_mp4_h264_aac_hd.m3u8#cell=cf
 
 
 
