@@ -1,4 +1,21 @@
 
+PL R14,#genre#
+LIV-FUL,https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
+LIV,https://lingestingoren.latsyoving.xyz/live/n-2/chunks.m3u8
+LIV2,https://hls.streambtw.com/live/stream_3.m3u8
+
+CHE-BHA,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+CHE,https://storage.googleapis.com/undertingqes1/mux_video_ts1/index-1.m3u8
+CHE2,https://hls.streambtw.com/live/stream_2.m3u8
+
+WHU-CP,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+WHU,https://lingestingoren.latsyoving.xyz/live/n-4/chunks.m3u8
+WHU2,https://hls.streambtw.com/live/stream_4.m3u8
+
+BOU-AVL,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
+AVL,https://lingestingoren.latsyoving.xyz/live/n-3/chunks.m3u8
+AVL2,https://hls.streambtw.com/live/stream_1.m3u8
+
 SE A,#genre#
 LEC-BOL,https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 LEC,https://hls.streambtw.com/live/stream_7.m3u8
