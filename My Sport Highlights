@@ -1,6 +1,15 @@
 
 
+
 PL R14,#genre#
+MCI-TOT,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/3/51/268855/720p.m3u8
+LIV-FUL,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/3/51/268846/720p.m3u8
+CHE-BHA,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/3/51/268831/720p.m3u8
+WHU-CP,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/3/51/268832/720p.m3u8
+BOU-AVL,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/3/51/268844/720p.m3u8
+
+
+
 ARS-WOL,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/2/51/268663/720p.m3u8
 BRE-LUT,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/2/51/268659/720p.m3u8
 BUR-SHU,https://roo.vstreamnnetwork.com:443/UpFiles/2023/12/2/51/268682/720p.m3u8
