@@ -1,59 +1,18 @@
 
-PL R14,#genre#
-Arsenal-Wolves,https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
-ARS,https://lingestingoren.latsyoving.xyz/live/n-1/chunks.m3u8
-ARS2,https://hls.streambtw.com/live/stream_1.m3u8
-Brentford-Luton,https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-BRE,https://storage.googleapis.com/interingovin2/mux_video_ts/index-1.m3u8
-BRE2,https://hls.streambtw.com/live/stream_2.m3u8
-Burnley-Sheffield Utd,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
-BUR,https://lingestingoren.latsyoving.xyz/live/n-3/chunks.m3u8
-BUR2,https://hls.streambtw.com/live/stream_3.m3u8
-LIGA,#genre#
-GIR-VAL,https://hls.streambtw.com/live/stream_6.m3u8
-GIR,https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
-SE A,#genre#
-GEN-EMP,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
-GEN,https://hls.streambtw.com/live/stream_7.m3u8
+FMR1203,#genre#
+RMA-GRA1,https://ok6-5.vkuser.net:443/expires/1701649378234/srcIp/111.65.57.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/cyr2XAdRxNM/ct/8/urls/45.136.21.31%3B185.226.53.25/clientType/0/zs/43/id/5837592201940/video/
+RMA-GRA2,https://ok6-9.vkuser.net:443/expires/1701649402489/srcIp/111.65.57.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/2LuTD4lvslQ/ct/8/urls/45.136.20.38%3B45.136.21.71/clientType/0/zs/43/id/5837595216596/video/
 
-uk snooker,#genre#
-S.FINAL,https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
+NEW-MUN1,https://dsltl0tjyahh.lions-vidcdn.com:443/hls2/01/00941/o5oangoaky5x_n/index-v1-a1.m3u8?t=oiK8U1lHWJFNgVEe5IwouRT78qcAE72_KJk5b9Sy8sY&s=1701563394&e=129600&f=4705085&srv=wq6as3o5ie5g5dmb&i=111.65&sp=1500&p1=wq6as3o5ie5g5dmb&p2=wq6as3o5ie5g5dmb&asn=45143
+NEW-MUN2,https://ok6-12.vkuser.net:443/expires/1701649673601/srcIp/111.65.57.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/7pFTzJ0xNys/ct/8/urls/45.136.22.48%3B185.226.52.17/clientType/0/zs/43/id/5837785926356/video/
 
-FMR1201,#genre#
-LIV-LASK1,https://ok6-1.vkuser.net:443/expires/1701481512415/srcIp/119.234.4.130/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/rpyjCVmjD7c/ct/8/urls/45.136.20.53%3B45.136.21.11/clientType/0/zs/43/id/5631125555943/video/
-LIV-LASK2,https://ok6-12.vkuser.net:443/expires/1701481536207/srcIp/119.234.4.130/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/wLPwcppof3E/ct/8/urls/45.136.22.29%3B45.136.20.12/clientType/0/zs/43/id/5631133747943/video/
-TSC-WHU1,https://ok6-15.vkuser.net:443/expires/1701481911436/srcIp/111.65.44.236/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/wmX0QBUKxs8/ct/8/urls/45.136.20.33%3B45.136.22.61/clientType/0/zs/43/id/5631135320807/video/
-TSC-WHU2,https://ok6-7.vkuser.net:443/expires/1701481929941/srcIp/111.65.44.236/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/IdrK9R4n9MU/ct/8/urls/185.226.53.36%3B185.226.52.36/clientType/0/zs/43/id/5631130536679/video/
-
-
-
-FMR1130,#genre#
-ARS-LEN PRE,https://ok6-5.vkuser.net:443/expires/1701388284548/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/dnj_RwgTqHo/ct/8/urls/185.226.53.35%3B45.136.22.13/clientType/0/zs/43/id/5822373563092/video/
-ARS-LEN1,https://ok6-5.vkuser.net:443/expires/1701388302609/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/ASyiNDPRzZU/ct/8/urls/45.136.21.13%3B185.226.53.88/clientType/0/zs/43/id/5822377626324/video/
-ARS-LEN2,https://ok6-5.vkuser.net:443/expires/1701388370095/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/WvZrFHex9mM/ct/8/urls/45.136.20.11%3B185.226.53.60/clientType/0/zs/43/id/5822480583380/video/
-RMA-NAP1,https://ok6-1.vkuser.net:443/expires/1701389489923/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/jJLbuU8ahdg/ct/8/urls/185.226.53.34%3B45.136.21.24/clientType/0/zs/43/id/5822385097428/video/
-RMA-NAP2,https://ok6-14.vkuser.net:443/expires/1701389562426/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/c9M9wOWLyYE/ct/8/urls/45.136.21.14%3B185.226.52.73/clientType/0/zs/43/id/5822442965716/video/
-BEN-INT1,https://ok6-15.vkuser.net:443/expires/1701389666824/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/GeZPrlvYBC4/ct/8/urls/45.136.20.38%3B45.136.21.21/clientType/0/zs/43/id/5822487530196/video/
-BEN-INT2,https://ok6-3.vkuser.net:443/expires/1701390363942/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/TKnWv2IWHoI/ct/8/urls/185.226.53.39%3B45.136.20.75/clientType/0/zs/43/id/5822501554900/video/
-GAL-MUN1,https://ok6-5.vkuser.net:443/expires/1701390452689/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/DSbSI0jY87g/ct/8/urls/45.136.22.26%3B45.136.22.32/clientType/0/zs/43/id/5822392765140/video/
-GAL-MUN2,https://ok6-3.vkuser.net:443/expires/1701390473984/srcIp/111.65.70.83/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/OKk80qhh2SU/ct/8/urls/185.226.53.39%3B185.226.53.7/clientType/0/zs/43/id/5822382672596/video/
+MIL-FRO1,https://ok6-15.vkuser.net:443/expires/1701649979204/srcIp/111.65.69.20/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/hnu7v8Mfi74/ct/8/urls/185.226.52.34%3B185.226.53.42/clientType/0/zs/43/id/5837737495252/video/
+MIL-FRO2,https://ok6-11.vkuser.net:443/expires/1701649999095/srcIp/111.65.69.20/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/EioFdIrHIss/ct/8/urls/45.136.22.28%3B185.226.53.38/clientType/0/zs/43/id/5837739657940/video/
 
 
 
 
-
-FMR1129,#genre#
-MCI-RBL1,https://ok6-14.vkuser.net:443/expires/1701301237534/srcIp/111.65.46.44/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/gdwbZ88RsQQ/ct/8/urls/185.226.52.75%3B45.136.21.6/clientType/0/zs/43/id/5621774224103/video/
-MCI-RBL2,https://ok6-14.vkuser.net:443/expires/1701301258117/srcIp/111.65.46.44/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/oLvIpmh4BF0/ct/8/urls/45.136.21.21%3B185.226.53.90/clientType/0/zs/43/id/5621826390759/video/
-PSG-NEW1,https://ok6-3.vkuser.net:443/expires/1701303355424/srcIp/111.65.35.85/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/fhUBLa8vV-U/ct/8/urls/45.136.21.51%3B185.226.52.20/clientType/0/zs/43/id/5621775731431/video/
-PSG-NEW2,https://ok6-2.vkuser.net:443/expires/1701303368751/srcIp/111.65.35.85/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/z2nSiQAr8fA/ct/8/urls/185.226.53.93%3B185.226.53.86/clientType/0/zs/43/id/5621820820199/video/
-BAR-POR1,https://ok6-8.vkuser.net:443/expires/1701303446807/srcIp/111.65.35.85/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/H6feGH0zQ6g/ct/8/urls/45.136.22.27%3B45.136.22.38/clientType/0/zs/43/id/5621777369831/video/
-BAR-POR2,https://ok6-11.vkuser.net:443/expires/1701303486099/srcIp/111.65.35.85/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/ikmjlc74Wfo/ct/8/urls/45.136.20.68%3B45.136.21.68/clientType/0/zs/43/id/5621827898087/video/
-FEY-ATM1,https://ok6-13.vkuser.net:443/expires/1701303593533/srcIp/111.65.35.85/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/MdpOG0S5V5A/ct/8/urls/45.136.20.30%3B185.226.52.70/clientType/0/zs/43/id/5621786348263/video/
-FEY-ATM2,https://ok6-6.vkuser.net:443/expires/1701303607156/srcIp/111.65.35.85/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/vqhrEUkBLbc/ct/8/urls/45.136.20.32%3B45.136.22.41/clientType/0/zs/43/id/5621824031463/video/
-MIL-DOR1,https://ok6-15.vkuser.net:443/expires/1701304270453/srcIp/111.65.46.44/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/eMfUQVL-XNI/ct/8/urls/45.136.22.74%3B185.226.52.60/clientType/0/zs/43/id/5621772782311/video/
-MIL-DOR2,https://ok6-9.vkuser.net:443/expires/1701304286415/srcIp/111.65.46.44/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/T0c72WWYAiM/ct/8/urls/185.226.52.62%3B185.226.53.38/clientType/0/zs/43/id/5621830519527/video/
 
 
 
