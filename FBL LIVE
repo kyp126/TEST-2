@@ -4,7 +4,9 @@ PL R16,#genre#
 CP-LIV,https://hls.streambtw.com/live/stream_1.m3u8
 LIV,https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
 LIV2,https://cdn.freetvsports.xyz/es90/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcwMjEyMTYxMSZoYXNoX3ZhbHVlPVpUaGhNREV6TmprMU56QmlORE14WXpjME5qYzBPR0V4WWpnd05qazVPV1UmZXhwaXJ5PTE3MDIxMzI0MTEmaXA9MTI0LjI0Ni4xMDEuOTI%3D
-
+MUN-BOU,https://storage.googleapis.com:443/hzwgsrhrau/mux_video_ts/index-1.m3u8
+MUN,https://hls.streambtw.com/live/stream_1.m3u8
+MUN2,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 
 SA,#genre#
 HEL-LAZ,https://hls.streambtw.com/live/stream_7.m3u8
