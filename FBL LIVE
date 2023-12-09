@@ -3,7 +3,7 @@ PL R16,#genre#
 
 CP-LIV,https://hls.streambtw.com/live/stream_1.m3u8
 LIV,https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-
+LIV2,https://cdn.freetvsports.xyz/es90/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcwMjEyMTYxMSZoYXNoX3ZhbHVlPVpUaGhNREV6TmprMU56QmlORE14WXpjME5qYzBPR0V4WWpnd05qazVPV1UmZXhwaXJ5PTE3MDIxMzI0MTEmaXA9MTI0LjI0Ni4xMDEuOTI%3D
 
 FMR1209,#genre#
 JUV-NAP1,https://ok6-3.vkuser.net:443/expires/1702173375237/srcIp/124.246.101.92/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/IAouZQO0YQk/ct/8/urls/185.226.53.28%3B45.136.20.17/clientType/0/zs/43/id/5867911383764/video/
