@@ -1,37 +1,7 @@
 
-PL R16,#genre#
-
-CP-LIV,https://hls.streambtw.com/live/stream_1.m3u8
-LIV,https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-LIV2,https://cdn.freetvsports.xyz/es90/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcwMjEyMTYxMSZoYXNoX3ZhbHVlPVpUaGhNREV6TmprMU56QmlORE14WXpjME5qYzBPR0V4WWpnd05qazVPV1UmZXhwaXJ5PTE3MDIxMzI0MTEmaXA9MTI0LjI0Ni4xMDEuOTI%3D
-MUN-BOU,https://soccer.freesportstime.com/live/stream_1.m3u8
-MUN,https://hls.streambtw.com/live/stream_1.m3u8
-MUN2,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
-BHA-BUR,https://soccer.freesportstime.com/live/stream_2.m3u8
-BHA,https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-BHA2,https://hls.streambtw.com/live/stream_2.m3u8
-SHU-BRE,https://hls.streambtw.com/live/stream_3.m3u8
-SHU,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-SHU2,https://soccer.freesportstime.com/live/stream_3.m3u8
-WOL-NFO,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
-WOL,https://hls.streambtw.com/live/stream_4.m3u8
-WOL2,https://soccer.freesportstime.com/live/stream_4.m3u8
-
-LIGA,#genre#
-BET-RMA,https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-SA,#genre#
-HEL-LAZ,https://hls.streambtw.com/live/stream_7.m3u8
-LAZ,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-BUND,#genre#
-FRA-BAY,https://hls.streambtw.com/live/stream_10.m3u8
-BAY,https://soccer.freesportstime.com/live/stream_10.m3u8
-
-
-FMR1209,#genre#
-JUV-NAP1,https://ok6-3.vkuser.net:443/expires/1702173375237/srcIp/124.246.101.92/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/IAouZQO0YQk/ct/8/urls/185.226.53.28%3B45.136.20.17/clientType/0/zs/43/id/5867911383764/video/
-JUV-NAP2,https://ok6-15.vkuser.net:443/expires/1702173402918/srcIp/124.246.101.92/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/5FTR3JtyJQg/ct/8/urls/45.136.22.8%3B45.136.21.76/clientType/0/zs/43/id/5867913743060/video/
-
-
+FMR 1210,#genre#
+AVL-ARS1,https://ok6-1.vkuser.net:443/expires/1702252906148/srcIp/111.65.44.84/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/lPwLhsDJIJg/ct/8/urls/45.136.20.21%3B185.226.52.60/clientType/0/zs/43/id/5872522431188/video/
+AVL-ARS2,https://ok6-12.vkuser.net:443/expires/1702252929918/srcIp/111.65.44.84/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/UrZsr23Vfs8/ct/8/urls/45.136.20.20%3B185.226.53.8/clientType/0/zs/43/id/5872891595476/video/
 
 
 
