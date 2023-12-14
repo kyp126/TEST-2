@@ -10,8 +10,8 @@ DOR-PSG2,https://ok6-4.vkuser.net:443/expires/1702600034493/srcIp/111.65.71.46/p
 NEW-MIL1,https://ok6-3.vkuser.net:443/expires/1702600208350/srcIp/111.65.71.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/7dd9Lt-0yfc/ct/8/urls/185.226.53.93%3B185.226.52.80/clientType/0/zs/43/id/5692546288359/video/
 NEW-MIL2,https://ok6-1.vkuser.net:443/expires/1702600260020/srcIp/111.65.71.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/48GB7EMDTiE/ct/8/urls/45.136.22.12%3B185.226.53.43/clientType/0/zs/43/id/5692537244391/video/
 
-ATM-LAZ1,
-ATM-LAZ2,
+ATM-LAZ1,https://ok6-6.vkuser.net:443/expires/1702604813556/srcIp/111.65.71.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/XleC9PUIlgI/ct/8/urls/45.136.22.48%3B185.226.52.29/clientType/0/zs/43/id/5692566276839/video/
+ATM-LAZ2,https://ok6-7.vkuser.net:443/expires/1702604836290/srcIp/111.65.71.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/Feh-jcxILsQ/ct/8/urls/45.136.20.26%3B185.226.52.26/clientType/0/zs/43/id/5692567063271/video/
 
 ANT-BAR1,https://ok6-13.vkuser.net:443/expires/1702599857630/srcIp/111.65.71.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/9VdbI13elJ0/ct/8/urls/185.226.52.38%3B45.136.20.32/clientType/0/zs/43/id/5692549368551/video/
 ANT-BAR2,https://ok6-14.vkuser.net:443/expires/1702599945971/srcIp/111.65.71.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/_dIZOsLF-_A/ct/8/urls/185.226.52.10%3B185.226.53.89/clientType/0/zs/43/id/5692532263655/video/
