@@ -3,7 +3,7 @@
 PL R17,#genre#
 MCI-CP,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
 MCI,https://hls.streambtw.com/live/stream_3.m3u8
-
+MCI2,https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8
 CHE-SHU,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 CHE,https://hls.streambtw.com/live/stream_2.m3u8
 
