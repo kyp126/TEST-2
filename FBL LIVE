@@ -1,5 +1,11 @@
 
 
+PL R18,#genre#
+
+WHU-MUN,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+MUN,https://hls.streambtw.com/live/stream_1.m3u8
+MUN2,https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8
+
 CWC FINAL,#genre#
 MCI-FLU1,https://ok6-4.vkuser.net:443/expires/1703375366349/srcIp/111.65.70.92/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/L1ajyWku-Cg/ct/8/urls/185.226.53.28%3B45.136.20.68/clientType/0/zs/43/id/5735535413991/video/ 
 MCI-FLU2,https://ok6-4.vkuser.net:443/expires/1703375389738/srcIp/111.65.70.92/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/on5lGuDkyk0/ct/8/urls/45.136.21.20%3B185.226.53.36/clientType/0/zs/43/id/5735730449127/video/
