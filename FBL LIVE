@@ -3,6 +3,13 @@
 PL R18,#genre#
 FRO-JUV,https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
 JUV,https://hls.streambtw.com/live/stream_7.m3u8
+BOL-ATA,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+ATA,https://hls.streambtw.com/live/stream_8.m3u8
+TOR-UDI,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+UDI,https://hls.streambtw.com/live/stream_9.m3u8
+
+
+
 WHU-MUN,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
 MUN,https://hls.streambtw.com/live/stream_1.m3u8
 MUN2,https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8
