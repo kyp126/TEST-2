@@ -1,4 +1,19 @@
 
+PL R18,#genre#
+LIV-ARS,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/23/51/270439/720p.m3u8
+
+WHU-MUN,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/23/51/270373/720p.m3u8
+
+TOT-EVE,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/23/51/270410/720p.m3u8
+
+LUT-NEW,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/23/51/270386/720p.m3u8
+
+FUL-BUR,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/23/51/270409/720p.m3u8
+
+NFO-BOU,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/23/51/270394/720p.m3u8
+
+
+
 
 HL 1223,#genre#
 MCI-FLU,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/22/51/270346/720p.m3u8
@@ -11,28 +26,10 @@ EMP-LAZ,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/22/51/270337/720p.m3
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 HL1222,#genre#
 CP-BHA,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/21/51/270273/720p.m3u8
 ALA-RMA,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/21/51/270275/720p.m3u8
 
-HL1221,#genre#
-LIV-WHU,https://ree2.vstreamnnetwork.com:443/UpFiles/2023/12/20/51/270218/720p.m3u8
-BAR-ALM,https://ree2.vstreamnnetwork.com:443/UpFiles/2023/12/20/51/270176/720p.m3u8
-WOL-BAY,https://ree2.vstreamnnetwork.com:443/UpFiles/2023/12/20/51/270187/720p.m3u8
-PSG-METZ,https://ree2.vstreamnnetwork.com:443/UpFiles/2023/12/20/51/270227/720p.m3u8
-LEV-BOC,https://ree2.vstreamnnetwork.com:443/UpFiles/2023/12/20/51/270206/720p.m3u8
 
 
 
