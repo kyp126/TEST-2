@@ -1,5 +1,9 @@
 
 PL R19,#genre#
+EVE-MCI,https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/27/51/270672/720p.m3u8
+CHE-CP,https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/27/51/270659/720p.m3u8
+BRE-WOL,https://joo.vstreamnnetwork.com:443/UpFiles/2023/12/27/51/270660/720p.m3u8
+
 MUN-AVL,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/26/51/270608/720p.m3u8
 BUR-LIV,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/26/51/270580/720p.m3u8
 NEW-NFO,https://lop.vstreamnnetwork.com:443/UpFiles/2023/12/26/51/270541/720p.m3u8
