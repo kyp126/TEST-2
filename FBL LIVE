@@ -1,5 +1,14 @@
 
 PL R20,#genre#
+MCI-SHU,https://talkstream.pro/hls/fKFZL7coe6/index.m3u8?st=HRmI5yWuTzmMC9i2iYgfvg&e=1703956159
+MCI,https://hls.streambtw.com/live/stream_1.m3u8
+AVL-BUR,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+AVL,https://hls.streambtw.com/live/stream_2.m3u8
+WOL-EVE,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+EVE,https://hls.streambtw.com/live/stream_4.m3u8
+CP-BRE,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
+CP,https://hls.streambtw.com/live/stream_3.m3u8
+
 LUT-CHE,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
 CHE,https://hls.streambtw.com/live/stream_1.m3u8
 
