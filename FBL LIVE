@@ -1,4 +1,10 @@
 
+PL R20,#genre#
+LUT-CHE,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+CHE,https://hls.streambtw.com/live/stream_1.m3u8
+
+
+
 FMR1229,#genre#
 ARS-WHU1,https://ok6-3.vkuser.net:443/expires/1703899165202/srcIp/119.234.8.27/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/kzICyR2sMiI/ct/8/urls/185.226.52.17%3B185.226.52.58/clientType/0/zs/43/id/5775940651751/video/
 ARS-WHU2,https://ok6-7.vkuser.net:443/expires/1703899182742/srcIp/119.234.8.27/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/xsvN2NfoImQ/ct/8/urls/45.136.20.26%3B45.136.22.27/clientType/0/zs/43/id/5775946353383/video/
