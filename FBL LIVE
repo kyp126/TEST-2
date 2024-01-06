@@ -1,5 +1,9 @@
 
 
+FA R3,#genre#
+MIL-LEI,https://soccer.freesportstime.com/live/stream_2.m3u8
+LEI,https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+
 
 LIVE GAME0106,#genre#
 INT-VER,https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
