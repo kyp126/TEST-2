@@ -1,13 +1,6 @@
 
-EPL R21,#genre#
-ARS-CPL,https://soccer.freesportstime.com/live/stream_1.m3u8
-ARS,https://hls.streambtw.com/live/stream_1.m3u8
-ARS1,https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-
-
-AFC,#genre#
-JOR-KOR,https://play1nm.hnyongshun.cn/live/hd-zh-318q66h6yl5wqo9.m3u8
-
+FMR0121,#genre#
+JOR-KOR,https://ok6-2.vkuser.net:443/expires/1705881977100/srcIp/138.75.17.205/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/6vBaAIr26sU/ct/8/urls/185.226.53.39%3B45.136.21.70/clientType/0/zs/43/id/6103039019732/video/
 
 
 FMR,#genre#
