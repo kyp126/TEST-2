@@ -1,19 +1,10 @@
 
-LIVE 0127,#genre#
-EVE-LUT,https://hls.streambtw.com/live/stream_4.m3u8
-EVE,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-LEE-PLY,https://hls.streambtw.com/live/stream_2.m3u8
-LEE,https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-SHU-BRI,https://hls.streambtw.com/live/stream_3.m3u8
-SHU,https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8
-LEI-BIR,https://hls.streambtw.com/live/stream_5.m3u8
-LEI,https://wenkisterin.latsyoving.xyz/live/n-6/chunks.m3u8
-AUG-BAY,https://soccer.freesportstime.com/live/stream_12.m3u8
-BAY,https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
+CAF R16,#genre#
+NGA-CMR1,https://ok6-12.vkuser.net:443/expires/1706486288786/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/Jq3__I2tNN0/ct/8/urls/45.136.21.71%3B45.136.22.44/clientType/0/zs/43/id/5926493620967/video/
+NGA-CMR2,https://ok6-9.vkuser.net:443/expires/1706486306660/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/dOeLOWO89xk/ct/8/urls/185.226.52.80%3B45.136.20.52/clientType/0/zs/43/id/5926496570087/video/
 
 
 
-IPS-MAI,https://hls.streambtw.com/live/stream_1.m3u8
 
 
 
@@ -32,11 +23,6 @@ KOR-MAS2,https://ok6-5.vkuser.net:443/expires/1706352961722/srcIp/124.197.106.80
 
 
 
-FMR 0125,#genre#
-FUL-LIV1,https://ok6-14.vkuser.net:443/expires/1706234755871/srcIp/111.65.68.56/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/a4FxntMaXG0/ct/8/urls/185.226.52.71%3B45.136.21.50/clientType/0/zs/43/id/5912223025895/video/
-FUL-LIV2,https://ok6-9.vkuser.net:443/expires/1706234801360/srcIp/111.65.68.56/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/B6WwDwtFdhw/ct/8/urls/45.136.21.33%3B185.226.53.25/clientType/0/zs/43/id/5912226171623/video/
-ATB-BAR1,https://ok6-6.vkuser.net:443/expires/1706234858903/srcIp/111.65.68.56/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/9c8_SarKGgg/ct/8/urls/45.136.21.52%3B45.136.22.26/clientType/0/zs/43/id/5912223615719/video/
-ATB-BAR2,https://ok6-7.vkuser.net:443/expires/1706234888116/srcIp/111.65.68.56/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/EnQ-E1EAPVU/ct/8/urls/185.226.52.12%3B45.136.20.39/clientType/0/zs/43/id/5912313531111/video/
 
 
 
