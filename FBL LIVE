@@ -1,4 +1,8 @@
 
+AFC,#genre#
+IRQ-JOR,https://play1nm.hnyongshun.cn/live/hd-zh-pxwrxlhx4pp9ryk.m3u8
+
+
 FMR0129,#genre#
 EGY-CON1,https://ok6-11.vkuser.net:443/expires/1706602089396/srcIp/111.65.44.61/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/u2Zz3jIkh9A/ct/8/urls/185.226.53.7%3B45.136.21.73/clientType/0/zs/43/id/5931259792103/video/
 EGY-CON2,https://ok6-14.vkuser.net:443/expires/1706602129409/srcIp/111.65.44.61/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/qwk7esT2TL8/ct/8/urls/45.136.21.35%3B185.226.52.69/clientType/0/zs/43/id/5931264445159/video/
@@ -11,21 +15,6 @@ PSG-BRE2,https://ok6-2.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=17066113
 
 
 
-CAF R16,#genre#
-NGA-CMR1,https://ok6-12.vkuser.net:443/expires/1706486288786/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/Jq3__I2tNN0/ct/8/urls/45.136.21.71%3B45.136.22.44/clientType/0/zs/43/id/5926493620967/video/
-NGA-CMR2,https://ok6-9.vkuser.net:443/expires/1706486306660/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/dOeLOWO89xk/ct/8/urls/185.226.52.80%3B45.136.20.52/clientType/0/zs/43/id/5926496570087/video/
-
-FUL-NEW1,https://ok6-12.vkuser.net:443/expires/1706486536404/srcIp/111.65.71.39/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/x039-PCYtmY/ct/8/urls/45.136.22.16%3B45.136.21.9/clientType/0/zs/43/id/5926486084327/video/
-FUL-NEW2,https://ok6-2.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1706486596502&srcIp=111.65.71.39&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=2&sig=86QO4IJkBC4&ct=8&urls=185.226.53.38%3B185.226.52.37&clientType=0&zs=43&id=5926487395047
-
-BAR-VIL1,https://ok6-8.vkuser.net:443/expires/1706486788803/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/QT7hftiVXj8/ct/8/urls/45.136.20.14%3B45.136.22.23/clientType/0/zs/43/id/5926453578471/video/
-BAR-VIL2,https://ok6-7.vkuser.net:443/expires/1706486895743/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/sZyj0nXN4fw/ct/8/urls/185.226.52.24%3B185.226.53.13/clientType/0/zs/43/id/5926459017959/video/
-
-LPA-RMA1,https://ok6-9.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1706487624502&srcIp=119.234.8.80&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=2&sig=3Rhbh3vanY8&ct=8&urls=185.226.52.12%3B185.226.53.60&clientType=0&zs=43&id=5979976305271
-LPA-RMA2,https://ok6-5.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1706487645860&srcIp=119.234.8.80&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=2&sig=Lw2fJH0eLXs&ct=8&urls=45.136.20.50%3B185.226.52.69&clientType=0&zs=43&id=5980016085623
-
-MIL-BOL1,https://ok6-4.vkuser.net:443/expires/1706487058417/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/5rwb1bVsP7E/ct/8/urls/45.136.21.15%3B45.136.20.23/clientType/0/zs/43/id/5980287928951/video/
-MIL-BOL2,https://ok6-9.vkuser.net:443/expires/1706487079054/srcIp/119.234.8.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/opsVLCrq15Y/ct/8/urls/185.226.52.42%3B45.136.20.52/clientType/0/zs/43/id/5926501419751/video/
 
 
 
@@ -33,18 +22,11 @@ MIL-BOL2,https://ok6-9.vkuser.net:443/expires/1706487079054/srcIp/119.234.8.80/p
 
 
 
-HL 0127,#genre#
-TOT-MCI,https://uro.upfootvid.com:443/UpFiles/2024/1/26/51/272819/720p.m3u8
-CHE-AVL,https://uro.upfootvid.com:443/UpFiles/2024/1/26/51/272812/720p.m3u8
-SHW-COV,https://uro.upfootvid.com:443/UpFiles/2024/1/26/51/272808/720p.m3u8
-BRI-NOT,https://uro.upfootvid.com:443/UpFiles/2024/1/26/51/272816/720p.m3u8
 
 
 
-FMR 0126,#genre#
-KSA-THA,https://ok6-11.vkuser.net:443/expires/1706352754907/srcIp/124.197.106.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/bY7GdvpEzFM/ct/8/urls/185.226.52.36%3B45.136.20.71/clientType/0/zs/43/id/6127633238740/video/
-KOR-MAS1,https://ok6-13.vkuser.net:443/expires/1706352926478/srcIp/124.197.106.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/N0i1XzYAmkQ/ct/8/urls/185.226.53.90%3B45.136.20.75/clientType/0/zs/43/id/6127623211732/video/
-KOR-MAS2,https://ok6-5.vkuser.net:443/expires/1706352961722/srcIp/124.197.106.80/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/Sv8JaUDqbCM/ct/8/urls/45.136.22.8%3B185.226.52.62/clientType/0/zs/43/id/6127626619604/video/
+
+
 
 
 
