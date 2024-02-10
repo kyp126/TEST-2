@@ -1,4 +1,11 @@
 
+HL 0210,#genre#
+DOR-SCF,https://cdn01.dirgventures.com:443/UpFiles/2024/2/9/51/274139/720p.m3u8
+CAD-BET,https://cdn01.dirgventures.com:443/UpFiles/2024/2/9/51/274141/720p.m3u8
+SAL-EMP,https://cdn01.dirgventures.com:443/UpFiles/2024/2/9/51/274142/360p.m3u8
+MAR-MET,https://cdn01.dirgventures.com:443/UpFiles/2024/2/9/51/274140/720p.m3u8
+
+
 HL 0208,#genre#
 AVL-CHE,https://cdn01.dirgventures.com:443/UpFiles/2024/2/7/51/274082/720p.m3u8
 
@@ -21,10 +28,6 @@ MAL-RSC,https://cdn01.dirgventures.com:443/UpFiles/2024/2/6/51/273978/720p.m3u8
 
 
 
-HL 0206,#genre#
-BRE-MCI,https://cdn01.dirgventures.com:443/UpFiles/2024/2/5/51/273936/720p.m3u8
-ROM-CAG,https://cdn01.dirgventures.com:443/UpFiles/2024/2/5/51/273941/720p.m3u8
-VAL-SEV,https://cdn01.dirgventures.com:443/UpFiles/2024/2/5/51/273939/720p.m3u8
 
 
 
