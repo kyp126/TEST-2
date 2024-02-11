@@ -1,42 +1,13 @@
 
-LIVE0210,#genre#
-JOR-QAT,https://play1nm.hnyongshun.cn/live/hd-zh-k82rekh0kzzjrep.m3u8
-LIV-BUR,https://talkstream.pro/hls/fKFZL7coe6/index.m3u8?st=LXBSYY3giHsQuGUYrhVl0A&e=1707588608#https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8
-LIV,https://salamus2022.webhd.ru:443/ddh1/premium343/tracks-v1a1/mono.m3u8
-LIV1,https://hls.streambtw.com/live/stream_1.m3u8
-LIV2,https://play1nm.hnyongshun.cn/live/hd-zh-y39mp1h0ln1kmoj.m3u8
-TOT-BHA,https://talkstream.pro/hls/Xal12pqF7V/index.m3u8?st=s5JlajENC68Aw2LFGAUmWw&e=1707588766#https://ovo.eelov.com/live/n-2/chunks.m3u8
-TOT,https://soccer.freesportstime.com/live/stream_4.m3u8
-TOT1,https://hls.streambtw.com/live/stream_3.m3u8
-LUT,https://talkstream.pro/hls/FduLiCc3XH/index.m3u8?st=iT1ZobCOW0ZJGtydhRKRsw&e=1707588825
-WOL-BRE,https://talkstream.pro/hls/IX8AP51sf4/index.m3u8?st=G9DLxQuaaSBdZ4oZTiz1-g&e=1707588899#https://ovo.eelov.com/live/n-5/chunks.m3u8
-WOL,https://soccer.freesportstime.com/live/stream_5.m3u8
-WOL1,https://hls.streambtw.com/live/stream_5.m3u8
-FUL-BOU,https://talkstream.pro/hls/09nRTVzjav/index.m3u8?st=hIMurmDtEcAChNtU8QOdqw&e=1707588694#https://ovo.eelov.com/live/n-3/chunks.m3u8
-FUL,https://soccer.freesportstime.com/live/stream_2.m3u8
-FUL1,https://hls.streambtw.com/live/stream_2.m3u8
-MCI-EVE,https://soccer.freesportstime.com/live/stream_1.m3u8
-MCI,https://shora-streams.com/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDExOjEwOjQ3IEFNJmhhc2hfdmFsdWU9TGI3bXFkMldOZllNVUltZzc5a0hFdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTI0LjI0Ni44MC4yNTImc3RybV9sZW49NQ==
-MCI2,https://katanaboss.online/chunklist/hlsch1.m3u8
-MCI3,https://ovo.eelov.com/live/n-1/chunks.m3u8
-EVE,https://play1nm.hnyongshun.cn/live/hd-zh-318q66h6epj2qo9.m3u8
+
+FMR0211,#genre#
+PSG-LOSC1,https://ok6-7.vkuser.net:443/expires/1707703390312/srcIp/124.246.121.96/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/C-tiJUnO8iU/ct/8/urls/45.136.21.35%3B185.226.52.57/clientType/0/zs/43/id/5991740213991/video/
+PSG-LOSC2,https://ok6-8.vkuser.net:443/expires/1707703429822/srcIp/124.246.121.96/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/XaWG_bQBKNI/ct/8/urls/185.226.52.58%3B45.136.20.32/clientType/0/zs/43/id/5991726713575/video/
+
+
 
 FMR0210,#genre#
 HIL-NAS,https://ok6-8.vkuser.net:443/expires/1707612959764/srcIp/124.246.80.252/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/eMM5VpqY0ow/ct/8/urls/185.226.52.70%3B185.226.53.73/clientType/0/zs/43/id/5982071556839/video/
-
-FMR0208,#genre#
-AVL-CHE1,https://ok6-14.vkuser.net:443/expires/1707433329070/srcIp/111.65.59.95/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/jSYen3ZgNFo/ct/8/urls/185.226.53.16%3B185.226.52.36/clientType/0/zs/43/id/6189833521876/video/
-AVL-CHE2,https://dsltl0tjyahh.enaak-cdn.com:443/hls2/01/01224/692fn5te5166_n/index-v1-a1.m3u8?t=Vf9AOdyOwnQ4oWh5CX1pKOA8Fr_ATfkPf5YEMsqikCM&s=1707388721&e=129600&f=6124945&srv=R5c6mhr83i3r&i=138.75&sp=1500&p1=R5c6mhr83i3r&p2=R5c6mhr83i3r&asn=4773
-PSG-BRE,https://ok6-5.vkuser.net:443/expires/1707474894282/srcIp/138.75.8.174/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/I3GZVcOd79I/ct/8/urls/185.226.53.23%3B185.226.52.71/clientType/0/zs/43/id/5975094594152/video/
-CIV-COD,https://ok6-12.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1707475030834&srcIp=138.75.8.174&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=2&sig=HjTZO_WHzzE&ct=8&urls=185.226.53.44%3B45.136.20.19&clientType=0&zs=43&id=6190402046676
-NGA-RSA,https://ok6-9.vkuser.net:443/expires/1707475272981/srcIp/138.75.8.174/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/SfvfByB6S2g/ct/8/urls/185.226.53.16%3B45.136.22.80/clientType/0/zs/43/id/6190420331220/video/
-IRN-QAT,https://ok6-3.vkuser.net:443/expires/1707475373626/srcIp/138.75.8.174/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/AGRkVfqurDE/ct/8/urls/45.136.21.33%3B185.226.53.62/clientType/0/zs/43/id/6190431275732/video/
-
-JOR-KOR,https://ok6-5.vkuser.net:443/expires/1707437508544/srcIp/111.65.69.243/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/nQc9PsSgweY/ct/8/urls/185.226.53.74%3B185.226.52.10/clientType/0/zs/43/id/6189815302868/video/
-
-
-
-
 
 
 
