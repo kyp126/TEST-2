@@ -1,4 +1,11 @@
 
+LIVE 0224,#genre#
+SAS-EMP,https://flex4.xyz/live/zone-66/chunks.m3u8
+EMP,https://hls.streambtw.com/live/stream_7.m3u8
+EMP,https://talkstream.pro/hls/KFy1osEWIn/index.m3u8?st=K-7GmP3pVrTMLWHAc4-4Bw&e=1708791263
+
+
+
 FMR0223,#genre#
 ROM-FEY1,https://ok6-14.vkuser.net:443/expires/1708770492348/srcIp/138.75.41.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/_rmyDuFmdNA/ct/8/urls/185.226.53.92%3B45.136.21.5/clientType/0/zs/43/id/5961838889628/video/
 ROM-FEY2,https://ok6-7.vkuser.net:443/expires/1708770513524/srcIp/138.75.41.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/lCeKGcccxQE/ct/8/urls/45.136.21.34%3B185.226.52.71/clientType/0/zs/43/id/6048581159655/video/
@@ -9,17 +16,6 @@ MIA-RSL2,https://ok6-3.vkuser.net:443/expires/1708771232758/srcIp/138.75.41.142/
 
 
 
-
-
-
-FMR0222,#genre#
-POR-ARS1,https://ok6-8.vkuser.net:443/expires/1708643925326/srcIp/119.234.4.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/B0wDB4yt-OA/ct/8/urls/185.226.53.92%3B45.136.22.8/clientType/0/zs/43/id/6098520574583/video/
-POR-ARS2,https://ok6-14.vkuser.net:443/expires/1708643888956/srcIp/119.234.4.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/TN7iMKGSOgQ/ct/8/urls/45.136.21.34%3B45.136.22.8/clientType/0/zs/43/id/6098617109111/video/
-NAP-BAR1,https://ok6-4.vkuser.net:443/expires/1708644137581/srcIp/119.234.4.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/jmJ1gsVDKkk/ct/8/urls/45.136.20.78%3B185.226.52.56/clientType/0/zs/43/id/6098509040247/video/
-NAP-BAR2,https://ok6-4.vkuser.net:443/expires/1708644162724/srcIp/111.65.44.81/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/UOyGSExWuBs/ct/8/urls/185.226.52.12%3B45.136.21.49/clientType/0/zs/43/id/6098610096759/video/
-LIV-LUT1,https://ok6-11.vkuser.net:443/expires/1708644318067/srcIp/119.234.4.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/xepZXM5CSvs/ct/8/urls/185.226.53.21%3B185.226.52.32/clientType/0/zs/43/id/6098458577527/video/
-LIV-LUT2,https://ok6-4.vkuser.net:443/expires/1708646162120/srcIp/119.234.4.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/JyC7cVwTDPg/ct/8/urls/185.226.52.35%3B45.136.21.34/clientType/0/zs/43/id/6098578377335/video/
-NAS-FAY,https://ok6-12.vkuser.net:443/expires/1708684268778/srcIp/124.197.97.100/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/jCk8_jilDJo/ct/8/urls/45.136.21.4%3B185.226.53.43/clientType/0/zs/43/id/6098601511543/video/
 
 
 
