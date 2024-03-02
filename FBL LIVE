@@ -3,7 +3,7 @@ LIVE 0302,#genre#
 
 F1BAHRAIN,https://ovo.eelov.com/live/f1/chunks.m3u8
 
-NFO-LIV,https://flex3.xyz/live/zone-22/chunks.m3u8
+NFO-LIV,https://flex2.xyz/live/zone-22/chunks.m3u#https://flex3.xyz/live/zone-22/chunks.m3u8
 LIV1,https://sportsleading.online/live/stream_5.m3u8
 LIV2,https://ovo.eelov.com/live/n-2/chunks.m3u8
 
