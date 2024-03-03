@@ -1,33 +1,10 @@
 
-LIVE 0302,#genre#
-
-F1BAHRAIN,https://ovo.eelov.com/live/f1/chunks.m3u8
-F1,https://flex5.xyz/live/f1/chunks.m3u8
-LIV3,https://talkstream.pro/hls/09nRTVzjav/index.m3u8?st=ZxHl2HKG2lj6pSiX4YmwpA&e=1709404724
-NFO-LIV,https://flex2.xyz/live/zone-22/chunks.m3u#https://flex3.xyz/live/zone-22/chunks.m3u8
-LIV1,https://sportsleading.online/live/stream_5.m3u8
-LIV2,https://ovo.eelov.com/live/n-2/chunks.m3u8
-
-BRE-CHE,https://ovo.eelov.com/live/n-1/chunks.m3u8
-CHE1,https://sportsleading.online/live/stream_1.m3u8
-
-EVE-WHU,https://ovo.eelov.com/live/n-4/chunks.m3u8
-EVE1,https://sportsleading.online/live/stream_2.m3u8
 
 
 
-FUL-BHA,https://ovo.eelov.com/live/n-5/chunks.m3u8
-BHA1,https://sportsleading.online/live/stream_3.m3u8
-
-
-NEW-WOL,https://ovo.eelov.com/live/n-6/chunks.m3u8
-NEW1,https://sportsleading.online/live/stream_4.m3u8
-
-
-
-TOT-CPL,https://ovo.eelov.com/live/n-3/chunks.m3u8
-TOT1,https://hls.streambtw.com/live/stream_14.m3u8
-
+FMR0303,#genre#
+MIA-ORL1,https://ok6-14.vkuser.net:443/expires/1709514104873/srcIp/138.75.12.74/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/y4OqmzCeRsc/ct/8/urls/45.136.22.36%3B185.226.53.34/clientType/0/zs/43/id/6091515759335/video/
+MIA-ORL2,https://vd348.mycdn.me:443/expires/1709514140618/srcIp/138.75.12.74/pr/10/srcAg/CHROME_ANDROID/ms/45.136.22.71/type/3/sig/16GmschZgJk/ct/8/urls/45.136.21.49/clientType/0/zs/43/id/6091540138727/video/
 
 
 
