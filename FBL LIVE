@@ -1,10 +1,7 @@
 
 
 LIVE 0303,#genre#
-VER-SAS,https://soccer.freesportstime.com/live/stream_7.m3u8
-VER,https://ovo.eelov.com/live/n-3/chunks.m3u8
-BUR-BOU,https://flex4.xyz/live/zone-11/chunks.m3u8
-BUR,https://ovo.eelov.com/live/n-1/chunks.m3u8
+MCI1,https://flex2.xyz/live/zone-11/chunks.m3u8
 MCI-MUN,https://flex4.xyz/live/zone-11/chunks.m3u8#https://flex10.xyz/live/zone-11/chunks.m3u8
 MCI,https://ovo.eelov.com/live/n-1/chunks.m3u8
 
