@@ -3,6 +3,11 @@
 LIVE0401,#genre#
 BOL-SAL,https://flex5.xyz/live/zone-11/chunks.m3u8
 BOL,https://ovo.eelov.com/live/n-1/chunks.m3u8
+CAG-VER,,https://flex5.xyz/live/zone-11/chunks.m3u8
+CAG,https://ovo.eelov.com/live/n-1/chunks.m3u8
+
+
+
 
 FMR0401,#genre#
 PRE MC,https://ok6-12.vkuser.net:443/expires/1712015155290/srcIp/124.246.102.226/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/FnRSlM7w9qU/ct/8/urls/45.136.22.29%3B45.136.20.40/clientType/0/zs/43/id/6465586203314/video/
