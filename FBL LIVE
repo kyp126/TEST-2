@@ -3,6 +3,9 @@
 NBA LIVE0403,#genre#
 N1,https://twoflow.xyz/hls/ballysun/index.m3u8
 N1a,https://cdn.freetvsports.xyz:443/es45/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxMjEwMDQ4MiZoYXNoX3ZhbHVlPU5qVmxZbVZoWW1NMFltSXlaVGRtWWprME9ESTVZbVl3TjJVM01HUXlaakUmZXhwaXJ5PTE3MTIxMTEyODImaXA9MTI0LjI0Ni42Ni41Ng%3D%3D
+N2,https://twoflow.xyz/hls/altitude/index.m3u8
+
+N2a,https://cdn.freetvsports.xyz:443/es47/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxMjEwNjQ4NiZoYXNoX3ZhbHVlPU56UTJOVEU0WVRBME5tSmtNRGRqWXpjeE16Vm1Zemt3TnpVek1tTTBOekEmZXhwaXJ5PTE3MTIxMTcyODYmaXA9MTExLjY1LjU2LjEyNQ%3D%3D
 
 
 FMR0401,#genre#
