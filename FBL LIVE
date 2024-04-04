@@ -1,5 +1,8 @@
 
 FMR0404,#genre#
+ARS-LUT1,https://ok6-14.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712277853963&srcIp=111.65.46.88&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=2&sig=gqOh7Ekt7Gc&ct=8&urls=45.136.22.29%3B45.136.21.33&clientType=0&zs=43&id=6085802265186
+ARS-LUT2,https://ok6-9.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712277877857&srcIp=111.65.46.88&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=2&sig=ANAb8Zid_l4&ct=8&urls=45.136.22.7%3B45.136.20.32&clientType=0&zs=43&id=6247951174154
+
 MC-AVL1,https://ok6-9.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712277648494&srcIp=111.65.33.73&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=2&sig=xxGN81gJ8AM&ct=8&urls=185.226.52.74%3B45.136.20.74&clientType=0&zs=43&id=6247904643594
 MC-AVL2,https://ok6-8.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712277715556&srcIp=111.65.33.73&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=2&sig=AhXYbHh4eTM&ct=8&urls=45.136.22.71%3B45.136.20.38&clientType=0&zs=43&id=6248036764170
 
