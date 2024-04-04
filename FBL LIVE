@@ -6,6 +6,13 @@ ARS-LUT2,https://ok6-9.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=17122778
 MC-AVL1,https://ok6-9.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712277648494&srcIp=111.65.33.73&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=2&sig=xxGN81gJ8AM&ct=8&urls=185.226.52.74%3B45.136.20.74&clientType=0&zs=43&id=6247904643594
 MC-AVL2,https://ok6-8.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712277715556&srcIp=111.65.33.73&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=2&sig=AhXYbHh4eTM&ct=8&urls=45.136.22.71%3B45.136.20.38&clientType=0&zs=43&id=6248036764170
 
+PSG-REN1,https://ok6-11.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712280266874&srcIp=111.65.46.88&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=2&sig=hdR0qRVrdxc&ct=8&urls=45.136.21.29%3B185.226.53.23&clientType=0&zs=43&id=6241846364776
+PSG-REN2,https://ok6-3.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1712280299023&srcIp=111.65.46.88&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=2&sig=tOrBiZYxvBQ&ct=8&urls=185.226.52.43%3B45.136.22.80&clientType=0&zs=43&id=6241897089640
+
+
+
+
+
 
 
 COPPA,#genre#
