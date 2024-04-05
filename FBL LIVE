@@ -1,4 +1,7 @@
 
+JP F1,#genre#
+P1,https://flex5.xyz/live/f1/chunks.m3u8
+
 FMR0405,#genre#
 CHE-MUN1,https://ok6-12.vkuser.net:443/expires/1712366632800/srcIp/111.65.56.58/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/t074hj7M0fY/ct/8/urls/185.226.53.35%3B45.136.22.25/clientType/0/zs/43/id/6305500564087/video/
 CHE-MUN2,https://ok6-1.vkuser.net:443/expires/1712366657402/srcIp/111.65.56.58/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/GkxUMPCLurU/ct/8/urls/45.136.21.74%3B45.136.22.42/clientType/0/zs/43/id/6305619315319/video/
