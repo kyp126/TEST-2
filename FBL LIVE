@@ -1,13 +1,16 @@
 
 
 EPL,#genre#
-CP-MC,https://flex5.xyz/live/zone-11/chunks.m3u8
-MC,https://ovo.eelov.com/live/n-1/chunks.m3u8
-MC1,https://talkstream.pro/hls/FduLiCc3XH/index.m3u8?st=eGTKbzqzDPz-2C2Tx-L0_w&e=1712412230
-M2,https://flex2.xyz/live/zone-11/chunks.m3u8
-M3,https://flex3.xyz/live/zone-11/chunks.m3u8
-M4,https://katanaboss.online/chunklist/hlsch1.m3u8
 MIL-LEC,https://flex3.xyz/live/zone-66/chunks.m3u8
+AVL-BRE,https://plstreams100.stream/live/ss100/chunks.m3u8
+AVL,https://ovo.eelov.com/live/n-1/chunks.m3u8
+AVL1,https://katanaboss.online/chunklist/hlsch1.m3u8
+
+
+
+
+
+
 
 
 
