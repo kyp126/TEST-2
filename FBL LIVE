@@ -214,36 +214,15 @@ kaki15,https://cdn.linecrystal.com:443/index_15.m3u8
 
 
 Sport Kaki,#genre#
-1,https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-2,https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
-3,https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-4,https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-5,https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-6,https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-7,https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
-8,https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
-9,https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-10,https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
-11,https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
-12,https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
-13,https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
-14,https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
-15,https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
-16,https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
-17,https://headlinessportsfoot.com/chunklist/hlsch17.m3u8
-18,https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
-19,https://headlinessportsfoot.com/chunklist/hlsch19.m3u8
-20,https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
-21,https://headlinessportsfoot.com/chunklist/hlsch21.m3u8
-22,https://headlinessportsfoot.com/chunklist/hlsch22.m3u8
-23,https://headlinessportsfoot.com/chunklist/hlsch23.m3u8
-24,https://headlinessportsfoot.com/chunklist/hlsch24.m3u8
-25,https://headlinessportsfoot.com/chunklist/hlsch25.m3u8
-26,https://headlinessportsfoot.com/chunklist/hlsch26.m3u8
-27,https://headlinessportsfoot.com/chunklist/hlsch27.m3u8
-28,https://headlinessportsfoot.com/chunklist/hlsch28.m3u8
-29,https://headlinessportsfoot.com/chunklist/hlsch29.m3u8
-30,https://headlinessportsfoot.com/chunklist/hlsch30.m3u8
+1,https://flex2.xyz/live/zone-11/chunks.m3u8
+2,https://flex3.xyz/live/zone-22/chunks.m3u8
+3,https://flex3.xyz/live/zone-33/chunks.m3u8
+4,https://flex3.xyz/live/zone-44/chunks.m3u8
+5,https://flex3.xyz/live/zone-55/chunks.m3u8
+6,,https://flex3.xyz/live/zone-66/chunks.m3u8
+7,,https://flex3.xyz/live/zone-77/chunks.m3u8
+8,,https://flex3.xyz/live/zone-88/chunks.m3u8
+9,https://flex3.xyz/live/zone-99/chunks.m3u8
 
 
 SPORT,#genre#
