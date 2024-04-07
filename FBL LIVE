@@ -7,7 +7,7 @@
 JP F1,#genre#
 RACE,https://flex5.xyz/live/f1/chunks.m3u8
 R1,https://ovo.eelov.com/live/f1/chunks.m3u8
-
+R2,https://katanaboss.online/chunklist/hlsch1.m3u8
 
 FMR0407,#genre#
 BHA-ARS1,https://ok6-8.vkuser.net:443/expires/1712539211030/srcIp/124.197.107.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/RTqem7EoLfU/ct/8/urls/45.136.21.73%3B185.226.52.30/clientType/0/zs/43/id/6382998718989/video/
