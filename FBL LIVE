@@ -1,12 +1,10 @@
 
 
 
-LIVE0307,#genre#
-MUN-LIV,https://flex5.xyz/live/zone-11/chunks.m3u8
-MUN,https://ovo.eelov.com/live/n-1/chunks.m3u8
-MUN1,https://d.nakdona.org:443/live/65b9e03a17acb/chunks.m3u8
-MUN2,https://katanaboss.online/chunklist/hlsch1.m3u8
-MUN3,https://plstreams100.stream/live/ss100/chunks.m3u8
+COPA FINAL,#genre#
+ATB-MAL1,https://ok6-14.vkuser.net:443/expires/1712622310847/srcIp/111.65.46.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/jYe9g8lYp8w/ct/8/urls/185.226.52.56%3B45.136.20.56/clientType/0/zs/43/id/6255588018919/video/
+ATB-MAL2full,https://ok6-12.vkuser.net:443/expires/1712622291215/srcIp/111.65.46.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/srfmor6jov8/ct/8/urls/185.226.52.73%3B45.136.22.71/clientType/0/zs/43/id/6255620066023/video/
+
 
 
 FMR0407,#genre#
