@@ -7,7 +7,7 @@ ARS1,https://plstreams100.stream/live/ss100/chunks.m3u8
 
 RMA-MCI,https://flex3.xyz/live/zone-22/chunks.m3u8
 RMA,https://ovo.eelov.com/live/n-2/chunks.m3u8
-RMA1,ARS1,https://plstreams100.stream/live/ss200/chunks.m3u8
+RMA1,https://plstreams100.stream/live/ss200/chunks.m3u8
 
 EPL-R32,#genre#
 MUN PRE,https://ok6-13.vkuser.net:443/expires/1712622873691/srcIp/111.65.46.163/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/7Rm7S-IfTBg/ct/8/urls/185.226.52.17%3B45.136.21.76/clientType/0/zs/43/id/6481502538452/video/
