@@ -1,26 +1,6 @@
 
-LIVE 0413,#genre#
-MCI-LUT,https://flex3.xyz/live/zone-11/chunks.m3u8
-MCI1,https://dash.ovocloud.site:443/n-1_2.m3u8
-MCI2,https://plstreams100.stream/live/ss100/chunks.m3u8
-MCI3,https://ikfvjd29nz.azureedge.net:443/live/sppl/chunks.m3u8
-https://dash.ovocloud.site:443/n-1_2.m3u8
-BRE-SHU,https://flex5.xyz/live/zone-22/chunks.m3u8
-BRE1,https://ovo.eelov.com/live/n-2/chunks.m3u8  
-BRE2,https://ikfvjd29nz.azureedge.net:443/live/sp2/chunks.m3u8
-NFO-WOL,https://flex5.xyz/live/zone-44/chunks.m3u8
-NFO1,https://ovo.eelov.com/live/n-4/chunks.m3u8  
-NFO2,https://ikfvjd29nz.azureedge.net:443/live/usa/chunks.m3u8
-BUR-BHA,https://flex5.xyz/live/zone-33/chunks.m3u8
-BUR1,https://ovo.eelov.com/live/n-3/chunks.m3u8  
-BUR2,https://ikfvjd29nz.azureedge.net:443/live/sp3/chunks.m3u8
-NEW-TOT,https://flex3.xyz/live/zone-11/chunks.m3u8
-NEW1,https://ovo.eelov.com/live/n-1/chunks.m3u8
-NEW2,https://plstreams100.stream/live/ss100/chunks.m3u8
-NEW3,https://cdn.wholive.pro:8089/hls/clppwyjYA9M9/index.m3u8?st=QqcoX0i5GELoTtJpeGW8tQ&e=1713018277
-NEW4,https://twoflow.xyz/hls/tnts1/index.m3u8
-ATM,https://plstreams100.stream/live/ss200/chunks.m3u8
-
+LIVE0414
+KAN-MIA,https://gplrvk75ib.azureedge.net:443/live/s1/chunks.m3u8
 
 
 EUROPA QTF LEG1,#genre#
