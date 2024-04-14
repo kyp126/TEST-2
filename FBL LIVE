@@ -4,7 +4,7 @@ LIV-CP,https://cdn1.flex1.xyz:443/zone-11_1.m3u8#https://flex5.xyz/live/zone-11/
 LIV1,https://ovo.eelov.com/live/n-1/chunks.m3u8
 LIV2,https://plstreams100.stream/live/ss100/chunks.m3u8
 
-WHU-FUL,https://flex3.xyz/live/zone-55/chunks.m3u8
+WHU-FUL,https://flex5.xyz/live/zone-55/chunks.m3u8#https://flex3.xyz/live/zone-55/chunks.m3u8
 WHU1,https://ovo.eelov.com/live/n-3/chunks.m3u8
 WHU2,https://cdn.leaguestreams100.com/live/ss200/chunks.m3u8
 
