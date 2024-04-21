@@ -1,14 +1,9 @@
 
 
-LIVE 0420,#genre#
+FMR#genre#
+MCI-CHE1,https://vd435.mycdn.me:443/expires/1713747694035/srcIp/158.69.66.246/pr/10/srcAg/CHROME_ANDROID/ms/45.136.21.35/type/5/sig/0gBSTe5m9Co/ct/8/urls/185.226.53.30/clientType/0/id/6192136719075/video/
 
 
-LUT-BRE,https://flex3.xyz/live/zone-11/chunks.m3u8
-LUT,https://ovo.eelov.com/live/n-1/chunks.m3u8
-LUT1,https://moqbxf97th.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
-SHE-BUR,https://flex3.xyz/live/zone-22/chunks.m3u8
-SHE,https://ovo.eelov.com/live/n-2/chunks.m3u8
-SHE1,https://moqbxf97th.azureedge.net:443/live/65b9e03a2a9c3/chunks.m3u8
 
 CHINA F1,#genre#
 Qa,https://flex5.xyz/live/f1/chunks.m3u8
