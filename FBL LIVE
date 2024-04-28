@@ -5,7 +5,8 @@ AVL-CHE2,https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=35a7d
 B04-VFB,https://ok6-15.vkuser.net:443/expires/1714364382683/srcIp/138.75.6.29/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/wBr1jPRCU0Y/ct/8/urls/45.136.22.61%3B185.226.52.39/clientType/0/zs/43/id/6521049320077/video/
 JUV-MIL,https://ok6-10.vkuser.net:443/expires/1714364463151/srcIp/138.75.6.29/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/lQRKnGxmaDc/ct/8/urls/45.136.20.42%3B45.136.22.61/clientType/0/zs/43/id/6576488778452/video/
 MUN-BUR,https://ok6-1.vkuser.net:443/expires/1714364524185/srcIp/138.75.6.29/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/wHNnZV6eh_U/ct/8/urls/45.136.22.8%3B185.226.53.10/clientType/0/zs/43/id/6247929743972/video/
-
+WHU-LIV1,https://ok6-4.vkuser.net:443/expires/1714364584462/srcIp/138.75.6.29/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/M9lpW1MI8ZQ/ct/8/urls/45.136.21.49%3B185.226.53.93/clientType/0/zs/43/id/6195837340258/video/
+WHU-LIV2,https://ok6-5.vkuser.net:443/expires/1714364620864/srcIp/138.75.6.29/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/NtEWCKvNxio/ct/8/urls/45.136.20.71%3B45.136.21.13/clientType/0/zs/43/id/6575157873364/video/
 
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
