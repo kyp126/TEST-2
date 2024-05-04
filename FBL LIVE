@@ -1,4 +1,8 @@
 
+LIVE0504,#genre#
+CCTV5a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5
+CCTV5+a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5p
+
 FMR0503,#genre#
 ROM-B041,https://ok6-3.vkuser.net:443/expires/1714802336877/srcIp/119.234.10.130/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/PXAysEIKjZw/ct/8/urls/45.136.22.8%3B185.226.53.88/clientType/0/zs/43/id/6403208907387/video/
 ROM-B04 2,https://ok6-13.vkuser.net:443/expires/1714802353404/srcIp/119.234.10.130/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/QpnIby8Gzc8/ct/8/urls/185.226.53.44%3B185.226.52.73/clientType/0/zs/43/id/6403291417211/video/
@@ -166,6 +170,8 @@ cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://ole
 
 
 LIVE,#genre#
+CCTV5a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5
+CCTV5+a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5p
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 CLARITY 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
