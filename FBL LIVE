@@ -21,13 +21,6 @@ SHU,https://ovo.eelov.com/live/n-1/chunks.m3u8
 
 
 
-ARS2,https://pntaoy75qn.azureedge.net:443/live/65b9e03adcd78/chunks.m3u8
-ARS3,https://play1nm.hnyongshun.cn/live/ballbar_27340.m3u8
-ARS-BOU,https://flex5.xyz/live/zone-11/chunks.m3u8
-ARS1,https://ovo.eelov.com/live/n-1/chunks.m3u8
-cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV5a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5
-CCTV5+a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5p
 
 MIAMI F1,#genre#
 Q1,https://flex3.xyz/live/f1/chunks.m3u8
