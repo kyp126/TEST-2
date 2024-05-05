@@ -6,6 +6,14 @@ NBA,https://play1nm.hnyongshun.cn/live/ballbar_37980.m3u8
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/ 
 
+FMR0505,#genre#
+ARS-BOU1,https://ok6-7.vkuser.net:443/expires/1714956813635/srcIp/111.65.47.61/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/0D9ZjVXHTZ0/ct/8/urls/185.226.52.36%3B45.136.21.15/clientType/0/zs/43/id/6600494680716/video/
+ARS-BOU2,https://ok6-10.vkuser.net:443/expires/1714956837662/srcIp/111.65.47.61/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/wbMLrwSd5Pc/ct/8/urls/185.226.53.90%3B45.136.20.12/clientType/0/zs/43/id/6600539441804/video/
+
+
+
+
+
 
 FMR0503,#genre#
 ROM-B041,https://ok6-3.vkuser.net:443/expires/1714802336877/srcIp/119.234.10.130/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/PXAysEIKjZw/ct/8/urls/45.136.22.8%3B185.226.53.88/clientType/0/zs/43/id/6403208907387/video/
