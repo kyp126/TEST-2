@@ -1,17 +1,5 @@
 
 
-LIVE0505,#genre#
-LIV-TOT,https://ovoss.lol/live/n-1/chunks.m3u8
-BHA-AVL,https://play1nm.hnyongshun.cn/live/ballbar_17900.m3u8
-AVL,https://ovo.eelov.com/live/n-1/chunks.m3u8
-AVL1,https://agqosu39ad.azureedge.net/live/65b9e03a17acb/playlist.m3u8
-CHE-WHU,https://play1nm.hnyongshun.cn/live/ballbar_10570.m3u8
-CHE,https://ovoss.lol/live/n-2/chunks.m3u8
-CHE1,https://play1nm.hnyongshun.cn/live/ballbar_40200.m3u8#https://xbckwt04qv.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8#https://xbckwt04qv.azureedge.net/live/65b9e03a1e2c8/playlist.m3u8
-CEL-VIL,https://play1nm.hnyongshun.cn/live/ballbar_20730.m3u8
-BER-BOC,https://play1nm.hnyongshun.cn/live/ballbar_2960.m3u8
-EMP-FRO,https://play1nm.hnyongshun.cn/live/ballbar_9230.m3u8
-VER-FIO,https://play1nm.hnyongshun.cn/live/ballbar_16620.m3u8
 
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/ 
