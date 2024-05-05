@@ -7,6 +7,7 @@ cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/ 
 
 FMR0505,#genre#
+MCI-WOL,https://ok6-2.vkuser.net:443/expires/1714965663600/srcIp/124.246.115.120/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/5-mElVQKrbk/ct/8/urls/45.136.22.37%3B185.226.53.71/clientType/0/zs/43/id/6601947024012/video/
 ARS-BOU1,https://ok6-7.vkuser.net:443/expires/1714956813635/srcIp/111.65.47.61/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/0D9ZjVXHTZ0/ct/8/urls/185.226.52.36%3B45.136.21.15/clientType/0/zs/43/id/6600494680716/video/
 ARS-BOU2,https://ok6-10.vkuser.net:443/expires/1714956837662/srcIp/111.65.47.61/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/wbMLrwSd5Pc/ct/8/urls/185.226.53.90%3B45.136.20.12/clientType/0/zs/43/id/6600539441804/video/
 RMA-CAD1,https://ok6-7.vkuser.net:443/expires/1714957153066/srcIp/111.65.47.61/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/NsrvPtRRlR8/ct/8/urls/45.136.21.74%3B185.226.53.29/clientType/0/zs/43/id/6601130838668/video/
