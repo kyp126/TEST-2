@@ -1,4 +1,16 @@
 
+HL0512,#genre#
+NFO-CHE,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280581/720p.m3u8
+FUL-MCI,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280489/720p.m3u8
+TOT-BUR,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280537/720p.m3u8
+NEW-BHA,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280513/720p.m3u8
+WHU-LUT,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280529/720p.m3u8
+WOL-CP,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280592/720p.m3u8
+EVE-SHU,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280530/720p.m3u8
+BOU-BRE,https://mkb.dirgventures.net:443/UpFiles/2024/5/11/51/280593/720p.m3u8
+
+
+
 HL0511,#genre#
 FRO-INT,https://mkb.dirgventures.net:443/UpFiles/2024/5/10/51/280467/720p.m3u8
 AUG-STU,https://mkb.dirgventures.net:443/UpFiles/2024/5/10/51/280463/720p.m3u8
@@ -23,16 +35,6 @@ RMA-BAY,https://mkb.dirgventures.net:443/UpFiles/2024/5/9/51/280401/720p.m3u8
 DOR-PSG,https://mkb.dirgventures.net:443/UpFiles/2024/5/8/51/280372/720p.m3u8
 
 
-FMR0507,#genre#
-CP-MUN1,https://ok6-11.vkuser.net:443/expires/1715127192757/srcIp/111.65.44.35/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/FtdSt2UEba0/ct/8/urls/185.226.53.90%3B185.226.52.24/clientType/0/zs/43/id/6695387007696/video/
-CP-MUN2,https://ok6-10.vkuser.net:443/expires/1715127220709/srcIp/111.65.44.35/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/HaIX78kda1Q/ct/8/urls/45.136.21.4%3B45.136.22.46/clientType/0/zs/43/id/6695424297680/video/
-CP HL,https://ok6-5.vkuser.net:443/expires/1715127245323/srcIp/111.65.44.35/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/fDUu_SNXQ-o/ct/8/urls/45.136.22.74%3B185.226.52.60/clientType/0/zs/43/id/6650997377775/video/
-
-
-0507,#genre#
-CP-MUN,https://mkb.dirgventures.net:443/UpFiles/2024/5/6/51/280332/720p.m3u8
-SAL-ATA,https://mkb.dirgventures.net:443/UpFiles/2024/5/6/51/280323/720p.m3u8
-UDI-NAP,https://mkb.dirgventures.net:443/UpFiles/2024/5/6/51/280328/720p.m3u8
 
 
 
