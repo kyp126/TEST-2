@@ -4,6 +4,12 @@ N1,https://play1nm.hnyongshun.cn/live/ballbar_20070.m3u8
 N1a,https://play1nm.hnyongshun.cn/live/ballbar_37690.m3u8
 N1b,https://play1nm.hnyongshun.cn/live/ballbar_37980.m3u8
 
+FMR0513,#genre#
+MUN PRE,https://ok6-4.vkuser.net:443/expires/1715651446316/srcIp/119.234.4.196/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/luxa06fozFY/ct/8/urls/45.136.21.33%3B45.136.20.40/clientType/0/zs/43/id/6643203115568/video/
+MUN-ARS1,https://ok6-5.vkuser.net:443/expires/1715651549523/srcIp/119.234.4.196/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/mKWJC4OAAoc/ct/8/urls/45.136.21.8%3B185.226.53.89/clientType/0/zs/43/id/6643471813168/video/
+MUN-ARS2,https://ok6-3.vkuser.net:443/expires/1715651529793/srcIp/119.234.4.196/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/trdCBvOTN8s/ct/8/urls/185.226.53.8%3B185.226.52.57/clientType/0/zs/43/id/6643790711344/video/
+
+
 FMR0512,#genre#
 NFO-CHE1,https://ok6-3.vkuser.net:443/expires/1715576426341/srcIp/138.75.38.219/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/CrTZ4Vy4yMo/ct/8/urls/45.136.21.21%3B45.136.20.12/clientType/0/zs/43/id/6573412453044/video/
 NFO-CHE2,https://ok6-10.vkuser.net:443/expires/1715576458964/srcIp/138.75.38.219/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/1jW64Cpy1mM/ct/8/urls/45.136.20.39%3B45.136.22.75/clientType/0/zs/43/id/6573563775668/video/
