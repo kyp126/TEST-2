@@ -1,10 +1,6 @@
 
-NBA LIVE,#genre#
-1chs,https://play1nm.hnyongshun.cn/live/ballbar_19350.m3u8
-cct,https://play1nm.hnyongshun.cn/live/ballbar_38350.m3u8
-e1,https://play1nm.hnyongshun.cn/live/ballbar_17270.m3u8
-e2,https://play1nm.hnyongshun.cn/live/ballbar_9470.m3u8
-
+LIVE,#genre#
+cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
 FMR0516,#genre#
 MUN-NEW,https://ok6-12.vkuser.net:443/expires/1715909545056/srcIp/119.234.10.82/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/tepxX0utNwk/ct/8/urls/185.226.53.59%3B45.136.22.11/clientType/0/zs/43/id/6371372501542/video/
