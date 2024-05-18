@@ -175,28 +175,13 @@ cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://ole
 
 
 
-LIVE,#genre#
+TEST,#genre#
 CCTV5a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5
 CCTV5+a,http://dp.sxtv.top:88/ljes/bestv.php?id=cctv5p
 LOVE NATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 CLARITY 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
-kaki1,https://cdn.linecrystal.com:443/index_1.m3u8
-kaki2,https://cdn.linecrystal.com:443/index_2.m3u8
-kaki3,https://cdn.linecrystal.com:443/index_3.m3u8
-kaki4,https://cdn.linecrystal.com:443/index_4.m3u8
-kaki5,https://cdn.linecrystal.com:443/index_5.m3u8
-kaki6,https://cdn.linecrystal.com:443/index_6.m3u8
-kaki7,https://cdn.linecrystal.com:443/index_7.m3u8
-kaki8,https://cdn.linecrystal.com:443/index_8.m3u8
-kaki9,https://cdn.linecrystal.com:443/index_9.m3u8
-kaki10,https://cdn.linecrystal.com:443/index_10.m3u8
-kaki11,https://cdn.linecrystal.com:443/index_11.m3u8
-kaki12,https://cdn.linecrystal.com:443/index_12.m3u8
-kaki13,https://cdn.linecrystal.com:443/index_13.m3u8
-kaki14,https://cdn.linecrystal.com:443/index_14.m3u8
-kaki15,https://cdn.linecrystal.com:443/index_15.m3u8
 
 
 
@@ -225,18 +210,6 @@ Sport Kaki,#genre#
 9,https://flex3.xyz/live/zone-99/chunks.m3u8
 
 
-SPORT,#genre#
-1,https://katanaboss.online/chunklist/hlsch1.m3u8
-2,https://katanaboss.online/chunklist/hlsch2.m3u8
-3,https://katanaboss.online/chunklist/hlsch3.m3u8
-4,https://katanaboss.online/chunklist/hlsch4.m3u8
-5,https://katanaboss.online/chunklist/hlsch5.m3u8
-6,https://katanaboss.online/chunklist/hlsch.m3u8
-https://katanaboss.online/chunklist/hlsch6.m3u8
-7,https://katanaboss.online/chunklist/hlsch7.m3u8
-8,https://katanaboss.online/chunklist/hlsch8.m3u8
-9,https://katanaboss.online/chunklist/hlsch9.m3u8
-10,https://katanaboss.online/chunklist/hlsch10.m3u8
 
 
 
