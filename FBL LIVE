@@ -32,7 +32,9 @@ SHU3,https://play1nm.hnyongshun.cn/live/ballbar_24070.m3u8
 BRE-NEW,https://play1nm.hnyongshun.cn/live/ballbar_32890.m3u8
 BRE2,https://play1nm.hnyongshun.cn/live/ballbar_15990.m3u8
 BRE3,https://play1nm.hnyongshun.cn/live/ballbar_14530.m3u8
-
+BUR-NFO,https://play1nm.hnyongshun.cn/live/ballbar_7080.m3u8
+BUR2,https://play1nm.hnyongshun.cn/live/ballbar_18590.m3u8
+BUR3,https://play1nm.hnyongshun.cn/live/ballbar_36420.m3u8
 
 
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
