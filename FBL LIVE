@@ -1,6 +1,6 @@
 
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
- 
+cctv5+,http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
 FMR0520,#genre#
 ARS PRE,https://ok6-5.vkuser.net:443/expires/1716251093125/srcIp/119.234.6.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/x6S9D2BLYT8/ct/8/urls/185.226.52.17%3B45.136.22.7/clientType/0/zs/43/id/6674755815984/video/
