@@ -2,6 +2,10 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
+NBA,#genre#
+N1,https://tpull-gqj.gjapt.com/live/01tiyu_stream_666333_1.m3u8?txSecret=f1dfb049b8d13de24969f6d297572249&txTime=664E853C
+N2,https://tpull-gqj.gjapt.com/live/01tiyu_stream_111888_6.m3u8?txSecret=f6bf3061e55598c33e8197fb714fc62f&txTime=664E867E
+
 FMR0520,#genre#
 ARS PRE,https://ok6-5.vkuser.net:443/expires/1716251093125/srcIp/119.234.6.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/x6S9D2BLYT8/ct/8/urls/185.226.52.17%3B45.136.22.7/clientType/0/zs/43/id/6674755815984/video/
 ARS-EVE1,https://ok6-12.vkuser.net:443/expires/1716251115757/srcIp/119.234.6.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/CDVl6ZZPfhk/ct/8/urls/185.226.52.33%3B185.226.53.61/clientType/0/zs/43/id/6675105122864/video/
