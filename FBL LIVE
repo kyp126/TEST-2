@@ -2,10 +2,11 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-FRIENDLY,#genre#
-TOT-NEW,https://pull9.haipengzuche.com/live/84d9ed6f6f4da5a4.m3u8?txSecret=e2235cf7fb0efca288bfc2676736c064&txTime=664DC0BA
 
-
+EUROPA FINAL,#genre#
+PRE,https://ok6-12.vkuser.net:443/expires/1716506200244/srcIp/37.19.201.234/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/14yRYUgb6Mw/ct/8/urls/45.136.22.30%3B45.136.21.11/clientType/0/zs/43/id/6335438129759/video/
+ATA-LEV1,https://ok6-1.vkuser.net:443/expires/1716506260994/srcIp/37.19.201.234/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/P3GoTEDanpg/ct/8/urls/45.136.21.73%3B185.226.52.70/clientType/0/zs/43/id/6335464540767/video/
+ATA-LEV2&TROPHY,https://ok6-3.vkuser.net:443/expires/1716506293927/srcIp/37.19.201.234/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/3TtHAMskirw/ct/8/urls/185.226.52.15%3B185.226.52.19/clientType/0/zs/43/id/6335683955295/video/
 
 FMR0520,#genre#
 ARS PRE,https://ok6-5.vkuser.net:443/expires/1716251093125/srcIp/119.234.6.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/x6S9D2BLYT8/ct/8/urls/185.226.52.17%3B45.136.22.7/clientType/0/zs/43/id/6674755815984/video/
