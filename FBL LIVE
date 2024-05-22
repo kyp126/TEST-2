@@ -2,13 +2,11 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-NBA,#genre#
-N1,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-2-3788362.m3u8?auth_key=1716335855-0-0-ef1ab80181d5c69a2bee64abe9c9a1e5
-N2,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-2-3788362.m3u8?auth_key=1716335855-0-0-ef1ab80181d5c69a2bee64abe9c9a1e5
-N3,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-2-3788362.m3u8?auth_key=1716335855-0-0-ef1ab80181d5c69a2bee64abe9c9a1e5
-N4,https://4gr4nhcj18yzdnmtt8r3o.ourdvsss.com/pull.opsnowflake.com/live/dps-58779052-saturn-wsu/playlist.m3u8?wsSecret=0963321490ee7a9f331b02fa9b03a2f8&wsABSTime=664d7c0c&wsSession=a986192d460cb09b93205fe6-171633603426819&wsIPSercert=fd9874e59dbfa2c86dc464ebc04cdbe5&wsiphost=local&wsBindIP=1
-N5,https://pull.opsnowflake.com/live/dps-58779052-hydra-wsu/playlist.m3u8?wsSecret=c90fdf049921b4abd8ff674283ced29a&wsABSTime=664d7c0c
-N6,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=3a73fa4754065a6a6cb66829d8f974d2
+FRIENDLY,#genre#
+TOT-NEW,https://edge2.prostreams.ru:443/es100/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxNjM3MTA3MSZoYXNoX3ZhbHVlPVlXSmpPR0prT0RabE1qYzJPV0l3TkRnd016aGhNR1F3WkRWbVkyWXhZalkmZXhwaXJ5PTE3MTYzODE4NzEmaXA9MTU4LjY5Ljc0LjE0Nw%3D%3D
+
+
+
 
 FMR0520,#genre#
 ARS PRE,https://ok6-5.vkuser.net:443/expires/1716251093125/srcIp/119.234.6.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/x6S9D2BLYT8/ct/8/urls/185.226.52.17%3B45.136.22.7/clientType/0/zs/43/id/6674755815984/video/
