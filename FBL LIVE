@@ -3,8 +3,7 @@ cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
 FRIENDLY,#genre#
-TOT-NEW,https://edge2.prostreams.ru:443/es100/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxNjM3MTA3MSZoYXNoX3ZhbHVlPVlXSmpPR0prT0RabE1qYzJPV0l3TkRnd016aGhNR1F3WkRWbVkyWXhZalkmZXhwaXJ5PTE3MTYzODE4NzEmaXA9MTU4LjY5Ljc0LjE0Nw%3D%3D
-
+TOT-NEW,https://pull9.haipengzuche.com/live/84d9ed6f6f4da5a4.m3u8?txSecret=e2235cf7fb0efca288bfc2676736c064&txTime=664DC0BA
 
 
 
