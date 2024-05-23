@@ -2,7 +2,9 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-
+NBA LIVE,#genre#
+N1,https://4gr4nhcj18yzdnmtt8r5o.ourdvsss.com/pull.opsnowflake.com/live/dps-58779132-hydra-wsu/playlist.m3u8?wsSecret=464d6c2642d6170ca30144ea2be10b61&wsABSTime=664ed494&wsSession=f6652d369e8a35484e6952ac-171642411372951&wsIPSercert=fd9874e59dbfa2c86dc464ebc04cdbe5&wsiphost=local&wsBindIP=1
+N2,https://4gr4nhcj18yzdnmtt8r5o.ourdvsss.com/pull.opsnowflake.com/live/dps-58779132-saturn-wsu/playlist.m3u8?wsSecret=6f3e38b1c816c6eff88d79c5ac0f1cdc&wsABSTime=664ed494&wsSession=f6652d369e8a35484e6952ac-171642415649012&wsIPSercert=fd9874e59dbfa2c86dc464ebc04cdbe5&wsiphost=local&wsBindIP=1
 EUROPA FINAL,#genre#
 PRE,https://ok6-12.vkuser.net:443/expires/1716506200244/srcIp/37.19.201.234/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/14yRYUgb6Mw/ct/8/urls/45.136.22.30%3B45.136.21.11/clientType/0/zs/43/id/6335438129759/video/
 ATA-LEV1,https://ok6-1.vkuser.net:443/expires/1716506260994/srcIp/37.19.201.234/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/P3GoTEDanpg/ct/8/urls/45.136.21.73%3B185.226.52.70/clientType/0/zs/43/id/6335464540767/video/
