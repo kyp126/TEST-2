@@ -2,11 +2,10 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-NBA LIVE,#genre#
-N1,https://4gr4nhcj18yzdnmtt8r5o.ourdvsss.com/pull.opsnowflake.com/live/dps-58779132-hydra-wsu/playlist.m3u8?wsSecret=464d6c2642d6170ca30144ea2be10b61&wsABSTime=664ed494&wsSession=f6652d369e8a35484e6952ac-171642411372951&wsIPSercert=fd9874e59dbfa2c86dc464ebc04cdbe5&wsiphost=local&wsBindIP=1
-N2,https://4gr4nhcj18yzdnmtt8r5o.ourdvsss.com/pull.opsnowflake.com/live/dps-58779132-saturn-wsu/playlist.m3u8?wsSecret=6f3e38b1c816c6eff88d79c5ac0f1cdc&wsABSTime=664ed494&wsSession=f6652d369e8a35484e6952ac-171642415649012&wsIPSercert=fd9874e59dbfa2c86dc464ebc04cdbe5&wsiphost=local&wsBindIP=1
-N3,https://6gr4nhcbqgoa1hcjigo.ourdvsss.com/pull.opsnowflake.com/live/dps-58779132-hydra-wsu/playlist.m3u8?wsSecret=464d6c2642d6170ca30144ea2be10b61&wsABSTime=664ed494&wsSession=d25525c97e6e85fe99f98cb7-171642456243512&wsIPSercert=5766923fcd1c6d2231564f9a40470e31&wsiphost=local&wsBindIP=1
-
+NBA,#genre#
+N1,https://be15b8c5191b308a80a401a501ab2f56.v.smtcdns.net/txycdn.video.qq.com/1763871202.m3u8?time=1716508701&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=D458DE39110563C8CC68A7CCA7F1B3E35E2B596056A15A0486095CDA35029F75133284CC2EB2C43FE1FE23F89D7A755082B69AC40B2641CC80AD9342F90D3D85DE8FEB21AF7257E4E9EF8F2487BFD3EA3B47937898DCA49723DDF23DB927DD12A0F8A1B7CC800C6486E89674C68976E6FEC95C498D7D1B3B&drmtype=0
+N2,https://0graukmttge51hctugezdnp33.ourdvsss.com/pull.opsnowflake.com/live/dps-58779053-hydra-wsu/playlist.m3u8?wsSecret=432a3d904331818c153af7a55cb6034f&wsABSTime=66501f0c&wsSession=23667a996aadee12b172c28b-171650873859158&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+N3,https://0graukmttge51hctugezdnp33.ourdvsss.com/pull.opsnowflake.com/live/dps-58779053-saturn-wsu/playlist.m3u8?wsSecret=10f02a3d9ba21a27eaeff22bee3cdf86&wsABSTime=66501f0c&wsSession=23667a996aadee12b172c28b-171650898805503&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
 
 EUROPA FINAL,#genre#
 PRE,https://ok6-12.vkuser.net:443/expires/1716506200244/srcIp/37.19.201.234/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/14yRYUgb6Mw/ct/8/urls/45.136.22.30%3B45.136.21.11/clientType/0/zs/43/id/6335438129759/video/
