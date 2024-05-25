@@ -3,7 +3,7 @@ cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
 NBA,#genre#
-N1,https://riwxca16yz.azureedge.net:443/live/65b0b785a9436/chunks.m3u8
+N1,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-2-3788414.m3u8?auth_key=1716597881-0-0-a4bac82cdc6e4c6707d64efb009a57b9#https://riwxca16yz.azureedge.net:443/live/65b0b785a9436/chunks.m3u8
 N2,https://4gr4nhcj18yzdnmtt8rhy.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779133-hydra-wsu/playlist.m3u8?wsSecret=c88687f56b497877f09f9b48f3e515f9&wsABSTime=66517794&wsSession=2b24a889d919cd328aee0865-171659694922796&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
 N3,https://4gr4nhcj18yzdnmtt8rhy.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779133-saturn-wsu/playlist.m3u8?wsSecret=2913f5ee8891ef7f822a6a351174b02c&wsABSTime=66517794&wsSession=2b24a889d919cd328aee0865-171659706809900&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
 N4,https://4gr4nhcj18yzdnmtt8rhy.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779133-saturn-wsu/playlist.m3u8?wsSecret=2913f5ee8891ef7f822a6a351174b02c&wsABSTime=66517794&wsSession=2b24a889d919cd328aee0865-171659706809900&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
