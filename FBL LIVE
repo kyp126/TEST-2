@@ -5,7 +5,7 @@ cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3
 MONACO F1,#genre#
 RACE,https://d3jjpg4t4yz0dn.cloudfront.net/index_1.m3u8
 RACE1,https://f.newsarena24h.com:443/f1_3.m3u8
-
+RACE2,https://ranjtq39aj.azureedge.net/live/F1/chunks.m3u8
 Champ playoff,#genre#
 LEE-SOU,https://ovo.eelov.com/live/n-5/chunks.m3u8
 LEE1,https://pl10.sxhyctg.com/live/7b5f3db11481d541.m3u8?txSecret=4148d5d9f8b6598b56b565b3c9ddf91d&txTime=66534061
