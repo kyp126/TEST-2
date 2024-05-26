@@ -2,12 +2,10 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-NBA LIVE,#genre#
-N1,https://pull.opsnowflake.com/live/dps-58779054-saturn-wsu/playlist.m3u8?wsSecret=5f8760f2718df9a19225d5b5dd91ba70&wsABSTime=6652c914
-N2,https://pull.opsnowflake.com/live/dps-58779054-hydra-wsu/playlist.m3u8?wsSecret=7656e54a2f3290910058ceadc2bda33c&wsABSTime=6652c914
-N3,https://6gr4nhcbqgoa1hcjwgw.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779054-saturn-wsu/playlist.m3u8?wsSecret=5f8760f2718df9a19225d5b5dd91ba70&wsABSTime=6652c914&wsSession=7acff0a976557dc571b8d1e7-171668392985990&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
-N4,https://6gr4nhcbqgoa1hcjwgw.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779054-saturn-wsu/playlist.m3u8?wsSecret=5f8760f2718df9a19225d5b5dd91ba70&wsABSTime=6652c914&wsSession=7acff0a976557dc571b8d1e7-171668392985990&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
-N5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=82d43548b1dfa66127c4dc802a80a8ed
+MONACO F1,#genre#
+RACE,https://ranjtq39aj.azureedge.net:443/live/F1/chunks.m3u8
+
+
 
 FMR0526,#genre#
 MU TROPHY,https://ok6-14.vkuser.net:443/expires/1716771604402/srcIp/111.65.32.173/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/thQlN1MuLXg/ct/8/urls/185.226.52.30%3B45.136.20.22/clientType/0/zs/43/id/6324132383361/video/
@@ -21,9 +19,6 @@ KAI-LEV2,https://ok6-5.vkuser.net:443/expires/1716770858486/srcIp/111.65.45.8/pr
 
 
 
-
-
-MONACO F1,#genre#
 
 
 
