@@ -11,6 +11,9 @@ LEE-SOU,https://ovo.eelov.com/live/n-5/chunks.m3u8
 LEE1,https://pl10.sxhyctg.com/live/7b5f3db11481d541.m3u8?txSecret=4148d5d9f8b6598b56b565b3c9ddf91d&txTime=66534061
 LEE2,https://pull.opsnowflake.com/live/dps-58778099-saturn-wsu/playlist.m3u8?wsSecret=b55d7fda6600c6469ec92560699aec3d&wsABSTime=665386ec
 
+GET,https://0graukmttge51hctugezdnp3s.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58760531-saturn-wsu/playlist.m3u8?wsSecret=2ba9f01e4bcec50c834e742f6304b2bc&wsABSTime=66538a70&wsSession=1af0736fc1080d8917391188-171673300268885&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+
+
 
 FMR0526,#genre#
 MU TROPHY,https://ok6-14.vkuser.net:443/expires/1716771604402/srcIp/111.65.32.173/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/thQlN1MuLXg/ct/8/urls/185.226.52.30%3B45.136.20.22/clientType/0/zs/43/id/6324132383361/video/
