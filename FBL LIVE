@@ -2,26 +2,17 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-
-FA CUP,#genre#
-
-MC-MU,https://ovo.eelov.com/live/n-1/chunks.m3u8
-MC1,https://0graukmttge51hctugezdnp3z.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58759195-saturn-wsu/playlist.m3u8?wsSecret=f55d5aee116ddad6c78926d184b0b83a&wsABSTime=6652356c&wsSession=2f0dc12732e7c324e1f8ad3a-171664567515765&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
-MCI2,https://katanaboss.online/chunklist/hlsch1.m3u8
-MC3,https://0graukmttge51hctugezdnp33.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58759195-hydra-wsu/playlist.m3u8?wsSecret=06d9a431f50e66bdb16e02a4568b70d9&wsABSTime=6652356c&wsSession=23667a996aadee12b172c28b-171664566765713&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
-MC4,https://cdn.freetvsports.xyz:443/es1/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxNjY0NDk1MyZoYXNoX3ZhbHVlPVptUTJNV1ZrWmpOaE0yRTVabUUzT0dNeU9ESXlOV1kxTVdRMU1qQTNPVGsmZXhwaXJ5PTE3MTY2NTU3NTMmaXA9MTc1LjE1Ni4yMjYuMjU1
-
-
-
-MC5,https://pull.opsnowflake.com/live/dps-58759195-saturn-wsu/playlist.m3u8?wsSecret=f55d5aee116ddad6c78926d184b0b83a&wsABSTime=6652356c
+NBA LIVE,#genre#
+N1,
+N2,
+N3,
+N4,
+N5,https://tpull-gqj.gjapt.com/live/01tiyu_stream_111111_56.m3u8?txSecret=9d5b95e04519b15e22fcb77be5f83061&txTime=6653D31A
 
 
 
 
 MONACO F1,#genre#
-Q123,https://ovo.eelov.com/live/f1/chunks.m3u8
-Q1,https://megyxs63hf.azureedge.net:443/live/formula1/chunks.m3u8
-Q2,https://flex5.xyz/live/f1/chunks.m3u8
 
 
 
