@@ -3,7 +3,7 @@ cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
 MONACO F1,#genre#
-RACE,https://ranjtq39aj.azureedge.net:443/live/F1/chunks.m3u8
+RACE,https://d3jjpg4t4yz0dn.cloudfront.net/index_1.m3u8
 RACE1,https://ranjtq39aj.azureedge.net/live/F1/chunks.m3u8
 
 
