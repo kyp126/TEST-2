@@ -2,11 +2,9 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-NBA,#genre#
-N1,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-2-3788415.m3u8?auth_key=1716768274-0-0-8d2c82c695fcfebdd66f6b8a9798be1c
-N2,https://fives.fghyrtbnkn.com/hls/66.m3u8?md5=G9XHq3we2dLi1nzvU8h1Vg&expires=1716778682
+MONACO F1,#genre#
+RACE,https://vd366.mycdn.me:443/expires/1716895816206/srcIp/158.69.70.86/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.73/type/5/sig/s0Tp8sUmYIg/ct/8/urls/45.136.21.38/clientType/0/id/6509240781322/video/
 
-N3,https://cdn.freetvsports.xyz:443/es25/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxNjc2OTc2MiZoYXNoX3ZhbHVlPU5UVmtPR1U1TW1ObU5UaGpOR1JpTnpRNU5EQTRNREJrWWpZME56STVZVFUmZXhwaXJ5PTE3MTY3ODA1NjImaXA9MTExLjY1LjQ0LjIxOA%3D%3D
 
 
 
