@@ -2,22 +2,12 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
-MONACO F1,#genre#
-RACE1a,https://cdn.poscishd.online/ch10/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcxNjczNTY2MiZoYXNoX3ZhbHVlPU4yUXpZVFJqWmpObFpXRXhabUprTXpnNU5HSXdNbUZpTWpVeE16WTNOemsmZXhwaXJ5PTE3MTY3NDY0NjImaXA9MTM4Ljc1LjQ3Ljc%3D
-
-RACE1,https://f.newsarena24h.com:443/f1_3.m3u8
-RACE2,https://ranjtq39aj.azureedge.net/live/F1/chunks.m3u8
-Champ playoff,#genre#
-LEE-SOU,https://ovo.eelov.com/live/n-5/chunks.m3u8
-LEE1,https://pl10.sxhyctg.com/live/7b5f3db11481d541.m3u8?txSecret=4148d5d9f8b6598b56b565b3c9ddf91d&txTime=66534061
-LEE2,https://pull.opsnowflake.com/live/dps-58778099-saturn-wsu/playlist.m3u8?wsSecret=b55d7fda6600c6469ec92560699aec3d&wsABSTime=665386ec
-LEE3,https://0graukmttge51hctugezdnp3s.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58778099-saturn-wsu/playlist.m3u8?wsSecret=b55d7fda6600c6469ec92560699aec3d&wsABSTime=665386ec&wsSession=1af0736fc1080d8917391188-171673308867037&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+NBA,#genre#
+N1,https://hls.mszgjy.com/live/69494520/playlist.m3u8?k=f692a5e488f4ea61b36dc6d87b9c5ef8&t=1716767904
+N2,https://hls.mszgjy.com/live/69494520/playlist.m3u8?k=f692a5e488f4ea61b36dc6d87b9c5ef8&t=1716767904
 
 
 
-
-GET,https://0graukmttge51hctugezdnp3s.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58760531-saturn-wsu/playlist.m3u8?wsSecret=2ba9f01e4bcec50c834e742f6304b2bc&wsABSTime=66538a70&wsSession=1af0736fc1080d8917391188-171673300268885&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
-GET1,https://0graukmttge51hctugezdnp3z.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58760531-hydra-wsu/playlist.m3u8?wsSecret=079475f3a8622f0f2e749fcecdcee8c9&wsABSTime=66538a70&wsSession=6ca3ead9aeaff29ce699e380-171673299818577&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
 
 
 FMR0526,#genre#
