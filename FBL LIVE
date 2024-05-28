@@ -2,6 +2,15 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 
+NBA0528,#genre#
+N1,https://4gr4nhcj18yzdnmtt8rhy.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779055-hydra-wsu/playlist.m3u8?wsSecret=a7cd3f0c58a6ed44349480346e7bccaf&wsABSTime=6655650c&wsSession=2b24a889d919cd328aee0865-171685441444576&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+N2,https://4gr4nhcj18yzdnmtt8r5o.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779055-saturn-wsu/playlist.m3u8?wsSecret=197517c0af416637c00e3e4b59ebd29e&wsABSTime=6655650c&wsSession=f6652d369e8a35484e6952ac-171685445272269&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+N3,https://0graukmttge51hctugezdnp3z.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58779055-hydra-wsu/playlist.m3u8?wsSecret=a7cd3f0c58a6ed44349480346e7bccaf&wsABSTime=6655650c&wsSession=6ca3ead9aeaff29ce699e380-171685494953184&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+
+
+
+
+
 MONACO F1,#genre#
 RACE,https://vd366.mycdn.me:443/expires/1716895816206/srcIp/158.69.70.86/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.73/type/5/sig/s0Tp8sUmYIg/ct/8/urls/45.136.21.38/clientType/0/id/6509240781322/video/
 RACE1,https://vd366.mycdn.me:443/expires/1716896231731/srcIp/158.69.70.86/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.73/type/3/sig/-V2cqfsV-i4/ct/8/urls/45.136.21.38/clientType/0/id/6509240781322/video/
