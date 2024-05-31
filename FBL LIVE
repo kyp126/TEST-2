@@ -12,14 +12,9 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-
-
-LIVE0530,#genre#
-MIA-ATL,https://0graukmttge51hctugezdnp33.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58763540-hydra-wsu/playlist.m3u8?wsSecret=926b2cd42eed82f29495b1dcd567665a&wsABSTime=66580104&wsSession=d87b61561ccb980167a85030-171702563729775&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
-
-MONACO F1,#genre#
-RACE,https://vd366.mycdn.me:443/expires/1716895816206/srcIp/158.69.70.86/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.73/type/5/sig/s0Tp8sUmYIg/ct/8/urls/45.136.21.38/clientType/0/id/6509240781322/video/
-RACE1,https://vd366.mycdn.me:443/expires/1716896231731/srcIp/158.69.70.86/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.73/type/3/sig/-V2cqfsV-i4/ct/8/urls/45.136.21.38/clientType/0/id/6509240781322/video/
+NBA0531,#genre#
+N1,https://hls.mszgjy.com/live/69494524/playlist.m3u8?k=a367f4e84d19ab07c80c0003dfca028f&t=1717115101
+N2,https://hls.mszgjy.com/live/69494524/playlist.m3u8?k=a367f4e84d19ab07c80c0003dfca028f&t=1717115101
 
 
 
