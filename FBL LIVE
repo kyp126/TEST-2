@@ -12,11 +12,8 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-NBA0531,#genre#
-N1,https://hls.lviwxoer3.com/live/hd-en-2-3789275.m3u8?txSecret=faef737746078fa5dbfbd789754c5e95&txTime=665A4C22
-N2,https://0graukmttge51hctugezdnp33.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58785658-saturn-wsu/playlist.m3u8?wsSecret=b314861bf350221f58996a2024080587&wsABSTime=66596094&wsSession=d87b61561ccb980167a85030-171711537714325&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
-
-
+LIVE0531,#genre#
+L1,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=30edcc0f33b863ea4dd8ab37872a8118
 
 
 FMR0526,#genre#
