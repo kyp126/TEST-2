@@ -12,8 +12,9 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-LIVE0601,#genre#
-L1,https://0graukmttge51hctugezdnp33.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58767628-saturn-wsu/playlist.m3u8?wsSecret=d9a2f87ba6da2ecbd1fbf2fa1df322a7&wsABSTime=665ab214&wsSession=d87b61561ccb980167a85030-171720198813692&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+CHAMPION FINAL,#genre#
+DOR-RMA,https://cdn-adipolo.urekamedia.co/test/a92a53cfdb1b435a8/handsfield.mp4
+
 
 
 
