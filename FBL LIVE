@@ -13,7 +13,8 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
 CHAMPION FINAL,#genre#
-DOR-RMA,https://d25aduxpo1jb11.cloudfront.net/index_1.m3u8#https://storage.googleapis.com/hisendechampozitner/main.m3u8#https://dzawa1qsrxo8f.cloudfront.net/index_1.m3u8#https://d1mqpz78i5ctzf.cloudfront.net/index_1.m3u8#https://cdn-adipolo.urekamedia.co/test/a92a53cfdb1b435a8/handsfield.mp4
+DOR-RMA,https://flex2.xyz/live/zone-11/chunks.m3u8
+
 DOR1,https://class.eelov.com:443/11_1.m3u8#https://drm.latsyoving.xyz:443/1_1.m3u8#https://file.goal-line.pro:443/n1_1.m3u8
 DOR2,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=1de647a041d82b912973ca0711213965
 DOR3,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-1-4116921.m3u8?auth_key=1717268618-0-0-aced5f7adb771390be78a95007a39092
