@@ -13,12 +13,10 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
 CHAMPION FINAL,#genre#
-DOR-RMA,https://flex3.xyz/live/zone-11/chunks.m3u8
-
-DOR1,https://class.eelov.com:443/11_1.m3u8#https://drm.latsyoving.xyz:443/1_1.m3u8#https://file.goal-line.pro:443/n1_1.m3u8
-DOR2,https://ovo.eelov.com/live/n-1/chunks.m3u8
-DOR3,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-1-4116921.m3u8?auth_key=1717268618-0-0-aced5f7adb771390be78a95007a39092
-DOR4,https://0gr4nhcbqgoa1hqbw.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58781619-saturn-wsu/playlist.m3u8?wsSecret=5ba2bbfff70c346805d6ba1d517905e0&wsABSTime=665bb63c&wsSession=adcc410f8ea9eeaf29fd4de2-171726846961277&wsIPSercert=ba393d2507221454798f828bc975a1ca&wsiphost=local&wsBindIP=1
+PRE CHAMPION,https://ok6-14.vkuser.net:443/expires/1717380431217/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/imWv_Ft-NhE/ct/8/urls/185.226.52.58%3B45.136.20.38/clientType/0/zs/43/id/6749730376240/video/
+1half,https://ok6-8.vkuser.net:443/expires/1717380507371/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/amlyNm-u-P0/ct/8/urls/45.136.20.25%3B45.136.22.31/clientType/0/zs/43/id/6749993568816/video/
+2half,https://ok6-7.vkuser.net:443/expires/1717380716799/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/5J_6nKlEya4/ct/8/urls/45.136.22.47%3B45.136.22.14/clientType/0/zs/43/id/6750324591152/video/
+Trophy,https://ok6-1.vkuser.net:443/expires/1717381040947/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/NrQfPzF2GcM/ct/8/urls/45.136.20.75%3B45.136.22.34/clientType/0/zs/43/id/6750325049904/video/
 
 
 
