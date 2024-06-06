@@ -12,42 +12,10 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-CHAMPION FINAL,#genre#
-PRE CHAMPION,https://ok6-14.vkuser.net:443/expires/1717380431217/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/imWv_Ft-NhE/ct/8/urls/185.226.52.58%3B45.136.20.38/clientType/0/zs/43/id/6749730376240/video/
-1half,https://ok6-8.vkuser.net:443/expires/1717380507371/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/amlyNm-u-P0/ct/8/urls/45.136.20.25%3B45.136.22.31/clientType/0/zs/43/id/6749993568816/video/
-2half,https://ok6-7.vkuser.net:443/expires/1717380716799/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/5J_6nKlEya4/ct/8/urls/45.136.22.47%3B45.136.22.14/clientType/0/zs/43/id/6750324591152/video/
-Trophy,https://ok6-1.vkuser.net:443/expires/1717381040947/srcIp/119.234.6.172/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/NrQfPzF2GcM/ct/8/urls/45.136.20.75%3B45.136.22.34/clientType/0/zs/43/id/6750325049904/video/
 
 
-
-FMR0526,#genre#
-MU TROPHY,https://ok6-14.vkuser.net:443/expires/1716771604402/srcIp/111.65.32.173/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/thQlN1MuLXg/ct/8/urls/185.226.52.30%3B45.136.20.22/clientType/0/zs/43/id/6324132383361/video/
-MC-MU1,https://ok6-15.vkuser.net:443/expires/1716771636951/srcIp/111.65.32.173/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/8RcK0jUaZDw/ct/8/urls/185.226.52.38%3B45.136.21.24/clientType/0/zs/43/id/6322718575233/video/
-MC-MU2,https://ok6-12.vkuser.net:443/expires/1716771657887/srcIp/111.65.32.173/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/EYUyLfUCKJo/ct/8/urls/185.226.52.42%3B185.226.52.40/clientType/0/zs/43/id/6322958240385/video/
-LYON-PSG1,https://ok6-5.vkuser.net:443/expires/1716770258280/srcIp/111.65.45.8/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/Fzy_YNkqA68/ct/8/urls/45.136.22.41%3B45.136.20.68/clientType/0/zs/43/id/6324124322433/video/
-LYON-PSG2,https://ok6-11.vkuser.net:443/expires/1716770332600/srcIp/111.65.45.8/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/4vvzfnQUnFw/ct/8/urls/185.226.52.44%3B45.136.21.70/clientType/0/zs/43/id/6324305922689/video/
-KAI-LEV1,https://ok6-7.vkuser.net:443/expires/1716770833310/srcIp/111.65.45.8/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/3/sig/xrnJtfQihxk/ct/8/urls/45.136.22.38%3B45.136.21.29/clientType/0/zs/43/id/6324093913729/video/
-KAI-LEV2,https://ok6-5.vkuser.net:443/expires/1716770858486/srcIp/111.65.45.8/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/UwN0tQaLjb0/ct/8/urls/45.136.21.78%3B45.136.22.35/clientType/0/zs/43/id/6324179438209/video/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+LIVE  0606,#genre#
+SGP-KOR,https://pull9.reasmcda.com/live/c62d2b5844841519.m3u8?txSecret=9a3f8caf0977e44bf201927ea5d17369&txTime=6661A572
 
 
 
