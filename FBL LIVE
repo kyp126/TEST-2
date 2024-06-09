@@ -12,9 +12,12 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-LIVE 0609,#genre#
-MEX-BRA,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-L2,https://cdn1.flexsportx.com/live/zone-22/chunks.m3u8
+NBA GMAE2,#genre#
+N1,https://zpgwoj89si.azureedge.net:443/live/65b0b785a9436/chunks.m3u8
+
+
+
+
 
 
 WC2022,#genre#
