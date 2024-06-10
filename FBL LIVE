@@ -12,17 +12,9 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-NBA GMAE2,#genre#
-N1,https://zpgwoj89si.azureedge.net:443/live/65b0b785a9436/chunks.m3u8
-N2,https://play1nm.hnyongshun.cn/live/ballbar_28490.m3u8
-N3,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-2-3789440.m3u8?auth_key=1717977274-0-0-c7c27c8be4dff5f23edffc15561b60c2
-N4,https://play1nm.hnyongshun.cn/live/ballbar_28330.m3u8
 
-
-FRIENDLY ,#genre#
-ARG-ECU,https://ybqtrn42wb.azureedge.net:443/live/soccer1/chunks.m3u8
-L1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-
+LIVE0611,#genre#
+1,https://pull9.haipengzuche.com/live/55d7ad59baef7760.m3u8?txSecret=ab5dfe51f9866bfeb8b1e336f09952d2&txTime=6667878E
 
 
 WC2022,#genre#
