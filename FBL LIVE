@@ -16,6 +16,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 LIVE0611,#genre#
 JPN-SYR,https://pull9.haipengzuche.com/live/e717d5954dd0856e.m3u8?txSecret=32cd6c2ee09efa3562642b12e19ec4e9&txTime=666823A6
 JPN,https://wiki.mizhls.ru:443/wiki/wiki55/tracks-v1a1/mono.m3u8
+JPN2,https://pull.opsnowflake.com/live/dps-58773955-saturn-wsu/playlist.m3u8?wsSecret=d36f71ff63042f4114d3fde04f674081&wsABSTime=66686904
 L1,https://cdn1.flexsportx.com/live/zone-22/chunks.m3u8
 
 WC2022,#genre#
