@@ -11,24 +11,9 @@ CBA体育,http://live-cmvideo.cmread.com:80/migu/lunbo/cba/57/20230310/01.m3u8?m
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
+UEFA English,p3p://108.181.32.169:46867/66683f3d00034a1ce13669356af172b6 
+UEFA Contonese,p3p://108.181.32.169:46867/66683e4c000c7fd6e132be2775dc56b2
 
-
-LIVE0613,#genre#
-USA-BRA,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-USA1,https://pull9.haipengzuche.com/live/7ccde0a28238376d.m3u8?txSecret=d9a73a209b03882659b4a1c81249b181&txTime=666A2872
-N1,https://pull.opsnowflake.com/live/dps-58789097-hydra-wsu/playlist.m3u8?wsSecret=ccb8cadbc742bed079d04dba75e12021&wsABSTime=666a8414
-N2,https://pull.opsnowflake.com/live/dps-58789097-hydra-wsu/playlist.m3u8?wsSecret=ccb8cadbc742bed079d04dba75e12021&wsABSTime=666a8414
-N3,https://pull.opsnowflake.com/live/dps-58789097-hydra-wsu/playlist.m3u8?wsSecret=ccb8cadbc742bed079d04dba75e12021&wsABSTime=666a8414
-
-NBA LIVE,#genre#
-GAME 3,https://cdn1.flexsportx.com/live/zone-22/chunks.m3u8
-N1,https://pull.opsnowflake.com/live/dps-58789097-hydra-wsu/playlist.m3u8?wsSecret=ccb8cadbc742bed079d04dba75e12021&wsABSTime=666a8414
-N2,https://pull.opsnowflake.com/live/dps-58789097-hydra-wsu/playlist.m3u8?wsSecret=ccb8cadbc742bed079d04dba75e12021&wsABSTime=666a8414
-N3,https://pull.opsnowflake.com/live/dps-58789097-hydra-wsu/playlist.m3u8?wsSecret=ccb8cadbc742bed079d04dba75e12021&wsABSTime=666a8414
-纬来篮球,rtmp://f13h.mine.nu/sat/tv721
-
-cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-05,http://hikvision.city:880/CCTV-5.m3u8
 
 
 
