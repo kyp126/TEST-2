@@ -18,7 +18,7 @@ EU CUP 2024,#genre#
 GER-SCO,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 GER,https://pull9.haipengzuche.com/live/b1d7e770b9b1f969.m3u8?txSecret=48ed0eeee6a71ab0fb5b451fb36e191b&txTime=666C93E6
 GER1,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
-GER2,https://katanaboss.online/chunklist/hlsch1.m3u8
+GER2vpn,https://katanaboss.online/chunklist/hlsch1.m3u8
 
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
