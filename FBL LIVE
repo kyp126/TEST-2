@@ -14,7 +14,12 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 UEFA English,p3p://108.181.32.169:46867/66683f3d00034a1ce13669356af172b6 
 UEFA Contonese,p3p://108.181.32.169:46867/66683e4c000c7fd6e132be2775dc56b2
 
-EU CUP 2024,#genre#
+EURO2024,#genre#
+
+PRE&CEREMONY,https://ok6-5.vkuser.net:443/expires/1718504682270/srcIp/138.75.61.38/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/3mG2tXDJBAY/ct/8/urls/185.226.52.56%3B45.136.22.28/clientType/0/zs/43/id/6804055132752/video/
+
+GER-SCO1,https://ok6-2.vkuser.net:443/expires/1718504810528/srcIp/138.75.61.38/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/yKrJrW7nUbA/ct/8/urls/45.136.20.38%3B185.226.52.33/clientType/0/zs/43/id/6583157459609/video/
+GER-SCO2,https://ok6-2.vkuser.net:443/expires/1718504757857/srcIp/138.75.61.38/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/-HLO2HXWDS8/ct/8/urls/45.136.20.73%3B185.226.52.56/clientType/0/zs/43/id/6804129385040/video/
 
 
 
