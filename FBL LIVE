@@ -12,7 +12,13 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-EURO LIVE
+EURO LIVE,#genre#
+POL-NET,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
+
+
+
+
+
 
 EURO2024,#genre#
 ITA PRE,https://ok6-12.vkuser.net:443/expires/1718585604148/srcIp/111.65.68.36/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/YAFzR73Y68U/ct/8/urls/185.226.53.35%3B45.136.20.77/clientType/0/zs/43/id/6808905517648/video/
