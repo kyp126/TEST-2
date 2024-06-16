@@ -13,14 +13,11 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
 EURO LIVE,#genre#
-POL-NET,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
-
-POL1(vpn),https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-POL2,(vpn)https://ovo.eelov.com/live/n-1/chunks.m3u8
-POL3,https://mxepyd23nd.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
-POL4,https://katanaboss.online/chunklist/hlsch1.m3u8
-POL5,https://0gr4nhcbqgoa1hqb3.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58770071-hydra-wsu/playlist.m3u8?wsSecret=9ef5cb7e2cf111ede0840043d7a3cbd7&wsABSTime=666f285c&wsSession=7060cbc08a4d596f8559ced1-171854297402242&wsIPSercert=92ffcbca1909b47157e0fc074c5a9f60&wsiphost=local&wsBindIP=1
-POL6,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-1-4045183.m3u8?auth_key=1718543434-0-0-7b984cb6ca182b36762af32d5b71b0fd#https://kgq-out1-0605.speedzonerc.com/live/hd-zh-1-4045183.m3u8?auth_key=1718543554-0-0-52baf57f2629e7d6185983abbc86a871
+SLO-DEN
+SLO1(vpn),https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
+SLO2,(vpn)https://ovo.eelov.com/live/n-1/chunks.m3u8
+SLO3,https://mxepyd23nd.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
+SLO4,https://katanaboss.online/chunklist/hlsch1.m3u8
 
 
 
