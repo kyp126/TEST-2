@@ -15,7 +15,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 EURO LIVE,#genre#
 SLO-DEN,https://techstreams.pro:8089/hls/fKFZL7coe6/index.m3u8?st=OW135I-MwaeBcSHw_pWBmQ&e=1718562815
 SLO1(vpn),https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-SLO2,(vpn)https://ovo.eelov.com/live/n-1/chunks.m3u8
+SLO2(vpn),https://ovo.eelov.com/live/n-1/chunks.m3u8
 SLO3,https://mxepyd23nd.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
 SLO4,https://katanaboss.online/chunklist/hlsch1.m3u8
 
