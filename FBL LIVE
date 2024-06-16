@@ -16,7 +16,7 @@ EURO LIVE,#genre#
 SER-ENG,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
 SER1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 SER2,https://katanaboss.online/chunklist/hlsch1.m3u8
-SER3,http://livetx-rtmp.dongqiudi.com/live/hd-en-1-4045157.m3u8?txSecret=a8c1293466336b765ce2de0eb95e2fef&txTime=1718564415
+SER3,https://kgq-out1-0605.speedzonerc.com/live/hd-zh-1-4045157.m3u8?auth_key=1718564794-0-0-ec0714ad5a015385440882e3aa7250dc
 SER4,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=20b1652da4ca24899cfacfaeeeeee717
 SER5,https://ani.zq4669.com:31106/live/hls?id=79c46b11.m3u8
 
