@@ -18,6 +18,9 @@ SER1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 SER2,https://katanaboss.online/chunklist/hlsch1.m3u8
 SER3,http://livetx-rtmp.dongqiudi.com/live/hd-en-1-4045157.m3u8?txSecret=a8c1293466336b765ce2de0eb95e2fef&txTime=1718564415
 SER4,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=20b1652da4ca24899cfacfaeeeeee717
+SER5,https://ani.zq4669.com:31106/live/hls?id=79c46b11.m3u8
+
+
 
 EURO2024,#genre#
 ITA PRE,https://ok6-12.vkuser.net:443/expires/1718585604148/srcIp/111.65.68.36/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/YAFzR73Y68U/ct/8/urls/185.226.53.35%3B45.136.20.77/clientType/0/zs/43/id/6808905517648/video/
