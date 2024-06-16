@@ -228,16 +228,6 @@ cctv5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://ole
 
 
 
-Sport Kaki,#genre#
-1,https://flex3.xyz/live/zone-11/chunks.m3u8
-2,https://flex3.xyz/live/zone-22/chunks.m3u8
-3,https://flex3.xyz/live/zone-33/chunks.m3u8
-4,https://flex3.xyz/live/zone-44/chunks.m3u8
-5,https://flex3.xyz/live/zone-55/chunks.m3u8
-6,,https://flex3.xyz/live/zone-66/chunks.m3u8
-7,,https://flex3.xyz/live/zone-77/chunks.m3u8
-8,,https://flex3.xyz/live/zone-88/chunks.m3u8
-9,https://flex3.xyz/live/zone-99/chunks.m3u8
 
 
 
@@ -248,28 +238,6 @@ Sport Kaki,#genre#
 
 
 
-NBA2024,#genre#
-N1,https://hls.streambtw.com/live/stream_nba1.m3u8
-N2,https://hls.streambtw.com/live/stream_nba2.m3u8
-N3,https://hls.streambtw.com/live/stream_nba3.m3u8
-N4,https://hls.streambtw.com/live/stream_nba4.m3u8
-N5,https://hls.streambtw.com/live/stream_nba5.m3u8
-N6,https://hls.streambtw.com/live/stream_nba6.m3u8
-N7,https://hls.streambtw.com/live/stream_nba7.m3u8
-N8,https://hls.streambtw.com/live/stream_nba8.m3u8
-N9,https://hls.streambtw.com/live/stream_nba9.m3u8
-N10,https://hls.streambtw.com/live/stream_nba10.m3u8
-N11,https://hls.streambtw.com/live/stream_nba11.m3u8
-N12,https://hls.streambtw.com/live/stream_nba12.m3u8
-N13,https://hls.streambtw.com/live/stream_nba13.m3u8
-N14,https://hls.streambtw.com/live/stream_nba14.m3u8
-N15,https://hls.streambtw.com/live/stream_nba15.m3u8
-N16,https://hls.streambtw.com/live/stream_nba16.m3u8
-N17,https://hls.streambtw.com/live/stream_nba17.m3u8
-N18,https://hls.streambtw.com/live/stream_nba18.m3u8
-N19,https://hls.streambtw.com/live/stream_nba1.m3u8
-N20,https://hls.streambtw.com/live/stream_nba20.m3u8
-N21,https://hls.streambtw.com/live/stream_nba21.m3u8
 
 
 
