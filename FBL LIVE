@@ -17,7 +17,7 @@ BEL-SLO,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a32
 BEL1(vpn),https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 BEL2,https://katanaboss.online/chunklist/hlsch1.m3u8
 BEL3,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=1ce0c764c26219de327e2425c1574a2c
-
+BEL4,https://ani.zq4669.com:31106/live/hls?id=46bdd7b1.m3u8
 
 EURO2024,#genre#
 SRB PRE,https://ok6-3.vkuser.net:443/expires/1718674623879/srcIp/124.246.83.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/SRWRZvzpHl4/ct/8/urls/185.226.53.27%3B45.136.22.78/clientType/0/zs/43/id/6813568141904/video/
