@@ -12,14 +12,14 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-EURO LIVE,#genre#
-BEL-SLO,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
-BEL1(vpn),https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-BEL2,https://katanaboss.online/chunklist/hlsch1.m3u8
-BEL3,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=1ce0c764c26219de327e2425c1574a2c
-BEL4,https://ani.zq4669.com:31106/live/hls?id=46bdd7b1.m3u8
+EURO LIVE
 
 EURO2024,#genre#
+AUT-FRA PRE,https://ok6-15.vkuser.net:443/expires/1718752377581/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/1ie2WpiEnyI/ct/8/urls/185.226.52.74%3B45.136.21.70/clientType/0/zs/43/id/6596489448089/video/
+AUT-FRA1,https://ok6-4.vkuser.net:443/expires/1718752442284/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/aqniIi4kEwA/ct/8/urls/185.226.52.15%3B185.226.53.21/clientType/0/zs/43/id/6596772563609/video/
+AUT-FRA2,https://ok6-9.vkuser.net:443/expires/1718752466579/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/7g8zFCfFen4/ct/8/urls/185.226.52.41%3B45.136.21.72/clientType/0/zs/43/id/6596994009753/video/
+AUT HL,https://ok6-3.vkuser.net:443/expires/1718752281818/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/5TP77COH8kI/ct/8/urls/45.136.21.72%3B45.136.20.49/clientType/0/zs/43/id/6597095066265/video/
+
 SRB PRE,https://ok6-3.vkuser.net:443/expires/1718674623879/srcIp/124.246.83.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/SRWRZvzpHl4/ct/8/urls/185.226.53.27%3B45.136.22.78/clientType/0/zs/43/id/6813568141904/video/
 SRB-ENG1,https://ok6-6.vkuser.net:443/expires/1718674718854/srcIp/124.246.83.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/eNjvOJ578aY/ct/8/urls/45.136.22.70%3B45.136.20.69/clientType/0/zs/43/id/6813573581392/video/
 SRB-ENG2,https://ok6-11.vkuser.net:443/expires/1718674493580/srcIp/124.246.83.112/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/XHDeybgxTk8/ct/8/urls/45.136.21.11%3B45.136.20.33/clientType/0/zs/43/id/6813632629328/video/
