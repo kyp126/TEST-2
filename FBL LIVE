@@ -3,6 +3,7 @@ cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-05,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 纬来篮球,rtmp://f13h.mine.nu/sat/tv721
+
 CBA体育,http://live-cmvideo.cmread.com:80/migu/lunbo/cba/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=261360ecdd41429ba089515be68c33d9
 咪咕体育,http://live-cmvideo.cmread.com:80/wd_r2/virtuallive/tysy201903/150/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d71afdb4433cfb1ced90779b543d1dee
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
@@ -11,6 +12,10 @@ CBA体育,http://live-cmvideo.cmread.com:80/migu/lunbo/cba/57/20230310/01.m3u8?m
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
+
+NBA GAME4,#genre#
+纬来篮球,rtmp://f13h.mine.nu/sat/tv721
+
 
 EURO LIVE
 
