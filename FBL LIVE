@@ -15,16 +15,16 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 NBA GAME5
 
-EURO LIVE,#genre#
-TUR-GEO,https://fctoxg04rk.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
-TUR1,https://katanaboss.online/chunklist/hlsch1.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
-咪咕(vpn sg),https://ani.zq4669.com:31106/live/hls?id=150b8008.m3u8
-TUR2,https://pull9.haipengzuche.com/live/8ed22f9b40dbda51.m3u8?txSecret=e0520cc87c8f05f4efaf4a32ce5d975a&txTime=6671AFB6
+EURO LIVE
 
 
 
 EURO2024,#genre#
+POR PRE,https://ok6-10.vkuser.net:443/expires/1718838751176/srcIp/119.234.8.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/b7_1D44fopM/ct/8/urls/45.136.21.5%3B45.136.20.30/clientType/0/zs/43/id/6822529731152/video/
+POR-CZE1,https://ok6-15.vkuser.net:443/expires/1718838806361/srcIp/119.234.8.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/gcDH5cL4ymI/ct/8/urls/45.136.22.12%3B45.136.20.77/clientType/0/zs/43/id/6593941080762/video/
+POR-CZE2,https://ok6-7.vkuser.net:443/expires/1718838837063/srcIp/119.234.8.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/C0NdAzsh_3I/ct/8/urls/45.136.21.32%3B45.136.22.59/clientType/0/zs/43/id/6593986890426/video/
+POR HL,https://ok6-4.vkuser.net:443/expires/1718838879051/srcIp/119.234.8.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/p4oWpWTb4YY/ct/8/urls/185.226.53.71%3B45.136.21.28/clientType/0/zs/43/id/6601282882201/video/
+
 AUT-FRA PRE,https://ok6-15.vkuser.net:443/expires/1718752377581/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/1ie2WpiEnyI/ct/8/urls/185.226.52.74%3B45.136.21.70/clientType/0/zs/43/id/6596489448089/video/
 AUT-FRA1,https://ok6-4.vkuser.net:443/expires/1718752442284/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/aqniIi4kEwA/ct/8/urls/185.226.52.15%3B185.226.53.21/clientType/0/zs/43/id/6596772563609/video/
 AUT-FRA2,https://ok6-9.vkuser.net:443/expires/1718752466579/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/7g8zFCfFen4/ct/8/urls/185.226.52.41%3B45.136.21.72/clientType/0/zs/43/id/6596994009753/video/
