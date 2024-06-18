@@ -15,7 +15,14 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 NBA GAME5
 
-EURO LIVE
+EURO LIVE,#genre#
+TUR-GEO,https://fctoxg04rk.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
+
+
+
+
+
+
 
 EURO2024,#genre#
 AUT-FRA PRE,https://ok6-15.vkuser.net:443/expires/1718752377581/srcIp/119.234.66.158/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/1ie2WpiEnyI/ct/8/urls/185.226.52.74%3B45.136.21.70/clientType/0/zs/43/id/6596489448089/video/
