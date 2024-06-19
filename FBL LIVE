@@ -16,9 +16,9 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 NBA GAME5
 
 EURO LIVE,#genre#
-CRO-ALB,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
-CRO,https://katanaboss.online/chunklist/hlsch1.m3u8
-
+CRO-ALB,https://rbaczd96me.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
+CRO1,https://katanaboss.online/chunklist/hlsch1.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
 
 
 
