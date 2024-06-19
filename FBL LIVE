@@ -15,17 +15,20 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 NBA GAME5
 
-EURO LIVE,#genre#
-GER-HUN,https://d2foi48vfj0o9i.cloudfront.net/index_1.m3u8
-GER1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8#https://katanaboss.online/chunklist/hlsch1.m3u8
-GER2,https://d3d7t3c9deg9j3.cloudfront.net/index_1.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
-咪咕,https://ani.zq4669.com:31106/live/hls?id=6ebe2595.m3u8
+EURO LIVE
 
 
 
 
 EURO2024,#genre#
+SCO-SWI 1,https://ok6-14.vkuser.net:443/expires/1718925178166/srcIp/119.234.32.208/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/_0kmf54r0W0/ct/8/urls/185.226.53.35%3B45.136.21.11/clientType/0/zs/43/id/6668910660215/video/
+SCO-SWI 2,https://ok6-11.vkuser.net:443/expires/1718925333507/srcIp/119.234.32.208/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/se6tm0EVWng/ct/8/urls/45.136.21.8%3B45.136.20.28/clientType/0/zs/43/id/6668952406647/video/
+SCO HL,https://ok6-15.vkuser.net:443/expires/1718925424324/srcIp/119.234.32.208/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/9wS3Z6WLmCU/ct/8/urls/185.226.53.86%3B45.136.21.18/clientType/0/zs/43/id/6894153960175/video/
+GER PRE,https://ok6-13.vkuser.net:443/expires/1718925595519/srcIp/119.234.32.208/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/XXzi0WiIR7c/ct/8/urls/45.136.22.78%3B45.136.20.77/clientType/0/zs/43/id/6827054729808/video/
+GER-HUN1,https://ok6-6.vkuser.net:443/expires/1718925626544/srcIp/119.234.32.208/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/7UNg_V5_xuw/ct/8/urls/45.136.20.26%3B185.226.53.12/clientType/0/zs/43/id/6668215061111/video/
+GER-HUN2,https://ok6-12.vkuser.net:443/expires/1718925643029/srcIp/119.234.32.208/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/Cc6TOsvmltc/ct/8/urls/45.136.21.21%3B45.136.20.54/clientType/0/zs/43/id/6668322212471/video/
+GER HL,https://ok6-4.vkuser.net:443/expires/1718925762686/srcIp/119.234.32.208/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/_q7dgYn0eSM/ct/8/urls/45.136.21.28%3B185.226.52.35/clientType/0/zs/43/id/6605120998041/video/
+
 POR PRE,https://ok6-10.vkuser.net:443/expires/1718838751176/srcIp/119.234.8.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/b7_1D44fopM/ct/8/urls/45.136.21.5%3B45.136.20.30/clientType/0/zs/43/id/6822529731152/video/
 POR-CZE1,https://ok6-15.vkuser.net:443/expires/1718838806361/srcIp/119.234.8.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/gcDH5cL4ymI/ct/8/urls/45.136.22.12%3B45.136.20.77/clientType/0/zs/43/id/6593941080762/video/
 POR-CZE2,https://ok6-7.vkuser.net:443/expires/1718838837063/srcIp/119.234.8.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/C0NdAzsh_3I/ct/8/urls/45.136.21.32%3B45.136.22.59/clientType/0/zs/43/id/6593986890426/video/
