@@ -17,7 +17,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 EURO LIVE,#genre#
 SVN-SER,https://techstreams.pro:8089/hls/fKFZL7coe6/index.m3u8?st=VrZUDlNQwlXE1wNCIhXuWg&e=1718897991#https://katanaboss.online/chunklist/hlsch1.m3u8
 SVN1,https://katanaboss.online/chunklist/hlsch1.m3u8
-
+SVN2,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
 
 
