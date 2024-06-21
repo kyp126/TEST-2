@@ -14,11 +14,11 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
 
-COPA LIVE,#genre#
-ARG-CAN,https://ani.zq4669.com:31106/live/hls?id=062a5008.m3u8
-ARG1,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=f7a8368e0d8aaea7d512085ab68c6803
-ARG3,https://ani.zq4669.com:31106/live/hls?id=19afdcd7.m3u8
-ARG4,https://katanaboss.online/chunklist/hlsch1.m3u8
+EURO LIVE,#genre#
+SLO-UKR,https://katanaboss.online/chunklist/hlsch1.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=f7a8368e0d8aaea7d512085ab68c6803
+
+
 
 
 
