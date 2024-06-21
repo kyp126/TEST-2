@@ -16,7 +16,9 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 COPA LIVE,#genre#
 PERU-CHILE,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-PERU,https://katanaboss.online/chunklist/hlsch1.m3u8
+PERU1,https://katanaboss.online/chunklist/hlsch1.m3u8
+PERU2,https://twoflow.xyz/hls/abc/index.m3u8
+
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 
 
