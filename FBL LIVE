@@ -15,9 +15,9 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 
 EURO LIVE,#genre#
-SVK-UKR,https://katanaboss.online/chunklist/hlsch1.m3u8
-SVK1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-SVK2,https://3gr5uemtugwzdkqbqgr4de.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58770057-saturn-wsu/playlist.m3u8?wsSecret=bc418f4762e76c1726ce2cdccc869efe&wsABSTime=6675bfdc&wsSession=da9b7298fb127ea04a7d7220-171897491187105&wsIPSercert=42bacafbbcd8ba9f989520add159ce1f&wsiphost=local&wsBindIP=1
+POL-AUS,https://katanaboss.online/chunklist/hlsch1.m3u8
+POL1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
+POL2,,https://3gr5uemtugwzdkqbqgr4de.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58770057-saturn-wsu/playlist.m3u8?wsSecret=bc418f4762e76c1726ce2cdccc869efe&wsABSTime=6675bfdc&wsSession=da9b7298fb127ea04a7d7220-171897491187105&wsIPSercert=42bacafbbcd8ba9f989520add159ce1f&wsiphost=local&wsBindIP=1
 CCTV5,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=f7a8368e0d8aaea7d512085ab68c6803
 咪咕,https://ani.zq4669.com:31106/live/hls?id=23fa334f.m3u8
 
