@@ -16,7 +16,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 COPA LIVE,#genre#
 ARG-CAN,https://ani.zq4669.com:31106/live/hls?id=062a5008.m3u8
-
+ARG1,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=f7a8368e0d8aaea7d512085ab68c6803
 
 EURO2024,#genre#
 SPA PRE,https://ok6-10.vkuser.net:443/expires/1719011591239/srcIp/111.65.33.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/HoWzhHAxLsE/ct/8/urls/45.136.20.41%3B45.136.21.21/clientType/0/zs/43/id/6873384421938/video/
