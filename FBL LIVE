@@ -35,7 +35,10 @@ NED PRE,https://ok6-3.vkuser.net:443/expires/1719101503948/srcIp/111.65.35.244/p
 NED-FRA1,https://ok6-11.vkuser.net:443/expires/1719101528547/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/s6ryifL195M/ct/8/urls/185.226.53.25%3B185.226.52.24/clientType/0/zs/43/id/6876173830675/video/
 NED-FRA2,https://ok6-3.vkuser.net:443/expires/1719101552598/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/hiVXdqekWQo/ct/8/urls/185.226.52.34%3B45.136.20.53/clientType/0/zs/43/id/6876253325843/video/
 NED HL,https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8e385a2c1a89939138cc00efb2242f434409b7c9&st.mq=2&st.mvid=7227517373081&st.ip=111.65.45.26&st.dla=on&st.exp=1719188018899&st.hls=on&_prevCmd=movieLayer&tkn=8017
-
+POL PRE,https://ok6-15.vkuser.net:443/expires/1719101936995/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/pealgNNLezY/ct/8/urls/185.226.53.86%3B45.136.20.23/clientType/0/zs/43/id/6836338625104/video/
+POL-AUT1,https://ok6-3.vkuser.net:443/expires/1719101956206/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/94EC5ySmqJo/ct/8/urls/45.136.20.23%3B45.136.22.45/clientType/0/zs/43/id/6875530725907/video/
+POL-AUT2,https://ok6-3.vkuser.net:443/expires/1719101973619/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/SP4CcmBixW8/ct/8/urls/45.136.21.12%3B45.136.20.21/clientType/0/zs/43/id/6875578632723/video/
+POL HL,https://ok6-2.vkuser.net/expires/1719102309497/srcIp/111.65.35.244/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/hjFsiztWDaA/ct/8/urls/185.226.53.7%3B185.226.52.12/clientType/1/zs/43/id/6904070736623/video/
 
 SPA PRE,https://ok6-10.vkuser.net:443/expires/1719011591239/srcIp/111.65.33.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/HoWzhHAxLsE/ct/8/urls/45.136.20.41%3B45.136.21.21/clientType/0/zs/43/id/6873384421938/video/
 SPA-ITA1,https://ok6-13.vkuser.net:443/expires/1719011618843/srcIp/111.65.33.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/WgNWhxeZB8g/ct/8/urls/185.226.52.38%3B45.136.21.31/clientType/0/zs/43/id/6873375050290/video/
