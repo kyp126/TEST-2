@@ -18,8 +18,8 @@ EURO LIVE,#genre#
 TUR-POR,https://katanaboss.online/chunklist/hlsch1.m3u8
 TUR1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 TUR2,https://embed.dinkin1005.com/live/66756a29dbf07/caxi.m3u8
-CCTV,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
-CCTV,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe984e2dd7244c1f4a6d75
+CCTV(1),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
+CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe984e2dd7244c1f4a6d75
 咪䊀,https://ani.zq4669.com:31106/live/hls?id=16ddd2fc.m3u8
 
 
