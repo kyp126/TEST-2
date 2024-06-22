@@ -39,7 +39,10 @@ POL PRE,https://ok6-15.vkuser.net:443/expires/1719101936995/srcIp/111.65.35.244/
 POL-AUT1,https://ok6-3.vkuser.net:443/expires/1719101956206/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/94EC5ySmqJo/ct/8/urls/45.136.20.23%3B45.136.22.45/clientType/0/zs/43/id/6875530725907/video/
 POL-AUT2,https://ok6-3.vkuser.net:443/expires/1719101973619/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/SP4CcmBixW8/ct/8/urls/45.136.21.12%3B45.136.20.21/clientType/0/zs/43/id/6875578632723/video/
 POL HL,https://ok6-2.vkuser.net/expires/1719102309497/srcIp/111.65.35.244/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/hjFsiztWDaA/ct/8/urls/185.226.53.7%3B185.226.52.12/clientType/1/zs/43/id/6904070736623/video/
-
+SVK PRE,https://ok6-14.vkuser.net:443/expires/1719102450316/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/AF7VdmkVO1k/ct/8/urls/185.226.53.61%3B45.136.21.52/clientType/0/zs/43/id/6834882218576/video/
+SVK-UKR1,https://ok6-11.vkuser.net:443/expires/1719102472355/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/bEDEXeqr5ng/ct/8/urls/45.136.22.26%3B185.226.53.43/clientType/0/zs/43/id/6874696452627/video/
+SVK-UKR2,https://ok6-3.vkuser.net:443/expires/1719102494794/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/5lj0QoyYoHQ/ct/8/urls/45.136.20.30%3B45.136.21.28/clientType/0/zs/43/id/6834944870992/video/
+SVK HL,https://doyu.upfootvid.com:443/UpFiles/2024/6/21/51/282515/720p.m3u8
 SPA PRE,https://ok6-10.vkuser.net:443/expires/1719011591239/srcIp/111.65.33.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/HoWzhHAxLsE/ct/8/urls/45.136.20.41%3B45.136.21.21/clientType/0/zs/43/id/6873384421938/video/
 SPA-ITA1,https://ok6-13.vkuser.net:443/expires/1719011618843/srcIp/111.65.33.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/WgNWhxeZB8g/ct/8/urls/185.226.52.38%3B45.136.21.31/clientType/0/zs/43/id/6873375050290/video/
 SPA-ITA2,https://ok6-2.vkuser.net:443/expires/1719011642964/srcIp/111.65.33.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/Wflb51LEPa0/ct/8/urls/45.136.22.75%3B45.136.22.37/clientType/0/zs/43/id/6873408932402/video/
