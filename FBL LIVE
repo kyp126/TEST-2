@@ -14,9 +14,6 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
 
-COPA,#genre#
-1,https://ani.zq4669.com:31106/live/hls?id=7e085396.m3u8
-2,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=45ebe2b3a1e563010530851de3ef86bf
 
 
 
@@ -32,7 +29,7 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe9
 
 SPAIN F1,#genre#
 RACE ,https://katanaboss.online/chunklist/hlsch2.m3u8
-
+R1,https://ovo.eelov.com/live/f1/chunks.m3u8
 
 
 EURO R2,#genre#
