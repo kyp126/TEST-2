@@ -15,23 +15,26 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 
 EURO LIVE,#genre#
-TUR-POR,https://katanaboss.online/chunklist/hlsch1.m3u8
-TUR1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-TUR2,https://embed.dinkin1005.com/live/66756a29dbf07/caxi.m3u8
+
+
 CCTV(1),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe984e2dd7244c1f4a6d75
-咪䊀,https://ani.zq4669.com:31106/live/hls?id=28d50e6c.m3u8
+咪䊀
 
 
 
 
-SPAIN F1,#genre#
-1,https://ani.zq4669.com:31106/live/hls?id=28d50e6c.m3u8
+SPAIN F1
 
 
 
 
 EURO2024,#genre#
+BEL PRE,https://vd374.mycdn.me:443/expires/1719187698844/srcIp/119.234.69.69/pr/10/srcAg/CHROME_ANDROID/ms/45.136.22.79/type/5/sig/pYo2Odz-hmU/ct/8/urls/45.136.20.69/clientType/0/zs/43/id/6840909695568/video/
+BEL-ROM1,https://ok6-4.vkuser.net:443/expires/1719187729308/srcIp/119.234.69.69/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/DvGVBfkDKo0/ct/8/urls/45.136.21.11%3B185.226.53.59/clientType/0/zs/43/id/6811511425772/video/
+BEL-ROM2,https://vd400.mycdn.me:443/expires/1719187756212/srcIp/119.234.69.69/pr/10/srcAg/CHROME_ANDROID/ms/45.136.20.29/type/5/sig/a0IbCP8sohU/ct/8/urls/45.136.22.7/clientType/0/zs/43/id/6811556186860/video/
+BEL HL,https://ok6-3.vkuser.net:443/expires/1719187785756/srcIp/119.234.69.69/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/xhqoNpNAJUM/ct/8/urls/185.226.53.34%3B45.136.21.20/clientType/0/zs/43/id/6909118778095/video/
+
 NED PRE,https://ok6-3.vkuser.net:443/expires/1719101503948/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/UtHGhlHwQ2o/ct/8/urls/45.136.21.23%3B45.136.22.61/clientType/0/zs/43/id/6876228094483/video/
 NED-FRA1,https://ok6-11.vkuser.net:443/expires/1719101528547/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/s6ryifL195M/ct/8/urls/185.226.53.25%3B185.226.52.24/clientType/0/zs/43/id/6876173830675/video/
 NED-FRA2,https://ok6-3.vkuser.net:443/expires/1719101552598/srcIp/111.65.35.244/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/hiVXdqekWQo/ct/8/urls/185.226.52.34%3B45.136.20.53/clientType/0/zs/43/id/6876253325843/video/
