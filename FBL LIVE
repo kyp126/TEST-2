@@ -26,7 +26,7 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe9
 
 
 COPA,#genre#
-URU-PAN,https://katanaboss.online/chunklist/hlsch1.m3u8
+URU-PAN,https://ani.zq4669.com:31106/live/hls?id=6bbdcf6b.m3u8#https://katanaboss.online/chunklist/hlsch1.m3u8
 URU,https://dj7it2yspn013.cloudfront.net/index_1.m3u8
 
 
