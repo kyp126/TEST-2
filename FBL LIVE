@@ -18,17 +18,6 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 
 EURO LIVE,#genre#
-FRA-POL,https://srmvwt.dinkin1005.com/live/65b9dfd305ff6/caxi.m3u8
-FRA,https://cdn1.flexsportx.com/live/zone-22/chunks.m3u8
-FRA1,https://katanaboss.online/chunklist/hlsch1.m3u8
-CCTV(FRA),https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=ce89849fc543c01e24fe30106c3f064f
-咪咕(FRA),https://ani.zq4669.com:31106/live/hls?id=15da4010.m3u8
-
-NET-AUT,https://rqupnp.dinkin1005.com/live/65b9dfd30ad89/caxi.m3u8
-NET,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-
-CCTV(NET),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7a57039a0e6c5e26267fe986ca33765f
-咪咕(NET),https://ani.zq4669.com:31106/live/hls?id=6110e74d.m3u8
 
 
 
@@ -39,9 +28,11 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe9
 
 
 COPA,#genre#
-1,https://ok6-9.vkuser.net:443/expires/1719414903648/srcIp/124.197.101.82/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/K8cOeQHtLso/ct/8/urls/45.136.20.54%3B185.226.53.90/clientType/0/zs/43/id/6629786847897/video/
-2,https://ok6-5.vkuser.net:443/expires/1719414967236/srcIp/124.197.101.82/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/7LfTPdT-RBU/ct/8/urls/45.136.21.11%3B185.226.52.24/clientType/0/zs/43/id/6448618212094/video/
+
+
 EURO R3,#genre#
+NED-AUT1,https://ok6-12.vkuser.net:443/expires/1719443141403/srcIp/119.234.36.88/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/T8tOmNmJTSY/ct/8/urls/45.136.22.79%3B185.226.52.24/clientType/0/zs/43/id/6854394055248/video/
+NED-AUT2,https://ok6-10.vkuser.net:443/expires/1719443190639/srcIp/119.234.36.88/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/G8UBRmb5DKc/ct/8/urls/45.136.21.50%3B185.226.53.58/clientType/0/zs/43/id/6708229573193/video/
 ALB-SPA 1,https://ok6-13.vkuser.net:443/expires/1719414817576/srcIp/124.197.101.82/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/o5RKUA4sq_E/ct/8/urls/45.136.20.76%3B45.136.21.29/clientType/0/zs/43/id/6850856815184/video/
 ALB-SPA2,https://ok6-5.vkuser.net/?expires=1719354117990&srcIp=111.65.59.251&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=4&sig=k0s14v0V39s&ct=14&urls=45.136.21.10%3B45.136.20.31&clientType=0&zs=43&id=6850875099728#https://ok6-5.vkuser.net/?expires=1719353673656&srcIp=111.65.69.223&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=4&sig=TEEZnSuKBqM&ct=14&urls=45.136.20.31%3B45.136.21.10&clientType=1&zs=43&id=6850875099728
 ALB-HL,https://ok6-3.vkuser.net:443/expires/1719353707226/srcIp/111.65.59.251/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/64C5apEtBNY/ct/8/urls/45.136.22.43%3B45.136.21.68/clientType/0/zs/43/id/6919242255087/video/
