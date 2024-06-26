@@ -30,7 +30,7 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe9
 COPA,#genre#
 CHI-ARG1,https://ok6-3.vkuser.net:443/expires/1719485585167/srcIp/124.246.88.216/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/nSmiTXLhW8U/ct/8/urls/185.226.52.61%3B185.226.53.59/clientType/0/zs/43/id/6452795935486/video/
 CHI-ARG2,https://ok6-9.vkuser.net:443/expires/1719485684638/srcIp/124.246.88.216/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/__YRL4IT3hc/ct/8/urls/45.136.21.70%3B185.226.52.29/clientType/0/zs/43/id/6878504880686/video/
-
+PERU-CAN,https://ok6-12.vkuser.net:443/expires/1719486514264/srcIp/124.246.88.216/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/zf8rRmjIqmg/ct/8/urls/45.136.22.46%3B45.136.21.32/clientType/0/zs/43/id/6523385547365/video/
 
 EURO R3,#genre#
 ENG-SVN1,https://ok6-11.vkuser.net:443/expires/1719444334657/srcIp/119.234.36.88/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/kRNeRIID8iQ/ct/8/urls/185.226.53.23%3B45.136.22.44/clientType/0/zs/43/id/6452310641406/video/
