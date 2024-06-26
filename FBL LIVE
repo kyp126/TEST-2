@@ -29,6 +29,9 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b8b58d178efe9
 
 COPA,#genre#
 1,https://ani.zq4669.com:31106/live/hls?id=4f62a49a.m3u8
+2,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=34f718b4495d9bf6074b5b92eb26b94f
+
+
 
 EURO R3,#genre#
 ENG-SVN1,https://ok6-11.vkuser.net:443/expires/1719444334657/srcIp/119.234.36.88/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/kRNeRIID8iQ/ct/8/urls/185.226.53.23%3B45.136.22.44/clientType/0/zs/43/id/6452310641406/video/
