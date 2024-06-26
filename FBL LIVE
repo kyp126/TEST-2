@@ -20,12 +20,12 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 EURO LIVE,#genre#
 SVK-ROM,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 SKV1,https://katanaboss.online/chunklist/hlsch1.m3u8
-咪咕(SVK)https://ani.zq4669.com:31106/live/hls?id=500c85c5.m3u8
+咪咕(SVK),https://ani.zq4669.com:31106/live/hls?id=500c85c5.m3u8
 CCTV(SKV),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 CCTV(SKV1),https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=e073d8867a742b5cdaca67889c2d79cc
 UKR-BEL,https://cdn1.flexsportx.com/live/zone-22/chunks.m3u8
 
-咪咕(UKR)https://ani.zq4669.com:31106/live/hls?id=5195a7a4.m3u8
+咪咕(UKR),https://ani.zq4669.com:31106/live/hls?id=5195a7a4.m3u8
 CCTV(UKR),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 CCTV(UKR1),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=b3c20103aed13ccc05d5be23935e4188
 
