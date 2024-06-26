@@ -22,7 +22,7 @@ SVK-ROM,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 SKV1,https://katanaboss.online/chunklist/hlsch1.m3u8
 
 CCTV(SKV),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
-
+CCTV(SKV1),https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=e073d8867a742b5cdaca67889c2d79cc
 UKR-BEL,https://cdn1.flexsportx.com/live/zone-22/chunks.m3u8
 
 
