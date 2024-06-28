@@ -29,9 +29,11 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360
 
 
 COPA,#genre#
-live,https://ani.zq4669.com:31106/live/hls?id=798aabd4.m3u8
-live1,https://ani.zq4669.com:31106/live/hls?id=01d45ae1.m3u8
-live2,http://5167be6c179635f8574a5a4c752f9f27.livehwc3.cn/pull-hls-f26.douyincdn.com/third/stream-403625726063149742_ld.m3u8?edge_slice=true&sign=1e2e7c51aa22c36a13ac9909848c22fe&user_session_id=72fed2c0f2447287d7b61eb03ead1926&expire=66872d48&sub_m3u8=true
+LIVE1,https://ani.zq4669.com:31106/live/hls?id=56a61851.m3u8
+
+
+
+
 
 CHI-ARG1,https://ok6-3.vkuser.net:443/expires/1719485585167/srcIp/124.246.88.216/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/nSmiTXLhW8U/ct/8/urls/185.226.52.61%3B185.226.53.59/clientType/0/zs/43/id/6452795935486/video/
 CHI-ARG2,https://ok6-9.vkuser.net:443/expires/1719485684638/srcIp/124.246.88.216/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/__YRL4IT3hc/ct/8/urls/45.136.21.70%3B185.226.52.29/clientType/0/zs/43/id/6878504880686/video/
