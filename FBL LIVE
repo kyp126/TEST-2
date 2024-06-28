@@ -32,7 +32,7 @@ COPA,#genre#
 LIVE1,https://ani.zq4669.com:31106/live/hls?id=56a61851.m3u8
 LIVE2,http://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull-hls-f26.douyincdn.com/third/stream-403626456405770926_sd.m3u8?sub_m3u8=true&sign=2e0d284ba6de657b083d3237b3e77cec&user_session_id=68a0d64b4498f83dc3dc5e4248ac6483&expire=6687476b&edge_slice=true
 LIVE3,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=e7593544f760d63cff63d5ebc86792f3
-
+LIVE4,https://kliwqu67xi.azureedge.net:443/live/65b9e03a1e2c8/chunks.m3u8
 
 
 CHI-ARG1,https://ok6-3.vkuser.net:443/expires/1719485585167/srcIp/124.246.88.216/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/3/sig/nSmiTXLhW8U/ct/8/urls/185.226.52.61%3B185.226.53.59/clientType/0/zs/43/id/6452795935486/video/
