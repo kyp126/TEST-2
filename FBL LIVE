@@ -29,10 +29,13 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360
 
 
 COPA,#genre#
-BRAZIL 1,https://ani.zq4669.com:31106/live/hls?id=5efa6b04.m3u8
-BRAZIL 2,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=6a53b76a30f4ebe5b9386a1bb0322c3e
-BRAZIL 3,https://efwhka48yo.azureedge.net:443/live/65b9e03a246f5/chunks.m3u8
-BRAZIL 4,https://pull9.haipengzuche.com/live/df3df2a90d92c605.m3u8?txSecret=67f8d634c88640bf7171237874650383&txTime=667F5C92
+PAR-BRA1,https://ok6-1.vkuser.net:443/expires/1719725210703/srcIp/138.75.2.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/8fax4GvX_ig/ct/8/urls/185.226.52.20%3B185.226.53.61/clientType/0/zs/43/id/6832815671924/video/
+PAR-BRA2,https://ok6-6.vkuser.net:443/expires/1719725247053/srcIp/138.75.2.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/sTZ-F_7ZfcQ/ct/8/urls/45.136.20.31%3B185.226.52.41/clientType/0/zs/43/id/6832878914164/video/
+PAR-BRA HL,https://vff.upfootvid.com:443/UpFiles/2024/6/29/51/283139/720p.m3u8
+
+
+
+
 
 
 EURO R3,#genre#
