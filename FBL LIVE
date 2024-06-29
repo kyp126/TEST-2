@@ -27,8 +27,8 @@ GER3,https://ovo.eelov.com/live/n-1/chunks.m3u8
 GER4,https://4gr4nhcj18yzdnmtt8r5o.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58770039-saturn-wsu/playlist.m3u8?wsSecret=278a5b6688878706966440cad5ab839f&wsABSTime=6680760c&wsSession=5b77e199eaeb096894911997-171967694798163&wsIPSercert=cc26ba3046b1d8b9ec2a3437cb996434&wsiphost=local&wsBindIP=1
 CCTV(1),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=6a53b76a30f4ebe5b9386a1bb0322c3e
-CCTV(3),https://pull9.haipengzuche.com/live/0c6b7fadf60020a5.m3u8?txSecret=3e4b5a20bc680c523d9e326ee7146a1d&txTime=6680302B
-咪䊀,https://ani.zq4669.com:31106/live/hls?id=53a620de.m3u8
+CCTV(3),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=2f0720bc510a01e24db251ab58704c61
+咪䊀,
 
 扑克王者,https://hd.ijycnd.com/play/DbDvExKe/index.m3u8
 扑克王者1,https://v11.tlkqc.com:443/wjv11/202406/24/BXGvNGZYkq83/video/1000k_720/hls/index.m3u8
