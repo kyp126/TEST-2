@@ -36,7 +36,7 @@ CCTV(3),https://pull9.haipengzuche.com/live/0c6b7fadf60020a5.m3u8?txSecret=3e4b5
 CCTV(1),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 
-咪䊀
+TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
 COPA,#genre#
