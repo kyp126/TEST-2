@@ -1,6 +1,7 @@
 
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-05,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
+CCTC-05a,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 cctv5+,http://113.138.132.1:8001/rtp/239.111.205.13:5140#http://122.231.164.95:3000/rtp/233.50.201.220:5140 
 纬来篮球,rtmp://f13h.mine.nu/sat/tv721
 
