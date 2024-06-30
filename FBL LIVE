@@ -50,6 +50,9 @@ ARG-PERU HL,https://vff.upfootvid.com:443/UpFiles/2024/6/30/51/283238/720p.m3u8
 
 
 EURO 16,#genre#
+SPA-GEO1,https://ok6-11.vkuser.net:443/expires/1719875459384/srcIp/111.65.59.81/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/ozrnPGQVCk0/ct/8/urls/185.226.53.31%3B45.136.20.17/clientType/0/zs/43/id/6676067387914/video/
+SPA-GEO2,https://ok6-8.vkuser.net:443/expires/1719875480904/srcIp/111.65.59.81/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/JBx1Rizl1jw/ct/8/urls/185.226.52.38%3B185.226.53.86/clientType/0/zs/43/id/6676209994250/video/
+SPA-GEO HL,https://vff.upfootvid.com:443/UpFiles/2024/6/30/51/283289/720p.m3u8
 ENG-SKV1,https://ok6-8.vkuser.net:443/expires/1719875241718/srcIp/111.65.59.81/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/ejAKobLkVVw/ct/8/urls/45.136.20.21%3B45.136.20.11/clientType/0/zs/43/id/6656922028697/video/
 ENG-SKV2,https://ok6-11.vkuser.net:443/expires/1719875272077/srcIp/111.65.59.81/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/kUwPva4_hNQ/ct/8/urls/185.226.52.74%3B45.136.21.30/clientType/0/zs/43/id/6657245907609/video/
 ENG-SKV HL,https://vff.upfootvid.com:443/UpFiles/2024/6/30/51/283273/720p.m3u8
