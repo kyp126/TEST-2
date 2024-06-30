@@ -41,11 +41,7 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
 COPA,#genre#
-PAR-BRA1,https://ok6-1.vkuser.net:443/expires/1719725210703/srcIp/138.75.2.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/8fax4GvX_ig/ct/8/urls/185.226.52.20%3B185.226.53.61/clientType/0/zs/43/id/6832815671924/video/
-PAR-BRA2,https://ok6-6.vkuser.net:443/expires/1719725247053/srcIp/138.75.2.46/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/sTZ-F_7ZfcQ/ct/8/urls/45.136.20.31%3B185.226.52.41/clientType/0/zs/43/id/6832878914164/video/
-PAR-BRA HL,https://vff.upfootvid.com:443/UpFiles/2024/6/29/51/283139/720p.m3u8
-
-
+LIVE1,https://ani.zq4669.com:31106/live/hls?id=3449885f.m3u8
 
 
 
