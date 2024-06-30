@@ -41,8 +41,8 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
 COPA,#genre#
-LIVE1,https://ani.zq4669.com:31106/live/hls?id=3449885f.m3u8
-
+LIVE1a,https://ani.zq4669.com:31106/live/hls?id=3449885f.m3u8
+LIVE1b,https://pullaliyun.speedzonerc.com/live/sd-1-4046016.m3u8?auth_key=1719705757-0-0-ca3213bf59f3fdb3913649dbfc25288e
 
 
 
