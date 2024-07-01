@@ -40,22 +40,16 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
 COPA,#genre#
-JAM-VEN,https://embed.dinkiolmax.shop/live/65b9e03a1e2c8/65b9e03a1e2c8.html
-JAM1,https://ani.zq4669.com:31106/live/hls?id=7696365e.m3u8
-JAM2,https://0gr4nhcbqgoa1hqb3.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58770265-hydra-wsu/playlist.m3u8?wsSecret=c76205eb46249b06a7876cb807344fcd&wsABSTime=6682380c&wsSession=2d2efb0a52f950cacfb6ce3b-171979203895386&wsIPSercert=cc26ba3046b1d8b9ec2a3437cb996434&wsiphost=local&wsBindIP=1
-MEX-ECU,https://embed.dinkiolmax.shop/live/65b9e03a246f5/65b9e03a246f5.html
-MEX1,https://ani.zq4669.com:31106/live/hls?id=118e3503.m3u8
-MEX2,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=1bf9d2b3d3a8391e0ff3246095053ba7
 
 
-ARG-PERU1,https://ok6-5.vkuser.net:443/expires/1719874991403/srcIp/111.65.70.59/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/7oKMtfPSBa4/ct/8/urls/185.226.52.22%3B45.136.22.10/clientType/0/zs/43/id/6653728131737/video/
-ARG-PERU2,https://ok6-11.vkuser.net:443/expires/1719875025220/srcIp/111.65.70.59/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/whkotMdvdhw/ct/8/urls/45.136.22.46%3B45.136.21.74/clientType/0/zs/43/id/6653801007769/video/
-ARG-PERU HL,https://vff.upfootvid.com:443/UpFiles/2024/6/30/51/283238/720p.m3u8
 
 
 
 
 EURO 16,#genre#
+FRA-BEL1,https://ok6-1.vkuser.net:443/expires/1719961915728/srcIp/119.234.8.184/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/ykZnuF6x9HI/ct/8/urls/45.136.20.49%3B185.226.53.29/clientType/0/zs/43/id/6662294669977/video/
+FRA-BEL2,https://ok6-8.vkuser.net:443/expires/1719961958642/srcIp/119.234.8.184/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/6LNuoZdAeHk/ct/8/urls/45.136.21.72%3B185.226.52.42/clientType/0/zs/43/id/6662587353753/video/
+FRA-BEL HL,https://vff.upfootvid.com:443/UpFiles/2024/7/1/51/283363/720p.m3u8
 SPA-GEO1,https://ok6-11.vkuser.net:443/expires/1719875459384/srcIp/111.65.59.81/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/ozrnPGQVCk0/ct/8/urls/185.226.53.31%3B45.136.20.17/clientType/0/zs/43/id/6676067387914/video/
 SPA-GEO2,https://ok6-8.vkuser.net:443/expires/1719875480904/srcIp/111.65.59.81/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/JBx1Rizl1jw/ct/8/urls/185.226.52.38%3B185.226.53.86/clientType/0/zs/43/id/6676209994250/video/
 SPA-GEO HL,https://vff.upfootvid.com:443/UpFiles/2024/6/30/51/283289/720p.m3u8
