@@ -41,6 +41,7 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 COPA,#genre#
 USA-URU,https://ani.zq4669.com:31106/live/hls?id=46ba13e4.m3u8
+US1,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=79c9cc5ef8ebfd1488f9dba7bbad02d0
 BOL-PAN,https://ani.zq4669.com:31106/live/hls?id=60831671.m3u8
 BOL1,http://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull-hls-f26.douyincdn.com/third/stream-403649644264948398.m3u8?user_session_id=1c6f33f835c86fc7fe53a40d46ff0ad5&sub_m3u8=true&sign=db1dd9b5c24117ac1cfb2b7cb576a634&edge_slice=true&expire=668c8c70
 
