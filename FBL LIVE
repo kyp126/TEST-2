@@ -19,12 +19,12 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 EURO LIVE,#genre#
 
-FRA-BEL,https://ovo.eelov.com/live/n-1/chunks.m3u8#https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-FRA1,https://bongsports.stream/live/zone-11/chunks.m3u8
-FRA2,https://wzqrqj.dinkiolmax.shop/live/65b9e01d502f8/65b9e01d502f8.html
-FRA3,https://ovo.eelov.com/live/n-1/chunks.m3u8
-FRA4,https://guujxy.dinkiolmax.shop/live/65b9e01d502f8/65b9e01d502f8.html
-FRA5,https://pull9.haipengzuche.com/live/9886002c53388a28.m3u8?txSecret=a1dc0bbd029dab47bb92ff5233f8b232&txTime=6682D336#https://techstreams.pro:8089/hls/ob7EixkVPu/index.m3u8?st=enKbUWoKFlmKJVCXdQNuQQ&e=1719857351
+ROU-NED,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
+ROU,https://bongsports.stream/live/zone-11/chunks.m3u8
+ROU2,https://wzqrqj.dinkiolmax.shop/live/65b9e01d502f8/65b9e01d502f8.html
+ROU3,https://ovo.eelov.com/live/n-1/chunks.m3u8
+ROU4,https://guujxy.dinkiolmax.shop/live/65b9e01d502f8/65b9e01d502f8.html
+ROU5,https://pull9.haipengzuche.com/live/9886002c53388a28.m3u8?txSecret=a1dc0bbd029dab47bb92ff5233f8b232&txTime=6682D336#https://techstreams.pro:8089/hls/ob7EixkVPu/index.m3u8?st=enKbUWoKFlmKJVCXdQNuQQ&e=1719857351
 
 CCTV(1),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
 CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=6a53b76a30f4ebe5b9386a1bb0322c3e
