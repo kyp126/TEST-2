@@ -41,7 +41,7 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
 COPA,#genre#
-BRA-COL,https://pull.opsnowflake.com/live/dps-58770262-saturn-wsu/playlist.m3u8?wsSecret=6734a8c989506b73f106fa5c9e6d0974&wsABSTime=6684e91c
+BRA-COL,https://kwgmtq57ub.azureedge.net:443/live/65b9e03a17acb/chunks.m3u8#https://pull.opsnowflake.com/live/dps-58770262-saturn-wsu/playlist.m3u8?wsSecret=6734a8c989506b73f106fa5c9e6d0974&wsABSTime=6684e91c
 
 
 COS-PARhttps://pull.opsnowflake.com/live/dps-58770261-saturn-wsu/playlist.m3u8?wsSecret=15a3d698da9aeb2a16b6b3731dd69cea&wsABSTime=6684e91c
