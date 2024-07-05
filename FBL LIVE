@@ -19,7 +19,7 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 EURO LIVE,#genre#
 
-SPA-GER,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
+SPA-GER,https://d3unkange11i53.cloudfront.net/index_2.m3u8#https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 SPA1,https://bongsports.stream/live/zone-11/chunks.m3u8
 SPA2,https://pull9.haipengzuche.com/live/5c368502a0ca9df1.m3u8?txSecret=15444829df2c1843065aa235dc765139&txTime=66881885
 SPA3,https://ovo.eelov.com/live/n-1/chunks.m3u8
