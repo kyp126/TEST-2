@@ -39,7 +39,7 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
 COPA 8,#genre#
-ARG-ECU1,https://a57.azplay.me/video/1/7/308717.mp4
+ARG-ECU1,https://ok6-11.vkuser.net:443/expires/1720261017750/srcIp/124.197.123.123/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/awfop4bWeFM/ct/8/urls/45.136.21.77%3B45.136.22.74/clientType/0/zs/43/id/6677389576857/video/#https://a57.azplay.me/video/1/7/308717.mp4
 ARG-ECU2,
 ARG-ECU HL,https://a57.azplay.me/video/1/7/308717.mp4
 ARG-ECU PK,https://a57.azplay.me/video/1/8/308718.mp4
