@@ -38,14 +38,11 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360
 TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
-COPA,#genre#
-BRA-COL,https://kwgmtq57ub.azureedge.net:443/live/65b9e03a17acb/chunks.m3u8#https://pull.opsnowflake.com/live/dps-58770262-saturn-wsu/playlist.m3u8?wsSecret=6734a8c989506b73f106fa5c9e6d0974&wsABSTime=6684e91c
-BRA1,https://ani.zq4669.com:31106/live/hls?id=31ae1a5d.m3u8
-BRA2,http://5167be6c179635f8574a5a4c752f9f27.livehwc3.cn/pull-hls-f26.douyincdn.com/third/stream-403655440594109102.m3u8?edge_slice=true&user_session_id=a015380200eda63067587b1e4c37f791&expire=668ddd02&sub_m3u8=true&sign=a49785f4d38d24420f92afeed998ab46
-COS-PAR1,https://pull.opsnowflake.com/live/dps-58770261-saturn-wsu/playlist.m3u8?wsSecret=15a3d698da9aeb2a16b6b3731dd69cea&wsABSTime=6684e91c
-COS-PAR,https://ani.zq4669.com:31106/live/hls?id=0263b540.m3u8
-COS,https://pullaliyun.speedzonerc.com/live/hd-zh-1-4046028.m3u8?auth_key=1719968555-0-0-835d01f81d0d85c1c87b74fb6450c406
-
+COPA 8,#genre#
+ARG-ECU1,https://a57.azplay.me/video/1/7/308717.mp4
+ARG-ECU2,
+ARG-ECU HL,https://a57.azplay.me/video/1/7/308717.mp4
+ARG-ECU PK,https://a57.azplay.me/video/1/8/308718.mp4
 
 
 
