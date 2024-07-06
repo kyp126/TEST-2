@@ -19,10 +19,10 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 EURO LIVE,#genre#
 
-POR-FRA,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-POR1,https://bongsports.stream/live/zone-11/chunks.m3u8
-SPA2,https://pull9.haipengzuche.com/live/5c368502a0ca9df1.m3u8?txSecret=15444829df2c1843065aa235dc765139&txTime=66881885
-POR3,https://ovo.eelov.com/live/n-1/chunks.m3u8
+ENG-SUI,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
+ENG1,https://bongsports.stream/live/zone-11/chunks.m3u8
+https://pull9.haipengzuche.com/live/5c368502a0ca9df1.m3u8?txSecret=15444829df2c1843065aa235dc765139&txTime=66881885
+ENG2,https://ovo.eelov.com/live/n-1/chunks.m3u8
 POR4,https://krcpbk.dinkiolmax.shop/live/65b9e01d502f8/65b9e01d502f8.html
 
 CCTV(1),https://zb-play.gcppjmk.cn/public/500743886_1720192981.m3u8?txSecret=f70f6039b39fe3c3b7a2caa26df046a8&txTime=66880FD5
