@@ -41,6 +41,7 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 COPA 8,#genre#
 VEN-CAN,https://bongsports.stream/live/zone-11/chunks.m3u8
 VEN1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
+VEN2,https://pull9.haipengzuche.com/live/add03b2c58afea15.m3u8?txSecret=47c446adc814c37b51aa4771f1aa4e7c&txTime=66889712
 VEN,https://katanaboss.online/chunklist/hlsch1.m3u8
 CCTV(1),https://3gr5uemtugwzdkqbqgr4dg.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58792103-hydra-wsu/playlist.m3u8?wsSecret=b8bc5ee75158a1476e64a93c6a67399f&wsABSTime=6688dd9c&wsSession=fbafcffe1e89ee08f3f8f8d0-172022777314256&wsIPSercert=42bacafbbcd8ba9f989520add159ce1f&wsiphost=local&wsBindIP=1
 
