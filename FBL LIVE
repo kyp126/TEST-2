@@ -14,10 +14,9 @@ ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
-NBA LIVE,#genre#
-NBA1,https://pull9.haipengzuche.com/live/803927ef5ed37fb3.m3u8?txSecret=ff037d19bd3ae2be2f7a9d3f4133c09c&txTime=6689E23E
+ENG F1,#genre#
+RACE 1,https://ovo.eelov.com/live/f1/chunks.m3u8
 
-NBA2,https://ca5425909e490ebcf7ac97d6089a540e.v.smtcdns.net/txycdn.video.qq.com/1764469102.m3u8?time=1720314887&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=F14DC03E3AC3D60441179F9D9D66E32D7197914D92D1393CB043E474F53FFFB29E1C268192F5313A34D6B6FA9CD7B5EE646EF9D11468095F8A99ACAD444505D2E52EF20ED337EBD40F268EB7399C3E39B81A54DB9FC7CFA085F0B7802F20F718F24FBF72DBF0C73ACF94910033087484417852B11CC7BDAB&drmtype=0
 
 EURO LIVE,#genre#
 
