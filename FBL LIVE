@@ -15,8 +15,10 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 格斗频道,http://live-cmvideo.cmread.com:80/migu/lunbo/ufc/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de66cc31b2e686e8503003557c03ec69
 
 ENG F1,#genre#
-RACE 1,https://ovo.eelov.com/live/f1/chunks.m3u8
+RACE1,https://ovo.eelov.com/live/f1/chunks.m3u8
 RACE2,https://cdn1.flexsportx.com/live/f1/chunks.m3u8
+RACE3,https://pl.nbvcgh98ju.shop/playlist/23596/afsvvvvv.101streams.online/caxi.m3u8
+
 
 EURO LIVE,#genre#
 
