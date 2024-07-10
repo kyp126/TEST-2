@@ -36,7 +36,7 @@ CCTV(3),https://3gr5uemtugwzdkqbqgr4dr.ourdvsssvip.com/pull.opsnowflake.com/live
 
 
 CCTV(),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
-CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360f66c9111847f894db54
+
 
 TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
