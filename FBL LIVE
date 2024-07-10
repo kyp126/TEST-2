@@ -50,7 +50,10 @@ CCTV(2),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=87f5b09a7c360
 TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
-COPA 8,#genre#
+COPA 4,#genre#
+ARG-CAN,https://zdultf53dn.azureedge.net:443/live/65b9e03a17acb/chunks.m3u8
+ARG1,https://pull9.haipengzuche.com/live/993f1ac1d56152d0.m3u8?txSecret=d617d8510a2c1bb0853f0c694120d744&txTime=668DCFB5
+ARG2,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 
 
 
