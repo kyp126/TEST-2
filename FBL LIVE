@@ -18,12 +18,17 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 CCTV(1),https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 CCTV(2),https://itv.lat/hls?channel=CCTV-5H265&token=85c53bb8caf87075db8efcb56cab13d6
-
+xxxxxxxxxxxxxxxx
 
 NBA LIVE,#genre#
 N1,https://dsrkfv67yl.azureedge.net:443/live/65b0b785ab3d2/chunks.m3u8
 N2,https://dsrkfv67yl.azureedge.net:443/live/65b0b785ab983/chunks.m3u8
-N3,https://pull9.haipengzuche.com/live/09df6a05e03b59a1.m3u8?txSecret=62de05253666bfb0f91db89f4198772a&txTime=6691C436
+N2a,https://pull9.haipengzuche.com/live/09df6a05e03b59a1.m3u8?txSecret=62de05253666bfb0f91db89f4198772a&txTime=6691C436
+
+
+
+
+
 
 
 EURO LIVE,#genre#
