@@ -2,7 +2,7 @@
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-05,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
 CCTV-05a,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
-cctv5+,https://itv.lat/hls?channel=CCTV-5plusH265&token=85c53bb8caf87075db8efcb56cab13d6
+CCTV5+,https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
 纬来篮球,rtmp://f13h.mine.nu/sat/tv721
 
 CBA体育,http://live-cmvideo.cmread.com:80/migu/lunbo/cba/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=261360ecdd41429ba089515be68c33d9
