@@ -18,7 +18,15 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 CCTV(1),https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 CCTV(2),https://itv.lat/hls?channel=CCTV-5H265&token=85c53bb8caf87075db8efcb56cab13d6
+TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
+
 xxxxxxxxxxxxxxxx
+
+NBA,#genre#
+N1a,https://pull9.haipengzuche.com/live/efa6ca1512f2a0f1.m3u8?txSecret=102e77151544b4df3861ba481a8edabf&txTime=6695A01A
+
+
+
 
 
 COPA FINAL,#genre#
@@ -28,7 +36,6 @@ ARG ET,https://ok6-12.vkuser.net:443/expires/1721126785231/srcIp/124.246.111.146
 ARG-COL HL,https://vff.upfootvid.com:443/UpFiles/2024/7/15/51/283990/720p.m3u8
 
 
-TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
 
