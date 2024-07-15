@@ -35,7 +35,7 @@ CCTV(2),https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330
 TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 
-NBA#genre#
+NBA,#genre#
 N1a,https://6gr4nhcj18yzdnmtwgy.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58808361-hydra-wsu/playlist.m3u8?wsSecret=961c31023aa07230eadc4d1cafcd9118&wsABSTime=6694ad0c&wsSession=99326fd42e8d5415c108eeea-172100183961912&wsIPSercert=72055105a540f54033a2320bb60c1097&wsiphost=local&wsBindIP=1
 N1b,https://pull9.haipengzuche.com/live/45d728c0f08ba650.m3u8?txSecret=13d221c6ebadf902b0bd48503ad65056&txTime=66946735
 N2a,https://pull9.haipengzuche.com/live/ba1d90a9810a2412.m3u8?txSecret=9c8eb70d9c6b0967fb04a0440d846df1&txTime=669460E2&_=1721000407949
