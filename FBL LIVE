@@ -26,7 +26,7 @@ ARG-COL,https://hqgmcz57mq.azureedge.net:443/live/65b9e03a17acb/chunks.m3u8
 ARG1,https://fl1002.bozztv.com:443/ssh101/tarasyuk/tracks-v1a1/mono.m3u8
 ARG2,https://utkozc.dinkiolmax.shop/live/65b9e01d502f8/65b9e01d502f8.html
 ARG3,https://bongsports.stream/live/zone-11/chunks.m3u8
-
+CCTV5,https://ani.zq4669.com:31106/live/hls?id=0d10bef5.m3u8
 CCTV(1),https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
 CCTV(2),https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
 
