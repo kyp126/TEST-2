@@ -22,27 +22,12 @@ xxxxxxxxxxxxxxxx
 
 
 COPA FINAL,#genre#
-ARG-COL,https://hqgmcz57mq.azureedge.net:443/live/65b9e03a17acb/chunks.m3u8
-ARG1,https://fl1002.bozztv.com:443/ssh101/tarasyuk/tracks-v1a1/mono.m3u8
-ARG2,https://utkozc.dinkiolmax.shop/live/65b9e01d502f8/65b9e01d502f8.html
-ARG3,https://bongsports.stream/live/zone-11/chunks.m3u8
-CCTV5,https://ani.zq4669.com:31106/live/hls?id=0d10bef5.m3u8
-CCTV(1),https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
-CCTV(2),https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
-
+ARG-COL1,https://ok6-7.vkuser.net:443/expires/1721126534565/srcIp/124.246.111.146/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/vp6yRxZBS_4/ct/8/urls/45.136.20.30%3B185.226.53.23/clientType/0/zs/43/id/6907962854004/video/
+ARG-COL2,https://ok6-3.vkuser.net:443/expires/1721126562556/srcIp/124.246.111.146/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/tcM0rbLitSU/ct/8/urls/185.226.52.13%3B45.136.20.77/clientType/0/zs/43/id/6907989658228/video/
+ARG-COL HL,https://vff.upfootvid.com:443/UpFiles/2024/7/15/51/283990/720p.m3u8
 
 
 TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
-
-
-NBA,#genre#
-N1a,https://6gr4nhcj18yzdnmtwgy.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58808361-hydra-wsu/playlist.m3u8?wsSecret=961c31023aa07230eadc4d1cafcd9118&wsABSTime=6694ad0c&wsSession=99326fd42e8d5415c108eeea-172100183961912&wsIPSercert=72055105a540f54033a2320bb60c1097&wsiphost=local&wsBindIP=1
-N1b,https://pull9.haipengzuche.com/live/45d728c0f08ba650.m3u8?txSecret=13d221c6ebadf902b0bd48503ad65056&txTime=66946735
-N2a,https://pull9.haipengzuche.com/live/ba1d90a9810a2412.m3u8?txSecret=9c8eb70d9c6b0967fb04a0440d846df1&txTime=669460E2&_=1721000407949
-N2b,https://pull9.haipengzuche.com/live/ba1d90a9810a2412.m3u8?txSecret=9c8eb70d9c6b0967fb04a0440d846df1&txTime=669460E2
-N3a,https://pull9.haipengzuche.com/live/00f58f46afd013e1.m3u8?txSecret=5e1ac2565556311b957cea6c49bc20ca&txTime=66947C4E
-N3b,https://0681530249440e42931f5526b03aa435.v.smtcdns.net/txycdn.video.qq.com/1764608302.m3u8?time=1721007201&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=C963D174652EFF69EBF53E51C7037CFB8B039E29A128DA573AF768508A33460CFD956CAF3B0CD80D8FF56037460B4947FD6B461F1729D466D6F829DD813F4B4B41EBEBA2A58971FB3FF7F21161A7B3641A01D5E60F3C8B798A1E039E01D1A529F174F2D7B5D192BC474D334D5B23201E2F55AFF1BF6D1521&drmtype=0
-
 
 
 
