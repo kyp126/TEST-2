@@ -23,10 +23,12 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 xxxxxxxxxxxxxxxx
 
 NBA,#genre#
-N1,https://pull9.haipengzuche.com/live/ef13b49618575d41.m3u8?txSecret=6abadd51b0f556876d3af905de9f2f70&txTime=6696F24E
-N1a,https://play1nm.hnyongshun.cn/live/ballbar_18800.m3u8
-N2,https://pull9.haipengzuche.com/live/ddbc5aebd1963e12.m3u8?txSecret=e0b80d43ba52d4fe6a6ddc2858e4664d&txTime=6696F51E
-N2a,https://6gr4nhcbqgoa1hcjwgw.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58810242-hydra-wsu/playlist.m3u8?wsSecret=efe00151c9bd3712a1bc25bc84e883f5&wsABSTime=66973af4&wsSession=dbd1722ec7d9f627d144891e-172116905114760&wsIPSercert=72055105a540f54033a2320bb60c1097&wsiphost=local&wsBindIP=1
+N1,https://0gr5dgmttgha1hcttgyzdnqbw.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58810767-hydra-wsu/playlist.m3u8?wsSecret=5be468170671241409695b1434664a3c&wsABSTime=6698937c&wsSession=7f6e63a527f442cb7889422f-172126272929542&wsIPSercert=f0e683465469c67e33d98e7ea7adc4eb&wsiphost=local&wsBindIP=1
+
+
+
+
+
 
 COPA FINAL,#genre#
 ARG-COL1,https://ok6-7.vkuser.net:443/expires/1721126534565/srcIp/124.246.111.146/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/vp6yRxZBS_4/ct/8/urls/45.136.20.30%3B185.226.53.23/clientType/0/zs/43/id/6907962854004/video/
