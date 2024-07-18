@@ -23,11 +23,7 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 xxxxxxxxxxxxxxxx
 
 NBA,#genre#
-N1,https://0gr5dgmttgha1hcttgyzdnqbw.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58810767-hydra-wsu/playlist.m3u8?wsSecret=5be468170671241409695b1434664a3c&wsABSTime=6698937c&wsSession=7f6e63a527f442cb7889422f-172126272929542&wsIPSercert=f0e683465469c67e33d98e7ea7adc4eb&wsiphost=local&wsBindIP=1
-N1a,https://play1nm.hnyongshun.cn/live/ballbar_32360.m3u8
-N2,https://hls.yjjcfw.com/live/11522400043.m3u8?txSecret=0792aebd7ff6fb6652d894255d118a85&txTime=66985B3F
-N2a,https://pull9.haipengzuche.com/live/392eac10c481d46a.m3u8?txSecret=e6b17b22a835bb40d4c0c92139e540d5&txTime=66985B02
-
+N1a,https://play1nm.hnyongshun.cn/live/ballbar_24290.m3u8
 
 
 
