@@ -23,29 +23,15 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 xxxxxxxxxxxxxxxx
 
 NBA,#genre#
-N1a,https://play1nm.hnyongshun.cn/live/ballbar_24290.m3u8
-N2a,https://play1nm.hnyongshun.cn/live/ballbar_17100.m3u8https://play1nm.hnyongshun.cn/live/ballbar_17100.m3u8
-N3a,https://play1nm.hnyongshun.cn/live/ballbar_20220.m3u8
-N4a,https://0gr4nhcbqgoa1hqbw.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58811372-hydra-wsu/playlist.m3u8?wsSecret=2ccf3158e14629c56f31dbca2032f0cb&wsABSTime=669a011c&wsSession=0ac5ac856b374aa2afe6fd2c-172135082796681&wsIPSercert=72055105a540f54033a2320bb60c1097&wsiphost=local&wsBindIP=1
+N1a,https://0graukmttge51hctugezdnp3a.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58818079-hydra-wsu/playlist.m3u8?wsSecret=0b50dfde374b6aa30566f5531da5a5ae&wsABSTime=669ca41c&wsSession=868025a01fdc2b5fde04aa83-172152367248738&wsIPSercert=294ce3cb4fee7a842ded31df8c81a2ea&wsiphost=local&wsBindIP=1
 
-COPA FINAL,#genre#
-ARG-COL1,https://ok6-7.vkuser.net:443/expires/1721126534565/srcIp/124.246.111.146/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/vp6yRxZBS_4/ct/8/urls/45.136.20.30%3B185.226.53.23/clientType/0/zs/43/id/6907962854004/video/
-ARG-COL2,https://ok6-3.vkuser.net:443/expires/1721126562556/srcIp/124.246.111.146/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/tcM0rbLitSU/ct/8/urls/185.226.52.13%3B45.136.20.77/clientType/0/zs/43/id/6907989658228/video/
-ARG ET,https://ok6-12.vkuser.net:443/expires/1721126785231/srcIp/124.246.111.146/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/J2Ta3PfuxCg/ct/8/urls/45.136.21.78%3B185.226.52.15/clientType/0/zs/43/id/6907991427700/video/
-ARG-COL HL,https://vff.upfootvid.com:443/UpFiles/2024/7/15/51/283990/720p.m3u8
+
+N1b,https://cf571c7464d6162d53d36d2bab914a55.v.smtcdns.net/txycdn.video.qq.com/1379854702.m3u8?time=1721524044&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=CEFD0381A92975C1387E3FCEFF4CE70C49F3C8CA7BA8D12185300B19FE794686A125827574CF169DD2A5BE8D0CB6785F51078FACC8F24F48E1D9407811CBD2464D1773290CA29DFAEE91B18B8AEABF042CDC63F0F30EB6A3D53C5B71F46281B00B40E742418448FCC4E6651D6151A28F41B27DE8E0FD6FBA&drmtype=0
 
 
 
 
 
-
-
-EURO FINAL,#genre#
-ESP-ENG1,https://ok6-10.vkuser.net:443/expires/1721089024076/srcIp/119.234.64.195/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/lFHfaOWu-zM/ct/8/urls/185.226.53.90%3B45.136.21.36/clientType/0/zs/43/id/6723056962201/video/
-
-ESP-ENG2,https://ok6-3.vkuser.net:443/expires/1721089365932/srcIp/119.234.64.195/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/RVbs737wp_4/ct/8/urls/45.136.20.38%3B45.136.20.33/clientType/0/zs/43/id/6710427781818/video/
-
-ESP-ENG HL,https://ok6-10.vkuser.net:443/expires/1721089066163/srcIp/119.234.64.195/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/ElQvLJt0EAo/ct/8/urls/185.226.52.81%3B45.136.21.48/clientType/0/zs/43/id/7018200763119/video/
 
 
 
