@@ -22,13 +22,8 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 xxxxxxxxxxxxxxxx
 
-NBA,#genre#
-N1a,https://0graukmttge51hctugezdnp3a.ourdvsssvip.com/pull.opsnowflake.com/live/dps-58818079-hydra-wsu/playlist.m3u8?wsSecret=0b50dfde374b6aa30566f5531da5a5ae&wsABSTime=669ca41c&wsSession=868025a01fdc2b5fde04aa83-172152367248738&wsIPSercert=294ce3cb4fee7a842ded31df8c81a2ea&wsiphost=local&wsBindIP=1
-
-
-N1b,https://cf571c7464d6162d53d36d2bab914a55.v.smtcdns.net/txycdn.video.qq.com/1379854702.m3u8?time=1721524044&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=CEFD0381A92975C1387E3FCEFF4CE70C49F3C8CA7BA8D12185300B19FE794686A125827574CF169DD2A5BE8D0CB6785F51078FACC8F24F48E1D9407811CBD2464D1773290CA29DFAEE91B18B8AEABF042CDC63F0F30EB6A3D53C5B71F46281B00B40E742418448FCC4E6651D6151A28F41B27DE8E0FD6FBA&drmtype=0
-
-
+FRIENDLY,#genre#
+MC-CEL,https://ani.zq4669.com:31106/live/hls?id=56c09103.m3u8
 
 
 
