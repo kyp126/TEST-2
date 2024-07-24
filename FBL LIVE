@@ -22,8 +22,8 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 xxxxxxxxxxxxxxxx
 
-FRIENDLY,#genre#
-MC-CEL,https://ani.zq4669.com:31106/live/hls?id=56c09103.m3u8
+OLYMPIC,#genre#
+CCTV5,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 
 
 
