@@ -22,22 +22,15 @@ TEST,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093710573
 
 xxxxxxxxxxxxxxxx
 
-FRIENDLY,#genre#
-ARS-BOU,https://ani.zq4669.com:31106/live/hls?id=0057c621.m3u8#https://txpaly.qklw8.com/live/66_2025123456.m3u8
-ARS1,https://ani.zq4669.com:31106/live/hls?id=03a9b8dc.m3u8
-ARS2,https://ani.zq4669.com:31106/live/hls?id=07e5201f.m3u8
-
-CHE-WRE,https://play1nm.hnyongshun.cn/live/sd-6MsFQvBb8uxvvmhjoL.m3u8
 
 
 
 
 
 OLYMPIC,#genre#
+CCTV,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
 CCTV5,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 
-HL,#genre#
-CEL-MC,https://cdn-cf-east.streamable.com/video/mp4/pv61zv.mp4?Expires=1722120780&Signature=Ar~-wR8BH1FiKrwfchc-8Wb9krH0mm9dOCZ7IOQyg46PgGJszwNF~dTwZwGa6psZLO8xop-mAdo7dJQ~1~sY0cnFRfO8FfrsdMaQQKLujFWNfMEnvLBIvWCPDbcWJTzpC-w15jp~6-mUJMq770O1LRWS-U1m8Q3l5w8oXgHe3hwFAskoak2d5ODzC2ismhDgZUiWuYhNom5vx2cTVQJbHTU28Jv8cHj~HzUjUN19hsq9dOn967twnmtGWiFWUzNbeNH-wKdsbp-tdUJLl10bhwJqessbXE-AEs0AsAThytcXLKu3bTihtTGiNSyKwYYK0BinVYYzXhS8wunN-Z3zDQ__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
 
 
 
