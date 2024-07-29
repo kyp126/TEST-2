@@ -29,6 +29,9 @@ CCTV,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken
 CCTV5,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 
 
+F1,#genre#
+BELGIUM,https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6057949432001/9515cb84-d90c-4a99-a088-f28f71fa67d5/10s/master.m3u8?fastly_token=NjZhNzg2NDhfYzI2M2MwNWY0MTZmZjRlZmJjMDQ0MTdmMDVmNDNlMDFkYThkYzFkNDc3YTljMmI5ZDkwNGVlZTM3NjA3ODUyNA%3D%3D
+
 FRIENDLY,#genre#
 ARS-MUN,https://ytt.upfootvid.com:443/UpFiles/2024/7/28/51/284459/720p.m3u8#https://a57.azplay.me/video/0/6/309806.mp4
 
