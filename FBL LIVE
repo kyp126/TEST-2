@@ -21,12 +21,10 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 xxxxxxxxxxxxxxxx
 
 EPL,#genre#
-MUN-MCI,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-MUN1,https://bongsports.stream/live/zone-11/chunks.m3u8
-MUN2,https://ovo.eelov.com/live/n-1/chunks.m3u8
-MUN3,https://sgnxod68va.azureedge.net:443/live/content1/chunks.m3u8
-MUN4,https://pull9.haipengzuche.com/live/a077c7ab0de2fcb6.m3u8?txSecret=440bdba6c9939244ec9239ce66d906a8&txTime=66B7774E
-
+MCI-MUN HL,https://ytt.upfootvid.com:443/UpFiles/2024/8/10/51/285183/720p.m3u8
+MCI-MUN1,https://ok6-11.vkuser.net:443/expires/1723418512749/srcIp/119.234.52.86/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/M3hIkSt4lN4/ct/8/urls/45.136.22.44%3B185.226.52.43/clientType/0/zs/43/id/6733272320704/video/
+MCI-MUN2,https://ok6-12.vkuser.net:443/expires/1723418548169/srcIp/119.234.52.86/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/3/sig/oj7i1hx-evQ/ct/8/urls/45.136.20.41%3B185.226.53.71/clientType/0/zs/43/id/6733278743232/video/
+MCI PK,https://ok6-10.vkuser.net:443/expires/1723418609323/srcIp/119.234.52.86/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/I8cW3z0m3DE/ct/8/urls/45.136.22.24%3B185.226.53.72/clientType/0/zs/43/id/6740281985692/video/
 
 OLYMPIC,#genre#
 CCTV,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0a8daf617d4530fe59311611a96dcccfd6a7c054c880e8d1cef242c8da5f0a32_1720507885_604800&fromCDN=ws
