@@ -20,6 +20,17 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 xxxxxxxxxxxxxxxx
 
+FRIENDLY,#genre#
+CHE-INT HL,https://ytt.upfootvid.com:443/UpFiles/2024/8/11/51/285245/720p.m3u8
+CHE-INT 1,https://ok6-9.vkuser.net:443/expires/1723504522411/srcIp/111.65.46.142/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/m5KgDmtSiC8/ct/8/urls/45.136.20.30%3B45.136.22.26/clientType/0/zs/43/id/6744597334684/video/
+CHE-INT 2,https://ok6-1.vkuser.net:443/expires/1723504554706/srcIp/119.234.4.150/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/3/sig/dVgi3b1SD-8/ct/8/urls/45.136.21.11%3B185.226.52.20/clientType/0/zs/43/id/6744790796956/video/
+
+
+
+
+
+
+
 SHIELD,#genre#
 MCI-MUN HL,https://ytt.upfootvid.com:443/UpFiles/2024/8/10/51/285183/720p.m3u8
 MCI-MUN1,https://ok6-11.vkuser.net:443/expires/1723418512749/srcIp/119.234.52.86/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/5/sig/M3hIkSt4lN4/ct/8/urls/45.136.22.44%3B185.226.52.43/clientType/0/zs/43/id/6733272320704/video/
@@ -33,28 +44,8 @@ CCTV5,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 
 
 
-OLYM MAN FINAL,#genre#
-
-FRA-SPA,https://ok6-6.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1723420099215&srcIp=119.234.52.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=2&sig=jWE0ji4SQDo&ct=8&urls=185.226.52.39%3B185.226.53.44&clientType=0&zs=43&id=7075761949264
 
 
-FRIENDLY,#genre#
-
-ARS-LYO,https://cdn1.flexsportx.com/live/zone-33/chunks.m3u8
-ARS1,https://ovo.eelov.com/live/n-3/chunks.m3u8
-ARS2,https://cdn.bong.ink/live/zone-33/chunks.m3u8
-
-CHE-INT,https://kszacn.dinkiolmax.shop/live/65b9dfd31a42c/65b9dfd31a42c.html
-CHE1,https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-CHE2,https://ovo.eelov.com/live/n-1/chunks.m3u8
-CHE3,https://bongsports.stream/live/zone-11/chunks.m3u8
-
-JUV,https://cdn.bong.ink/live/zone-22/chunks.m3u8
-
-
-
-NEW-GIRO,https://ok6-14.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1723419673536&srcIp=119.234.52.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=2&sig=oKXNZgl3vWY&ct=8&urls=185.226.52.61%3B45.136.20.77&clientType=0&zs=43&id=7031197993588
-B04-BET,https://ok6-15.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1723419883515&srcIp=119.234.52.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.142&type=2&sig=i51T7D37syo&ct=8&urls=45.136.22.26%3B45.136.21.34&clientType=0&zs=43&id=6740078561948
 
 
 
