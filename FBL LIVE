@@ -20,6 +20,11 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 xxxxxxxxxxxxxxxx
 
+
+0816,#genre#
+BET-GIR,https://vd237.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1723873461789&srcIp=111.65.57.95&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.45&type=2&sig=44vI3GK2HXM&ct=8&urls=185.226.52.29&clientType=0&zs=43&id=6756526918336
+
+
 SUPER CUP,#genre#
 RMA-ATA HL,https://a57.azplay.me/video/1/6/311416.mp4
 RMA-ATA1,https://ok6-10.vkuser.net:443/expires/1723766064670/srcIp/111.65.45.89/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/i6LbZJStzW0/ct/8/urls/45.136.21.7%3B185.226.52.60/clientType/0/zs/43/id/6758825003676/video/
