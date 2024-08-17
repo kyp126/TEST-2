@@ -20,16 +20,17 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 xxxxxxxxxxxxxxxx
 
+FMRP#genre#
+MUN-FUL HL,https://ytt.upfootvid.com:443/UpFiles/2024/8/16/51/285445/720p.m3u8
+MUN-FUL1,https://ok6-9.vkuser.net:443/expires/1723944849976/srcIp/111.65.70.188/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/6vKlOrykf0E/ct/8/urls/45.136.22.15%3B185.226.53.72/clientType/0/zs/43/id/6767546534556/video/
+MUN-FUL2,https://ok6-2.vkuser.net:443/expires/1723944881573/srcIp/138.75.14.174/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/qLapIkmI3VA/ct/8/urls/185.226.52.80%3B45.136.21.33/clientType/0/zs/43/id/6767730625180/video/
+
+
+
 
 0816,#genre#
 BET-GIR,https://vd237.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1723873461789&srcIp=111.65.57.95&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.45&type=2&sig=44vI3GK2HXM&ct=8&urls=185.226.52.29&clientType=0&zs=43&id=6756526918336
 ATB-GET,https://ok6-8.vkuser.net/video.m3u8?cmd=videoPlayerCdn&expires=1723873763595&srcIp=111.65.57.95&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=2&sig=yaYLXbmjb4s&ct=8&urls=45.136.21.38%3B45.136.22.77&clientType=0&zs=43&id=7060149701236
-
-SUPER CUP,#genre#
-RMA-ATA HL,https://a57.azplay.me/video/1/6/311416.mp4
-RMA-ATA1,https://ok6-10.vkuser.net:443/expires/1723766064670/srcIp/111.65.45.89/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/i6LbZJStzW0/ct/8/urls/45.136.21.7%3B185.226.52.60/clientType/0/zs/43/id/6758825003676/video/
-RMA-ATA2,https://ok6-13.vkuser.net:443/expires/1723766091295/srcIp/111.65.35.20/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/HlwILHjHLds/ct/8/urls/45.136.20.56%3B45.136.22.72/clientType/0/zs/43/id/6759053724316/video/
-RMA-ATA,https://video.twimg.com/amplify_video/1823856695623176192/pl/avc1/1280x720/2Mbc6JJDR-mc6xCY.m3u8?variant_version=1&tag=14
 
 
 
