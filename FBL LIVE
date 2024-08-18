@@ -20,32 +20,14 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 
 xxxxxxxxxxxxxxxx
 
-LIVE,#genre#
-ARS-WOL,https://ovo.eelov.com/live/n-1/chunks.m3u8
-ARS1,https://pl.6d5gnjjjjdns.shop/playlist/24604/reddi11.pkjg.space/caxi.m3u8
-ARS2,https://pl10.chinefore.com/live/3db424c19ae99244.m3u8?txSecret=ac1208cd50bff98eaa43c8dbe1f7e6c8&txTime=66C0ACA5
-ARS,https://play1nm.hnyongshun.cn/live/ballbar_30160.m3u8
-
-NFO-BOU,https://ovo.eelov.com/live/n-4/chunks.m3u8
-NFO1,https://pl.nbhhytgmk8uh.shop/playlist/24607/jcvjcks.cloudcdn5.com/caxi.m3u8
-NFO2,https://pull9.haipengzuche.com/live/378cb65b1e13842f.m3u8?txSecret=72757898f3e9d2c734b9ad40299a132a&txTime=66C0AD96
-NF,https://play1nm.hnyongshun.cn/live/ballbar_30560.m3u8
-NEW-SOU,https://ovo.eelov.com/live/n-2/chunks.m3u8
-NEW1,https://pl.gdhggg.shop/playlist/24608/jcvjcks.cloudcdn5.com/caxi.m3u8
-NEW2,https://pull9.haipengzuche.com/live/e670c3167fc1b874.m3u8?txSecret=92e6a677e176290865c44e30973018bb&txTime=66C0AD96
-NEW,https://play1nm.hnyongshun.cn/live/ballbar_24410.m3u8
-EVE-BHA,https://ovo.eelov.com/live/n-3/chunks.m3u8
-EVE1,https://pl.563dhbfbns.shop/playlist/24606/goozr.dmnkfui8jjd3h2.shop/caxi.m3u8
-EVE2,https://pl10.chinefore.com/live/01fa5acbb8e62930.m3u8?txSecret=84386d173856a41a4232ca27d7a5b780&txTime=66C0ACA5
-EVE,https://play1nm.hnyongshun.cn/live/ballbar_26360.m3u8
-IPS-LIV,https://pl.kfd76dhhfgf5f.shop/playlist/24603/goozr.dmnkfui8jjd3h2.shop/caxi.m3u8
-LIV1,https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
-LIV2,https://ovo.eelov.com/live/n-1/chunks.m3u8
 
 
 
 
 FMRP,#genre#
+VAL-BAR HL,https://ytt.upfootvid.com:443/UpFiles/2024/8/17/51/285602/720p.m3u8
+VAL-BAR1,https://ok6-13.vkuser.net:443/expires/1724040768853/srcIp/111.65.56.27/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/0_kcMlwvggQ/ct/8/urls/45.136.22.7%3B185.226.53.87/clientType/0/zs/43/id/6772110002844/video/
+VAL-BAR2,https://ok6-5.vkuser.net:443/expires/1724040811519/srcIp/101.78.71.69/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/oJdMwMWxVJA/ct/8/urls/45.136.21.29%3B45.136.20.31/clientType/0/zs/43/id/6772182157980/video/
 MUN-FUL HL,https://ytt.upfootvid.com:443/UpFiles/2024/8/16/51/285445/720p.m3u8
 MUN-FUL1,https://ok6-9.vkuser.net:443/expires/1723944849976/srcIp/111.65.70.188/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/6vKlOrykf0E/ct/8/urls/45.136.22.15%3B185.226.53.72/clientType/0/zs/43/id/6767546534556/video/
 MUN-FUL2,https://ok6-2.vkuser.net:443/expires/1723944881573/srcIp/138.75.14.174/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/qLapIkmI3VA/ct/8/urls/185.226.52.80%3B45.136.21.33/clientType/0/zs/43/id/6767730625180/video/
