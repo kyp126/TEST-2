@@ -3,14 +3,6 @@
 
 xxxxxxxxxxxxxxxx
 
-LIVE ,#genre#
-CHE-MCI,https://xcdn.bong.ink/hls/bong1.m3u8
-CHE1,https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
-CHE2,https://ovo.eelov.com/live/n-1/chunks.m3u8
-MC1,https://play1nm.hnyongshun.cn/live/ballbar_10570.m3u8
-MC2,https://play1nm.hnyongshun.cn/live/ballbar_37060.m3u8
-MC3,https://play1nm.hnyongshun.cn/live/ballbar_28510.m3u8
-MC4,https://play1nm.hnyongshun.cn/live/ballbar_22100.m3u8
 
 
 
@@ -18,6 +10,9 @@ MC4,https://play1nm.hnyongshun.cn/live/ballbar_22100.m3u8
 
 
 FMRP,#genre#
+CHE-MCI1,https://ok6-7.vkuser.net:443/expires/1724111621218/srcIp/119.234.6.162/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/y5NPo6RExy4/ct/8/urls/45.136.20.28%3B45.136.21.21/clientType/0/zs/43/id/6775449455260/video/
+CHE-MCI2,https://ok6-5.vkuser.net:443/expires/1724111659192/srcIp/119.234.6.162/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/-Q8c7YcYAwI/ct/8/urls/45.136.21.78%3B185.226.52.73/clientType/0/zs/43/id/6775780215452/video/
+
 VAL-BAR HL,https://ytt.upfootvid.com:443/UpFiles/2024/8/17/51/285602/720p.m3u8
 VAL-BAR1,https://ok6-13.vkuser.net:443/expires/1724040768853/srcIp/111.65.56.27/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/0_kcMlwvggQ/ct/8/urls/45.136.22.7%3B185.226.53.87/clientType/0/zs/43/id/6772110002844/video/
 VAL-BAR2,https://ok6-5.vkuser.net:443/expires/1724040811519/srcIp/101.78.71.69/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/oJdMwMWxVJA/ct/8/urls/45.136.21.29%3B45.136.20.31/clientType/0/zs/43/id/6772182157980/video/
