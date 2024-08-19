@@ -1,12 +1,6 @@
 
 
 
-xxxxxxxxxxxxxxxx
-
-
-
-
-
 
 
 FMRP,#genre#
@@ -53,6 +47,12 @@ MCI TROPHY ,https://vd174.mycdn.me:443/expires/1724047395361/srcIp/101.78.71.69/
 
 
 TV,#genre#
+ELEVEN SPORTS 2 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84508
+ELEVEN SPORTS 3 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84510
+ELEVEN SPORTS 4 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84513
+ELEVEN SPORTS 5 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84515
+ELEVEN SPORTS 6 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84517
+ELEVEN SPORTS HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84506
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-05,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=7d111ee8f4a3242a30ce2067e1c95490
 CCTV-05a,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
