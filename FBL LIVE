@@ -1,9 +1,17 @@
 
 
-LIVE,#genre#
+
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
+FMR0824,#genre#
+SEV-VIL,https://ok6-9.vkuser.net:443/expires/1724563414555/srcIp/111.65.56.71/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/mA5d33UeKfM/ct/8/urls/45.136.20.53%3B185.226.53.14/clientType/0/zs/43/id/7097586813556/video/
+FAR-LIS,https://ok6-15.vkuser.net:443/expires/1724563469550/srcIp/111.65.56.71/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/jmUbXzGgVNY/ct/8/urls/45.136.20.55%3B45.136.22.11/clientType/0/zs/43/id/7097609751156/video/
+PSG-MON1,https://ok6-8.vkuser.net:443/expires/1724563518897/srcIp/111.65.56.71/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/ylCq_Dw7RQU/ct/8/urls/185.226.53.58%3B45.136.22.44/clientType/0/zs/43/id/6886525962938/video/
+PSG-MON2,https://ok6-10.vkuser.net:443/expires/1724563560032/srcIp/111.65.56.71/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/oULZWHWOZtY/ct/8/urls/45.136.21.67%3B185.226.52.38/clientType/0/zs/43/id/6886530157242/video/
+BOR-B04 1,https://ok6-8.vkuser.net:443/expires/1724563623876/srcIp/111.65.69.117/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/3/sig/f77NNxqOhhw/ct/8/urls/45.136.21.28%3B45.136.22.46/clientType/0/zs/43/id/7097333189236/video/
+BOR-B04 2,https://ok6-13.vkuser.net:443/expires/1724563655186/srcIp/111.65.69.117/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/DBAs2fBu5C4/ct/8/urls/185.226.53.87%3B45.136.21.21/clientType/0/zs/43/id/7097509743220/video/
+CEL-VAL,https://vd267.mycdn.me:443/expires/1724563704465/srcIp/111.65.69.117/pr/10/srcAg/CHROME_ANDROID/ms/185.226.52.17/type/3/sig/o1qqTOBwq04/ct/8/urls/45.136.20.69/clientType/0/zs/43/id/7097157225076/video/
 
 FMR0823,#genre#
 CHE-SER,https://ok6-5.vkuser.net:443/expires/1724493256204/srcIp/124.246.69.91/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/SeVSObEJJb4/ct/8/urls/45.136.20.12%3B45.136.22.78/clientType/0/zs/43/id/6794569845404/video/
