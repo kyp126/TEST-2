@@ -1,34 +1,23 @@
 
-LIVE,#genre#
-CP-WHU,https://ww.linecrystal.com/n-3/tracks-v1a1/mono.m3u8
-CP1,https://artistsworkshopinc.shop/chunklist/hlsch9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDI6MDg6MjEgUE0maGFzaF92YWx1ZT1iWFc3NldRRVNKWTlJZ085TWxnMEJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMzguMTcmc3RybV9sZW49NQ==
-MCI-IPS,https://ww.linecrystal.com/n-1/tracks-v1a1/mono.m3u8
-MCI1,https://artistsworkshopinc.shop/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDI6MDc6MTMgUE0maGFzaF92YWx1ZT1IWVdDcUE4ZVVMdWNhcElSY2o0M1pRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMzguMTcmc3RybV9sZW49NQ==
-MCI2,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid16/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510266581&pid=2028597139&timestamp=20240824221729&Channel_ID=0132_10010001005&ProgramID=928837799&ParentNodeID=-99&assertID=7510266581&client_ip=111.18.43.197&SecurityKey=20240824221729&promotionId=&mvid=7510132958&mcid=500020&mpid=120000507257&playurlVersion=WX-A1-7.8.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=0b52898916b946dae8d811facc374000&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=37089d6d8747cef0b45ac67d2221f608
+FMR0825
+MOD0824,https://ok6-1.vkuser.net:443/expires/1724631685730/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/7VQ9SJ6T3CY/ct/8/urls/45.136.21.49%3B185.226.53.12/clientType/0/zs/43/id/6797438814912/video/
+AVL-ARS1,https://ok6-1.vkuser.net:443/expires/1724632235003/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/tfmpEtVuaXE/ct/8/urls/45.136.20.38%3B185.226.53.12/clientType/0/zs/43/id/6802325441180/video/
+AVL-ARS2,https://ok6-7.vkuser.net:443/expires/1724632256306/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/bR1_A-M6G8c/ct/8/urls/185.226.52.83%3B45.136.20.73/clientType/0/zs/43/id/6802558683804/video/
 
-SOU-NFO,https://ww.linecrystal.com/n-5/tracks-v1a1/mono.m3u8
-SOU1,https://artistsworkshopinc.shop/chunklist/hlsch7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDI6MTA6MDMgUE0maGFzaF92YWx1ZT1LeWQyZlFMQ0svMk1adGd6V1Fsb0ZRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMzguMTcmc3RybV9sZW49NQ==
-SOU2,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210817/pcstation22/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510266657&pid=2028597139&timestamp=20240824221724&Channel_ID=0132_10010001005&ProgramID=928840151&ParentNodeID=-99&assertID=7510266657&client_ip=111.224.15.62&SecurityKey=20240824221724&promotionId=&mvid=7510132996&mcid=500020&mpid=120000507199&playurlVersion=WX-A1-7.8.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=37d79416148817ea0e87dda12f1fb947&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2b2b7ea956d2a691cbf95fd271e184e5
-TOT-EVE,https://ww.linecrystal.com/n-2/tracks-v1a1/mono.m3u8
-TOT1,https://artistsworkshopinc.shop/chunklist/hlsch8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDI6MTE6NDAgUE0maGFzaF92YWx1ZT1lYjh4L0dLMURBVDQvcnl4RDVBZ3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMzguMTcmc3RybV9sZW49NQ==
-TOT2,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid26/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510266569&pid=2029000131&timestamp=20240824221727&Channel_ID=0132_10010001005&ProgramID=928837534&ParentNodeID=-99&assertID=7510266569&client_ip=60.27.205.102&SecurityKey=20240824221727&promotionId=&mvid=7510132952&mcid=500020&mpid=120000507231&playurlVersion=ZQ-A1-7.8.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=94d64e1edc8a0132d1904d2ff4fbb53a&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f56b8db499d8b5371eed45b42c491d86
-FUL-LEI,https://ww.linecrystal.com/n-4/tracks-v1a1/mono.m3u8
-FUL1,https://artistsworkshopinc.shop/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDI6MTI6MzQgUE0maGFzaF92YWx1ZT15aGl5WjVaUW9kcFRIQWJiVjRMUUZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMzguNzUuMzguMTcmc3RybV9sZW49NQ==
-FUL2,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210817/pcstation23/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510266627&pid=2028597139&timestamp=20240824221720&Channel_ID=0132_10010001005&ProgramID=928838979&ParentNodeID=-99&assertID=7510266627&client_ip=223.102.105.139&SecurityKey=20240824221720&promotionId=&mvid=7510132981&mcid=500020&mpid=120000507197&playurlVersion=WX-A1-7.8.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=fb1a66a033d189f0d2ca1e7950b45aaa&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d56fbced66a416cec19e88a654766ec
 
-BHA-MUN,https://ww.linecrystal.com/n-1/tracks-v1a1/mono.m3u8
-BHA1,https://pl.9837dhbmd.shop/playlist/24806/mainww.xzaq14oin.space/caxi.m3u8
-BHA2,https://pl.56dgggnjd0.shop/playlist/24806/redi1111vs.cloudcdn7.net/caxi.m3u8
-BHA3,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid17/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510266487&pid=2029000131&timestamp=20240824190856&Channel_ID=0132_10010001005&ProgramID=928834924&ParentNodeID=-99&assertID=7510266487&client_ip=114.218.29.89&SecurityKey=20240824190856&promotionId=&mvid=7510132911&mcid=500020&mpid=120000507203&playurlVersion=WX-A1-7.8.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=9f5b1cca891bc6daf024f12430e7f519&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=56278b72763603e4eb1e43bef176b427
-BHA4,https://ww.linecrystal.com/n-1/tracks-v1a1/mono.m3u8
-BHA5,https://artistsworkshopinc.shop/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDExOjI1OjExIEFNJmhhc2hfdmFsdWU9clVDUVppRVVuMWtnOW9ZajJqb3ZEZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTAxLjc4LjcxLjY5JnN0cm1fbGVuPTU=
+
+BAR-ATB1,https://ok6-8.vkuser.net:443/expires/1724632058164/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/7D3aEpaaT5A/ct/8/urls/185.226.53.93%3B45.136.20.18/clientType/0/zs/43/id/6802385275548/video/
+BAR-ATB2,https://ok6-4.vkuser.net:443/expires/1724632102589/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/vp1MREv3iRI/ct/8/urls/45.136.21.71%3B185.226.52.22/clientType/0/zs/43/id/6916558424679/video/
+
+INT-LEC,https://ok6-10.vkuser.net:443/expires/1724631980296/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/F3EzgNVcGFk/ct/8/urls/185.226.53.61%3B45.136.20.16/clientType/0/zs/43/id/7172317448723/video/
+PAR-MIL,https://ok6-6.vkuser.net:443/expires/1724632174788/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/-J-62mZMr-U/ct/8/urls/185.226.53.62%3B45.136.22.7/clientType/0/zs/43/id/6916594928231/video/
+
+
+
 
 
 F1 NED,#genre#
-Q123,https://ww.linecrystal.com/f1/tracks-v1a1/mono.m3u8
-L1,https://artistsworkshopinc.shop/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDE6MTI6MjcgUE0maGFzaF92YWx1ZT1aaURCMDNKc0hkMVdNeVVvek5iaDR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDoxMGJkOmNhODE6MzFmZDozMWY4OmI3NDEmc3RybV9sZW49NQ==
 
-L2,https://529technologies.store/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDE6MTM6MzAgUE0maGFzaF92YWx1ZT1kaW1sTU0zT20rUGU4U3hwR2VyQ3hRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDoxMGJkOmNhODE6MzFmZDozMWY4OmI3NDEmc3RybV9sZW49NQ==
 
 
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
