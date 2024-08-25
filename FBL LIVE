@@ -1,9 +1,8 @@
 
-F1 NED,#genre#
-RACE,https://artistsworkshopinc.shop/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDExOjI2OjI4IEFNJmhhc2hfdmFsdWU9bUdmdFh1ZFBFUGROT1lmNUNwV251QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6MTBiZDozOGQxOjNhMWM6Mzc0OTo4YWQ2JnN0cm1fbGVuPTU=
-RACE1,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
 
 LIVE,#genre#
+LIV-BRE,https://artistsworkshopinc.shop/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDI6NTc6MTUgUE0maGFzaF92YWx1ZT1mS3lrcEVYRTJ2b2hVaWRDNUxJdEZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDoxMGJkOjM4ZDE6M2ExYzozNzQ5OjhhZDYmc3RybV9sZW49NQ==
+
 WOL-CHE,https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
 WOL1,https://artistsworkshopinc.shop/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDEyOjA5OjEzIFBNJmhhc2hfdmFsdWU9SC9kZ2hvSkV0aHpWQTdaTXdPL2UvZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6MTBiZDozOGQxOjNhMWM6Mzc0OTo4YWQ2JnN0cm1fbGVuPTU=
 CHE,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid21/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510266669&pid=2029000131&timestamp=20240825201743&Channel_ID=0132_10010001005&ProgramID=928841173&ParentNodeID=-99&assertID=7510266669&client_ip=183.141.132.243&SecurityKey=20240825201743&promotionId=&mvid=7510133002&mcid=500020&mpid=120000507189&playurlVersion=WX-A1-7.8.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=d1e4cdf2be15237f3e330c69265ab4bc&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c5a449f549a1374f1f2f518a23d2854f
