@@ -3,6 +3,12 @@ F1 NED,#genre#
 RACE,https://artistsworkshopinc.shop/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDExOjI2OjI4IEFNJmhhc2hfdmFsdWU9bUdmdFh1ZFBFUGROT1lmNUNwV251QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6MTBiZDozOGQxOjNhMWM6Mzc0OTo4YWQ2JnN0cm1fbGVuPTU=
 
 
+LIVE,#genre#
+CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5+IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+
+
+
 FMR0825,#genre#
 MOD0824,https://ok6-1.vkuser.net:443/expires/1724631685730/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/7VQ9SJ6T3CY/ct/8/urls/45.136.21.49%3B185.226.53.12/clientType/0/zs/43/id/6797438814912/video/
 AVL-ARS1,https://ok6-1.vkuser.net:443/expires/1724632235003/srcIp/138.75.47.28/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/tfmpEtVuaXE/ct/8/urls/45.136.20.38%3B185.226.53.12/clientType/0/zs/43/id/6802325441180/video/
@@ -27,8 +33,6 @@ FUL-LEI2,https://ok6-15.vkuser.net:443/expires/1724633001275/srcIp/138.75.47.28/
 
 
 
-CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV5+IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 FMR0824,#genre#
 SEV-VIL,https://ok6-9.vkuser.net:443/expires/1724563414555/srcIp/111.65.56.71/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/mA5d33UeKfM/ct/8/urls/45.136.20.53%3B185.226.53.14/clientType/0/zs/43/id/7097586813556/video/
