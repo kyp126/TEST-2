@@ -1,7 +1,7 @@
 
 F1 NED,#genre#
 RACE,https://artistsworkshopinc.shop/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDExOjI2OjI4IEFNJmhhc2hfdmFsdWU9bUdmdFh1ZFBFUGROT1lmNUNwV251QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6MTBiZDozOGQxOjNhMWM6Mzc0OTo4YWQ2JnN0cm1fbGVuPTU=
-
+RACE1,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
 
 LIVE,#genre#
 WOL-CHE,https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
