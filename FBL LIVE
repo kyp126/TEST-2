@@ -1,14 +1,9 @@
 
 
-LIVE,#genre#
-LIV-BRE,https://artistsworkshopinc.shop/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDI6NTc6MTUgUE0maGFzaF92YWx1ZT1mS3lrcEVYRTJ2b2hVaWRDNUxJdEZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDoxMGJkOjM4ZDE6M2ExYzozNzQ5OjhhZDYmc3RybV9sZW49NQ==
-LIV,https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
-LIV2,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid21/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510266681&pid=2029000131&timestamp=20240825230742&Channel_ID=0132_10010001005&ProgramID=928850728&ParentNodeID=-99&assertID=7510266681&client_ip=125.113.143.222&SecurityKey=20240825230742&promotionId=&mvid=7510133008&mcid=500020&mpid=120000507215&playurlVersion=WX-A1-7.8.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=949bc3e4ce94656c2c770cfb81e2453f&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b8d1582959e3d8c6bf87903b6b7a0180
-
-BAY,https://artistsworkshopinc.shop/chunklist/hlsch30.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDE6NTI6MTQgUE0maGFzaF92YWx1ZT1GeGFrRFFVc2t5cGU5K0NNdXY0L1N3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDoxMGJkOjM4ZDE6M2ExYzozNzQ5OjhhZDYmc3RybV9sZW49NQ==
-RMA-VAL,https://artistsworkshopinc.shop/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI0IDI6MzI6MDEgUE0maGFzaF92YWx1ZT1wYlhKYlRodFdOemhKMzBCdWZkTmtBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDoxMGJkOjM4ZDE6M2ExYzozNzQ5OjhhZDYmc3RybV9sZW49NQ==
-CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV5+IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+FMR 0826,#genre#
+MOD0825,https://ok6-1.vkuser.net:443/expires/1724732250215/srcIp/111.65.68.227/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/q7x5hcMrVG4/ct/8/urls/185.226.52.69%3B45.136.21.33/clientType/0/zs/43/id/6807531227804/video/
+LIV-BRE1,https://ok6-14.vkuser.net:443/expires/1724732360555/srcIp/111.65.68.227/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/0vE8WOXnFdQ/ct/8/urls/185.226.52.8%3B45.136.22.38/clientType/0/zs/43/id/6806365407900/video/
+LIV-BRE2,https://ok6-9.vkuser.net:443/expires/1724732376838/srcIp/111.65.68.227/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/nmbXV4u45KI/ct/8/urls/185.226.53.75%3B45.136.21.7/clientType/0/zs/43/id/6806706260636/video/
 
 
 
@@ -65,16 +60,6 @@ SHOW0820,https://ok6-14.vkuser.net:443/expires/1724289128935/srcIp/119.234.68.77
 
 
 
-FMR0820,#genre#
-MOWeek,https://ok6-5.vkuser.net:443/expires/1724314483261/srcIp/119.234.68.77/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/pS-hLlP9_60/ct/8/urls/45.136.20.74%3B185.226.52.40/clientType/0/zs/43/id/7126294071888/video/
-
-LEI-TOT1,https://ok6-10.vkuser.net:443/expires/1724205951647/srcIp/119.234.66.48/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/5/sig/Kptn2ILHJLQ/ct/8/urls/185.226.53.8%3B45.136.20.49/clientType/0/zs/43/id/6780956445340/video/
-LEI-TOT2,https://ok6-2.vkuser.net:443/expires/1724205971300/srcIp/119.234.66.48/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/5/sig/UWU0W9H9gTY/ct/8/urls/185.226.52.73%3B45.136.22.7/clientType/0/zs/43/id/6781153512092/video/
-VIL-ATM,https://ok6-2.vkuser.net:443/expires/1724205851096/srcIp/119.234.66.48/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.129/type/3/sig/qv0fgQRwmIA/ct/8/urls/185.226.52.10%3B45.136.20.41/clientType/0/zs/43/id/7078822939252/video/
-JUV-COMO1,https://ok6-4.vkuser.net:443/expires/1724206297493/srcIp/119.234.66.48/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/hiYRVUA2TiM/ct/8/urls/185.226.52.81%3B45.136.22.41/clientType/0/zs/43/id/7078823463540/video/
-JUV-COMO2,https://ok6-4.vkuser.net:443/expires/1724206321233/srcIp/119.234.66.48/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/x4eZwEvntcg/ct/8/urls/45.136.22.42%3B45.136.20.69/clientType/0/zs/43/id/7078821431924/video/
-BRA-FRA,https://vd431.mycdn.me:443/expires/1724206408476/srcIp/119.234.66.48/pr/10/srcAg/CHROME_ANDROID/ms/45.136.21.28/type/3/sig/ENjYj3agYWo/ct/8/urls/185.226.53.73/clientType/0/zs/43/id/7078813829748/video/
-VAL-ESP,https://vd445.mycdn.me:443/expires/1724206468480/srcIp/119.234.66.48/pr/10/srcAg/CHROME_ANDROID/ms/45.136.20.70/type/3/sig/zZAAYfDGIe4/ct/8/urls/185.226.53.89/clientType/0/zs/43/id/7078849940084/video/
 
 
 
