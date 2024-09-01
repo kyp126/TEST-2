@@ -1,4 +1,11 @@
 
+
+F1 ITALY,#genre#
+RACE1,https://procdn.bong.ink/live/f1.m3u8
+
+RACE2,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
+
+
 FMR0901,#genre#
 WHU-MCI 1,https://ok6-4.vkuser.net:443/expires/1725237494360/srcIp/111.65.70.143/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/3/sig/DkaXpLezsNg/ct/8/urls/45.136.22.25%3B185.226.53.39/clientType/0/zs/43/id/7133751478900/video/
 WHU-MCI 2,https://ok6-10.vkuser.net:443/expires/1725237513452/srcIp/111.65.70.143/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.137/type/3/sig/oO9EtDwiaGw/ct/8/urls/185.226.52.43%3B185.226.53.41/clientType/0/zs/43/id/7134246865524/video/
@@ -19,10 +26,6 @@ LIS-POR,https://ok6-8.vkuser.net:443/expires/1725239677062/srcIp/124.246.78.160/
 
 
 
-F1 ITALY,#genre#
-RACE1,https://procdn.bong.ink/live/f1.m3u8
-
-RACE2,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
 
 
 
