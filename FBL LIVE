@@ -20,9 +20,9 @@ LIS-POR,https://ok6-8.vkuser.net:443/expires/1725239677062/srcIp/124.246.78.160/
 
 
 F1 ITALY,#genre#
-Q1,https://procdn.bong.ink/live/f1.m3u8
+RACE1,https://procdn.bong.ink/live/f1.m3u8
 
-Q2,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
+RACE2,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
 
 
 
