@@ -120,51 +120,7 @@ CAG-COM2,https://vd437.mycdn.me:443/expires/1724828196654/srcIp/111.65.33.47/pr/
 
 
 TV,#genre#
-maxptv.net:2052/fw147/12345678/99
-National Geographic SD,http://dns.maxptv.net:2052/fw147/12345678/98
-NBA - 02,http://dns.maxptv.net:2052/fw147/12345678/134492
-NBA - 03,http://dns.maxptv.net:2052/fw147/12345678/134493
-NBA - 04,http://dns.maxptv.net:2052/fw147/12345678/134494
-ELEVEN SPORTS 2 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84508
-ELEVEN SPORTS 3 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84510
-ELEVEN SPORTS 4 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84513
-ELEVEN SPORTS 5 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84515
-ELEVEN SPORTS 6 HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84517
-ELEVEN SPORTS HD (PPV),http://dns.maxptv.net:2052/fw147/12345678/84506
-ESPN HD,http://dns.maxptv.net:2052/fw147/12345678/27272
-ESPN SD,http://dns.maxptv.net:2052/fw147/12345678/27273
-ESPN  2 HD,http://dns.maxptv.net:2052/fw147/12345678/167
-ESPN  2 SD,http://dns.maxptv.net:2052/fw147/12345678/166
-ESPN  3 HD,http://dns.maxptv.net:2052/fw147/12345678/171
-ESPN  3 SD,http://dns.maxptv.net:2052/fw147/12345678/170
-ESPN 4 FHD,http://dns.maxptv.net:2052/fw147/12345678/20310
-ESPN 4 HD,http://dns.maxptv.net:2052/fw147/12345678/147
-ESPN 4 SD,http://dns.maxptv.net:2052/fw147/12345678/146
-ESPN 5  FHD,http://dns.maxptv.net:2052/fw147/12345678/20311
-ESPN 5  HD,http://dns.maxptv.net:2052/fw147/12345678/529
-ESPN 5  SD,http://dns.maxptv.net:2052/fw147/12345678/148
-ESPN 6 HD,http://dns.maxptv.net:2052/fw147/12345678/165
-ESPN 6  SD,http://dns.maxptv.net:2052/fw147/12345678/164
-Premiere 1 HD,http://dns.maxptv.net:2052/fw147/12345678/86
-Premiere 1 HD²,http://dns.maxptv.net:2052/fw147/12345678/247
-Premiere 1 HD³,http://dns.maxptv.net:2052/fw147/12345678/46681
-Premiere 1 SD,http://dns.maxptv.net:2052/fw147/12345678/85
-Premiere 2 HD,http://dns.maxptv.net:2052/fw147/12345678/13216
-Premiere 2 HD²,http://dns.maxptv.net:2052/fw147/12345678/1462
-Premiere 2 SD,http://dns.maxptv.net:2052/fw147/12345678/83
-Premiere 3 HD,http://dns.maxptv.net:2052/fw147/12345678/82
-Premiere 3 HD²,http://dns.maxptv.net:2052/fw147/12345678/1463
-Premiere 3 SD,http://dns.maxptv.net:2052/fw147/12345678/81
-Premiere 4 HD,http://dns.maxptv.net:2052/fw147/12345678/80
-Premiere 4 HD²,http://dns.maxptv.net:2052/fw147/12345678/1464
-Premiere 4 SD,http://dns.maxptv.net:2052/fw147/12345678/79
-Premiere 5 HD,http://dns.maxptv.net:2052/fw147/12345678/78
-Premiere 5 HD²,http://dns.maxptv.net:2052/fw147/12345678/1465
-Premiere 5 SD,http://dns.maxptv.net:2052/fw147/12345678/77
-Premiere 6 HD,http://dns.maxptv.net:2052/fw147/12345678/76
-Premiere 6 SD,http://dns.maxptv.net:2052/fw147/12345678/75
-Premiere 7 HD²,http://dns.maxptv.net:2052/fw147/12345678/1467
-Premiere 7 SD,http://dns.maxptv.net:2052/fw147/12345678/74
+
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV-05,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-05a,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
