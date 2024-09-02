@@ -166,7 +166,7 @@ Premiere 6 SD,http://dns.maxptv.net:2052/fw147/12345678/75
 Premiere 7 HD²,http://dns.maxptv.net:2052/fw147/12345678/1467
 Premiere 7 SD,http://dns.maxptv.net:2052/fw147/12345678/74
 cctv5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-05,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-05,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-05a,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
 CCTV5+,https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
 CCTV-5++,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
