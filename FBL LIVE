@@ -1,7 +1,6 @@
 
-LIVE,#genre#
-MOTOR,https://ww.linecrystal.com/motogp/tracks-v1a1/mono.m3u8
-
+NL LIVE,#genre#
+FAR-MAC,https://artistsworkshopinc.shop/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjQgMTI6Mjc6MDUgUE0maGFzaF92YWx1ZT1BWmVaeUplTi9DZWRXQlhwTnBKZ1NRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDoxMGJkOjQ3YjA6ZGU5Yzo5NToxZGFjJnN0cm1fbGVuPTU=
 
 FMR0907:,#genre#
 FRA-ITA,https://ok6-9.vkuser.net:443/expires/1725759442249/srcIp/138.75.35.152/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/dvrXWdPus08/ct/8/urls/45.136.21.5%3B185.226.52.36/clientType/0/zs/43/id/6819964521029/video/
