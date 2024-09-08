@@ -10,7 +10,8 @@ GRE-FIN1,https://ok6-8.vkuser.net:443/expires/1725842592986/srcIp/138.75.26.120/
 GRE-FIN2,https://vd433.mycdn.me:443/expires/1725842616761/srcIp/138.75.26.120/pr/10/srcAg/CHROME_ANDROID/ms/45.136.21.30/type/5/sig/9Ghph1syuc4/ct/8/urls/45.136.22.79/clientType/0/zs/43/id/7168234359412/video/
 UKR-ALB1,https://ok6-15.vkuser.net:443/expires/1725842756017/srcIp/138.75.26.120/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/t_bGJbel8B4/ct/8/urls/45.136.22.43%3B185.226.52.73/clientType/0/zs/43/id/7168113773172/video/
 UKR-ALB2,https://vd248.mycdn.me:443/expires/1725842798933/srcIp/138.75.26.120/pr/10/srcAg/CHROME_ANDROID/ms/45.136.21.49/type/5/sig/xBxo4qXSg9E/ct/8/urls/185.226.55.23/clientType/0/zs/43/id/7168230886004/video/
-
+ARM-LAT1,https://ok6-3.vkuser.net:443/expires/1725843254713/srcIp/138.75.26.120/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/5/sig/v4WFN1oFNfk/ct/8/urls/45.136.21.14%3B45.136.22.12/clientType/0/zs/43/id/7167913822836/video/
+ARM-LAT2,https://vd384.mycdn.me:443/expires/1725843281756/srcIp/138.75.26.120/pr/10/srcAg/CHROME_ANDROID/ms/45.136.20.13/type/5/sig/44DHjOMLW-8/ct/8/urls/45.136.22.25/clientType/0/zs/43/id/7167908579956/video/
 
 PER-COL,https://ok6-14.vkuser.net:443/expires/1725840188175/srcIp/111.65.32.9/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/_Ap4DojSqQI/ct/8/urls/45.136.21.54%3B45.136.22.76/clientType/0/zs/43/id/7164508703348/video/
 BRA-ECU1,https://ok6-14.vkuser.net:443/expires/1725840370306/srcIp/111.65.46.141/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/HS6QOBqZ0nk/ct/8/urls/45.136.21.16%3B45.136.22.42/clientType/0/zs/43/id/7164505819764/video/
