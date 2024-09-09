@@ -1,7 +1,15 @@
 
-LIVE,#genre#
-AFRICA ,https://pull9.haipengzuche.com/live/0b459b00ca1bbb2b.m3u8?txSecret=a9851ff4b686eb05f5839c9b5c5bf7b8&txTime=66DEF58B
-INDIA,https://pl10.chinefore.com/live/b3342da0658fc61c.m3u8?txSecret=0bd9209300106c42472ba1198d1f01cc&txTime=66DF026D
+FMR0910,#genre#
+MOD,https://vd217.mycdn.me:443/expires/1726008953515/clientType/0/srcIp/37.19.201.199/type/2/mid/7806918855399/id/6986000960231/ms/45.136.22.25/zs/43/srcAg/CHROME_ANDROID/urls/185.226.55.29/oq/0/pr/10/ct/28/sig/g88SNW7VeYw/ondemand/COeV7PCoywESFAjnlezwqMsBEOeV7PCoywEYNyABGhQI55Xs8KjLARDnlezwqMsBGDcgAiAGKAUwAzgCeMIDG1_e_1Ldsn4/fn/track.m3u8
+FRA-BEL1,https://ok6-5.vkuser.net:443/expires/1726009402730/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/ZvpOWzoA3sU/ct/8/urls/45.136.20.78%3B45.136.22.15/clientType/0/zs/43/id/7178407578228/video/
+FRA-BEL2,https://ok6-4.vkuser.net:443/expires/1726009424463/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/dceK_tY2rQE/ct/8/urls/45.136.20.29%3B185.226.52.60/clientType/0/zs/43/id/7178512763508/video/
+ISR-ITA1,https://ok6-13.vkuser.net:443/expires/1726009056268/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/W25JWDPp5OY/ct/8/urls/45.136.21.11%3B185.226.53.7/clientType/0/zs/43/id/7178417932916/video/
+ISR-ITA2,https://ok6-9.vkuser.net:443/expires/1726009077865/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/XZvNCrPPiLM/ct/8/urls/45.136.21.52%3B185.226.53.33/clientType/0/zs/43/id/7178508962420/video/
+NOR-AUT1,https://ok6-15.vkuser.net:443/expires/1726009178031/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/cqev30NwAkI/ct/8/urls/45.136.21.77%3B45.136.20.41/clientType/0/zs/43/id/7178411706996/video/
+NOR-AUT2,https://ok6-13.vkuser.net:443/expires/1726009199078/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/jQE3IBNSMCg/ct/8/urls/185.226.52.19%3B45.136.21.75/clientType/0/zs/43/id/7178514270836/video/
+TUR-ICE1,https://ok6-12.vkuser.net:443/expires/1726009272862/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.139/type/5/sig/ipsYpk8iCys/ct/8/urls/185.226.53.58%3B45.136.20.16/clientType/0/zs/43/id/7178400041588/video/
+TUR-ICE2,https://ok6-15.vkuser.net:443/expires/1726009292333/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/pJCKX15vefY/ct/8/urls/185.226.53.36%3B45.136.22.26/clientType/0/zs/43/id/7178511583860/video/
+CYP-KOS,https://vd374.mycdn.me:443/expires/1726009484826/srcIp/37.19.201.199/pr/10/srcAg/CHROME_ANDROID/ms/45.136.22.79/type/5/sig/72o38P6FuvY/ct/8/urls/185.226.55.61/clientType/0/zs/43/id/7178359933556/video/
 
 
 FMR0909,#genre#
