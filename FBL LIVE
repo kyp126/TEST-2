@@ -1,26 +1,6 @@
 
 LIVE,#genre#
-MCI-BRE,https://1.goalglory.org/n-1/tracks-v1a1/mono.m3u8
-MCI1,https://artistsworkshopinc.shop/chunklist/hlsch9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDE6MzM6NDYgUE0maGFzaF92YWx1ZT1yL1FremxQemtraGJPelRzV0ZWUWpRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDo0MTY6Y2ExZjo2M2U4OmFhOWY6OTNkYyZzdHJtX2xlbj01
-MCI咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest05/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510270705&pid=2029000131&timestamp=20240914213846&Channel_ID=0132_10010001005&ProgramID=932603892&ParentNodeID=-99&assertID=7510270705&client_ip=119.102.47.209&SecurityKey=20240914213846&promotionId=&mvid=7510135021&mcid=500020&mpid=120000507533&playurlVersion=WX-A1-7.9.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=4df44d09d3fdf78ae9fff0c328a57a4c&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6f906f8957ee355661364603d1a196c2
-
-LIV-NFO,https://1.goalglory.org/n-2/tracks-v1a1/mono.m3u8
-LIV1,https://artistsworkshopinc.shop/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDE6MzU6MTggUE0maGFzaF92YWx1ZT1QdDlyWURXRjhISUhzYVVlWEo5L1hRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDo0MTY6Y2ExZjo2M2U4OmFhOWY6OTNkYyZzdHJtX2xlbj01
-LIV咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid21/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510270657&pid=2028597139&timestamp=20240914213840&Channel_ID=0132_10010001005&ProgramID=932603050&ParentNodeID=-99&assertID=7510270657&client_ip=117.154.251.242&SecurityKey=20240914213840&promotionId=&mvid=7510134997&mcid=500020&mpid=120000507239&playurlVersion=ZQ-A1-7.9.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=68beb23b3066dde96f8dfab6ace4dd56&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ff4bfcb2d6aa1be635a03d19d9b7507
-
-
-FUL-WHU,https://1.goalglory.org/n-5/tracks-v1a1/mono.m3u8
-FUL1,https://artistsworkshopinc.shop/chunklist/hlsch8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDE6Mzc6MDMgUE0maGFzaF92YWx1ZT1OY1RtMXZLSXdhT1F0ck11S1BzTkZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDo0MTY6Y2ExZjo2M2U4OmFhOWY6OTNkYyZzdHJtX2xlbj01
-FUL咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210224/pcstation20/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510270617&pid=2028597139&timestamp=20240914213849&Channel_ID=0132_10010001005&ProgramID=932602296&ParentNodeID=-99&assertID=7510270617&client_ip=120.219.50.38&SecurityKey=20240914213849&promotionId=&mvid=7510134977&mcid=500020&mpid=120000507535&playurlVersion=WX-A1-7.9.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=4c9a8b113866855d7f95c1b726bf14e9&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3d2227fd7666d30e4065976af2b10de8
-BHA-IPS,https://1.goalglory.org/n-3/tracks-v1a1/mono.m3u8
-BHA1,https://artistsworkshopinc.shop/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDE6Mzg6MzIgUE0maGFzaF92YWx1ZT14SmF6Y00xeEQ1bDVUUWMxWHBuNk1nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDo0MTY6Y2ExZjo2M2U4OmFhOWY6OTNkYyZzdHJtX2xlbj01
-BHA咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210817/pcstation24/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510270591&pid=2029000131&timestamp=20240914213843&Channel_ID=0132_10010001005&ProgramID=932601879&ParentNodeID=-99&assertID=7510270591&client_ip=180.117.76.10&SecurityKey=20240914213843&promotionId=&mvid=7510134964&mcid=500020&mpid=120000507259&playurlVersion=WX-A1-7.9.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=d33168172f41ec0e1aa651f1f736cfdd&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5df1394c6d2deb280ae0591ddf159b59
-
-
-
-CP-LEI,https://1.goalglory.org/n-4/tracks-v1a1/mono.m3u8
-CP1,https://artistsworkshopinc.shop/chunklist/hlsch7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDI0IDE6Mzk6NDkgUE0maGFzaF92YWx1ZT1QVU12bWluWGF0dVlyQVV3cXdOZWR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDo0MTY6Y2ExZjo2M2U4OmFhOWY6OTNkYyZzdHJtX2xlbj01
-CP咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210224/pcstation19/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510270603&pid=2028597139&timestamp=20240914214919&Channel_ID=0132_10010001005&ProgramID=932602076&ParentNodeID=-99&assertID=7510270603&client_ip=223.74.197.76&SecurityKey=20240914214919&promotionId=&mvid=7510134970&mcid=500020&mpid=120000507181&playurlVersion=ZQ-A1-7.9.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=a0d85f05423889171187734fc8792a23&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efccdc20072dc4892c519029fead11f5
+MIA-PHI,https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1726291697-0-0-8eb4e53cca0fe624d2b49c3dcfec08a5
 
 
 
