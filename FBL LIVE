@@ -1,11 +1,10 @@
 
-LIVE,#genre#
-MIA-PHI,https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1726291697-0-0-8eb4e53cca0fe624d2b49c3dcfec08a5
 
 
 
 AZERBAIJAN F1,#genre#
-RACE,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
+RACE,https://artistsworkshopinc.shop/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI0IDk6NTI6NDcgQU0maGFzaF92YWx1ZT1RcjlIcDM0TklURDNqK1A3YkxYMFhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNDpjMmY6ZWY2MDphZGFmOmQ2OTM6NTgwMiZzdHJtX2xlbj01
+RACE1,https://1.goalglory.org/f1/tracks-v1a1/mono.m3u8
 
 
 FMR0915,#genre#
