@@ -166,34 +166,18 @@ CCTV9纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/8
 CCTV10科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 
 kaki ch,#genre#
-K1,https://shandaardukaan.store/chunklist/hlsch1.m3u8
-K2,https://shandaardukaan.store/chunklist/hlsch2.m3u8
-K3,https://shandaardukaan.store/chunklist/hlsch3.m3u8
-K4,https://shandaardukaan.store/chunklist/hlsch4.m3u8
-K5,https://shandaardukaan.store/chunklist/hlsch5.m3u8
-K6,https://shandaardukaan.store/chunklist/hlsch6.m3u8
-K7,https://shandaardukaan.store/chunklist/hlsch7.m3u8
-K8,https://shandaardukaan.store/chunklist/hlsch8.m3u8
-K9,https://shandaardukaan.store/chunklist/hlsch9.m3u8
-K10,https://shandaardukaan.store/chunklist/hlsch10.m3u8
-K11,https://shandaardukaan.store/chunklist/hlsch11.m3u8
-K12,https://shandaardukaan.store/chunklist/hlsch12.m3u8
-K13,https://shandaardukaan.store/chunklist/hlsch13.m3u8
-K14,https://shandaardukaan.store/chunklist/hlsch14.m3u8
-K15,https://shandaardukaan.store/chunklist/hlsch15.m3u8
-K16,https://shandaardukaan.store/chunklist/hlsch16.m3u8
-K17,https://shandaardukaan.store/chunklist/hlsch17.m3u8
-K18,https://shandaardukaan.store/chunklist/hlsch18.m3u8
-K19,https://shandaardukaan.store/chunklist/hlsch19.m3u8
-K20,https://shandaardukaan.store/chunklist/hlsch20.m3u8
-K21,https://shandaardukaan.store/chunklist/hlsch21.m3u8
-K22,https://shandaardukaan.store/chunklist/hlsch22.m3u8
-K23,https://shandaardukaan.store/chunklist/hlsch23.m3u8
-K24,https://shandaardukaan.store/chunklist/hlsc24.m3u8
-K25,https://shandaardukaan.store/chunklist/hlsch25.m3u8
-K26,https://shandaardukaan.store/chunklist/hlsch26.m3u8
-
-
+1,https://megalive.today:443/n-1/tracks-v1a1/mono.m3u8
+2,https://megalive.today:443/n-2/tracks-v1a1/mono.m3u8
+3,https://megalive.today:443/n-3/tracks-v1a1/mono.m3u8
+4,https://megalive.today:443/n-4/tracks-v1a1/mono.m3u8
+5,https://megalive.today:443/n-5/tracks-v1a1/mono.m3u8
+6,https://megalive.today:443/n-6/tracks-v1a1/mono.m3u8
+7,https://megalive.today:443/n-7/tracks-v1a1/mono.m3u8
+8,https://megalive.today:443/n-8/tracks-v1a1/mono.m3u8
+9,https://megalive.today:443/n-9/tracks-v1a1/mono.m3u8
+10,https://megalive.today:443/n-10/tracks-v1a1/mono.m3u8
+11,https://megalive.today:443/n-11/tracks-v1a1/mono.m3u8
+12,https://megalive.today:443/n-12/tracks-v1a1/mono.m3u8
 
 
 
