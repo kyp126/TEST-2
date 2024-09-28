@@ -14,6 +14,8 @@ EVE-CP,https://megalive.today:443/n-4/tracks-v1a1/mono.m3u8
 
 
 NFO-FUL,https://megalive.today/n-5/index.m3u8
+NFO1,https://cdn-0provide.info/live/ss500/chunks.m3u8
+
 
 GET-ALA,https://megalive.today:443/n-6/tracks-v1a1/mono.m3u8
 UDI-INT,https://megalive.today:443/n-7/tracks-v1a1/mono.m3u8
