@@ -16,6 +16,7 @@ EVE咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210224/pcstation
 
 NFO-FUL,https://megalive.today/n-5/index.m3u8
 NFO1,https://cdn-0provide.info/live/ss500/chunks.m3u8
+NFO咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210817/pcstation21/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510274343&pid=2028597139&timestamp=20240928215409&Channel_ID=0132_10010001005&ProgramID=935000582&ParentNodeID=-99&assertID=7510274343&client_ip=117.181.55.0&SecurityKey=20240928215409&promotionId=&mvid=7510136840&mcid=500020&mpid=120000507539&playurlVersion=WX-A1-7.9.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=c5b9f56c1956e78710de2aee09c6aab2&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6d32dbdb3f2e9d9941d9ede8e509b742
 
 
 GET-ALA,https://megalive.today:443/n-6/tracks-v1a1/mono.m3u8
