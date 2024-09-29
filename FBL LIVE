@@ -1,6 +1,10 @@
 
 LIVE,#genre#
 MUN-TOT,https://megalive.today:443/n-1/tracks-v1a1/mono.m3u8
+MUN咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest05/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510274425&pid=2029000131&timestamp=20240929231145&Channel_ID=0132_10010001005&ProgramID=935004814&ParentNodeID=-99&assertID=7510274425&client_ip=125.109.103.114&SecurityKey=20240929231145&promotionId=&mvid=7510136881&mcid=500020&mpid=120000507263&playurlVersion=WX-A1-7.9.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=dabf354a0291102c28bd99d9959f5664&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=490fd965d38c55e85e99f3e31d174aa9
+
+
+
 IPS-AVL,https://megalive.today:443/n-1/tracks-v1a1/mono.m3u8
 IPS1,https://sportnext.online/hls/M1.m3u8
 
