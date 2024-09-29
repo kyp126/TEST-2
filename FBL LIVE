@@ -8,7 +8,7 @@ IPS2,https://play1nm.hnyongshun.cn/live/ballbar_31390.m3u8
 IPS咪咕,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210817/pcstation22/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510274411&pid=2028597139&timestamp=20240929204422&Channel_ID=0132_10010001005&ProgramID=935003020&ParentNodeID=-99&assertID=7510274411&client_ip=121.227.44.177&SecurityKey=20240929204422&promotionId=&mvid=7510136874&mcid=500020&mpid=120000507255&playurlVersion=WX-A1-7.9.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=4e88354928b5675074beb705d5c6a64f&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=15d1ed714338bfb1b9fa00fc467337e9
 
 ROM-VEN,https://sportnext.online/hls/M3.m3u8
-
+COM-VER,https://megalive.today:443/n-4/tracks-v1a1/mono.m3u8
 CEL-GIR,https://megalive.today:443/n-2/tracks-v1a1/mono.m3u8
 CEL1,https://sportnext.online/hls/M2.m3u8
 
