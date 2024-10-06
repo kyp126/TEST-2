@@ -164,19 +164,18 @@ CCTV9纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/8
 CCTV10科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 
 kaki ch,#genre#
-1,https://megalive.today:443/n-1/tracks-v1a1/mono.m3u8
-2,https://megalive.today:443/n-2/tracks-v1a1/mono.m3u8
-3,https://megalive.today:443/n-3/tracks-v1a1/mono.m3u8
-4,https://megalive.today:443/n-4/tracks-v1a1/mono.m3u8
-5,https://megalive.today:443/n-5/tracks-v1a1/mono.m3u8
-6,https://megalive.today:443/n-6/tracks-v1a1/mono.m3u8
-7,https://megalive.today:443/n-7/tracks-v1a1/mono.m3u8
-8,https://megalive.today:443/n-8/tracks-v1a1/mono.m3u8
-9,https://megalive.today:443/n-9/tracks-v1a1/mono.m3u8
-10,https://megalive.today:443/n-10/tracks-v1a1/mono.m3u8
-11,https://megalive.today:443/n-11/tracks-v1a1/mono.m3u8
-12,https://megalive.today:443/n-12/tracks-v1a1/mono.m3u8
-
+1,https://lavirtostorage.lol/live/n-1/chunks.m3u8
+2,https://lavirtostorage.lol/live/n-2/chunks.m3u8
+3,https://lavirtostorage.lol/live/n-3/chunks.m3u8
+4,https://lavirtostorage.lol/live/n-4/chunks.m3u8
+5,https://lavirtostorage.lol/live/n-5/chunks.m3u8
+6,https://lavirtostorage.lol/live/n-6/chunks.m3u8
+7,https://lavirtostorage.lol/live/n-7/chunks.m3u8
+8,https://lavirtostorage.lol/live/n-8/chunks.m3u8
+9,https://lavirtostorage.lol/live/n-9/chunks.m3u8
+10,https://lavirtostorage.lol/live/n-10/chunks.m3u8
+11,https://lavirtostorage.lol/live/n-11/chunks.m3u8
+12,https://lavirtostorage.lol/live/n-12/chunks.m3u8
 
 
 
