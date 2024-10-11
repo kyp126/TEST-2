@@ -1,4 +1,28 @@
 
+HL1012,#genre#
+BOS-GER,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289087/720p.m3u8
+HUN-NED,https://cas.dirgventures.net:443/UpFiles/2024/10/12/51/289097/720p.m3u8
+TUR-MON,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289088/720p.m3u8
+UKR-GEO,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289089/720p.m3u8
+ICE-WAL,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289094/720p.m3u8
+SLO-SWDhttps://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289093/720p.m3u8,
+CZE-ALB,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289096/720p.m3u8
+EST-AZE,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289073/720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 HL1011,#genre#
 CHI-BRA,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289035/720p.m3u8
 VEN-ARG,https://cas.dirgventures.net:443/UpFiles/2024/10/11/51/289034/720p.m3u8
@@ -22,48 +46,6 @@ UAE-PKR,https://vd445.okcdn.ru/?expires=1728695913910&srcIp=111.65.33.214&pr=10&
 JOR-KOR,https://vd539.okcdn.ru/?expires=1728699259592&srcIp=111.65.46.40&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.49&type=5&sig=4tj2XV_hKhc&ct=0&urls=185.226.53.25&clientType=0&zs=43&id=7501722618384
 UZB-IRA,https://vd208.okcdn.ru/?expires=1728699369456&srcIp=111.65.33.214&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.16&type=5&sig=zpGKSpnRLkU&ct=0&urls=45.136.20.15&clientType=0&zs=43&id=7501725567504
 
-
-HL1007,#genre#
-BHA-TOT,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288898/720p.m3u8
-CHE-NFO,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288868/720p.m3u8
-AVL-MUN,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288860/720p.m3u8
-
-ALA-BAR,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288881/720p.m3u8
-RSO-ATM,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288928/720p.m3u8
-GIO-ATB,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288867/720p.m3u8
-SEV-BET,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288911/720p.m3u8
-
-FIO-MIL,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288930/720p.m3u8
-JUV-CAG,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288838/720p.m3u8
-LAZ-EMP,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288858/720p.m3u8
-MON-ROM,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288903/720p.m3u8
-BOL-PAR,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288853/720p.m3u8
-
-FRA-BAY,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288901/720p.m3u8
-STU-HOF,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288917/720p.m3u8
-HEI-RBL,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288890/720p.m3u8
-
-NICE-PSG,https://klok.upfootvid.com:443/UpFiles/2024/10/6/51/288924/720p.m3u8
-
-
-HL1006,#genre#
-MCI-FUL,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288759/720p.m3u8
-ARS-SOU,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288753/720p.m3u8
-CP-LIV,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288714/720p.m3u8
-EVE-NEW,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288794/720p.m3u8
-LEI-BOU,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288760/720p.m3u8
-WHU-IPS,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288754/720p.m3u8
-BRE-WOL,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288768/720p.m3u8
-RMA-VIL,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288821/720p.m3u8
-GET-OSA,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288775/720p.m3u8
-VLL-RAY,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288781/720p.m3u8
-PAL-CEL,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288785/720p.m3u8
-ESP-MAL,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288716/720p.m3u8
-INT-TOR,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288822/720p.m3u8
-UDI-LEC,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288730/720p.m3u8
-ATA-GEN,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288779/720p.m3u8
-B04-KSV,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288749/720p.m3u8
-UBL-DOR,https://klok.upfootvid.com:443/UpFiles/2024/10/5/51/288751/720p.m3u8
 
 
 
