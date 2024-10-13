@@ -152,20 +152,6 @@ CCTV8电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLT
 CCTV9纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 
-kaki ch,#genre#
-1,https://lavirtostorage.lol/live/n-1/chunks.m3u8
-2,https://lavirtostorage.lol/live/n-2/chunks.m3u8
-3,https://lavirtostorage.lol/live/n-3/chunks.m3u8
-4,https://lavirtostorage.lol/live/n-4/chunks.m3u8
-5,https://lavirtostorage.lol/live/n-5/chunks.m3u8
-6,https://lavirtostorage.lol/live/n-6/chunks.m3u8
-7,https://lavirtostorage.lol/live/n-7/chunks.m3u8
-8,https://lavirtostorage.lol/live/n-8/chunks.m3u8
-9,https://lavirtostorage.lol/live/n-9/chunks.m3u8
-10,https://lavirtostorage.lol/live/n-10/chunks.m3u8
-11,https://lavirtostorage.lol/live/n-11/chunks.m3u8
-12,https://lavirtostorage.lol/live/n-12/chunks.m3u8
-
 
 
 
@@ -218,6 +204,7 @@ kaki ch,#genre#
 
 
 TEST,#genre#
+钱不够用3,https://m3u8.hmrvideo.com/play/d38f4931b8254ada806b0e921434e09d.m3u8
 扎职3粵语,https://vip.ffzy-video.com:443/20240913/2300_46a558d9/2000k/hls/mixed.m3u8
 
 扎职3国语,https://vip.ffzy-video.com:443/20240913/2299_40b5f25a/2000k/hls/mixed.m3u8
