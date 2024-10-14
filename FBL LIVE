@@ -1,13 +1,7 @@
 
-LIVE,#genre#
-NBA1,https://play1nm.hnyongshun.cn/live/ballbar_32480.m3u8
-NBA1a,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20200724/pcstation3/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510279353&pid=2029000107&timestamp=20241014090457&Channel_ID=0132_10010001005&ProgramID=937724444&ParentNodeID=-99&assertID=7510279353&client_ip=183.221.93.8&SecurityKey=20241014090457&promotionId=&mvid=7510139345&mcid=500020&mpid=120000522454&playurlVersion=WX-A1-7.9.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=17a826c6991a06f893210e2e506a752e&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8e53aeae5d366411ee4d4c2bc183fea1
-NBA2,https://play1nm.hnyongshun.cn/live/ballbar_29600.m3u8
-NBA2a,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20200724/pcstation4/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510279355&pid=2029000118&timestamp=20241014090500&Channel_ID=0132_10010001005&ProgramID=937724511&ParentNodeID=-99&assertID=7510279355&client_ip=171.113.81.12&SecurityKey=20241014090500&promotionId=&mvid=7510139346&mcid=500020&mpid=120000522451&playurlVersion=WX-A1-7.9.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=43bd7a0f08d0f81ed92bb7a492ed7a5b&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=94a18961465b4c26e874a7f121e24619
-NBA3,https://play1nm.hnyongshun.cn/live/ballbar_29260.m3u8
-NBA3a,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20200724/pcstation5/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510279357&pid=2029000123&timestamp=20241014091509&Channel_ID=0132_10010001005&ProgramID=937724569&ParentNodeID=-99&assertID=7510279357&client_ip=113.5.61.106&SecurityKey=20241014091509&promotionId=&mvid=7510139347&mcid=500020&mpid=120000522452&playurlVersion=WX-A1-7.9.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=622f6a2076c396280b4f53d80ddc2d8f&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e030cc290fe6010030146609ad01fea1
-NBA4,https://play1nm.hnyongshun.cn/live/ballbar_9750.m3u8
-NBA5,https://play1nm.hnyongshun.cn/live/ballbar_40840.m3u8
+FMR1015,#genre#
+BEL-FRA,https://ok6-4.vkuser.net/?expires=1729034592302&srcIp=119.234.69.6&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=4&sig=SiBIBnJMMYo&ct=14&urls=185.226.52.57%3B185.226.55.56&clientType=0&zs=43&id=7188099762791
+
 
 FMR1014,#genre#
 FIN-ENG,https://ok6-12.vkuser.net/?expires=1728949468422&srcIp=119.234.50.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=5&sig=HymTCFUaA_M&ct=0&urls=185.226.52.40%3B45.136.21.27&clientType=0&zs=43&id=7425236011596
