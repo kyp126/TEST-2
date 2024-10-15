@@ -3,6 +3,10 @@
 LIVE,#genre#
 NBA1,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20200724/pcstation1/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510279757&pid=2029000107&timestamp=20241016070511&Channel_ID=0132_10010001005&ProgramID=938014762&ParentNodeID=-99&assertID=7510279757&client_ip=223.65.170.203&SecurityKey=20241016070511&promotionId=&mvid=7510139547&mcid=500020&mpid=120000522494&playurlVersion=WX-A1-7.9.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=3a32494e282ada2324c167b234eef310&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=51b502f32fb00ea8787dd23133f85efa
 PAR-VEN,https://pl10.chinefore.com/live/1726caf8485fdbd3.m3u8?txSecret=c312de628f31bf127966592db9849825&txTime=670EF33D
+PAR1,https://ani.zq4669.com:31106/live/hls?id=7bb5361d.m3u8
+
+
+
 
 FMR1015,#genre#
 BEL-FRA,https://ok6-4.vkuser.net/?expires=1729034592302&srcIp=119.234.69.6&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=4&sig=SiBIBnJMMYo&ct=14&urls=185.226.52.57%3B185.226.55.56&clientType=0&zs=43&id=7188099762791
