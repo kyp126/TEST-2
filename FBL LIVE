@@ -3,7 +3,8 @@
 NBA LIVE,#genre#
 N1,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20200724/pcstation4/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510281917&pid=2029000110&timestamp=20241027080628&Channel_ID=0132_10010001005&ProgramID=938953152&ParentNodeID=-99&assertID=7510281917&client_ip=110.82.241.195&SecurityKey=20241027080628&promotionId=&mvid=7510140627&mcid=500020&mpid=120000528894&playurlVersion=WX-A1-7.10.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=0599da4c6d569a743fd89001e60ab85b&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c1a4e63f7c7f5feca115e7746fd76aee
 N1a,https://ani.zq4669.com:31106/live/hls?id=4d5d7cbc.m3u8
-
+N2,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20200724/pcstation3/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510281907&pid=2029000099&timestamp=20241027081647&Channel_ID=0132_10010001005&ProgramID=938952618&ParentNodeID=-99&assertID=7510281907&client_ip=183.227.158.56&SecurityKey=20241027081647&promotionId=&mvid=7510140622&mcid=500020&mpid=120000528886&playurlVersion=WX-A1-7.10.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=3f1fbe6e89ae48330a01c8fd10fb6409&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f0c1ca49415194923085a017c3177f76
+N2a,https://ani.zq4669.com:31106/live/hls?id=6eedb5f0.m3u8
 
 
 
