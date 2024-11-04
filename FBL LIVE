@@ -2,7 +2,7 @@
 
 LIVE,#genre#
 N1,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20200724/pcstation1/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510285739&pid=2029000110&timestamp=20241104064053&Channel_ID=0132_10010001005&ProgramID=940046187&ParentNodeID=-99&assertID=7510285739&client_ip=125.105.70.76&SecurityKey=20241104064053&promotionId=&mvid=7510142549&mcid=500020&mpid=120000529322&playurlVersion=WX-A1-7.10.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&mtv_session=e1b4bc72c8ce04c2bbc78a44b0b98e42&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2d01bf1dd2a0c2be68bf726e76c828be
-
+N2,https://ani.zq4669.com:31106/live/hls?id=0ec13a1f.m3u8
 N3,https://v4-7b232e9a7ece13f936b4e19cb1594132.livehwc3.cn/hls.yjjcfw.com/live/vl.m3u8?sub_m3u8=true&hwSecret=eeb94d2d476805bc5fa0cf6bfdacfa53ec4b5bdbba83fa88ad3e47322cebeae4&user_session_id=22d4e2337960cf2fe6c4c62f29a6fc52&edge_slice=true&hwTime=67280DC2
 
 
