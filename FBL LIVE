@@ -1,6 +1,7 @@
 
 LIVE,#genre#
 PAR-ARG,https://live.bbapcall.com/live/sd-1-4007922.m3u8?txSecret=018ddabdd184ae036b1228efcd3002c3&txTime=6736DCF1
+ARG,https://play1nm.hnyongshun.cn/live/ballbar_17450.m3u8
 EQU-BOL,https://live.bbapcall.com/live/sd-1-4007925.m3u8?txSecret=43d1da4683a58ca9e975382cbdc8f9b8&txTime=6736DCDB
 
 NBA1115,#genre#
