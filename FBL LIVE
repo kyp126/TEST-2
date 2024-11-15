@@ -1,12 +1,7 @@
 
 LIVE,#genre#
-PAR-ARG,https://live.bbapcall.com/live/sd-1-4007922.m3u8?txSecret=018ddabdd184ae036b1228efcd3002c3&txTime=6736DCF1
-ARG,https://play1nm.hnyongshun.cn/live/ballbar_17450.m3u8
-EQU-BOL,https://live.bbapcall.com/live/sd-1-4007925.m3u8?txSecret=43d1da4683a58ca9e975382cbdc8f9b8&txTime=6736DCDB
+IND-JPN,https://hutg54.site/chunklist/hlsch23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNCAxMSA6MzAgOjU2ICBBTSZoYXNoX3ZhbHVlPWU5ODQ3M0hYdXBKMjlJL0NTRmxBbUE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTI0MDE6NzQwMDpjODA0OmFjMDM6NzU0Mjo3NGUyOmMxMzE6N2NjMCZzdHJtX2xlbj01
 
-NBA1115,#genre#
-830,https://play1nm.hnyongshun.cn/live/ballbar_40120.m3u8
-10,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid02/51/20220613/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510287575&pid=2029000122&timestamp=20241115092635&Channel_ID=0132_10010001005&ProgramID=940688033&ParentNodeID=-99&assertID=7510287575&client_ip=36.42.248.65&SecurityKey=20241115092635&promotionId=&mvid=7510143467&mcid=500020&mpid=120000529536&playurlVersion=WX-A1-7.11.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&mtv_session=2b5e556bf6dcb9d184541614f23b71a4&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=42edc3b4c0662e823a0a2660179aae03
 
 
 FMR1115,#genre#
