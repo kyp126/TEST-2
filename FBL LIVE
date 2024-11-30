@@ -2,28 +2,24 @@
 
 
 
-LIVE,#genre#
-LEI咪,https://xzbonlinepull.pq8.co/live/hd-zh-1-4139764.m3u8?txSecret=8f4a4e8c3b443c01752c9e4befbd673e&txTime=674b35a9
-BRE-LEI,https://hutg54.site/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNCAyIDozNyA6MjMgIFBNJmhhc2hfdmFsdWU9Znd3NC9kaTJUVUltK2sySm5sbUt5UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6YTgzMToxNGYzOmJiNzk6ZjA2MTo3ODI3JnN0cm1fbGVuPTU=
-BRE2,https://play1nm.hnyongshun.cn/live/ballbar_8870.m3u8
-BRE3,https://play1nm.hnyongshun.cn/live/ballbar_37330.m3u8
-CP咪,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation12/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510291791&pid=2028597139&timestamp=20241130233145&Channel_ID=0132_10010001005&ProgramID=942763507&ParentNodeID=-99&assertID=7510291791&client_ip=59.54.238.137&SecurityKey=20241130233145&promotionId=&mvid=7510145580&mcid=500020&mpid=120000507557&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=d5c8cdae38cd167359e92380704033ae&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4f0abb07987dd9fddc3007f5e72bc470
+NBA1201,#genre#
+7,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid25/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510291029&pid=2029000099&timestamp=20241201073450&Channel_ID=0132_10010001005&ProgramID=942330304&ParentNodeID=-99&assertID=7510291029&client_ip=117.140.134.202&SecurityKey=20241201073450&promotionId=&mvid=7510145199&mcid=500020&mpid=120000530441&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=58db942981fb52dbd960e6fbf6cf74ec&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3738ff4bdc44e1226b8bb10a82a37917
+7ENG,https://play1nm.hnyongshun.cn/live/ballbar_33540.m3u8
 
-CP-NEW,https://pulselink.biz/live/1/chunks.m3u8?bongls.com
-CP1,https://hutg54.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNCAyIDozNiA6MDcgIFBNJmhhc2hfdmFsdWU9TUk1QkFnZ2lhOEhlQmZaYjYxamhkUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6YTgzMToxNGYzOmJiNzk6ZjA2MTo3ODI3JnN0cm1fbGVuPTU=
-CP(CCTV),https://play1nm.hnyongshun.cn/live/ballbar_19370.m3u8
-CP3,https://play1nm.hnyongshun.cn/live/ballbar_33350.m3u8
-NFO咪,https://xzbonlinepull.pq8.co/live/hd-zh-1-4139780.m3u8?txSecret=a9fbadf1e618b85b92d791b0479b430d&txTime=674b35bd
 
-NFO-IPS,https://pulselink.my/live/4/chunks.m3u8?bongls.com
-NFO1,https://hutg54.site/chunklist/hlsch7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNCAyIDozNCA6NTcgIFBNJmhhc2hfdmFsdWU9YjQ3L0JvK1M0dVdDc2FWMVQ1Qk4rUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6YTgzMToxNGYzOmJiNzk6ZjA2MTo3ODI3JnN0cm1fbGVuPTU=
-NFO2,https://play1nm.hnyongshun.cn/live/ballbar_22030.m3u8
-NFO3,https://play1nm.hnyongshun.cn/live/ballbar_40530.m3u8
-WOL咪,https://xzbonlinepull.pq8.co/live/hd-zh-1-4139794.m3u8?txSecret=dde5ab9c3c171d3688881b9206cc94e7&txTime=674b35f6
-WOL-BOU,https://pulselink.biz/live/3/chunks.m3u8?bongls.com
-WOL1,https://hutg54.site/chunklist/hlsch8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyNCAyIDozMyA6NDcgIFBNJmhhc2hfdmFsdWU9RmRobEszV1djck8xZUNBUFg1eFFDQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDQ6YTgzMToxNGYzOmJiNzk6ZjA2MTo3ODI3JnN0cm1fbGVuPTU=
-WOL2,https://play1nm.hnyongshun.cn/live/ballbar_15350.m3u8
-WOL3,https://play1nm.hnyongshun.cn/live/ballbar_36250.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
