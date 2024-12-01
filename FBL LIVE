@@ -2,23 +2,19 @@
 
 
 
-LIVE,#genre#
-LIV-MCI,https://pulselink.biz/live/1/chunks.m3u8?bongls.com
-LIV,https://hutg54.site/chunklist/hlsch5.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDIgOjM5IDowNCAgUE0maGFzaF92YWx1ZT1Dc0ZLby9HaVJ0OUZXK1V1UUJyN01nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNToyMjRkOmIwMDQ6ZGY1MzpjOTZjOmNhNzYmc3RybV9sZW49NQ==
-MUN-EVE,https://pulselink.my/live/1/chunks.m3u8?bongls.com
-MUN,https://hutg54.site/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDEgOjMwIDo0NiAgUE0maGFzaF92YWx1ZT1keUd3U2lQY3htYnVCeTVFMlc1eVBBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNToyMjRkOmIwMDQ6ZGY1MzpjOTZjOmNhNzYmc3RybV9sZW49NQ==
-MUN1,https://xzbonlinepull.pq8.co/live/hd-zh-1-4139778.m3u8?txSecret=43e23c2feca20ca42436f82a5689bf48&txTime=674c6c47
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$移动IPV4
+NBA1202,#genre#
+7a,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20220127/pcstation38/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510292717&pid=2029000109&timestamp=20241202070345&Channel_ID=0132_10010001005&ProgramID=942911598&ParentNodeID=-99&assertID=7510292717&client_ip=27.214.115.141&SecurityKey=20241202070345&promotionId=&mvid=7510146043&mcid=500020&mpid=120000530545&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=8513f3d9304705dee1f68b6e548f4143&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=46a3a187d1aac74c1ca1040024c01dd8
+7a
+7b,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20220127/pcstation39/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510292727&pid=2029000116&timestamp=20241202070340&Channel_ID=0132_10010001005&ProgramID=942911788&ParentNodeID=-99&assertID=7510292727&client_ip=60.182.165.142&SecurityKey=20241202070340&promotionId=&mvid=7510146048&mcid=500020&mpid=120000530544&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=871d73218fb5b8d14848111aca2869d1&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fc30384aac45a7749c73599d184bb471
+7b
+7c,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20220127/pcstation40/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510292745&pid=2029000107&timestamp=20241202070350&Channel_ID=0132_10010001005&ProgramID=942912002&ParentNodeID=-99&assertID=7510292745&client_ip=223.98.107.169&SecurityKey=20241202070350&promotionId=&mvid=7510146057&mcid=500020&mpid=120000530551&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=13cc84a5aa0b313b6b1cf2f954a1cd60&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7497bc25d7339144c89d16bb8400018a
+7c
 
 
-RMA-GET,https://temppottatty.xyz/live/4/chunks.m3u8?bongls.com
-RMA,https://hutg54.site/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDIgOjQ2IDo1NSAgUE0maGFzaF92YWx1ZT1PZE1reWozQitmSDM3TitTcTYzdk1nPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNToyMjRkOmIwMDQ6ZGY1MzpjOTZjOmNhNzYmc3RybV9sZW49NQ==
-CCTV5 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$移动IPV4
-TOR-NAP,https://xzbonlinepull.pq8.co/live/hd-zh-1-4149588.m3u8?txSecret=5d5e705e45044f7b14ea67c0686b483e&txTime=674c7f15#https://pulselink.my/live/5/chunks.m3u8?bongls.com
-TOR,https://hutg54.site/chunklist/hlsch13.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDIgOjUyIDoxMCAgUE0maGFzaF92YWx1ZT1lOHg4eWpTWVRHanUrbGVFbXdYNDBBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNToyMjRkOmIwMDQ6ZGY1MzpjOTZjOmNhNzYmc3RybV9sZW49NQ==
-PAR-LAZ,https://echocraft.store/live/6/chunks.m3u8?bongls.com
-PAR,https://hutg54.site/chunklist/hlsch12.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDI0IDIgOjU1IDo0MiAgUE0maGFzaF92YWx1ZT0vWmk2SEErcTRCZWRFUmtMbzlwWUJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNToyMjRkOmIwMDQ6ZGY1MzpjOTZjOmNhNzYmc3RybV9sZW49NQ==
-PAR咪,https://xzbonlinepull.pq8.co/live/hd-zh-1-4149587.m3u8?txSecret=5bca6cc4d8071ab06512a7d741cb7c0a&txTime=674c7f13
+
+
+
+
 
 
 
