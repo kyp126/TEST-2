@@ -1,22 +1,5 @@
 
-NBA1204,#genre#
-8a,https://play1nm.hnyongshun.cn/live/ballbar_26610.m3u8
-8b,https://play1nm.hnyongshun.cn/live/ballbar_7720.m3u8
-8c,https://play1nm.hnyongshun.cn/live/ballbar_38340.m3u8
-830a,https://play1nm.hnyongshun.cn/live/ballbar_28560.m3u8
-830b,https://play1nm.hnyongshun.cn/live/ballbar_27700.m3u8
-9,http://gslbmgsplive.miguvideo.com/migu/sports/20221107/pcstation41/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510293113&pid=2029000122&timestamp=20241204084354&Channel_ID=0132_10010001005&ProgramID=942916410&ParentNodeID=-99&assertID=7510293113&client_ip=183.239.18.20&SecurityKey=20241204084354&promotionId=&mvid=7510146241&mcid=500020&mpid=120000530599&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=1f503e96ac52a143e8fb99021e6b969f&ddCalcu=f19fz65z90cb3z6ee9162a0c9592baf184e3&sv=10000&ct=www
-9ENG,https://play1nm.hnyongshun.cn/live/ballbar_10800.m3u8
-930,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20221107/pcstation42/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510293141&pid=2029000115&timestamp=20241204090554&Channel_ID=0132_10010001005&ProgramID=942916640&ParentNodeID=-99&assertID=7510293141&client_ip=114.250.249.42&SecurityKey=20241204090554&promotionId=&mvid=7510146255&mcid=500020&mpid=120000530604&playurlVersion=WX-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&encrypt=1fc77ce288a2271fc6536548d4796741&sv=10000&ct=www
-930ENG,https://play1nm.hnyongshun.cn/live/ballbar_40610.m3u8
-10,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20221107/pcstation44/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510293153&pid=2029000117&timestamp=20241204092748&Channel_ID=0132_10010001005&ProgramID=942916747&ParentNodeID=-99&assertID=7510293153&client_ip=223.247.46.53&SecurityKey=20241204092748&promotionId=&mvid=7510146261&mcid=500020&mpid=120000530605&playurlVersion=WX-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&encrypt=7713181b6321dea8c4f0c1df05544809&sv=10000&ct=www
-10ENG,https://play1nm.hnyongshun.cn/live/ballbar_31190.m3u8
-11a,https://play1nm.hnyongshun.cn/live/ballbar_31190.m3u8
-11aENG,https://play1nm.hnyongshun.cn/live/ballbar_9860.m3u8
-11b,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid25/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510293215&pid=2029000127&timestamp=20241204102259&Channel_ID=0132_10010001005&ProgramID=942917460&ParentNodeID=-99&assertID=7510293215&client_ip=180.125.30.143&SecurityKey=20241204102259&promotionId=&mvid=7510146292&mcid=500020&mpid=120000530607&playurlVersion=WX-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&encrypt=b551325e36bbaca56a662747544bb6f5&sv=10000&ct=www
-11bENG,https://play1nm.hnyongshun.cn/live/ballbar_31260.m3u8
-1130,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid26/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510293231&pid=2029000124&timestamp=20241204105533&Channel_ID=0132_10010001005&ProgramID=942917677&ParentNodeID=-99&assertID=7510293231&client_ip=139.226.134.253&SecurityKey=20241204105533&promotionId=&mvid=7510146300&mcid=500020&mpid=120000530608&playurlVersion=WX-A1-7.11.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&encrypt=817b39b041d60d92a5b55faf628a452a&sv=10000&ct=www
-1130ENG,https://play1nm.hnyongshun.cn/live/ballbar_16050.m3u8
+
 FMR1204,#genre#
 LEI-WHU,https://ok6-14.vkuser.net/expires/1733368819943/srcIp/111.65.69.199/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/r6E9qWEVQrs/ct/8/urls/185.226.55.93%3B45.136.20.69/clientType/1/zs/43/id/7211954080385/video/
 MIL-SAS,https://ok6-6.vkuser.net/expires/1733368885421/srcIp/111.65.59.56/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/4ZxLdRHJdhs/ct/8/urls/185.226.55.36%3B185.226.52.37/clientType/1/zs/43/id/7211949689473/video/
