@@ -60,38 +60,10 @@ MUN-NEW2,https://ok6-6.vkuser.net/expires/1735860548682/srcIp/119.234.36.84/srcA
 
 
 
-FMR1230,#genre#
-MOD1229,https://ok6-9.vkuser.net/expires/1735638328254/srcIp/175.156.229.109/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/3/sig/Qo_pGGTM8lU/ct/8/urls/185.226.52.15%3B45.136.22.72/clientType/1/zs/43/id/7500997462553/video/
-JUV-FIO,https://ok6-15.vkuser.net/expires/1735638536035/srcIp/175.156.229.109/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/nJvpt7v62k0/ct/8/urls/45.136.21.76%3B185.226.53.25/clientType/1/zs/43/id/7898423560912/video/#https://ok6-15.vkuser.net/expires/1735604873117/srcIp/185.180.222.53/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/HgmrOcbK0E8/ct/8/urls/45.136.21.76%3B45.136.22.14/clientType/1/zs/43/id/7898423560912/video/
-
-MIL-ROM,https://ok6-1.vkuser.net/expires/1735638427439/srcIp/175.156.229.109/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/bCbgWPM8G7M/ct/8/urls/185.226.52.15%3B185.226.53.61/clientType/1/zs/43/id/7758497123052/video/
 
 
 
 
-
-
-
-
-
-
-
-
-
-FMR1229,#genre#
-CAG-MIL,https://ok6-3.vkuser.net/expires/1735516024549/srcIp/111.65.71.158/srcAg/UNKNOWN/ms/95.142.206.130/type/5/sig/Loz0jXiX3RI/ct/8/urls/45.136.21.73%3B45.136.22.26/clientType/1/zs/43/id/7819677338131/video/
-ARS-ISP1,https://vd468.okcdn.ru/expires/1735516100261/srcIp/111.65.57.106/srcAg/CHROME_ANDROID/ms/185.226.52.82/type/5/sig/pVTlB8UK-W8/ct/8/urls/45.136.20.31/clientType/1/zs/43/id/7536827108071/video/
-ARS-ISP2,https://ok6-13.vkuser.net/expires/1735516134007/srcIp/111.65.57.106/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/5n2BLL_qtcA/ct/8/urls/185.226.53.43%3B45.136.22.36/clientType/1/zs/43/id/7536852142823/video/
-
-
-
-
-FMR1227,#genre#
-MOD1226,https://ok6-8.vkuser.net/expires/1735385874196/srcIp/124.246.103.45/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/sO2xucPcy-E/ct/8/urls/45.136.22.60%3B185.226.52.8/clientType/1/zs/43/id/7525397891815/video/
-LIV-LEI1,https://ok6-1.vkuser.net/expires/1735387370762/srcIp/124.246.103.45/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/CKTpvMxaSAo/ct/8/urls/45.136.20.73%3B185.226.55.44/clientType/1/zs/43/id/7496526203578/video/
-LIV-LEI2,https://ok6-6.vkuser.net/expires/1735386054282/srcIp/124.246.103.45/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/-ShfcG8hjrw/ct/8/urls/185.226.55.28%3B185.226.53.7/clientType/1/zs/43/id/7816374061615/video/
-WOL-MUN,https://ok6-13.vkuser.net/expires/1735387313842/srcIp/124.246.103.45/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/5/sig/A4S5mH7W8Ao/ct/8/urls/185.226.55.34%3B45.136.22.38/clientType/1/zs/43/id/7771189414548/video/
-CHE-FUL,https://ok6-9.vkuser.net/expires/1735387516819/srcIp/124.246.103.45/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/tzT6OI6wZFg/ct/8/urls/185.226.52.82%3B185.226.55.60/clientType/1/zs/43/id/7771175717524/video/
 
 
 
@@ -152,7 +124,11 @@ CHE-FUL,https://ok6-9.vkuser.net/expires/1735387516819/srcIp/124.246.103.45/srcA
 10,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_quas4q0o/v/11/pv/1/ev/23/flavorId/1_f427urcj/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 11,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_tq4ztzuk/v/11/pv/1/ev/23/flavorId/1_1z0xv8rq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 12,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_05l64y79/v/11/pv/1/ev/22/flavorId/1_sj90uumx/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
+13,https://vod-prod.eo-edgefunctions7.com/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5x5vvmp3/v/11/pv/1/ev/23/flavorId/1_dnbhfyhs/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+14,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_eyn5yed0/v/11/pv/1/ev/23/flavorId/1_o8doj9bz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+15,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9etmi93y/v/11/pv/1/ev/24/flavorId/1_2bdkoxo0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+16,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_shp4uqmp/v/11/pv/1/ev/23/flavorId/1_xtpatc3i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+17,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_mylw62p1/v/21/pv/1/ev/31/flavorId/1_f8opc4ca/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
