@@ -12,9 +12,13 @@ NBA0108,#genre#
 10,http://gslbmgsplive.miguvideo.com/migu/sports/20220127/pcstation39/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510302617&pid=2029000122&timestamp=20250108093726&Channel_ID=0132_10010001005&ProgramID=946036058&ParentNodeID=-99&assertID=7510302617&client_ip=27.187.176.237&SecurityKey=20250108093726&promotionId=&mvid=7510150993&mcid=500020&mpid=120000532472&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=4a23d94d1d0db48577d393dee5f37be1&ddCalcu=14eazb2y73c3dzf954ede1dd309d3bd47875&sv=10000&ct=www
 10E,https://play1nm.hnyongshun.cn/live/ballbar_17330.m3u8
 11C1,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid02/51/20220613/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510302627&pid=2029000118&timestamp=20250108100932&Channel_ID=0132_10010001005&ProgramID=946036322&ParentNodeID=-99&assertID=7510302627&client_ip=112.10.237.41&SecurityKey=20250108100932&promotionId=&mvid=7510150998&mcid=500020&mpid=120000532459&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=4164dfcc1a407a153ce07b6541f79ddb&ddCalcu=b4d1zd6y94c7dzff1c4c516ab47007eac135&sv=10000&ct=www
-
 11C2,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid26/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510302639&pid=2029000123&timestamp=20250108100922&Channel_ID=0132_10010001005&ProgramID=946036662&ParentNodeID=-99&assertID=7510302639&client_ip=180.120.214.241&SecurityKey=20250108100922&promotionId=&mvid=7510151004&mcid=500020&mpid=120000532458&playurlVersion=WX-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=653327961a025fbf1130a5732f20b220&ddCalcu=0625z23yb3c02z27f926317a50a2053f1b1f&sv=10000&ct=www
 
+纬来体育,http://211.72.65.236:8585/.m3u8
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来体育,http://125.227.210.55:8155/VideoInput/play.ts
+纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 
 
 
