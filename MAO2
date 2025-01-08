@@ -4,7 +4,7 @@
 	"wallpaper": "https://bing.img.run/uhd.php",
 	"sites": [{
 			"key": "豆瓣",
-			"name": "🌈豆瓣┃新年快乐：接口已移交开源平台 请测试完删除处理",
+			"name": "🌈豆瓣",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0
