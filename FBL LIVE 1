@@ -1,39 +1,18 @@
 
-LIVE,#genre#
-CHE-MOR,https://yhjkrf.site/chunklist/hlsch6.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDIgOjI2IDozOSAgUE0maGFzaF92YWx1ZT1hb3JqNU9mYlJyODBBWFJaQXVJRGtnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNTo5ZDhkOmY3NWM6OTI3MjpiMzg2OjlmMjUmc3RybV9sZW49NQ==
-CHE咪,http://gslbmgsplive.miguvideo.com/migu/sports/20230301/pcstation54/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510304195&pid=2031000083&timestamp=20250111223131&Channel_ID=0132_10010001005&ProgramID=946452715&ParentNodeID=-99&assertID=7510304195&client_ip=117.90.201.119&SecurityKey=20250111223131&promotionId=&mvid=7510151782&mcid=500020&mpid=120000533782&playurlVersion=WX-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=a164d3e92e7e5a6b215f3aa814348c14&ddCalcu=4a11zc6y84c4dz334e1982aea73ef55a162b&sv=10000&ct=www
-
-NFO-LUT,https://yhjkrf.site/chunklist/hlsch7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDIgOjIzIDo1NCAgUE0maGFzaF92YWx1ZT1nNi9aQnFYOFVJOW5aRllMWW5Xazl3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNTo5ZDhkOmY3NWM6OTI3MjpiMzg2OjlmMjUmc3RybV9sZW49NQ==
-NFO咪,http://gslbmgsplive.miguvideo.com/migu/sports/20210924/pcstation29/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510304219&pid=2031000083&timestamp=20250111222734&Channel_ID=0132_10010001005&ProgramID=946453031&ParentNodeID=-99&assertID=7510304219&client_ip=39.77.138.62&SecurityKey=20250111222734&promotionId=&mvid=7510151794&mcid=500020&mpid=120000533778&playurlVersion=WX-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=7f1069676a169e264e66f1d81576f319&ddCalcu=971fz31yf0c66z79561786da11f6696ee246&sv=10000&ct=www
-NOR-BHA,https://nexahub.biz/live/6/chunks.m3u8?bongls.com
-BRE-PLY,http://gslbmgsplive.miguvideo.com/migu/sports/20230301/pcstation57/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510304215&pid=2031000083&timestamp=20250111223118&Channel_ID=0132_10010001005&ProgramID=946452956&ParentNodeID=-99&assertID=7510304215&client_ip=114.232.57.53&SecurityKey=20250111223118&promotionId=&mvid=7510151792&mcid=500020&mpid=120000533780&playurlVersion=WX-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=a4bccf96ea02c28eee16af84287ee70b&ddCalcu=ba04z7byeccecz7f89264e8af0a26c12e8ee&sv=10000&ct=www
-
-BOU-WBRM,http://gslbmgsplive.miguvideo.com/migu/sports/20230301/pcstation55/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510304205&pid=2031000083&timestamp=20250111224110&Channel_ID=0132_10010001005&ProgramID=946452799&ParentNodeID=-99&assertID=7510304205&client_ip=123.149.103.76&SecurityKey=20250111224110&promotionId=&mvid=7510151787&mcid=500020&mpid=120000533781&playurlVersion=WX-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=7be024436126a718730f246c04a252a2&ddCalcu=27abz2ey50c22za44403c6614226fa073178&sv=10000&ct=www
-
-SUN-STO,https://play1nm.hnyongshun.cn/live/ballbar_17780.m3u8
-RED-BUR,https://play1nm.hnyongshun.cn/live/ballbar_24890.m3u8
-EXE-OXF,https://play1nm.hnyongshun.cn/live/ballbar_19240.m3u8
-LEI-QPR,https://pulselink.biz/live/4/chunks.m3u8?bongls.com
-LEI,https://yhjkrf.site/chunklist/hlsch8.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDEgOjI5IDoyNyAgUE0maGFzaF92YWx1ZT1vS1dvVlZBbkVMWnlreGhsSWcwbEhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNTo5ZDhkOmY3NWM6OTI3MjpiMzg2OjlmMjUmc3RybV9sZW49NQ==
-LEI咪,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid25/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510304171&pid=2031000083&timestamp=20250111212719&Channel_ID=0132_10010001005&ProgramID=946452263&ParentNodeID=-99&assertID=7510304171&client_ip=101.205.227.36&SecurityKey=20250111212719&promotionId=&mvid=7510151770&mcid=500020&mpid=120000533784&playurlVersion=WX-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=a56da40e6a893bdacf6dd6745e6e41b7&ddCalcu=7ab5z16y4dceaz64e05e467a68d9d36bfdca&sv=10000&ct=www
-
-VLL-BET,https://securetoolideas.art/live/1/chunks.m3u8?bongls.com
-VLL,https://yhjkrf.site/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDMgOjE5IDoxNSAgUE0maGFzaF92YWx1ZT0yUThaS0ZmdUdpOElEL2ltNWpZTFBnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNTo5ZDhkOmY3NWM6OTI3MjpiMzg2OjlmMjUmc3RybV9sZW49NQ==
-VLL咪,https://xzbonlinepull.pq8.co/live/hd-zh-1-4140354.m3u8?txSecret=f57e11217da3ac9ab376db397d4e82b6&txTime=67829344
-
-EMP-LEC,https://echocraft.store/live/3/chunks.m3u8?bongls.com
-EMP,https://yhjkrf.site/chunklist/hlsch10.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDEgOjM3IDoyNSAgUE0maGFzaF92YWx1ZT14dm5MTldzYkFJREFqcW1DdE42VXhBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNTo5ZDhkOmY3NWM6OTI3MjpiMzg2OjlmMjUmc3RybV9sZW49NQ==
-EMP咪,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation11/51/index.m3u8?msisdn=f93f40861e011e438d3d9eaabeee14aacd8944ca5dffb31324141c3e5376a960&mdspid=&spid=800033&netType=0&sid=7510303789&pid=2028597139&timestamp=20250111213922&Channel_ID=0132_10010001005&ProgramID=946387144&ParentNodeID=-99&assertID=7510303789&client_ip=113.14.188.75&SecurityKey=20250111213922&promotionId=&mvid=7510151579&mcid=500020&mpid=120000530454&playurlVersion=WX-A1-7.12.1-RELEASE&userid=&jmhm=f93f40861e011e438d3d9eaabeee14aacd8944ca5dffb31324141c3e5376a960&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=aef9b5cbc51fa96dbc56233f1819e633&ddCalcu=3a3ez6fye9c9bz158c1bfc35312f6a59c6bd&sv=10000&ct=www
+NBA0112,#genre#
+6,http://gslbmgsplive.miguvideo.com/migu/sports/20220127/pcstation37/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510302211&pid=2029000122&timestamp=20250112072726&Channel_ID=0132_10010001005&ProgramID=946032002&ParentNodeID=-99&assertID=7510302211&client_ip=120.208.49.177&SecurityKey=20250112072726&promotionId=&mvid=7510150790&mcid=500020&mpid=120000532490&playurlVersion=ZQ-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=a3247487e4d7a7d81ea6f649a9f3812a&ddCalcu=aa23z12y84c37zf498a79e446df76aa7ed18&sv=10000&ct=www
 
 
-UDI-ATA,https://echocraft.store/live/2/chunks.m3u8?bongls.com
-UDI,https://yhjkrf.site/chunklist/hlsch11.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDEgOjM5IDoxOCAgUE0maGFzaF92YWx1ZT1qaFE5SWZhRk9TYnUwNktiY3JSNTd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAxOjc0MDA6YzgwNTo5ZDhkOmY3NWM6OTI3MjpiMzg2OjlmMjUmc3RybV9sZW49NQ==
-UDI咪,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid23/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510303677&pid=2029000133&timestamp=20250111213915&Channel_ID=0132_10010001005&ProgramID=946386590&ParentNodeID=-99&assertID=7510303677&client_ip=36.100.7.248&SecurityKey=20250111213915&promotionId=&mvid=7510151523&mcid=500020&mpid=120000530453&playurlVersion=WX-A1-7.12.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=540e0662a01742b39ce5d3e5ea9349e7&ddCalcu=75e4z90y4ec30z96a6e25ae031d754e2cb93&sv=10000&ct=www
 
 
-ALA-GIR,https://temppottatty.xyz/live/1/chunks.m3u8?bongls.com
-ALA,https://yhjkrf.site/chunklist/hlsch4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI1IDEyIDo0NiA6MjggIFBNJmhhc2hfdmFsdWU9TnFnTCtiM0Y4NHltbG1lZ1oxc2dPQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjQwMTo3NDAwOmM4MDU6OWQ4ZDpmNzVjOjkyNzI6YjM4Njo5ZjI1JnN0cm1fbGVuPTU=
-ALA1,https://play1nm.hnyongshun.cn/live/ballbar_27040.m3u8
+
+
+
+
+
+
+
+
 
 
 
