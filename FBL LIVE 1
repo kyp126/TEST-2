@@ -1,4 +1,15 @@
 
+NBA0211,#genre#
+08-1,http://gslbmgsplive.miguvideo.com/migu/sports/20220127/pcstation37/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510312003&pid=2029000101&timestamp=20250211070713&Channel_ID=0132_10010001005&ProgramID=948108915&ParentNodeID=-99&assertID=7510312003&client_ip=14.107.181.88&SecurityKey=20250211070713&promotionId=&mvid=7510155687&mcid=500020&mpid=120000532712&playurlVersion=WX-A1-8.1.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=cab9b52fad04e7eec72abce485d99471&ddCalcu=1c7az4by99c9bzd5528f4aedc0b4ae277ece&sv=10000&ct=www
+08-2,http://gslbmgsplive.miguvideo.com/migu/sports/20220127/pcstation38/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510312013&pid=2029000102&timestamp=20250211070719&Channel_ID=0132_10010001005&ProgramID=948109050&ParentNodeID=-99&assertID=7510312013&client_ip=106.44.149.195&SecurityKey=20250211070719&promotionId=&mvid=7510155692&mcid=500020&mpid=120000532718&playurlVersion=WX-A1-8.1.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=fb06002894f626e370accabd07c42bb1&ddCalcu=1fbbzb0y26c40zc07208d9b4afc6c2a60e73&sv=10000&ct=www
+08-3,http://gslbmgsplive.miguvideo.com/migu/sports/20220127/pcstation36/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510311995&pid=2029000109&timestamp=20250211070727&Channel_ID=0132_10010001005&ProgramID=948108754&ParentNodeID=-99&assertID=7510311995&client_ip=171.41.128.10&SecurityKey=20250211070727&promotionId=&mvid=7510155683&mcid=500020&mpid=120000532719&playurlVersion=WX-A1-8.1.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=7af88ce79dc00c49bf3a5872b13daa26&ddCalcu=672azafya8cd8z3c1eb7297d8c50a03cf4b9&sv=10000&ct=www
+
+
+
+
+
+
+
 FMR0210,#genre#
 SEV-BAR,https://ok6-5.vkuser.net/expires/1739234227661/srcIp/119.234.66.55/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/5/sig/MmekDudqbqM/ct/8/urls/185.226.52.44%3B45.136.20.51/clientType/1/zs/43/id/7710389635622/video/
 AVL-TOT1,https://ok6-5.vkuser.net/expires/1739234294613/srcIp/119.234.66.55/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/KhfylqSHvE4/ct/8/urls/45.136.22.75%3B45.136.21.50/clientType/1/zs/43/id/7669031176860/video/
@@ -46,13 +57,6 @@ LEG-RMA,https://ok6-15.vkuser.net/expires/1738894678463/srcIp/119.234.20.95/srcA
 MIL-ROM,https://vd362.okcdn.ru/?expires=1738884526004&srcIp=149.202.190.30&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.77&type=2&sig=MK8k0JWRhKk&ct=0&urls=45.136.20.51&clientType=1&id=8039711509040
 PSV-FEY,https://vd450.okcdn.ru/?expires=1738884620909&srcIp=149.202.190.30&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.34&type=4&sig=5es9ES0pcbM&ct=14&urls=45.136.22.8&clientType=0&id=8039718455856
 
-FMR0205,#genre#
-ATM-GET,https://ok6-6.vkuser.net/expires/1738800396646/srcIp/119.234.32.247/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/QGWiwE3YYG4/ct/8/urls/45.136.22.76%3B185.226.52.80/clientType/1/zs/43/id/8137183005392/video/
-LMFC-PSG,https://ok6-15.vkuser.net/expires/1738800453815/srcIp/119.234.32.247/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/5/sig/oTrMgFRKKe0/ct/8/urls/45.136.20.50%3B45.136.21.34/clientType/1/zs/43/id/8137173437136/video/
-
-
-FMR0204,#genre#
-CHE-WHU,https://ok6-6.vkuser.net/expires/1738711042173/srcIp/190.2.152.153/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/3/sig/92y_Wnz1XB8/ct/8/urls/45.136.22.72%3B45.136.20.17/clientType/1/zs/43/id/7639598828188/video/
 
 
 
