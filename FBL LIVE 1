@@ -480,7 +480,7 @@ CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?Gu
 
 
 TEST,#genre#
-误判2025,https://v.cdnlz12.com:443/20250131/18182_46c93a53/2000k/hls/mixed.m3u8
+误判2025,https://v.cdnlz12.com:443/20250131/18182_46c93a53/2000k/hls/mixed.m3u8#https://m3u8.heimuertv.com/play/0e6378460d8c48d1a3b8acfb28960086.m3u8
 
 
 
