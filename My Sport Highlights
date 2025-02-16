@@ -1,5 +1,24 @@
-LIVE,#genre#
-LEI-ARS,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510313837&pid=2029000131&timestamp=20250215194749&Channel_ID=0132_10010001005&ProgramID=948490021&ParentNodeID=-99&assertID=7510313837&client_ip=223.150.21.7&SecurityKey=20250215194749&promotionId=&mvid=7510156603&mcid=500020&mpid=120000507004&playurlVersion=WX-A1-8.2.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=3cc7c67a6a8dc0734f6b558d1eae9e2c&ddCalcu=c32czecy97cecza6e71ad68a585dbc60f743&sv=10000&ct=www
+
+HL0216,#genre#
+LEI-ARS,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298373/720p.m3u8
+MCI-NEW,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298455/720p.m3u8
+OSA-RMA,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298432/720p.m3u8
+B04-BAY,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298483/720p.m3u8
+ATM-CEL,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298485/720p.m3u8
+MIL-VER,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298500/720p.m3u8
+TOU-PSG,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/16/51/298503/720p.m3u8
+CP-EVE,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298491/720p.m3u8
+FUL-NFO,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298458/720p.m3u8
+AVL-IPS,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298470/720p.m3u8
+WHU-BRE,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298454/720p.m3u8
+SOU-BOU,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298459/720p.m3u8
+BOC-DOR,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298413/720p.m3u8
+LAZ-NAP,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/15/51/298495/720p.m3u8
+
+
+
+
+
 
 
 HL0215,#genre#
@@ -20,30 +39,6 @@ MID-RSO,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/13/51/298307/720p.m3u8
 PAOK-FCSR,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/13/51/298330/720p.m3u8
 TWE-BOD,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/13/51/298329/720p.m3u8
 FER-PLZ,https://rcfhv.upfootvid.com:443/UpFiles/2025/2/13/51/298311/720p.m3u8
-
-HL0213,#genre#
-CEL-BAY,https://joiu97.upfootvid.com:443/UpFiles/2025/2/13/51/298290/720p.m3u8
-BRU-ATA,https://joiu97.upfootvid.com:443/UpFiles/2025/2/12/51/298257/720p.m3u8
-FEY-MIL,https://joiu97.upfootvid.com:443/UpFiles/2025/2/12/51/298276/720p.m3u8
-MON-BEN,https://joiu97.upfootvid.com:443/UpFiles/2025/2/12/51/298287/720p.m3u8
-EVE-LIV,https://joiu97.upfootvid.com:443/UpFiles/2025/2/12/51/298283/720p.m3u8
-
-
-HL0212,#genre#
-MCI-RMA,https://nouura.upfootvid.com:443/UpFiles/2025/2/12/51/298228/720p.m3u8
-BRE-PSG,https://nouura.upfootvid.com:443/UpFiles/2025/2/11/51/298169/720p.m3u8
-SPO-DOR,https://nouura.upfootvid.com:443/UpFiles/2025/2/12/51/298229/720p.m3u8
-JUV-PSV,https://nouura.upfootvid.com:443/UpFiles/2025/2/12/51/298226/720p.m3u8
-EXE-NFO,https://nouura.upfootvid.com:443/UpFiles/2025/2/12/51/298235/720p.m3u8
-WAT-LEE,https://nouura.upfootvid.com:443/UpFiles/2025/2/11/51/298230/720p.m3u8
-
-
-
-HL0211,#genre#
-INT-FIO,https://nouura.upfootvid.com:443/UpFiles/2025/2/11/51/298122/720p.m3u8
-DON-CP,https://nouura.upfootvid.com:443/UpFiles/2025/2/11/51/298121/720p.m3u8
-MAL-OSA,https://nouura.upfootvid.com:443/UpFiles/2025/2/10/51/298123/720p.m3u8
-
 
 
 
