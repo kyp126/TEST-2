@@ -1,9 +1,4 @@
 
-NBA0224,#genre#
-
-08-1,http://gslbmgsplive.miguvideo.com/migu/sports/20221107/pcstation42/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510316835&pid=2029000117&timestamp=20250224070301&Channel_ID=0132_10010001005&ProgramID=949019819&ParentNodeID=-99&assertID=7510316835&client_ip=112.90.199.30&SecurityKey=20250224070301&promotionId=&mvid=7510158102&mcid=500020&mpid=120000532770&playurlVersion=WX-A1-8.2.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=d1882702f42ffdb377c71dfc36e50c76&ddCalcu=6d71zc8y08c52ze76032cff4d21f7fcd7b73&sv=10000&ct=www
-08-2,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhtest08/51/20221027/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510316865&pid=2029000109&timestamp=20250224070312&Channel_ID=0132_10010001005&ProgramID=949020152&ParentNodeID=-99&assertID=7510316865&client_ip=111.27.49.85&SecurityKey=20250224070312&promotionId=&mvid=7510158117&mcid=500020&mpid=120000532783&playurlVersion=ZQ-A1-8.2.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=418feb78751f1173869b59d1cf5c8258&ddCalcu=8451z28y8fccez5bf7c817d5915fb1916783&sv=10000&ct=www
-1030end,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid02/51/20220613/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510316911&pid=2029000119&timestamp=20250224094309&Channel_ID=0132_10010001005&ProgramID=949020590&ParentNodeID=-99&assertID=7510316911&client_ip=117.31.48.140&SecurityKey=20250224094309&promotionId=&mvid=7510158140&mcid=500020&mpid=120000532771&playurlVersion=WX-A1-8.2.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=62b80066fb8844dc431356d601943cd3&ddCalcu=36d2zcby38c40z9016066fdb685834143d4c&sv=10000&ct=www
 
 FMR0224,#genre#
 BAY-FRA,https://wyjpd4bo166k.cdn-centaurus.com/hls2/01/08697/ade0by6p418p_n/index-v1-a1.m3u8?t=q0zTBPfkcLUqyh9WUyq82uyqseCCbAZqk7ns2KsejwQ&s=1740361616&e=129600&f=43496760&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=45143
@@ -47,16 +42,6 @@ AND-FEN,https://a7pmc6uwtn.guardstorage.net/hls_3/rQ0FNbwqNL-9h76Ik9jhrJ1c_5U6um
 SPO-MIA,https://vod3.cf.dmcdn.net/sec2(pUOYygYkC0o7aZu_aACudIiRZnAV3RZhQYxOSnaLE7aEXQNb68PMS_Oxe7cyySchPjKLKjNjvmqRj4KNbjI02jGRmr2GUlnCn0jSZE53aeu_aR2g4_v7bk4LFtfCM58CIUKckU7xXr3w3fK_JVuJmjHv9Ik8y9ZlYV4-ny2fTDA)/video/077/949/568949770_mp4_h264_aac_1.m3u8#cell=cf3
 
 
-
-FMR0228,#genre#
-RMA-MCI,https://ok6-4.vkuser.net/?expires=1740093321273&srcIp=111.65.44.160&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=4&sig=bzJYWrnTHaQ&ct=14&urls=45.136.20.14%3B185.226.52.37&clientType=0&zs=43&id=7852489837159
-AVL-LIV,https://62lcxnbxr456.premilkyway.com/hls2/01/08606/l2dp6paa3s1q_n/index-v1-a1.m3u8?t=c_lIaT7cEC4nGBEs8f_tCoW_NVlDDbj2GFGcyZEp-Sg&s=1740050755&e=129600&f=43033485&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=4773
-AVL-LIV,https://ok6-9.vkuser.net/?expires=1740093471469&srcIp=111.65.44.160&pr=10&srcAg=CHROME&ms=95.142.206.136&type=3&sig=k7U9utc17wo&ct=0&urls=45.136.22.78%3B185.226.52.36&clientType=0&zs=43&id=7716743940764
-DOR-SPO,https://ok6-6.vkuser.net/?expires=1740093582184&srcIp=111.65.44.160&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=4&sig=eIog_qWz_Gs&ct=14&urls=185.226.52.62%3B45.136.22.33&clientType=1&zs=43&id=7852484594279
-PSG-BRE,https://13nt2qnqm72d.acek-cdn.com/hls2/01/03876/m7zglypfsszj_n/index-v1-a1.m3u8?t=Vt_dWbOe0GLOfmhs3dj2faotVUGeOEqlDJh771T2kO4&s=1740050595&e=129600&f=19382511&srv=F6vE2P5Wjncn&i=0.4&sp=500&p1=F6vE2P5Wjncn&p2=F6vE2P5Wjncn&asn=4773
-
-PSV-JUV1,https://vd262.okcdn.ru/expires/1740136336283/clientType/0/srcIp/138.75.56.207/type/2/mid/9412603152910/id/8066502035982/ms/185.226.52.12/zs/43/srcAg/CHROME_ANDROID/urls/45.136.20.53/oq/0/pr/10/ct/29/sig/B1DyQsOD8tw/ondemand/dash4_8066502035982.CI6U-Nb4kQJAjqaD6YYRUAogGJFVnkE2Hw.mpd
-PSV-JUV2,https://ok6-4.vkuser.net/expires/1740136449420/clientType/0/srcIp/138.75.56.207/type/2/mid/9412603218446/id/8066502822414/ms/95.142.206.131/zs/43/srcAg/CHROME_ANDROID/urls/185.226.52.42%3B185.226.55.23/oq/0/pr/10/ct/29/sig/4cyyhq_vbeI/ondemand/dash4_8066502822414.CI6U_Nb4kQJAjqaD6YYRUApMZcpKWcNWCA.mpd
 
 
 
