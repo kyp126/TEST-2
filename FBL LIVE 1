@@ -53,22 +53,12 @@ PSV-JUV2,https://ok6-4.vkuser.net/expires/1740136449420/clientType/0/srcIp/138.7
 
 
 
-FMR0219,#genre#
-BAY-CEL,https://ok6-11.vkuser.net/?expires=1740055935752&srcIp=124.246.115.219&pr=10&srcAg=CHROME&ms=95.142.206.138&type=5&sig=S3gIKhHnB6c&ct=0&urls=45.136.21.33%3B185.226.55.17&clientType=0&zs=43&id=7840833014503
-ATA-BRU,https://ok6-14.vkuser.net/?expires=1740056000318&srcIp=124.246.115.219&pr=10&srcAg=CHROME&ms=95.142.206.141&type=5&sig=ZaoAvgyA8z8&ct=0&urls=185.226.55.26%3B45.136.20.54&clientType=0&zs=43&id=7840866700007
-
-MIL-FRY,https://ok6-7.vkuser.net/?expires=1740056118088&srcIp=124.246.115.219&pr=10&srcAg=CHROME&ms=95.142.206.134&type=5&sig=S-6k1xuoPzQ&ct=0&urls=45.136.21.74%3B185.226.55.27&clientType=0&zs=43&id=7840856410855
-
-BEN-MON,https://ok6-10.vkuser.net/?expires=1740055853883&srcIp=124.246.115.219&pr=10&srcAg=CHROME&ms=95.142.206.137&type=3&sig=5DmG938sulw&ct=0&urls=45.136.21.32%3B45.136.22.48&clientType=0&zs=43&id=8051792939757
 
 
 
 
 
 
-FMR0218,#genre#
-BAR-VLL,https://ok6-8.vkuser.net/?expires=1739939943673&srcIp=119.234.36.70&pr=10&srcAg=CHROME&ms=95.142.206.135&type=5&sig=XC35hv_A6RI&ct=0&urls=185.226.55.26%3B185.226.52.61&clientType=0&zs=43&id=7708277541532
-https://snapsave.cc/wp-content/plugins/aio-video-downloader/download.php?source=odnoklassniki&media=NQ==
 
 
 
@@ -143,7 +133,11 @@ CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?Gu
 01,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2pq3drvx/v/11/pv/1/ev/23/flavorId/1_xdlp9rnb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 02,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jjqhigvp/v/11/pv/1/ev/22/flavorId/1_e0ryel6e/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 03,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2jptrx2h/v/11/pv/1/ev/23/flavorId/1_ge3tnzj0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
+04,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nron6j6x/v/11/pv/1/ev/22/flavorId/1_ykszdo7j/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+05,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_33d9s77w/v/11/pv/1/ev/23/flavorId/1_kgh484t5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+06,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_a5k9saed/v/11/pv/1/ev/23/flavorId/1_sdnwfjb4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+07,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_azqun678/v/11/pv/1/ev/23/flavorId/1_rsjctlr3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+08,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fhoywcpc/v/11/pv/1/ev/23/flavorId/1_jah1v5a7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
