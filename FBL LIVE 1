@@ -1,26 +1,21 @@
 
 
-LIVE,#genre#
-BHA-FUL,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation12/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320309&pid=2029000145&timestamp=20250308230547&Channel_ID=0132_10010001005&ProgramID=949936324&ParentNodeID=-99&assertID=7510320309&client_ip=183.197.226.202&SecurityKey=20250308230547&promotionId=&mvid=7510159839&mcid=500020&mpid=120000506980&playurlVersion=ZQ-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=9828faed85fb0553038ac0b5d3927844&ddCalcu=4948z82y78c2fz9a3edd58b50fcba0853503&sv=10000&ct=www
-http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation12/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320309&pid=2029000145&timestamp=20250308223550&Channel_ID=0132_10010001005&ProgramID=949936324&ParentNodeID=-99&assertID=7510320309&client_ip=120.204.208.0&SecurityKey=20250308223550&promotionId=&mvid=7510159839&mcid=500020&mpid=120000506980&playurlVersion=ZQ-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=72c6e8235c5e5eead5753c01dd66ac20&ddCalcu=0722zccya6c6ez68d2d3150cc53e557e5eda&sv=10000&ct=www
-BHA,https://lovespirng.my/live/n-2/chunks.m3u8
-CP-IPS,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation11/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320299&pid=2028597139&timestamp=20250308224102&Channel_ID=0132_10010001005&ProgramID=949936204&ParentNodeID=-99&assertID=7510320299&client_ip=119.41.204.218&SecurityKey=20250308224102&promotionId=&mvid=7510159834&mcid=500020&mpid=120000506978&playurlVersion=WX-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=dfe00ffa00418f45ea1d29a949889898&ddCalcu=8d9fz8ey90c80z8f9f4a90a09421d81fa4e5&sv=10000&ct=www
-CP,https://lovespirng.my/live/n-3/chunks.m3u8
-
-LIV-SOU,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhtest05/51/20221027/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320131&pid=2028597139&timestamp=20250308224117&Channel_ID=0132_10010001005&ProgramID=949928437&ParentNodeID=-99&assertID=7510320131&client_ip=49.71.96.49&SecurityKey=20250308224117&promotionId=&mvid=7510159750&mcid=500020&mpid=120000507413&playurlVersion=WX-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=aa5e83c1ad6707323920460d95c59b8b&ddCalcu=ba8azb5y9ec58zc35c91da0d664700279332&sv=10000&ct=www
-LIV,https://lovespirng.my/live/n-1/chunks.m3u8
+NBA0309,#genre#
+07,http://gslbmgsplive.miguvideo.com/migu/sports/20220127/pcstation36/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510318921&pid=2029000104&timestamp=20250309083443&Channel_ID=0132_10010001005&ProgramID=949598039&ParentNodeID=-99&assertID=7510318921&client_ip=58.20.172.241&SecurityKey=20250309083443&promotionId=&mvid=7510159145&mcid=500020&mpid=120000532878&playurlVersion=WX-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=732c73460c7d23d68dc5b890af888aee&ddCalcu=e7e3za2y8cc87z83f4a6009c87bd52c3dd86&sv=10000&ct=www
 
 
-BAY-BOC,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid21/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320367&pid=2031000083&timestamp=20250308215044&Channel_ID=0132_10010001005&ProgramID=949937310&ParentNodeID=-99&assertID=7510320367&client_ip=36.97.123.70&SecurityKey=20250308215044&promotionId=&mvid=7510159868&mcid=500020&mpid=120000515779&playurlVersion=ZQ-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=53759d16d793df07cb8b3939b76fdb74&ddCalcu=4573zb7yd5cf9z6d71b69d379933bd8fb0c7&sv=10000&ct=www
-BAY,https://lovespirng.my/live/n-7/chunks.m3u8
-B04-BRE,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid23/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320393&pid=2028597139&timestamp=20250308215028&Channel_ID=0132_10010001005&ProgramID=949937637&ParentNodeID=-99&assertID=7510320393&client_ip=183.7.82.156&SecurityKey=20250308215028&promotionId=&mvid=7510159881&mcid=500020&mpid=120000515778&playurlVersion=WX-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=66e93235c3f2cef311fa433312083685&ddCalcu=5686z6ey39c83z0223153c333f42acfe1f13&sv=10000&ct=www
-B04,https://top1-cdnnew.koskoros.ru/top1-cdn/qILFpW9NfX/mono.m3u8
-CEL-LEG,https://bezamoshaver.sbs/live/2/chunks.m3u8#https://lqebiimanca.sbs/live/2/chunks.m3u8
-CEL,https://lovespirng.my/live/n-4/chunks.m3u8
 
-CEL咪,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation15/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320195&pid=2028597139&timestamp=20250308201022&Channel_ID=0132_10010001005&ProgramID=949935256&ParentNodeID=-99&assertID=7510320195&client_ip=112.42.29.144&SecurityKey=20250308201022&promotionId=&mvid=7510159782&mcid=500020&mpid=120000531003&playurlVersion=ZQ-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=11c6e4040194263d0ea69cb439dfd62c&ddCalcu=c121z6cyd6cfezd4903440b1c99462a6e30d&sv=10000&ct=www
-PAR-TOR,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation14/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320027&pid=2029000133&timestamp=20250308210535&Channel_ID=0132_10010001005&ProgramID=949927919&ParentNodeID=-99&assertID=7510320027&client_ip=240e:30d:1103:4010:6c37:d520:2be7:9958&SecurityKey=20250308210535&promotionId=&mvid=7510159698&mcid=500020&mpid=120000530683&playurlVersion=WX-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=b3c93a509a1bad44069883ddb2c2ff41&ddCalcu=1b43zfcyf9c23zca25b0d9da318b8a9d6404&sv=10000&ct=www
-COM-VEN,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation13/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510320013&pid=2028597139&timestamp=20250308210527&Channel_ID=0132_10010001005&ProgramID=949927780&ParentNodeID=-99&assertID=7510320013&client_ip=140.250.47.48&SecurityKey=20250308210527&promotionId=&mvid=7510159691&mcid=500020&mpid=120000530586&playurlVersion=WX-A1-8.2.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=6f6938e7d8e78b69fdf1f4373870220e&ddCalcu=e60fz26y29c03z788e377d384ef718fbd6f9&sv=10000&ct=www
+
+
+
+
+
+
+
+
+
+
+
 
 
 
