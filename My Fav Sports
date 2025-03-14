@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 ,NBA CCTV
-https://pull-l3-cny.douyincdn.com/live/stream-197423720230051409998.m3u8
-#EXTINF:-1 ,ARENA
-http://198.16.100.90:8278/tiankongarena/playlist.m3u8?tid=MF8F6120866661208666&ct=19249&tsum=b84c4a90d43bc91888b470966999c629
-#EXTINF:-1 ,ASS4
-http://iptvmedia.live:8080/F19591/d7d02309/157558       
