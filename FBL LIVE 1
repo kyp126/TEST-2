@@ -4,6 +4,10 @@
 LIVE,#genre#
 ARS-CHE,https://pepebong.online/live/1/chunks.m3u8
 ARS,https://jf6.dunyapurkaraja.com:999/hls/hubpremier1.m3u8?md5=AOfqn43sKwgwJZ3Bk-yXsQ&expires=1742137208
+
+FUL-TOT,https://pepebong.online/live/2/chunks.m3u8
+FUL,https://jf6.dunyapurkaraja.com:999/hls/hubpremier3.m3u8?md5=9WpsVbw8XDpnDTdmVNwF1w&expires=1742137308
+
 LEG-BET,https://livebroadcastpro.store/live/n-3/chunks.m3u8
 LEG1,https://jf5.dunyapurkaraja.com:999/hls/laligauk.m3u8?md5=EyMC57iLSceO3ufFPKVNwQ&expires=1742136688
 
