@@ -2,7 +2,7 @@
 
 
 LIVE,#genre#
-ARS-CHE,https://pepebong.online/live/1/chunks.m3u8
+ARS-CHE,https://storage.googleapis.com/besingerthv1/mux_video_ts/index-1.m3u8#https://pepebong.online/live/1/chunks.m3u8
 ARS,https://jf6.dunyapurkaraja.com:999/hls/hubpremier1.m3u8?md5=AOfqn43sKwgwJZ3Bk-yXsQ&expires=1742137208
 
 FUL-TOT,https://pepebong.online/live/2/chunks.m3u8
