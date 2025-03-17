@@ -211,6 +211,11 @@ CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?Gu
 
 
 
+小娘惹之翡翠山,#genre#
+01,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ngrd6ce3/v/21/pv/1/ev/33/flavorId/1_cwea3d6z/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+02,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_c8skzgzp/v/21/pv/1/ev/31/flavorId/1_bcg8vicp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+03,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_b3ltcl3o/v/21/pv/1/ev/30/flavorId/1_h2bbyzgy/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
 
 
 
@@ -309,7 +314,7 @@ CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?Gu
 
 
 
-小娘惹之翡翠山,#genre#
+小娘惹之翡翠山(sub),#genre#
 1,https://m3u8.heimuertv.com/play/74261396006542159fe5ca761689c315.m3u8
 2,https://m3u8.heimuertv.com/play/c7346bc1ecec4bf39b1d9ce1ccc42c2e.m3u8
 3,https://m3u8.heimuertv.com/play/1a99f47addcf4bb783ee15de6a9b04ab.m3u8
