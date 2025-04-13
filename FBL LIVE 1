@@ -1,14 +1,18 @@
 
-LIVE,#genre# 
-NFO-EVE,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation11/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332937&pid=2028597139&timestamp=20250412222742&Channel_ID=0132_10010001005&ProgramID=952022370&ParentNodeID=-99&assertID=7510332937&client_ip=27.18.169.228&SecurityKey=20250412222742&promotionId=&mvid=7510166153&mcid=500020&mpid=120000506924&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=ce76ac53e539e1f08ec8a8d3d463d3f0&ddCalcu=0cfez37yd6d3az6c45d33ed583a98ec1ef80&sv=10000&ct=www
-SOU-AVL,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation12/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332927&pid=2028597139&timestamp=20250412223241&Channel_ID=0132_10010001005&ProgramID=952022291&ParentNodeID=-99&assertID=7510332927&client_ip=183.200.134.249&SecurityKey=20250412223241&promotionId=&mvid=7510166148&mcid=500020&mpid=120000506928&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=c2ca02c659748fc5918bf1b1c38e52e6&ddCalcu=6ce2z2cy5ade0z823cc615b917f4b88f1c95&sv=10000&ct=www
-BHA-LEI,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid25/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332933&pid=2029000145&timestamp=20250412223249&Channel_ID=0132_10010001005&ProgramID=952022340&ParentNodeID=-99&assertID=7510332933&client_ip=27.211.113.243&SecurityKey=20250412223249&promotionId=&mvid=7510166151&mcid=500020&mpid=120000506943&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=8ac27edc94869a2ce7ee468ef8490df7&ddCalcu=78fazdcy02d97z4e8dfce9846846e9ea72ec&sv=10000&ct=www
+FMR 0413,#genre# 
+MOD0412,https://vd556.okcdn.ru/?expires=1744588872522&srcIp=119.234.50.119&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.66&type=4&sig=SqHhErCqCcE&ct=14&urls=185.226.53.59&clientType=0&zs=43&id=8079794637543
+ARS-BRE,https://ok6-14.vkuser.net:443/expires/1744589195922/srcIp/119.234.50.119/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/fAOxJc6sm0g/ct/8/urls/45.136.22.78%3B45.136.22.10/clientType/0/zs/43/id/8430756235823/video/
+LEG-BAR1,https://ok6-1.vkuser.net:443/expires/1744588945885/srcIp/119.234.50.119/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/yXWEMeK7mZs/ct/8/urls/45.136.21.48%3B45.136.22.26/clientType/0/zs/43/id/8430777338415/video/
+LEG-BAR2,https://ok6-7.vkuser.net:443/expires/1744588966267/srcIp/119.234.50.119/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/O9RwNBpc3n8/ct/8/urls/45.136.20.75%3B185.226.52.59/clientType/0/zs/43/id/8430796671535/video/
+BAY-DOR,https://rd23092vhmw5.cdn-centaurus.com/hls2/01/09536/wqamwoxao00w_n/master.m3u8?t=RqvpDKPXh8H3Us_DY4SaIHAPjHhhcFwM9PJCsF6YmUU&s=1744502915&e=129600&f=47685835&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=45143
+JUV-LEC1,https://wwwh6roxhouz.milocdn.com/hls2/01/04429/eonjf8nrfikq_o/master.m3u8?t=HZNCgEvbCwEqzX2KLQYlOL_LOMq-4NZRgMA1wXuxra8&s=1744502694&e=129600&f=22147817&srv=8uDWFm2DHd4waj&i=0.4&sp=500&p1=8uDWFm2DHd4waj&p2=8uDWFm2DHd4waj&asn=45143
+JUV-LEC2,https://d40ju9ljt5es.milocdn.com/hls2/01/04429/81auzwabl3nj_o/master.m3u8?t=cCBafETC9HoPZNYrysd69YL1FKGG13W9q5m_a10oMFo&s=1744502726&e=129600&f=22147813&srv=8uDWFm2DHd4waj&i=0.4&sp=500&p1=8uDWFm2DHd4waj&p2=8uDWFm2DHd4waj&asn=45143
+NFO-EVE,https://o2gpqh3yfguk.cdn-centaurus.com/hls2/01/09535/w83yxn07stmk_n/master.m3u8?t=qRrQ1lGipG8sE9ympATpVOs3Z8ylrE-1-yaSxbm76so&s=1744503002&e=129600&f=47678946&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=45143
+BHA-LEI1,https://ok6-13.vkuser.net:443/expires/1744589516124/srcIp/119.234.50.119/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.140/type/3/sig/v-Oohl7ummI/ct/8/urls/45.136.21.75%3B45.136.20.50/clientType/0/zs/43/id/8429757991471/video/ 
+BHA-LEI2,https://ok6-5.vkuser.net:443/expires/1744589537036/srcIp/119.234.50.119/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.132/type/3/sig/fwgiDampirY/ct/8/urls/45.136.20.29%3B185.226.53.61/clientType/0/zs/43/id/8429764413999/video/
 
 
 
-
-F1 Bahrain,https://secvonab2y4.sbs/folder/11
-F1 qualify,https://hafterliimna2.sbs/f1spring
 
 FMR0411 ,#genre# 
 LYO-MUN,https://ok6-4.vkuser.net:443/expires/1744415728602/srcIp/119.234.48.243/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.131/type/5/sig/wFrREOdlT3Y/ct/8/urls/45.136.21.32%3B45.136.20.55/clientType/0/zs/43/id/8420714678831/video/
