@@ -1,20 +1,9 @@
 
 
-LIVE,#genre# 
-F1 BAHRAIN,https://nohrelamn.sbs/image/f1
-Race 2,https://off1.dunyapurkaraja.com:1686/hls/skysfor1.m3u8?md5=CJYlaPBFrrWIlVYsVaU60w&expires=1744559459
-CHE-IPS,https://chareololman2.sbs/image/2
-CHE,https://sevonuiah38q.sbs/321oversport2
-CHE咪,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhtest04/51/20221027/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332907&pid=2029000131&timestamp=20250413203633&Channel_ID=0132_10010001005&ProgramID=952022087&ParentNodeID=-99&assertID=7510332907&client_ip=119.144.124.110&SecurityKey=20250413203633&promotionId=&mvid=7510166138&mcid=500020&mpid=120000506941&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=edff9d24d03102be926c073baddd7cab&ddCalcu=beadzcfy7fdd9zddd2a4bd307301c0622b9e&sv=10000&ct=www
-LIV咪,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhtest05/51/20221027/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332897&pid=2028597139&timestamp=20250413203642&Channel_ID=0132_10010001005&ProgramID=952022041&ParentNodeID=-99&assertID=7510332897&client_ip=60.17.161.212&SecurityKey=20250413203642&promotionId=&mvid=7510166133&mcid=500020&mpid=120000507463&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=d6e04fde37d15cb7eb103caec15ad291&ddCalcu=1d96z2eyd0da4z5f1dcee3a7cd31051cbbe7&sv=10000&ct=www
-LIV-WHU,https://sedomanb24.sbs/image/1
-LIV,https://hafterliimna2.sbs/321oversport21
-TOT咪,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhvivid22/51/20221109/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332917&pid=2028597139&timestamp=20250413203627&Channel_ID=0132_10010001005&ProgramID=952022198&ParentNodeID=-99&assertID=7510332917&client_ip=117.179.91.107&SecurityKey=20250413203627&promotionId=&mvid=7510166143&mcid=500020&mpid=120000506926&playurlVersion=ZQ-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=147eadefb47cc4daa5088240fef22a39&ddCalcu=9134za7y2ed2azfdeeff0b44278c8c045daa&sv=10000&ct=www
-WOL-TOT,https://yekcomanzba.sbs/image/3
-WOL,https://ovelulestrng.xyz/321oversport3
-ALA-RMA,http://gslbmgsplive.miguvideo.com/migu/sports/50zhenyhtest06/51/20221027/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332799&pid=2028597139&timestamp=20250413222646&Channel_ID=0132_10010001005&ProgramID=952021606&ParentNodeID=-99&assertID=7510332799&client_ip=1.193.75.58&SecurityKey=20250413222646&promotionId=&mvid=7510166084&mcid=500020&mpid=120000506952&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&puData=98c264239e83eebb50d67db34f9a7219&ddCalcu=9918z2cy72da6z94f24339bed8736ede0b5b&sv=10000&ct=www
-
-ATA-BOL,http://gslbmgsplive.miguvideo.com/migu/sports/20201215/pcstation14/51/index.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510332839&pid=2029000133&timestamp=20250413193051&Channel_ID=0132_10010001005&ProgramID=952021802&ParentNodeID=-99&assertID=7510332839&client_ip=171.41.129.92&SecurityKey=20250413193051&promotionId=&mvid=7510166104&mcid=500020&mpid=120000530924&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&puData=a4abd9e58c5766dc93b2cf84b1000635&ddCalcu=5a34z6ay0bd0dz091eb5488cf5c726b63d9c&sv=10000&ct=www
+FMR 0414,#genre# 
+MOD0413,https://ok6-7.vkuser.net/?expires=1744678262642&srcIp=111.65.57.196&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=3&sig=JMsKrOnZ9tE&ct=0&urls=45.136.22.11%3B185.226.55.56&clientType=0&zs=43&id=8463471020560
+NEW-MUN1,https://uokbs3ftcvlt.milocdn.com/hls2/01/04435/5mmh543d28nf_o/master.m3u8?t=-JYd5mCY_jb65Pz7j3yI0B4EZ9cs8fZGVih2qxqZa38&s=1744591963&e=129600&f=22178604&srv=LrEvBA7943L3&i=0.4&sp=500&p1=LrEvBA7943L3&p2=LrEvBA7943L3&asn=45143
+NEW-MUN2,https://jdou5wo6ffta.acek-cdn.com/hls2/01/04435/0mm8nmanhjjg_h/master.m3u8?t=ynvsMXZDLEPldYuMqddyo2d5PYdsR_fn6b2hKiFUgYs&s=1744592009&e=129600&f=22178605&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=45143
 
 
 
