@@ -262,6 +262,17 @@ Crimewatch 2025,#genre#
 
 
 LIVE,#genre#
+
+Channel 5 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+Astro Football,http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+Astro IQIYI,http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+Astro 欢喜台,http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 CCTV2财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
 
