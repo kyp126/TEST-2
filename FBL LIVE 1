@@ -4,7 +4,8 @@ BHA1,https://hashtyioman.sbs/time/2
 BHA2,https://off1.dunyapurkaraja.com:1686/hls/hubpremier2.m3u8?md5=sssJEaA9fdrDSSdhwi9Alw&expires=1745681933
 
 NEW-IPS,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation12/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510337929&pid=2028597139&timestamp=20250426212735&Channel_ID=0132_10010001005&ProgramID=952823970&ParentNodeID=-99&assertID=7510337929&client_ip=39.148.37.106&SecurityKey=20250426212735&promotionId=&mvid=7510168649&mcid=500020&mpid=120000506917&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=78bb4de262f41edf02140d4324fb691e&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de56b4956678fb0e1fe5ed91d6df5b45
-
+NEW1,https://hashtyioman.sbs/time/1
+NEW2,https://off1.dunyapurkaraja.com:1686/hls/hubpremier1.m3u8?md5=-H88Gk3Y3s9RTH1hgOCf0w&expires=1745682192
 SOU-FUL,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation13/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510337935&pid=2028597139&timestamp=20250426212756&Channel_ID=0132_10010001005&ProgramID=952824079&ParentNodeID=-99&assertID=7510337935&client_ip=171.41.149.97&SecurityKey=20250426212756&promotionId=&mvid=7510168652&mcid=500020&mpid=120000507324&playurlVersion=WX-A1-8.4.1-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=a2c7a72722080714c97193cf4b854ffd&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=36e64540ff32b893c3e796efafee26f6
 
 
