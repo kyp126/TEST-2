@@ -1,4 +1,10 @@
 
+FMR ,#genre# 
+BAR-INT Pre,https://ok6-6.vkuser.net:443/expires/1746142041975/srcIp/119.234.50.249/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/ssiL0wUBO9Y/ct/8/urls/185.226.55.11%3B45.136.21.18/clientType/0/zs/43/id/8161194216167/video/
+BAR-INT1,https://ok6-8.vkuser.net:443/expires/1746142078238/srcIp/119.234.50.249/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/5/sig/YT_2ODn94Ek/ct/8/urls/45.136.20.48%3B185.226.55.22/clientType/0/zs/43/id/8161203522279/video/
+BAR-INT2,https://ok6-13.vkuser.net/?expires=1746142103038&srcIp=119.234.50.249&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=4&sig=HUqaGafmvYA&ct=14&urls=45.136.21.32%3B45.136.20.27&clientType=0&zs=43&id=8161207847655
+
+
 FMR0430 ,#genre# 
 ARS PRE,https://ok6-2.vkuser.net/?expires=1746054508390&srcIp=119.234.37.37&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=5&sig=Mr33QrXOPSk&ct=0&urls=185.226.52.42%3B185.226.55.93&clientType=1&zs=43&id=8156902918887
 ARS-PSG1,https://ok6-7.vkuser.net/?expires=1746054615477&srcIp=119.234.37.37&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=4&sig=mzfmLOzlHP0&ct=14&urls=185.226.55.39%3B185.226.53.35&clientType=0&zs=43&id=8156919302887
@@ -33,22 +39,6 @@ CHE-EVE,https://ok6-13.vkuser.net:443/expires/1745798920206/srcIp/37.19.201.203/
 
 
 
-
-FMR0426 ,#genre# 
-VAN-MIA,https://ok6-14.vkuser.net/?expires=1745710952990&srcIp=37.19.201.233&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=5&sig=ztz_Dinipo0&ct=0&urls=185.226.52.43%3B185.226.55.22&clientType=1&zs=43&id=8256061377111
-
-
-FMR0425 ,#genre# 
-ATM-RAV,https://rnzt2t4xvku08.acek-cdn.com/hls2/01/04513/99hunbv8ccjb_h/master.m3u8?t=4A_Rvbzrt5RkFU_3Pem0IKK0w0Yik5FCKmGA4r04QKg&s=1745624959&e=129600&f=22567222&srv=pgnp5flcy8ev&i=0.4&sp=500&p1=pgnp5flcy8ev&p2=pgnp5flcy8ev&asn=45143
-
-
-
-FMR0424 ,#genre# 
-ARS-CP,https://ok6-7.vkuser.net:443/expires/1745711467193/srcIp/119.234.50.149/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/7hpq0DnMpdk/ct/8/urls/45.136.22.71%3B185.226.55.33/clientType/0/zs/43/id/8129559268071/video/
-
-https://vd348.okcdn.ru/?expires=1745539850224&srcIp=111.65.34.59&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.71&type=4&sig=qH8la079hig&ct=27&urls=185.226.55.33&clientType=0&zs=43&id=8129549437671
-INT-MIL,https://ok6-1.vkuser.net/?expires=1745539935254&srcIp=111.65.34.59&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=4&sig=koPQSYpnuNE&ct=14&urls=185.226.55.15%3B45.136.22.48&clientType=0&zs=43&id=8486382471727
-GET-RMA,https://ok6-6.vkuser.net:443/expires/1745553053214/srcIp/111.65.34.59/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/18c52NHeihU/ct/8/urls/185.226.55.41%3B45.136.21.52/clientType/0/zs/43/id/8129785760487/video/
 
 
 
