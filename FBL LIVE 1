@@ -1,7 +1,8 @@
 
 LIVE,#genre#
 CHE-LIV,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest05/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339533&pid=2029000131&timestamp=20250504225143&Channel_ID=0132_10010001005&ProgramID=953143650&ParentNodeID=-99&assertID=7510339533&client_ip=27.42.215.85&SecurityKey=20250504225143&promotionId=&mvid=7510169451&mcid=500020&mpid=120000507637&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=097b3f19e2fdfe6b63d83c126684439e&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=eb2834a0b6bcc86326637ff7219f6bb5
-
+CHE1,https://storage.googleapis.com/qwesadrtvwwq/mux_video_ts/index-1.m3u8
+CHE2,https://storage.googleapis.com/overtringsret1/mux_video_ts/index-1.m3u8
 
 
 BHA-NEW,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid26/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339475&pid=2029000131&timestamp=20250504200147&Channel_ID=0132_10010001005&ProgramID=953143270&ParentNodeID=-99&assertID=7510339475&client_ip=123.170.24.98&SecurityKey=20250504200147&promotionId=&mvid=7510169422&mcid=500020&mpid=120000507635&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=2d671781b403c032b7907e356a54367f&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=86b5e43f2f5a34d0b6a1b3c288c6e86a
