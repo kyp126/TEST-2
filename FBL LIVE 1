@@ -1,5 +1,15 @@
 
 LIVE,#genre#
+BHA-NEW,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhvivid26/51/20221109/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339475&pid=2029000131&timestamp=20250504200147&Channel_ID=0132_10010001005&ProgramID=953143270&ParentNodeID=-99&assertID=7510339475&client_ip=123.170.24.98&SecurityKey=20250504200147&promotionId=&mvid=7510169422&mcid=500020&mpid=120000507635&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=2d671781b403c032b7907e356a54367f&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=86b5e43f2f5a34d0b6a1b3c288c6e86a
+
+
+BRE-MUN,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest05/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339447&pid=2028597139&timestamp=20250504200131&Channel_ID=0132_10010001005&ProgramID=953143154&ParentNodeID=-99&assertID=7510339447&client_ip=2409:8a04:3314:4284::1001&SecurityKey=20250504200131&promotionId=&mvid=7510169408&mcid=500020&mpid=120000506911&playurlVersion=ZQ-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=0d0de2afa125e61f5aa6e99c3ccc9700&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d119e1ec2bb1cdeccacf8e575f0204fd
+
+
+WHU-TOT,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest04/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339491&pid=2028597139&timestamp=20250504200136&Channel_ID=0132_10010001005&ProgramID=953143407&ParentNodeID=-99&assertID=7510339491&client_ip=110.190.18.81&SecurityKey=20250504200136&promotionId=&mvid=7510169430&mcid=500020&mpid=120000507513&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=9b27e9c8940f641fdffb6b393d533849&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=44d8300d731c35c676ce47440d689f33
+
+
+
 
 
 EMP-LAZ,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation14/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339497&pid=2028597139&timestamp=20250504190051&Channel_ID=0132_10010001005&ProgramID=953143468&ParentNodeID=-99&assertID=7510339497&client_ip=117.69.173.151&SecurityKey=20250504190051&promotionId=&mvid=7510169433&mcid=500020&mpid=120000530901&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=7c190f8c7b683922713c938660ed1d6c&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4b40165ecc5009528a5f429e8d9f0ff3
