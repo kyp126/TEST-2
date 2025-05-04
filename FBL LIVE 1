@@ -2,8 +2,8 @@
 LIVE,#genre#
 EMP-LAZ,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation14/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339497&pid=2028597139&timestamp=20250504190051&Channel_ID=0132_10010001005&ProgramID=953143468&ParentNodeID=-99&assertID=7510339497&client_ip=117.69.173.151&SecurityKey=20250504190051&promotionId=&mvid=7510169433&mcid=500020&mpid=120000530901&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=7c190f8c7b683922713c938660ed1d6c&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4b40165ecc5009528a5f429e8d9f0ff3
 RMA-CEL,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest06/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510339375&pid=2029000133&timestamp=20250504190122&Channel_ID=0132_10010001005&ProgramID=953142924&ParentNodeID=-99&assertID=7510339375&client_ip=113.128.130.46&SecurityKey=20250504190122&promotionId=&mvid=7510169372&mcid=500020&mpid=120000507622&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=dfab554ad4f69d1f4ded0e3534050e9c&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2cca51cd1bd1e8405bc586d712d52724
-RMA,https://cdn-mx88s48htcje.vultrcdn.com/stalker_portal/4
-
+RMA1,https://cdn-mx88s48htcje.vultrcdn.com/stalker_portal/4
+RMA2,https://storage.googleapis.com/potrqwdcvgfew3/mux_video_ts1/index-1.m3u8
 
 
 
