@@ -1,5 +1,7 @@
 
 LIVE,#genre# 
+COM-CAG,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation14/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510340859&pid=2028597139&timestamp=20250510200144&Channel_ID=0132_10010001005&ProgramID=953487326&ParentNodeID=-99&assertID=7510340859&client_ip=180.126.113.185&SecurityKey=20250510200144&promotionId=&mvid=7510170114&mcid=500020&mpid=120000530579&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=029e8999f4ada2752d4d7767bfa10887&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3a6cdb7464c88d83b6183a638b6f8b02
+
 VAL-GET,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation16/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510340843&pid=2029000133&timestamp=20250510192625&Channel_ID=0132_10010001005&ProgramID=953487266&ParentNodeID=-99&assertID=7510340843&client_ip=60.189.182.204&SecurityKey=20250510192625&promotionId=&mvid=7510170106&mcid=500020&mpid=120000506914&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=280d48a4c8a54d821bf90c92cb0eb12a&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f540b622571fa790fd21c963bb829657
 
 
