@@ -280,7 +280,7 @@ Crimewatch 2025,#genre#
 
 
 
-LIVE,#genre#
+LIVE1,#genre#
 
 
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -324,6 +324,11 @@ CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?Gu
 05,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_09m0hpmn/v/11/pv/1/ev/23/flavorId/1_oln422xa/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 06,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qormrses/v/11/pv/1/ev/22/flavorId/1_kjzvqvvj/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 07,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_es7p9xyt/v/11/pv/1/ev/23/flavorId/1_pgnwsfcb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+8,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7kz7kwt0/v/11/pv/1/ev/23/flavorId/1_zq7682d0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+9,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_k3s71l6b/v/11/pv/1/ev/23/flavorId/1_pd05i984/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+10,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1cza8dvw/v/11/pv/1/ev/23/flavorId/1_pn6poqyw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+11,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8ztpqit3/v/11/pv/1/ev/23/flavorId/1_n622p0nr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+12,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3xf08q4k/v/11/pv/1/ev/23/flavorId/1_44zuwm6q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
@@ -373,37 +378,14 @@ CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?Gu
 
 
 
-小娘惹之翡翠山(sub),#genre#
-1,https://m3u8.heimuertv.com/play/74261396006542159fe5ca761689c315.m3u8
-2,https://m3u8.heimuertv.com/play/c7346bc1ecec4bf39b1d9ce1ccc42c2e.m3u8
-3,https://m3u8.heimuertv.com/play/1a99f47addcf4bb783ee15de6a9b04ab.m3u8
-4,https://m3u8.heimuertv.com/play/e91b01c93d8f4f95af07db74a338f4c6.m3u8
-5,https://m3u8.heimuertv.com/play/1dd2673f48ef42e5b02c9952900e33ee.m3u8
-6,https://m3u8.heimuertv.com/play/fb090250492c44eaad40e8ca7431286a.m3u8
-7,https://m3u8.heimuertv.com/play/3991b766cef24de58d56ef160e3c2386.m3u8
-8,https://m3u8.heimuertv.com/play/c18080397bb943a8ae1eaa7e03f227f8.m3u8
-9,https://m3u8.heimuertv.com/play/1ce0955c60dc4297ae913d05889bfc34.m3u8
-10,https://m3u8.heimuertv.com/play/2d26601807da4e1c8b3598cba680779c.m3u8
-11,https://m3u8.heimuertv.com/play/be9d7f2210f74d7682a9d4f5c0587eb8.m3u8
-12,https://m3u8.heimuertv.com/play/60b2a88a319d48f9834a7e9d0ae178c1.m3u8
-13,https://m3u8.heimuertv.com/play/49991308854a416bb4155303ad4f8e71.m3u8
-14,https://m3u8.heimuertv.com/play/f2ad4d437efe468193b0b204c4d6be9d.m3u8
-15,https://m3u8.heimuertv.com/play/6d679d1d503048a38f936fc5750d0c3a.m3u8
-16,https://m3u8.heimuertv.com/play/e7606f49252046b483c5fab07dd3c3a7.m3u8
-17,https://m3u8.heimuertv.com/play/c7c4b3b3284e4cb9a1474df376e35fd3.m3u8
-18,https://m3u8.heimuertv.com/play/1fe697e570ce4df9a3dc5f261ec07fe7.m3u8
-19,https://m3u8.heimuertv.com/play/d5c401174d114b37864fc01157616b6b.m3u8
-20,https://m3u8.heimuertv.com/play/03f87d356d1e4246bfda022bf45b7c85.m3u8
-21,https://m3u8.heimuertv.com/play/cda89444d55f4072b006d65be0b4cb99.m3u8
-22,https://m3u8.heimuertv.com/play/46cc5bcf5d2447f0998aff2c8697f5c7.m3u8
-23,https://m3u8.heimuertv.com/play/91572b582ee94b2b8189521026d6e586.m3u8
-24,https://m3u8.heimuertv.com/play/cbb9100ec4ff4d7993482fb4fbdc3eb5.m3u8
-25,https://m3u8.heimuertv.com/play/fa6aa91e4fd0458885c9f910025ee69f.m3u8
-26,https://m3u8.heimuertv.com/play/dcd96a3e02c145d4acca28cb852bd03f.m3u8
-27,https://m3u8.heimuertv.com/play/20eddd102c664b62988c7229c480d148.m3u8
-28,https://m3u8.heimuertv.com/play/e112a93561d64c129bac28e24d1c66ee.m3u8
-29,https://m3u8.heimuertv.com/play/a7feeb2287574f559099454c175cd625.m3u8
-30完,https://m3u8.heimuertv.com/play/97aa7bfa117e428fa79ceb2dd62bb5d2.m3u8
+
+
+
+
+
+
+
+
 
 
 
