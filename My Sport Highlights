@@ -1,4 +1,18 @@
 
+HL 0512,#genre# 
+BAR-RMA,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302521/720p.m3u8
+LIV-ARS,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302534/720p.m3u8
+MUN-WHU,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302512/720p.m3u8
+TOR-MIL,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302540/720p.m3u8
+NAP-GEN,https://mou6.dirgventures.net/UpFiles/2025/5/12/51/302549/720p.m3u8
+BET-OSA,https://mou6.dirgventures.net/UpFiles/2025/5/12/51/302548/720p.m3u8
+NEW-CHE,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302478/720p.m3u8
+B04-DOR,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302519/720p.m3u8
+TOT-CP,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302515/720p.m3u8
+NFO-LEI,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302507/720p.m3u8
+LEG-ESP,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302480/720p.m3u8
+ATB-ALA,https://mou6.dirgventures.net/UpFiles/2025/5/12/51/302546/720p.m3u8
+
 HL0511 ,#genre# 
 BAY-BMG,https://mou6.dirgventures.net/UpFiles/2025/5/10/51/302436/720p.m3u8
 ATM-RSO,https://mou6.dirgventures.net/UpFiles/2025/5/11/51/302454/720p.m3u8
@@ -54,22 +68,6 @@ RMA-CEL,https://cdn-cf-east.streamable.com/video/mp4/gi4dlv.mp4?Expires=17466309
 BRE-MUN,https://cdn-cf-east.streamable.com/video/mp4/yyques.mp4?Expires=1746636168887&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=f6hMcoK4jQwSkEEfzrz6i94UPDa9yVAsvUPAepqB7UBEDokpYnQgExhIHf6HrWKIHIKrvuuelzp4mneegGORhNIzgm71l0yLfTgzsGg9wD69Z3FrZUX9k4tMv2eM5ZifHLxqG2D~5wI0AmF8YO3LlMH6Md0n43l3MzlP4lTZwLqlbnE4Mm4-xdmHD~90fO4rX6buPNMKKrNRmbm7dtfoHOMPG7r~1kHqxnK7rPkcxASRkTkcYaOjOTh-YUA58pijOTXRmFyFw64LkeLs775khKejqNOQIu2ruNsi9ZSl~bjXwysfRN8gBL76hQCs34i-GbflrvL3-3Qd0Rrs-UuLog__
 WHU-TOT,https://cdn-cf-east.streamable.com/video/mp4/rc0az8.mp4?Expires=1746636146365&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=mm2AhNmnCqlMoOGRi8rlcP8znocpWsASVKV0z20hgxA4flzTQvoEm1BPIql5zej0x6lPL48UwHWi7lxqcminhymgzJmK7VcGQfT4AdKQsCi2Pt4nZHkL38eZHj4z2cCOdYaObXwtHOUiRS-~uSZYDB8Sb3IqEX7NJhpwnLSpNcMbVFwdnEcT8JhrPuRXFAQkVyacR3dyjjzzc6OvgLQ~dhXV1ttN8S6SN9nkJUB8jhisv9JBo-WJ2v~xzAV8VDOa0FluJ6P5pXPyuluJ4pQ8~WWl91Jgj0Rs8gfOd2ZK7axZ-JKZrVVO-4l08KC0Vjhujv5bNTJSYhdl7quGVyFUNg__
 BHA-NEW,https://cdn-cf-east.streamable.com/video/mp4/uvm9d5.mp4?Expires=1746628896684&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=MVcwXhPu8vFazvK7kO-ZMZN7EPBOnnpea~6vWxd5kt55aTaFv24HAUBs4hpmYZq8SabBuFmAukKiw2E1umMdiIXavKA4FFtX4RbvJ-lDYDuZ8j8JjkI7VoQ6OxIVeb70UA8MTkM5pRFje0bs~GGl-JXIkucxlIdyi3P-M2ih1CNdIV8LZ75mpRnWJEScJ5JEUUnewvzfoFQx7oNwWwz5f3-Y7ZA-zn~ag64hWYbcCuNyKOT9ZIxyU7Q6slzcrUMe6VXLa798NZFqN-BYdFptJSXYUO2pwtnQVxq2RuXjcuw6iwd4BX8DNmbFZ33GTDTpoUs1yRuYd7WMfiU8oruXWg__
-
-HL0504 ,#genre# 
-ARS-BOU,https://cdn-cf-east.streamable.com/video/mp4/hcocl4.mp4?Expires=1746556675790&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=k402W2uMWF1ixpoMxNjXtUJUpxO70qch4MchPkdwAjlgs5HPvM8VwVKerP29lMNTuCaGQSzU2EA6CbDhThaurOxWdZ3X22pZ0ISJsFK2BHUY-~G7L8qSGBXE5vG-9noODMpg29-XzujjnPA5SdVt8bPS0jdcWDF4t2QUptHfsppU9kyeopI8G5wI4V4VQDKaWCF6pZLr~UUDz95q99Q8B4BJkcN9V~SoIwvYyVfbYyMVaqtooVC5BVX3tvWPFXzXUcSIEQyimD15uTYuirdnj9nkVYrRBDtz~Gc-HK48Ls93GOOb2adpSIT~TVmUpWpQnRPmu-pe1qVosBp06jvRGw__
-LEI-SOU,https://cdn-cf-east.streamable.com/video/mp4/zmquv9.mp4?Expires=1746549700062&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=crpBaBTWeJJ7QqHBFF3yoc4wkQPrCoKKkxRww2ahZPdIv6qcIlXIuLRbN4xvVlwKgsW-y2WqxDzSMbriXWv6rLVUNR1IiP5YbbndU0LzgfT91uO6ttQHwvfDhELHvMLLK1qf-Ly~-7JYr9sUK67ndNgrGQvMmiptOHkBkhZk6Kppg60Q6IP1eWBME4~hnxMkS4-yelkoC28e0ABKaADJnrr2gCR1~ADAe6XRt~3nhJWjSErERYwfEN1j1zg-bsWkAww1YtUIAWTflI0XaApMu~Pacu4JPLEfysQHnhsNCQyEsanS7beimt0XBMYABzAQQv2akG3akogOQVtcYUZwtw__
-VAL-BAR,https://cdn-cf-east.streamable.com/video/mp4/9q8mn6.mp4?Expires=1746568403516&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=UkupE4BCf48rBnxvoKwaWy3SFEVdzQlTTZJfI4fODwc8ltM2JjPviMMmBC2VXMPc~Bc1bmYNqjZOS9RHixidfvlfhztlBcdUOC~qr2gB-ERUJEJkFvZUt-2JQr33wiuEZm6ysokAJBYc9p-QS6W-Iks6SM-Qypa-RN2scoPcMUyQCyaWL2ulqoJSQwHZ17oDcXWtfQTIn1C7N7vaF-9b-m589MMWQzxj6KiMvTGmQ-cQMwoB1V6JmZK1v9eG70~zTgQoJYUG9O0fSSVNi6pMIeWjyL7IpMSbjsSbdy8bMfq3lRam6y8lgQ9LW0q23ir516avrqUi8Cd4pAreR950Lg__
-EVE-IPS,https://cdn-cf-east.streamable.com/video/mp4/ohltd5.mp4?Expires=1746547584760&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=PlasKUV7QhIA7EHTiA1qwUadIP0iZTODkUEzlB491aDERnPliK4-WNmG~tTHiEejTLLSvUfRJcJVk80uzl~qFzDtxvwz80~KZxJjJ7dcb-fgwsCAkwrHGsyAeFq9q7TsqnZ9YrM5IxTk-tIbxgRELwx7K7FVSzO8j9YZYQIHbmvm~sIU2W-6BPfR5K4e3R4BGLsgXECWNsV~Fs2X6BLN1is0zm8kvwNo-IkNi39X6bq84bqHqCYqg31k5XZlBt7UHUwhsF4HJNt64KoNWY7ihlL8B7exST8dl3ryj-iCXsKk~3tz~u-xMhL~cj~hhy0Z1DL5EM~WdO0Nc7KM27I2YQ__
-AVL-FUL,https://cdn-cf-east.streamable.com/video/mp4/ficarq.mp4?Expires=1746549720330&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=EPz3aNsRrWoaJOHIlRqF9aSiWnIM7hgQnA-rMvLpNo2GTm8RpwX78nhjPybzlwJ2u86~UBbuONgDBqwI7wSB1iSh45fPirIhlvlQKqbFPNYFT7CSnDmg3e40IJzH6moB9ILy75JiNExRMLS1l90bH000FCnA7BEVbOdSaQUPY8ljvfy4lkzA9TVMUJ0V8H3rStYqTt3zfbajJRufv1jhTgntm5T24LBXrKm6~-RQ8s1tvJ2keEQARLB0h02cadrzkqiWhsoDCG9TKCGM64mXGB7L1LTzK8Ut2-XoqrU5SW9rXnGrlqS4kjiDI2Id4pVjWDPtIWv5t2bZmZDpu8Vclw__
-RBL-BAY,https://cdn-cf-east.streamable.com/video/mp4/1zya9s.mp4?Expires=1746558905925&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=MgxQnPW2E9YzbYoc6C8bhH7TSxOUlSQPEVifeUQtwFr4zM~9bo2NVEJNgXqfNVNk0jbd7tgLoda56S5qOWjl3-aQjb-VmZONCBvW3PdZb8PWraYTdQ8n2FS4Lg5B659F0Vb35cTGB2jD48eo6szarJQfGCGqaXHTQn6Sf2Osins0POgoNi842kOyBD22IduZmOxUUSo5W~wLeO8v2gYP9Rwo0cVyLNKCEdDHV8J0IQGOqm~9qDzXWvgWOG332shEwj9S8Vgs-GSbGGE~t9Cs~GaWWiqEzjMUtq~z91hJXHZE-Z5MJYpyzWWpJ7HRa2ASlPvEms62EPstOT7~NNH0mg__
-
-HL0503 ,#genre# 
-MCI-WOL,https://cdn-cf-east.streamable.com/video/mp4/v7t64q.mp4?Expires=1746479443808&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=XRrAjhCPw9E7~9PLp56mq9DL-V4QL5JOTVjWlPZ6omQ0Tl~x4l9hM269px7AqEx0wcxcQx62gx09LBWJ47PPMACK9YDfXJyDSAZhVkLh5fFpxF4u~b2hwALIfkp9CBDw9KaUfh0RmBAvMzbAGtx4Q6LoTe1mHWa4Zo~Z~wK-Z~eyWypYGDEwSK3nnrBhofoWwB07SLnQbZI3zQGYxfrNFUOh2rHoPnBHw~LdK~8S70AGYGaXd2xJrkL5kmC6i9QUJg0oySgYVMXz809cneJNv9FChr1eHEp0Q-fodUw0YoQ8OzCyUHpFUmC4NVf72Xf~ItubVRBrhK-CKdLV2bvtSw__
-
-
-
-
-
 
 
 
