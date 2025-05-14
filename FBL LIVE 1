@@ -284,6 +284,7 @@ LIVE1,#genre#
 
 CCTV1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV2,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+cctv5,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV5+,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
