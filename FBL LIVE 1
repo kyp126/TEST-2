@@ -1,5 +1,9 @@
 
 LIVE,#genre#
+CP-MC,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest05/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510342349&pid=2031000083&timestamp=20250517223724&Channel_ID=0132_10010001005&ProgramID=953764853&ParentNodeID=-99&assertID=7510342349&client_ip=125.68.13.125&SecurityKey=20250517223724&promotionId=&mvid=7510170859&mcid=500020&mpid=120000539421&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=d4d8f78be018e36402e0d246c687c9f7&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=93a9db06161406bc98ff70ea29ba3d4c
+
+
+
 TSG-BAY,http://hlszymgsplive.miguvideo.com:8080/migu/sports/2kvivid01/51/20230914/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510342443&pid=2031000083&timestamp=20250517210218&Channel_ID=0132_10010001005&ProgramID=953770645&ParentNodeID=-99&assertID=7510342443&client_ip=112.19.59.69&SecurityKey=20250517210218&promotionId=&mvid=7510170906&mcid=500020&mpid=120000515731&playurlVersion=ZQ-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=1&mtv_session=d743c5696f7ba55a8b256ab340831937&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=27810c022f49ad38a122968eed57603e
 TSG,https://feijing-xzbonlinepull.bszb.me/live/202_3625271_1.m3u8?txSecret=59093b899a83a0dc6985a49f3875e6cc&txTime=6828c7f8
 M05-B04,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20210224/pcstation19/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510342485&pid=2028597139&timestamp=20250517210653&Channel_ID=0132_10010001005&ProgramID=953771144&ParentNodeID=-99&assertID=7510342485&client_ip=42.53.162.252&SecurityKey=20250517210653&promotionId=&mvid=7510170927&mcid=500020&mpid=120000515728&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=9008b18ed73426e1bb416af88dbb5f69&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=30c118142970c20a7f4a36c69bac5cf8
@@ -11,9 +15,7 @@ DOR,https://feijing-xzbonlinepull.bszb.me/live/202_3625267_1.m3u8?txSecret=16e9a
 
 
 
-SG1,https://feijing-xzbonlinepull.bszb.me/live/202_3625186_1.m3u8?txSecret=947b1fe007f92cd8358fc99ca052042a&txTime=6828b760
-TH,https://feijing-xzbonlinepull.bszb.me/live/202_3657050_1.m3u8?txSecret=3ad0883c79efe20c77decbd85539ec3a&txTime=6828bd40
-Show,https://9uplay.oss-cn-guangzhou.aliyuncs.com/BEST%20Premier%20League%20Goals%20From%202023%20Ft.%20Garnacho%2C%20Haaland%20%20Salah.mp4
+
 
 
 
