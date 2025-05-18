@@ -1,15 +1,10 @@
 
-LIVE,#genre# 
-ARS-NEW,http://hlszymgsplive.miguvideo.com:8080/migu/sports/50zhenyhtest05/51/20221027/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510342493&pid=2028597139&timestamp=20250518224603&Channel_ID=0132_10010001005&ProgramID=953771164&ParentNodeID=-99&assertID=7510342493&client_ip=101.81.78.185&SecurityKey=20250518224603&promotionId=&mvid=7510170931&mcid=500020&mpid=120000506900&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=6a97837c93008ce4054d4dad8aa289d1&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=173396261f401b154fb673896aeae057
-ARS ENG1,https://davazderoosna.sbs/automatically/1
-ARS2,https://feijing-xzbonlinepull.bszb.me/live/202_3627633_1.m3u8?txSecret=a4a2d7c8e0479577dcbaa601ea958956&txTime=682a35a2
+FMR0519 ,#genre# 
+BAR-VLL1,https://ok6-12.vkuser.net/?expires=1747696730731&srcIp=138.199.46.187&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=5&sig=l3srxzmquAs&ct=0&urls=185.226.55.34%3B185.226.53.62&clientType=1&zs=43&id=8605125642799
+BAR-VLL2,https://ok6-5.vkuser.net/?expires=1747696777715&srcIp=138.199.46.187&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=5&sig=2Z8DT0iMqXM&ct=0&urls=185.226.53.10%3B45.136.22.8&clientType=1&zs=43&id=8605132655151
+SEV-RMA,https://ok6-15.vkuser.net/?expires=1747697007165&srcIp=138.199.46.187&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.142&type=3&sig=a8xDO9zSCZU&ct=0&urls=45.136.20.32%3B45.136.22.79&clientType=1&zs=43&id=8472207362797
+SEV,https://ok6-15.vkuser.net/expires/1747696937611/srcIp/138.199.46.187/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.142/type/3/sig/_6iRa8GDqVo/ct/8/urls/45.136.20.32%3B45.136.22.79/clientType/0/zs/43/id/8472207362797/video/
 
-BRE-FUL,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation12/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510342417&pid=2028597139&timestamp=20250518220615&Channel_ID=0132_10010001005&ProgramID=953770121&ParentNodeID=-99&assertID=7510342417&client_ip=171.41.151.90&SecurityKey=20250518220615&promotionId=&mvid=7510170893&mcid=500020&mpid=120000507641&playurlVersion=WX-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=f682b9c25c5c8d33b768ec5481f7b625&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f4835ddbb217a02fbdf933458c831c26
-BRE,https://hafterbqnz2.sbs/automatically/3
-BRE1,https://feijing-xzbonlinepull.bszb.me/live/202_3627484_1.m3u8?txSecret=b535825d0aae1330624a44a8b97290aa&txTime=682a23d7
-LEI-IPS,http://hlszymgsplive.miguvideo.com:8080/migu/sports/20201215/pcstation13/51/01.m3u8?msisdn=bd636653cb8c37f9b4039c99fa30f0fc&mdspid=&spid=800033&netType=0&sid=7510342475&pid=2028597139&timestamp=20250518220609&Channel_ID=0132_10010001005&ProgramID=953771097&ParentNodeID=-99&assertID=7510342475&client_ip=223.74.233.89&SecurityKey=20250518220609&promotionId=&mvid=7510170922&mcid=500020&mpid=120000507443&playurlVersion=ZQ-A1-8.4.2-RELEASE&userid=1518884832&jmhm=bd636653cb8c37f9b4039c99fa30f0fc&videocodec=h264&bean=mgspwww&tid=www&conFee=0&mtv_session=19ae42986639934395b81f54b6820894&sv=10000&ct=www&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ae5c68a917c35be20ecd4f41d5726669
-LEI1,https://feijing-xzbonlinepull.bszb.me/live/202_3627487_1.m3u8?txSecret=8a4d72f9c9e3370d013ffe786c5021a0&txTime=682a2093
-LEI2,https://nohenrir73.sbs/automatically/2
 
 
 
