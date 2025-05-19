@@ -1,6 +1,7 @@
 
-LIVE,#genre# 
-MIA-ORL,https://feijing-xzbonlinepull.bszb.me/live/202_3629268_1.m3u8?txSecret=f8395dc3bffe4fef9bd9b425c32f4b27&txTime=682ab364
+
+
+
 FMR0519 ,#genre# 
 MOD0518,https://ok6-14.vkuser.net/expires/1747700736395/srcIp/119.234.6.72/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/3/sig/BZryYEzK7Nk/ct/8/urls/185.226.55.42%3B185.226.53.76/clientType/0/zs/43/id/8239945353959/video/
 BAR-VLL1,https://ok6-12.vkuser.net/?expires=1747696730731&srcIp=138.199.46.187&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=5&sig=l3srxzmquAs&ct=0&urls=185.226.55.34%3B185.226.53.62&clientType=1&zs=43&id=8605125642799
@@ -364,6 +365,10 @@ CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?Gu
 10,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1cza8dvw/v/11/pv/1/ev/23/flavorId/1_pn6poqyw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 11,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8ztpqit3/v/11/pv/1/ev/23/flavorId/1_n622p0nr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 12,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3xf08q4k/v/11/pv/1/ev/23/flavorId/1_44zuwm6q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+13,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_botf986v/v/11/pv/1/ev/23/flavorId/1_7zmw4hb2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+14,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_52hoxiy5/v/11/pv/1/ev/23/flavorId/1_lpmyuz3l/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+15,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_o3o7ao5l/v/11/pv/1/ev/23/flavorId/1_g21u98vv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
 
 
 
