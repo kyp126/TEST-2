@@ -6,6 +6,10 @@ PAR-URU,https://feijing-xzbonlinepull.bszb.me/live/202_3657141_1.m3u8?txSecret=7
 ECU-BRA,https://feijing-xzbonlinepull.bszb.me/live/202_3657140_1.m3u8?txSecret=117e839b15b10de2995aa2af80383630&txTime=68425b80
 BRA,https://feijing-xzbonlinepull.bszb.me/live/202_3657140_2.m3u8?txSecret=fa546000a892fac0f3116cc7f5daec59&txTime=68425b80
 
+FMR0606 ,#genre# 
+SPA-FRA1,https://ok5-2.vkuser.net/?expires=1749252398918&srcIp=111.65.57.73&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.131&type=3&sig=6ivAv7vTQms&ct=0&urls=185.226.53.92%3B185.226.52.62&clientType=1&zs=11&id=8685753993775
+SPA-FRA2,https://ok5-3.vkuser.net/?expires=1749252477858&srcIp=111.65.68.68&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.132&type=3&sig=KowB1Iq2i1k&ct=0&urls=45.136.21.17%3B45.136.20.67&clientType=1&zs=11&id=8685757467183
+
 
 
 FMR0605 ,#genre# 
