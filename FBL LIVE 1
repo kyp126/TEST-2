@@ -1,8 +1,8 @@
 
 LIVE,#genre# 
 GER-FRA,https://doretimanz2.sbs/automatically/1
-GER,https://feijing-xzbonlinepull.bszb.me/live/202_3713430_1.m3u8?txSecret=60174e3c2410510cdca6b30d5d94a47b&txTime=6845c217
-
+GER1,https://feijing-xzbonlinepull.bszb.me/live/202_3713430_1.m3u8?txSecret=60174e3c2410510cdca6b30d5d94a47b&txTime=6845c217
+GER2,https://feijing-xzbonlinepull.bszb.me/live/202_3713430_4.m3u8?txSecret=be939075e9e59009132bd918ad52ab4e&txTime=6845c2ff
 
 FMR0608 ,#genre# 
 AND-ENG,https://ok6-10.vkuser.net/?expires=1749432002853&srcIp=124.246.121.205&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=3&sig=DVGgrWwk5aA&ct=0&urls=45.136.20.49%3B45.136.22.70&clientType=1&zs=43&id=8561357032173
