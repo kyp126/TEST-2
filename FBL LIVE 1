@@ -6,7 +6,10 @@ LIVE,#genre#
 TRI-HAI,https://v4-14769ccad573a2388a716f2ade587c96.livehwc4.com/pull.chaojiumq.com/live/sd-1-4340929.m3u8?txTime=68549342&user_session_id=387b076c3a0e3fe03687a19ede9f8b44&sub_m3u8=true&edge_slice=true&txSecret=3b2baa9a59d671f17a08a3a95c06413a
 
 
+FMR0620,#genre#
+MIA-POR,https://vd252.okcdn.ru/?expires=1750464378433&srcIp=119.234.52.115&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.53&type=4&sig=wyaUnEp4J3A&ct=27&urls=185.226.52.22&clientType=0&zs=11%3B43&id=8509804055127
 
+AIN-JUV,https://ok5-1.vkuser.net/expires/1750464460516/srcIp/119.234.52.115/pr/10/srcAg/CHROME_ANDROID/ms/95.142.202.130/type/5/sig/PjMirH9pvMs/ct/8/urls/185.226.53.76%3B185.226.55.33/clientType/0/zs/11/id/8372573833926/video/
 
 FMR0619,#genre#
 MCI-WAC,https://ok5-1.vkuser.net/?expires=1750375359948&srcIp=111.65.35.87&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.130&type=5&sig=eIeeEszJyjM&ct=0&urls=45.136.22.45%3B185.226.52.81&clientType=1&zs=11&id=8505201723991
@@ -31,26 +34,7 @@ BAY-AUC,https://ok5-1.vkuser.net/?expires=1750120525153&srcIp=111.65.46.85&pr=10
 AHLY-MIA,https://ok6-15.vkuser.net/?expires=1750120864859&srcIp=111.65.46.85&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.142&type=3&sig=LVUS_84wG7w&ct=0&urls=185.226.53.73%3B45.136.22.44&clientType=1&zs=11%3B43&id=8729702763055
 
 
-FMR0611 ,#genre# 
-NEW-UKR1,https://h8kdvklqo9xyeo7.acek-cdn.com/hls2/01/05303/4vr04n5dped3_h/index-v1-a1.m3u8?t=zrmFzhIkdQ0EsuLLDtItRBVDWtfLvE-n8IwLzXz5wes&s=1749637382&e=129600&f=26515650&srv=rtlcORIeSmi8&i=0.4&sp=500&p1=rtlcORIeSmi8&p2=rtlcORIeSmi8&asn=4773
-ENG-SEN1,https://h8kdvklqo9xyeo7.acek-cdn.com/hls2/01/05302/5ory3gbxmwkf_h/index-v1-a1.m3u8?t=S1n__GfHNEtQUtVl8dGcsS-EbDu7JzdQNQFessj2qAw&s=1749637448&e=129600&f=26514440&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=4773
-NED-MAL1,https://h8kdvklqo9xyeo7.acek-cdn.com/hls2/01/05303/rnsra9e11pf1_h/index-v1-a1.m3u8?t=KtASaQtgQ3VsYv5S3RGqjJUZKVaHuQ6OOQoC20YQE7Y&s=1749637535&e=129600&f=26515241&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=4773
 
-
-ENG-SEN,https://h8kdvklqo9xyeo7.acek-cdn.com/hls2/01/05302/5ory3gbxmwkf_h/master.m3u8?t=pnwDvcR4N4raZIGAOyX1P6vz0f9H3ec6j72_fBlVrWg&s=1749597724&e=129600&f=26514440&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=45143
-NEW-UKR,https://wt4pjiive9agjpl.ovaltinecdn.com/hls2/01/05303/4vr04n5dped3_o/master.m3u8?t=xw41NaEQw3cS2-3U0V9kFWmoJtNy3D5JwpUTWODM91A&s=1749601100&e=129600&f=26515650&srv=A9v5esHQJSfP&i=0.4&sp=500&p1=A9v5esHQJSfP&p2=A9v5esHQJSfP&asn=45143
-NED-MAL,https://dtpifobpdokcgwc.ovaltinecdn.com/hls2/01/05303/rnsra9e11pf1_h/master.m3u8?t=nH4wJJEso9anQmHQv6drJUnkhc95yaUMQRQNegE1wPs&s=1749601137&e=129600&f=26515241&srv=VwlS53wHPhIM&i=0.4&sp=500&p1=VwlS53wHPhIM&p2=VwlS53wHPhIM&asn=45143
-
-
-
-FMR0610 ,#genre# 
-BEL-WAL,https://goqp5vk8ekuqh.ovaltinecdn.com/hls2/01/05298/q07scqvh2y3m_h/master.m3u8?t=Oi-BylDFrAfoyyHxNdQTGKh9q2MgfoTTBxXqu3NVyv8&s=1749511628&e=129600&f=26491176&srv=hw7WJ7ieWwRb&i=0.4&sp=500&p1=hw7WJ7ieWwRb&p2=hw7WJ7ieWwRb&asn=45143
-CRO-CZE,https://wt4pjiive9agjpl.ovaltinecdn.com/hls2/01/05297/d20uqkvrlrxc_h/master.m3u8?t=-zo4Ar4uJgVGOBF6TIXxa-emTs0hwkpdlE8PoC1QwuM&s=1749511697&e=129600&f=26489902&srv=IunrxA0lc1U9&i=0.4&sp=500&p1=IunrxA0lc1U9&p2=IunrxA0lc1U9&asn=45143
-ITA-MOL,https://jdevchpxbgc6.cdn-centaurus.com/hls2/01/10600/knc2bzwzwr4g_o/iframes-v1-a1.m3u8?t=yHXltH1OzOw0E8bEOlOBPWPfN6bqgq0sSdB55xHPdCE&s=1749525341&e=129600&f=53003666&srv=45werjjfgdjkj&i=0.4&sp=500&p1=45werjjfgdjkj&p2=45werjjfgdjkj&asn=45143
-UAE-UZB,https://v.lz15uu.com/20250606/3957_2bf8d3d3/2000k/hls/mixed.m3u8
-OMA-JOR,https://v.lz15uu.com/20250606/3956_50acb004/2000k/hls/mixed.m3u8
-IDN-CHN,https://v.lz15uu.com/20250606/3965_a68706e0/2000k/hls/mixed.m3u8
-KUW-PLE,https://v.lz15uu.com/20250606/3964_6b43ab43/2000k/hls/mixed.m3u8
 
 
 
