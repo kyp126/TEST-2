@@ -178,6 +178,12 @@ AIN-JUV,https://ok5-1.vkuser.net/expires/1750464460516/srcIp/119.234.52.115/pr/1
 
 
 CCTV,#genre#
+CCTV1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV2,http://58.19.38.162:9901/tsfile/live/0002_1.m3u8
+CCTV5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8
+CCTV5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8
+
 CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV5,http://123.130.84.106:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路169』
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
