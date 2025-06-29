@@ -1,9 +1,10 @@
 
-AUSTRIA F1,#genre#
-RACE1,https://m1.merichunidya.com:999/hls/skysfor1.m3u8?md5=eBpedWGD-fG_Mktl1rto1w&expires=1751208617
-RACE,https://top1-cdnnew.newkso.ru/top1-cdn/sI6chi32Fy/mono.m3u8
+LIVE,#genre#
+USA-CRC,https://hls.uouetrq19.com/live/sd-6MuT7eXiLBjqfbwCQo.m3u8?txSecret=b8e667cd9426da3fd298c17396a4a8c9&txTime=6863179A
 
-https://foz.foreverquote.site/h10/tracks-v1a1/mono.m3u8
+
+
+
 
 
 EURO U21 FINAL,#genre#
