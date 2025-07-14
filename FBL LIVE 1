@@ -1,4 +1,6 @@
 
+LIVE,#genre#
+NBA,https://v4-6d0674772011a976fb80c0bf6c1ab307.livehwc4.com/pull.chaojiumq.com/live/hd-en-2-3857134.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=304d6966727874ab6a6892ad120470ed&txTime=687441ce&txSecret=ea40329884a6b884f1df6def0773aa5c
 
 FMR0714,#genre#
 CHE-PSG,https://ok5-4.vkuser.net/?expires=1752535101252&srcIp=119.234.48.93&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.133&type=3&sig=5D9g7opMS8s&ct=0&urls=45.136.20.27%3B185.226.53.86&clientType=1&zs=11&id=8856804198959
@@ -33,23 +35,6 @@ MCI-HIL,https://ok5-1.vkuser.net/?expires=1751436348104&srcIp=111.65.35.214&pr=1
 INT-FLU,https://ok5-1.vkuser.net/?expires=1751411845015&srcIp=119.234.6.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.130&type=5&sig=erb81KMA2RA&ct=0&urls=185.226.55.55%3B45.136.22.48&clientType=1&zs=11&id=8555415013975
 
 
-
-FMR0630,#genre#
-PSG-MIA,https://ok5-4.vkuser.net/?expires=1751328431821&srcIp=119.234.16.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.133&type=5&sig=y07ix23kMh4&ct=0&urls=185.226.55.27%3B185.226.53.14&clientType=1&zs=11&id=8550828608087
-FLA-BAY,https://ok5-2.vkuser.net/?expires=1751328527662&srcIp=119.234.16.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.131&type=5&sig=K8Bb-alBWDE&ct=0&urls=45.136.20.13%3B185.226.53.43&clientType=1&zs=11&id=8551342475863
-BAY,https://pixeldrain.com/api/file/hxobGxx1?download
-
-EURO U21 FINAL,#genre#
-ENG-GER(trophy),https://vd506.okcdn.ru/?expires=1751268147202&srcIp=101.78.88.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.16&type=4&sig=AOTeVYiNr0k&ct=27&urls=185.226.53.14&clientType=0&zs=11%3B43&id=8651426433773
-
-
-SQ GAME S03,#genre#
-1,https://m3u8.heimuertv.com/play/fad3ea3fded5483fb1c7e70fbda12bee.m3u8
-2,https://m3u8.heimuertv.com/play/47a885e2528246dd9b5c8150da57b81a.m3u8
-3,https://m3u8.heimuertv.com/play/28b10bdcb088490bba4bad44b10d68ae.m3u8
-4,https://m3u8.heimuertv.com/play/da3914c7ec2b4fcbbd78b86a991ca60e.m3u8
-5,https://m3u8.heimuertv.com/play/774d06f23bd24e32a14d8fd492ae39c5.m3u8
-6,https://m3u8.heimuertv.com/play/83804b10a0e04bd6a1e426792961749a.m3u8
 
 
 
