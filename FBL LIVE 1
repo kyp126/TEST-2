@@ -1,9 +1,6 @@
 
 LIVE,#genre#
-NBA1,https://tfng4gr5dgmttgha1hcto8yzdep3pqb4sa5dzqcssqh5df3w8o4mq8rho.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59246158-saturn-wsu/playlist.m3u8?wsSecret=cf20b992ff464397d07e5d195414d02b&wsABSTime=687715ec&wsSession=9f5d722131fc257d87f0edfa-175262123463816&wsIPSercert=6fb8319b21a8b0bdb2325aa2e9d0610a&wsiphost=local&wsBindIP=1
-NBA2,https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc4.com/pull.chaojiumq.com/live/hd-en-2-3857151.m3u8?txSecret=34795d78fec07c5cc9f84f8a61fff940&edge_slice=true&sub_m3u8=true&user_session_id=b3da326fcb5038a988fbe522c9f32dde&txTime=6876d6be
-NBA3,https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/pull.chaojiumq.com/live/hd-en-2-3857129.m3u8?txSecret=66d9fa86f4132fbc4010f672edc6b6ad&user_session_id=548eee82eb6ef735ce03ff165d6bc3c0&edge_slice=true&sub_m3u8=true&txTime=6876eb9a
-NBA4,https://v4-cf1562f0ea51ea2156ea2404601a15de.livehwc4.com/pull.chaojiumq.com/live/hd-en-2-3857162.m3u8?user_session_id=f9f98855394bb43d62201d2b4aa2d987&sub_m3u8=true&edge_slice=true&txTime=6876f2de&txSecret=8b53c8a95e042b7b1078749ac453a5e5
+NBA,http://txycdn.video.qq.com/1772604102.m3u8?time=1752712284&from=player&cdn=tcloud&sdtfrom=v1000402212&platform=10201&butype=2&HLSP2P=1&vkey=6E9113A15F863AFBCC86A3610957A245A33293CF1276A15E3D39C5F98FFF1DD1D2C39772D671CF60B34B6CB4D50C46EF74B67C094EF922404DA57A7388CE84E2383C4A7D5F6895C1F0D8DE06889D6D67C18A61A09360717FF0467E7F32D79181&drmtype=0
 
 FMR0714,#genre#
 CHE-PSG,https://ok5-4.vkuser.net/?expires=1752535101252&srcIp=119.234.48.93&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.133&type=3&sig=5D9g7opMS8s&ct=0&urls=45.136.20.27%3B185.226.53.86&clientType=1&zs=11&id=8856804198959
