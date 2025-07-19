@@ -1,6 +1,9 @@
 
 LIVE,#genre#
-NBA,http://txycdn.video.qq.com/1772604102.m3u8?time=1752712284&from=player&cdn=tcloud&sdtfrom=v1000402212&platform=10201&butype=2&HLSP2P=1&vkey=6E9113A15F863AFBCC86A3610957A245A33293CF1276A15E3D39C5F98FFF1DD1D2C39772D671CF60B34B6CB4D50C46EF74B67C094EF922404DA57A7388CE84E2383C4A7D5F6895C1F0D8DE06889D6D67C18A61A09360717FF0467E7F32D79181&drmtype=0
+NBA1,https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/hls.yjjcfw.com/live/956345965.m3u8?hwSecret=a2cebba927aaa077c6b4bdd75092a5833f89ba1ca4526ad7c11509b87661ec4c&user_session_id=6eb6a3faed38638be1e69ccd04a72052&sub_m3u8=true&edge_slice=true&hwTime=687AEBE0
+
+
+
 
 FMR0714,#genre#
 CHE-PSG,https://ok5-4.vkuser.net/?expires=1752535101252&srcIp=119.234.48.93&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.133&type=3&sig=5D9g7opMS8s&ct=0&urls=45.136.20.27%3B185.226.53.86&clientType=1&zs=11&id=8856804198959
@@ -22,17 +25,6 @@ PSG-BAY,https://ok6-12.vkuser.net/?expires=1751848790534&srcIp=124.246.93.14&pr=
 PAL-CHE,https://ok6-8.vkuser.net/?expires=1751848863704&srcIp=124.246.93.14&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=5&sig=LBWnb5V7Wp0&ct=0&urls=45.136.21.29%3B185.226.52.39&clientType=1&zs=43&id=8571713489495
 FLU-HIL,https://ok6-5.vkuser.net/?expires=1751848931229&srcIp=124.246.93.14&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=5&sig=5T0zdDv6Pyw&ct=0&urls=185.226.53.39%3B185.226.52.73&clientType=1&zs=43&id=8435944393414
 
-
-FMR0705,#genre#
-FLU-HIL,https://ok6-5.vkuser.net/?expires=1751765590340&srcIp=124.246.74.244&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=5&sig=g7vBTuT2O-E&ct=0&urls=185.226.52.73%3B185.226.53.39&clientType=1&zs=43&id=8435944393414
-FMR0702,#genre#
-DOR-MON,https://ok5-1.vkuser.net/?expires=1751535751493&srcIp=119.234.34.74&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.130&type=5&sig=vwWMjK2A-6s&ct=0&urls=45.136.22.70%3B185.226.53.61&clientType=1&zs=11&id=8559746550359
-RMA-JUV,https://ok5-3.vkuser.net/?expires=1751498384776&srcIp=111.65.46.46&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.132&type=5&sig=csLBs-aqXaY&ct=0&urls=185.226.53.32%3B185.226.52.83&clientType=1&zs=11&id=8559420770903
-
-
-FMR0701,#genre#
-MCI-HIL,https://ok5-1.vkuser.net/?expires=1751436348104&srcIp=111.65.35.214&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.130&type=5&sig=dNvjelM7FeM&ct=0&urls=185.226.53.76%3B45.136.20.42&clientType=1&zs=11&id=8555901618775
-INT-FLU,https://ok5-1.vkuser.net/?expires=1751411845015&srcIp=119.234.6.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.202.130&type=5&sig=erb81KMA2RA&ct=0&urls=185.226.55.55%3B45.136.22.48&clientType=1&zs=11&id=8555415013975
 
 
 
