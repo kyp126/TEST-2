@@ -1,12 +1,6 @@
 
-FMR0719,#genre#
-
-MUN-LEE,https://ok6-10.vkuser.net/?expires=1753402492588&srcIp=111.65.69.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=5&sig=SkLBLZE3YsY&ct=0&urls=185.226.55.54%3B45.136.20.23&clientType=1&zs=11%3B43&id=8629935934039
-CEL-NEW,https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/05726/db914ogvdn2m_h/index-v1-a1.m3u8?t=dXLzlXyusZsOdcYl84MHepDEEGmN5ue7qAXKDFzvbFI&s=1753316169&e=129600&f=28631049&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=45143
-RED-TOT,https://6dkdxt1udlqhbho.ovaltinecdn.com/hls2/01/05726/r5y0bezurott_h/index-v1-a1.m3u8?t=7sBqhgwDA8MiAgDOeQHphBtPJ8uRrTCxbbF1_F1m9uw&s=1753316280&e=129600&f=28630976&srv=Sk5m2v7Qct4h&i=0.4&sp=500&p1=Sk5m2v7Qct4h&p2=Sk5m2v7Qct4h&asn=45143
-
-
 LIVE,#genre#
+F1 BEL,https://sevoomanz.sbs/trendfriendly/f1
 TEST1,https://v13.qrssv.com/202506/14/t5TvPeSmx721/video/index.m3u8
 ASTRo4kAKtv,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 ASTRO体AKtv,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
@@ -21,6 +15,16 @@ channel5AKtv,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 channel8AKtv,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 八度空间AKtv,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 国家地理AKtv,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+
+
+FMR0719,#genre#
+
+MUN-LEE,https://ok6-10.vkuser.net/?expires=1753402492588&srcIp=111.65.69.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=5&sig=SkLBLZE3YsY&ct=0&urls=185.226.55.54%3B45.136.20.23&clientType=1&zs=11%3B43&id=8629935934039
+CEL-NEW,https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/05726/db914ogvdn2m_h/index-v1-a1.m3u8?t=dXLzlXyusZsOdcYl84MHepDEEGmN5ue7qAXKDFzvbFI&s=1753316169&e=129600&f=28631049&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=45143
+RED-TOT,https://6dkdxt1udlqhbho.ovaltinecdn.com/hls2/01/05726/r5y0bezurott_h/index-v1-a1.m3u8?t=7sBqhgwDA8MiAgDOeQHphBtPJ8uRrTCxbbF1_F1m9uw&s=1753316280&e=129600&f=28630976&srv=Sk5m2v7Qct4h&i=0.4&sp=500&p1=Sk5m2v7Qct4h&p2=Sk5m2v7Qct4h&asn=45143
+
+
+
 
 
 
