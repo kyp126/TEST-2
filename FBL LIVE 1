@@ -167,6 +167,7 @@ CCTV2a,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
 CCTV3,https://live.sxrtv.com/iptv/cctv3.flv
 CCTV4,https://live.sxrtv.com/iptv/cctv4.flv
+CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV5,https://live.sxrtv.com/iptv/cctv5.flv
 CCTV5+,https://live.sxrtv.com/iptv/cctv5p.flv
 CCTV6,https://live.sxrtv.com/iptv/cctv6.flv
