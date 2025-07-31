@@ -4,7 +4,8 @@ LIVE,#genre#
 ARS-TOT,https://haftezoopmneaa2.sbs/trendfriendly/1
 
 SEOUL-BAR,https://doretimanz2.sbs/trendfriendly/2
-BAR,https://pl10.chinefore.com/live/5f2202d1a14cb225.m3u8?txSecret=e2e1ba63ff1c4eedfcb68d8bbc139c41&txTime=688B4BFD
+BAR,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+
 
 
 
@@ -19,6 +20,7 @@ LIVE4,https://shishnebiza.sbs/trendfriendly/4
 TEST1,https://v13.qrssv.com/202506/14/t5TvPeSmx721/video/index.m3u8
 ASTRo4kAKtv,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 ASTRO体AKtv,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+
 Euro_体1AKtv,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
 Euro_体2AKtv,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 TNT_体1AKtv,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
