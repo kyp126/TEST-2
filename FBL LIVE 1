@@ -180,7 +180,8 @@ RED-TOT,https://6dkdxt1udlqhbho.ovaltinecdn.com/hls2/01/05726/r5y0bezurott_h/ind
 
 
 
-CCTV07,#genre#
+CCTV08,#genre#
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV2b,CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV2a,CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
