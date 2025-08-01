@@ -190,6 +190,7 @@ CCTV2a,CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/32212267
 CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
 CCTV3,https://live.sxrtv.com/iptv/cctv3.flv
 CCTV4,https://live.sxrtv.com/iptv/cctv4.flv
+CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
