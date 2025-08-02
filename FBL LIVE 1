@@ -373,59 +373,26 @@ Crimewatch 2025,#genre#
 
 
 
-LIVE1,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-
-CCTV1,http://112.46.105.20:8009/hls/501/index.m3u8
-CCTV2,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-cctv5,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
-CCTV5+,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV2财经,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
-CCTV3综艺,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
-
-
-CCTV5体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-CCTV5+体育赛事,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
-
-
-CCTV-05IJK,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476886.m3u8
-CCTV-5+IJK,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476889.m3u8
-
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
-翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8 
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-凤凰中文,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8 
-凤凰资讯,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8 
-凤凰香港,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8 
-凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx 
-凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw 
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8 
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8 
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CC5+ IPV6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-篮球,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-晴彩体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-精品,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-
-
-
+Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
+Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002
+Now星影,http://hkenlive.uk/livehttpplay?channel_id=13003
+Now英超粤语,http://hkenlive.uk/livehttpplay?channel_id=13007
+Now英超直壹,http://hkenlive.uk/livehttpplay?channel_id=13011
+Now英超直贰,http://hkenlive.uk/livehttpplay?channel_id=13012
+Now英超直叁,http://hkenlive.uk/livehttpplay?channel_id=13008
+Now英超直肆,http://hkenlive.uk/livehttpplay?channel_id=13009
+Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010
+Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025
+Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
+Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002
+Now星影,http://hkenlive.uk/livehttpplay?channel_id=13003
+Now英超粤语,http://hkenlive.uk/livehttpplay?channel_id=13007
+Now英超直壹,http://hkenlive.uk/livehttpplay?channel_id=13011
+Now英超直贰,http://hkenlive.uk/livehttpplay?channel_id=13012
+Now英超直叁,http://hkenlive.uk/livehttpplay?channel_id=13008
+Now英超直肆,http://hkenlive.uk/livehttpplay?channel_id=13009
+Now英超体壹,http://hkenlive.uk/livehttpplay?channel_id=13010
+Now英超体贰,http://hkenlive.uk/livehttpplay?channel_id=13025
 
 
 
