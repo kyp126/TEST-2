@@ -1,7 +1,7 @@
 
 
 LIVE,#genre#
-DAE-BAR,https://shikeaqben.sbs/string/xixsponksd2
+
 
 
 
@@ -28,6 +28,11 @@ channel5AKtv,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 channel8AKtv,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 八度空间AKtv,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 国家地理AKtv,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+
+FMR0805,#genre#
+LIV-ATH,https://vd409.okcdn.ru/?expires=1754437921805&srcIp=111.65.59.247&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.41&type=5&sig=vAVo8gxh0yw&ct=0&urls=185.226.55.56&clientType=1&id=8695054666327
+
+
 
 FMR0803,#genre#
 SPI-BEN,https://vd540.okcdn.ru/?expires=1754349290405&srcIp=111.65.44.218&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.50&type=5&sig=tgveeeGSckY&ct=0&urls=185.226.53.62&clientType=1&id=8679740410455
