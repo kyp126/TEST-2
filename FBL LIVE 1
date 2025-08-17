@@ -3,20 +3,6 @@
 
 
 LIVE,#genre#
-TOT-BUR,https://pomznebrosnaz.sbs/trendfriendly/3
-TOT1,https://legalhelpfast.pro/string/xixsponksd3
-TOT2,https://streameast247.com/playlist/stream_3.m3u8
-BHA-FUL,https://shibentonbaz.sbs/trendfriendly/1
-BHA,https://streameast247.com/playlist/stream_ch1.m3u8
-BHA1,https://legalhelpfast.pro/string/xixsponksd5
-SUN-WHU,https://yazdenkanz.sbs/trendfriendly/2
-SUN,https://streameast247.com/playlist/stream_2.m3u8
-SUN1,https://hafteruoopna.sbs/string/xixsponsksdd2
-AVL-NEW,https://nohveribazvaj.sbs/trendfriendly/1
-AVL1,https://d6.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=9qKc4DV_qOoAaMnRFf4kQw&expires=1755349095
-AVL2,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-AVL2,https://ovelulestrng.xyz/string/xixsponkdssdf1
-AVL2,https://sernewlearn.cfd/ch1/index.m3u8?token=eb5aa45b4f9bfd9d7743d00c528df733
 
 
 
@@ -44,6 +30,17 @@ channel5AKtv,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 channel8AKtv,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 八度空间AKtv,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 国家地理AKtv,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+
+
+FMR0817,#genre#
+WOL-MCI,https://vd279.okcdn.ru/?expires=1755477419105&srcIp=111.65.59.81&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.29&type=4&sig=nOoaQZrBkno&ct=27&urls=45.136.21.24&clientType=1&id=8746033810007
+MCI,https://vd162.okcdn.ru/expires/1755477669914/srcIp/119.234.10.184/pr/10/srcAg/CHROME_ANDROID/ms/45.136.21.9/type/5/sig/FHv5bHIJQqY/ct/8/urls/45.136.20.43/clientType/0/id/9000061766191/video/
+MAL-BAR,https://vd431.okcdn.ru/?expires=1755477507238&srcIp=119.234.10.184&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.28&type=5&sig=OlmMI2Lzap8&ct=0&urls=185.226.52.37&clientType=1&id=9000035879471
+BAR,https://vd287.okcdn.ru/?expires=1755477610004&srcIp=111.65.59.81&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.37&type=5&sig=jWDxe-qR3qA&ct=0&urls=45.136.22.48&clientType=1&id=9000035879471
+TOT-BUR,https://vd481.okcdn.ru/expires/1755477758518/srcIp/119.234.10.184/pr/10/srcAg/CHROME_ANDROID/ms/45.136.22.38/type/5/sig/D8WxbuuJgCM/ct/8/urls/185.226.55.47/clientType/0/id/8999024724527/video/
+AVL-NEW,https://vd480.okcdn.ru/expires/1755477820094/srcIp/111.65.59.81/pr/10/srcAg/CHROME_ANDROID/ms/45.136.22.37/type/5/sig/O8qnEIdPg7Q/ct/8/urls/185.226.55.59/clientType/0/id/8998447090223/video/
+
+
 
 FMR0816,#genre#
 LIV-BOU1,https://ok6-4.vkuser.net/?expires=1755391921274&srcIp=124.246.118.161&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=4&sig=_eJ1Kgsxd8Y&ct=14&urls=45.136.20.22%3B45.136.22.30&clientType=0&zs=43&id=8606946691782
