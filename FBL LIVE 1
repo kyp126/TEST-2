@@ -33,6 +33,13 @@ channel8AKtv,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 八度空间AKtv,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 国家地理AKtv,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 
+HL0819,#genre#
+LEE-EVE,https://cdn-cf-east.streamable.com/video/mp4/dp4hno.mp4?Expires=1755810273472&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=l01zonayoNuYtjKU-5OW3Y80ura9-AeQIlFRWSlbxzZk4gxIBRI0n24GECxBhxsKH0jCJtvQSpSGO77gE72o-u4f1cr8uwHVohRL~Gzlrz5RH0zQ4RYXmMJWVXeE7HWTlCMtPn~zQj~uZ5eWHdjyIkhajcKK-M8QMEh4jvFNj6B1o6P24FfVQfjyztdB9Ou51BkrVlX3hftcR0etyQUiG~kexrhAzF0YaQA53K5yaE-nKasf2Z2UTiD0brncWZDSnCSkStBPDiz-zfRiYoXjZCXN~gsmx4-Zqk5tLPr9y5vIrvv-kjB-Az3t3ypqEo1s1tZp3mAKP4mcqu6QDd7nAQ__
+ESS-DOR,https://cdn-cf-east.streamable.com/video/mp4/mqrnmo.mp4?Expires=1755811674465&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=EaXQ29M1QUfegTcExtaye2jRfxjxlnNv5RZd9FjzKqNf6aOunLF-CBkAg656WUmbubsUybOMEUkxMj53SwaCGNfKejQSddU-l9EQoiBf4aDwbqn4rGLWzrLJxZf8FxJE3zdLMz2qT3uzvz33wgGTpJobvMHqvQh4wGJmqdeeBMkEH8P7kEGIhTGy3ss93LRAgSgsImtKS3GFyriow~LHFRbPAAnQCDeGGoisDb94-Qx0ahZvAuO68i7kRcyx1WLtnc38gNhHC95lK3jOOU~CPTNdos0zE1uV2nLq16X6q0GnpWKkov7QHnTbQY18GiBIu52ZHwCiJagtpWVQj5egRg__
+ELC-BET,https://cdn-cf-east.streamable.com/video/mp4/krj6p9.mp4?Expires=1755811663548&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=BmuCCmHafIFHmkIrJE6db81ljkX4OrtH4GnTGV5usKIE2ovPk~kBB56GamCQxX1Urn0sMnVoHxtZQGqN2kyCntXMrxpTZ305apmlVg~NOCPTJ8eXPNMWiGxG46wDzhPHmnx88hg~uh07widOMfi4FtYg6Fxet0uoZaFaZTvCe2XcPr9Icm53p5cfNZaZpWMERtmxo3e4OHJPmNoesNrsSD6Gg1VcAm1ZZaZpO20yzgA8r-NNV9idAeSV41KgeFSwHsEGvHvWMMLrDIGpmnAjgWaKQDEpLi7J9CBHAzkYFgb4dLL9XgU19-eEP1hZRTqNKlEEvBA0Wttm0YTQXoVWUg__
+
+
+
 FMR0818,#genre#
 MUN-ARS,https://vd269.okcdn.ru/expires/1755559218303/srcIp/119.234.10.190/pr/10/srcAg/CHROME_ANDROID/ms/185.226.52.19/type/5/sig/kQu6ur5TPPo/ct/8/urls/185.226.52.8/clientType/0/id/9004581194287/video/
 CHE-CP,https://vd290.okcdn.ru/?expires=1755559343466&srcIp=119.234.10.190&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.40&type=5&sig=AkXahl0xQjY&ct=0&urls=45.136.22.42&clientType=0&id=9003666049583
@@ -53,34 +60,6 @@ AVL-NEW,https://vd480.okcdn.ru/expires/1755477820094/srcIp/111.65.59.81/pr/10/sr
 FMR0816,#genre#
 LIV-BOU1,https://ok6-4.vkuser.net/?expires=1755391921274&srcIp=124.246.118.161&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=4&sig=_eJ1Kgsxd8Y&ct=14&urls=45.136.20.22%3B45.136.22.30&clientType=0&zs=43&id=8606946691782
 LIV-BOU2,https://ok6-14.vkuser.net/?expires=1755392027207&srcIp=124.246.118.161&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=5&sig=WNE2vHJAO9c&ct=0&urls=185.226.55.61%3B185.226.52.43&clientType=1&zs=43&id=8606948395718
-
-
-FMR0814,#genre#
-PSG-TOT1,https://vd440.okcdn.ru/?expires=1755213770120&srcIp=119.234.16.89&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.33&type=4&sig=oXQgxjvhNkk&ct=14&urls=45.136.20.21&clientType=1&id=8597689928390
-PSG-TOT2,https://vd357.okcdn.ru/?expires=1755213812584&srcIp=119.234.16.89&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.72&type=4&sig=Q361kdhpdAE&ct=14&urls=45.136.20.22&clientType=1&id=8597689141958
-PK,https://vd369.okcdn.ru/?expires=1755213858679&srcIp=119.234.16.89&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.76&type=5&sig=btrSW68Sqys&ct=0&urls=185.226.52.22&clientType=1&id=8597687700166
-ARAB FULL&TROPHY,https://vd292.okcdn.ru/?expires=1755213557025&srcIp=119.234.16.89&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.42&type=4&sig=DFf8dLcf5jA&ct=14&urls=185.226.55.39&clientType=0&id=8733015018071
-
-FMR0813,#genre#
-WSG-RMA1,https://vod3.cf.dmcdn.net/sec2(Aj1e11Ooz2SCNrGtyrqZ3w9zh9yyPeDbp-SWxVCVJb630wyRnvvh6nitq1kA8t9_v18UCln2WTM5xjN0kh-kpVJefR8HcllSNJ0sHNopcOwUKw8mJcLfdohu5DA1GJnMCkdazYxfwocfqDNeB8mhUy-b1tENugGySyIARkkyjKsH-QY7nH_PCgtgQUXPSJRuXDVAPjM0v78SK-W7kuLECg)/video/fmp4/585608202/h264_aac_hd_hfr/1/manifest.m3u8
-WSG-RMA2,https://vod3.cf.dmcdn.net/sec2(-xiLWf5QNB2bGUTXBz21FLC4e9O5rKLC569JMFClJtxVyAx0wKJUIxXgVqDqHcelHlyV0q4lS0_91iisJBCth4nGhaCQXzXPldzaD3agWc4MfKkX0iuEResO5ZI0X-K00DAN0cnkidUh9ZkJyCXEQC23bPHhrnFsJYl4cYPRixPCqvGfyaCf7usGpspc6_jEIZSzSYld5A8d8EqQO03S3Q)/video/fmp4/585608442/h264_aac_hd_hfr/1/manifest.m3u8
-
-
-FMR0811,#genre#
-CP-LIV(4K),https://ok6-10.vkuser.net/?expires=1754994433511&srcIp=124.246.74.94&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=7&sig=hbmpthTwN8c&ct=0&urls=185.226.55.11%3B185.226.52.24&clientType=1&zs=43&id=8720141191767
-CP-LIV(2K),https://ok6-10.vkuser.net/?expires=1754994433511&srcIp=124.246.74.94&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=6&sig=hXERUzBcllw&ct=0&urls=185.226.55.11%3B185.226.52.24&clientType=1&zs=43&id=8720141191767
-PAL-MCI,https://ok6-9.vkuser.net/expires/1754994676207/srcIp/124.246.74.94/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.136/type/5/sig/Q3Wr2LbdlK4/ct/8/urls/45.136.22.26%3B185.226.52.8/clientType/0/zs/43/id/8970914302511/video/
-
-
-FMR0810,#genre#
-ARS-ATH,https://ok6-6.vkuser.net/?expires=1754876725542&srcIp=138.75.18.214&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=5&sig=HvW_C8F4pUA&ct=0&urls=45.136.22.79%3B45.136.21.29&clientType=1&zs=43&id=8716351441495
-CHE-B04,https://vod3.cf.dmcdn.net/sec2(TckBwR6erzlx6_SEzhWy132qAaG5hxCyqIfgNFlRmrnKyecFO4whfo1bZyjYoKhGDPJS3YTTdqW5jFO-wqXhJDroSKCARCk9IsB4VhHyN2DrdnEZx_2YX3fBb5INLZSYq2d3e6noQC9trnWZZIEthr_1obpiEa1vH6E-8_1eyHYmTEs0JA4Y1NG2fGpehUmi)/video/fmp4/585304512/h264_aac_hd/manifest.m3u8
-
-FMR0806,#genre#
-ARS-VILL,https://vd169.okcdn.ru/?expires=1754694796034&srcIp=119.234.6.209&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.16&type=5&sig=yyFpPip-4Mw&ct=0&urls=185.226.52.73&clientType=1&id=8591954348794
-CEL-STM1,https://vod3.cf.dmcdn.net/sec2(kakHjflicX8ZZVtHBHboQ1uEapoWGZgLCEGY_e0ZPSkE_bk6nAZYq8psjPWUS78yMZz_faPcYnD_pMLVVagZ17o2wgR3x8T8KZxYKuK5e5qC8O5W9gCSWSUnGlM44bgv8VPYASRgv2KaTgB2WJCY9nBvRldOUH7f-R37fgp3p0IpFKJC_FA42RHFYUTI4dqO)/video/638/476/584674836_mp4_h264_aac_hd_1.m3u8
-CEL-STM2,https://vod3.cf.dmcdn.net/sec2(gxq_FIu0uXfgCZ2gAipZYiTHpvUdJId4sEYeBhYXQIOtWmOH5qh27t5QWRIwEfrJyAgANRh4xhzH_i0QdyCxPHfunIn65UhDpzuLyT3orLjdMOo8mE4ws0tAve9oLWrjeUDmjI18e1mdaZNF8Ig8T0DRLDjnkbuWIJwH90FhwBXLQjO3z1H-AR7KmtIMZBzJ)/video/245/976/584679542_mp4_h264_aac_hd_1.m3u8
-
 
 
 
