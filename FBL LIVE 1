@@ -30,6 +30,15 @@ channel8AKtv,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 八度空间AKtv,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 国家地理AKtv,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 
+FMR0825,#genre#
+MOD0824,https://ok6-7.vkuser.net/?expires=1756167566164&srcIp=37.19.201.221&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=3&sig=1Mipq_9y410&ct=0&urls=185.226.53.38%3B185.226.52.13&clientType=1&zs=43&id=8658057235175
+FUL-MUN,https://vd362.okcdn.ru/?expires=1756167807624&srcIp=37.19.201.221&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.77&type=4&sig=vcXAVhEoc2k&ct=27&urls=45.136.22.75&clientType=1&zs=43&id=8784173271639
+OVI-RMA,https://vd530.okcdn.ru/?expires=1756167676287&srcIp=37.19.201.221&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.40&type=4&sig=HPgQe1h50DM&ct=27&urls=45.136.21.6&clientType=1&zs=43&id=8784192080471
+JUV-PAR,https://ok6-13.vkuser.net/?expires=1756167741090&srcIp=37.19.201.221&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=5&sig=INllKJSwsyE&ct=0&urls=45.136.21.10%3B185.226.55.54&clientType=1&zs=43&id=9037478234671
+EVE-BHA,https://ok6-14.vkuser.net/?expires=1756167858483&srcIp=37.19.201.221&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=5&sig=mmYdFrl-hqc&ct=0&urls=45.136.21.54%3B185.226.53.32&clientType=1&zs=43&id=8650639674054
+CP-NFO1,https://ok6-10.vkuser.net/?expires=1756167903180&srcIp=37.19.201.221&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=5&sig=mYCm1D_6Ynk&ct=0&urls=45.136.21.27%3B185.226.55.12&clientType=1&zs=43&id=8650629647046
+CP-NFO2,https://ok6-14.vkuser.net/?expires=1756167964414&srcIp=37.19.201.221&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=5&sig=OnotgwM-GVY&ct=0&urls=45.136.22.8%3B185.226.52.35&clientType=1&zs=43&id=8650631875270
+
 
 FMR0824,#genre#
 MOD0823,https://ok6-9.vkuser.net/?expires=1756083947541&srcIp=37.19.201.237&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=mLTn0CwtL7M&ct=0&urls=185.226.55.20%3B185.226.52.42&clientType=1&zs=43&id=9053989440016
@@ -53,20 +62,6 @@ RMA-OSA2,https://vd525.okcdn.ru/?expires=1755731730340&srcIp=119.234.34.232&pr=1
 
 
 
-
-FMR0819,#genre#
-LEE-EVE,https://vd415.okcdn.ru/expires/1755650926846/srcIp/119.234.68.51/pr/10/srcAg/CHROME_ANDROID/ms/45.136.20.52/type/5/sig/yLyLkSNlOeQ/ct/8/urls/185.226.52.30/clientType/0/id/9009631726127/video/
-MIL-BAR,https://vd337.okcdn.ru/?expires=1755651036898&srcIp=119.234.68.51&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.58&type=5&sig=mcEJNOKS07Q&ct=0&urls=185.226.53.42&clientType=1&id=9026892728848
-
-
-
-
-FMR0818,#genre#
-MUN-ARS,https://vd269.okcdn.ru/expires/1755559218303/srcIp/119.234.10.190/pr/10/srcAg/CHROME_ANDROID/ms/185.226.52.19/type/5/sig/kQu6ur5TPPo/ct/8/urls/185.226.52.8/clientType/0/id/9004581194287/video/
-CHE-CP,https://vd290.okcdn.ru/?expires=1755559343466&srcIp=119.234.10.190&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.40&type=5&sig=AkXahl0xQjY&ct=0&urls=45.136.22.42&clientType=0&id=9003666049583
-BHA-FUL,https://vd334.okcdn.ru/?expires=1755559519776&srcIp=111.65.59.124&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.43&type=5&sig=emzkX09Tq-g&ct=0&urls=45.136.22.46&clientType=0&id=8619917314791
-SUN-WHU,https://vd354.okcdn.ru/?expires=1755559624304&srcIp=111.65.59.124&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.69&type=3&sig=gmuTu6MQ1Vc&ct=0&urls=185.226.53.74&clientType=0&id=8853430930157
-MIA-LA,https://vd534.okcdn.ru/expires/1755559439480/srcIp/119.234.10.190/pr/10/srcAg/CHROME_ANDROID/ms/185.226.55.44/type/3/sig/3I20hzuOKws/ct/8/urls/185.226.52.37/clientType/0/id/8621371230951/video/
 
 
 
