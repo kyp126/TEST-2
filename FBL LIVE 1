@@ -4,7 +4,9 @@ LIVE,#genre#
 MUN,https://v4-e80974de465143f29168a648f46fe38d.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343131.m3u8?txTime=68b30437&txSecret=1999965522bc82c5f0dec96bb4083931&sub_m3u8=true&edge_slice=true&user_session_id=1c3620401b8908c8a177cc24312c2723
 TOT,https://v4-14769ccad573a2388a716f2ade587c96.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343135.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=51327fb325c57bc2f7d70e363ebd4581&txTime=68b30473&txSecret=235606ef5f2abc9dbbe5ddc27de62288
 EVE,https://pullkgq721.qmuiw.com/live/sd-1-4343137.m3u8?auth_key=1756562929-0-0-f2d210f18437ddcc227a86ce4f5d163c
-SUN,https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343133.m3u8?sub_m3u8=true&txSecret=6185e533a2d1cd0614b927c6ced0e2c1&user_session_id=43e9cf87d563f8fb01f9b584bf18facc&txTime=68b30473&edge_slice=true
+SUN,https://live.bbapcall.com/live/sd-1-4343133.m3u8?txSecret=d7296a658604413c0ed9487e046d6939&txTime=68B34598
+
+https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343133.m3u8?sub_m3u8=true&txSecret=6185e533a2d1cd0614b927c6ced0e2c1&user_session_id=43e9cf87d563f8fb01f9b584bf18facc&txTime=68b30473&edge_slice=true
 
 CHE-FUL,https://ovo1.ovogoalz.com/hls/xixsponks1.m3u8
 CHE1,https://d1.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=ojBj2gqT5QHT88U1P7bMFg&expires=1756559617
