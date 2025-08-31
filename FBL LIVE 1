@@ -1,6 +1,11 @@
 
 
 LIVE,#genre#
+LIV-ARS,https://storage.googleapis.com/feed242425/mux_video_ts/index-1.m3u8
+
+
+
+
 BHA-MCI,https://storage.googleapis.com/ovtidgiolalndq1/mux_video_ts/index-1.m3u8
 MCI1,https://d5.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=u3mxa1q-1Nps-xCPtoOTAg&expires=1756651733
 MCI咪,https://play.livewithhy.com/live/sd-6MuT7JwYQJ9VMzEMdw.m3u8?txSecret=e597bbb61af974e9987d2585ae301802&txTime=68B55208
