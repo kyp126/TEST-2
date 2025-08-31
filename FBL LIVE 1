@@ -6,15 +6,15 @@ LIV-ARS,https://storage.googleapis.com/feed242425/mux_video_ts/index-1.m3u8
 
 
 
-BHA-MCI,https://storage.googleapis.com/ovtidgiolalndq1/mux_video_ts/index-1.m3u8
+BHA-MCI(end),https://storage.googleapis.com/ovtidgiolalndq1/mux_video_ts/index-1.m3u8
 MCI1,https://d5.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=u3mxa1q-1Nps-xCPtoOTAg&expires=1756651733
 MCI咪,https://play.livewithhy.com/live/sd-6MuT7JwYQJ9VMzEMdw.m3u8?txSecret=e597bbb61af974e9987d2585ae301802&txTime=68B55208
 
-NFO咪,https://play.livewithhy.com/live/hd-zh-6MuT7JykhA5AW3Yjqf.m3u8?txSecret=1637653c7841f26ee4adc0ef7878206c&txTime=68B55209
+NFO咪(end),https://play.livewithhy.com/live/hd-zh-6MuT7JykhA5AW3Yjqf.m3u8?txSecret=1637653c7841f26ee4adc0ef7878206c&txTime=68B55209
 NFO-WHU,https://helloapps.blog/trend8/1
 NFO1,https://ovo1.ovogoalz.com/hls/xixsponks2.m3u8
 
-NETHERLANDS F1,https://helloapps.blog/trend8/f1
+NETHERLANDS F1(end),https://helloapps.blog/trend8/f1
 https://helloapps.blog/hls/f1.m3u8
 NET F1,https://storage.googleapis.com/ovtidgiolalndq3/mux_video_ts/index-1.m3u8#https://ovo1.ovogoalz.com/hls/xixspoonf1.m3u8
 
