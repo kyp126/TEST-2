@@ -1,18 +1,7 @@
 
 
 LIVE,#genre#
-MUN,https://v4-e80974de465143f29168a648f46fe38d.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343131.m3u8?txTime=68b30437&txSecret=1999965522bc82c5f0dec96bb4083931&sub_m3u8=true&edge_slice=true&user_session_id=1c3620401b8908c8a177cc24312c2723
-TOT,https://v4-14769ccad573a2388a716f2ade587c96.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343135.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=51327fb325c57bc2f7d70e363ebd4581&txTime=68b30473&txSecret=235606ef5f2abc9dbbe5ddc27de62288
-EVE,https://pullkgq721.qmuiw.com/live/sd-1-4343137.m3u8?auth_key=1756562929-0-0-f2d210f18437ddcc227a86ce4f5d163c
-SUN,https://live.bbapcall.com/live/sd-1-4343133.m3u8?txSecret=d7296a658604413c0ed9487e046d6939&txTime=68B34598
 
-https://v4-49c1f938208318cdf8288bc36b62472a.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343133.m3u8?sub_m3u8=true&txSecret=6185e533a2d1cd0614b927c6ced0e2c1&user_session_id=43e9cf87d563f8fb01f9b584bf18facc&txTime=68b30473&edge_slice=true
-
-CHE-FUL,https://ovo1.ovogoalz.com/hls/xixsponks1.m3u8
-CHE1,https://d1.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=ojBj2gqT5QHT88U1P7bMFg&expires=1756559617
-CHE2,https://streameast247.com/playlist/stream_ch1.m3u8
-CHE咪,https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343127.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0f85b7d9fbf9fd55760aee8a12fe7253&txTime=68b2bde7&txSecret=969f9efbe55d507b8092e91e90da8016&.m3u8
-https://v4-676ad5a9989e794593dec534489c2d49.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343127.m3u8?.m3u8&edge_slice=true&user_session_id=35b4e59d419d45404d4674025d9f3a6c&txSecret=969f9efbe55d507b8092e91e90da8016&sub_m3u8=true&txTime=68b2bde7
 UEFA DRAW,https://live-uefa-com.akamaized.net/hls/live/2036934/280825_UCLGS/master_1-archive.m3u8?startTime=1756396805&endTime=1756400954
 
 南京照相馆TC,https://202.189.8.170/Cache/zyhls/97d5b01646d6f58553829325712ea94f.m3u8?vkey=65326338566c5147426c52555556594842317863425656515667494142515a555546414741466f464151304644464e5755674950
@@ -37,6 +26,14 @@ channel5AKtv,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 channel8AKtv,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 八度空间AKtv,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 国家地理AKtv,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+
+FMR0831,#genre#
+RMA-MAL,https://vd458.okcdn.ru/?expires=1756685142777&srcIp=111.65.32.12&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.75&type=5&sig=6g4Mn2e0ScM&ct=0&urls=185.226.52.13&clientType=1&id=8812366596695
+LEE-NEW1,https://vd442.okcdn.ru/?expires=1756685336471&srcIp=111.65.32.12&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.52&type=5&sig=8fKrVICFQ1k&ct=0&urls=185.226.53.34&clientType=1&id=8679941475014
+LEE-NEW2,https://vd453.okcdn.ru/?expires=1756685399743&srcIp=111.65.32.12&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.37&type=5&sig=hOsKZejl72M&ct=0&urls=185.226.52.12&clientType=1&id=8679942326982
+TOT-BOU,https://vd351.okcdn.ru/?expires=1756685474780&srcIp=111.65.46.230&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.74&type=5&sig=6Rd_3A7tMcU&ct=0&urls=45.136.20.74&clientType=1&id=9064701626927
+MUN-BUR,https://vd240.okcdn.ru/?expires=1756685541520&srcIp=111.65.32.12&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.48&type=5&sig=MYiVmEuUBSQ&ct=0&urls=185.226.55.40&clientType=1&id=8686049233639
+CHE-FUL,https://vd236.okcdn.ru/?expires=1756685594065&srcIp=111.65.32.12&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.44&type=5&sig=Ahg2XfzWEDU&ct=0&urls=185.226.55.41&clientType=1&id=8550410750626
 
 FMR0828,#genre#
 GRI-MUN,https://vd166.okcdn.ru/?expires=1756423336633&srcIp=111.65.56.29&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.13&type=4&sig=iMNkIVov60Y&ct=27&urls=185.226.55.34&clientType=1&id=8798180936279
