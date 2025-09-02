@@ -1,6 +1,7 @@
 
 
 LIVE,#genre#
+央视网直播,#genre#
 CCTV1,http://blog.cqshushu.com/tv.php?id=cctv1
 CCTV2,http://blog.cqshushu.com/tv.php?id=cctv2
 CCTV4K,http://blog.cqshushu.com/tv.php?id=cctv4k
@@ -190,61 +191,6 @@ MCI-TOT2,https://ok6-6.vkuser.net/?expires=1756084633830&srcIp=37.19.201.237&pr=
 
 
 
-CCTV08,#genre#
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV2b,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-
-
-CCTV2a,CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
-CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
-CCTV3,https://live.sxrtv.com/iptv/cctv3.flv
-CCTV4,https://live.sxrtv.com/iptv/cctv4.flv
-CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
-CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV5,https://live.sxrtv.com/iptv/cctv5.flv
-CCTV5+,https://live.sxrtv.com/iptv/cctv5p.flv
-CCTV6,https://live.sxrtv.com/iptv/cctv6.flv
-CCTV7,https://live.sxrtv.com/iptv/cctv7.flv
-CCTV8,https://live.sxrtv.com/iptv/cctv8.flv
-CCTV9,https://live.sxrtv.com/iptv/cctv9.flv
-CCTV10,https://live.sxrtv.com/iptv/cctv10.flv
-CCTV11,https://live.sxrtv.com/iptv/cctv11.flv
-CCTV12,https://live.sxrtv.com/iptv/cctv12.flv
-CCTV13,https://live.sxrtv.com/iptv/cctv13.flv
-CCTV14,https://live.sxrtv.com/iptv/cctv14.flv
-CCTV15,https://live.sxrtv.com/iptv/cctv15.flv
-CCTV16,https://live.sxrtv.com/iptv/cctv16.flv
-CCTV17,https://live.sxrtv.com/iptv/cctv17.flv
-CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv
-CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv
-重庆卫视,https://live.sxrtv.com/iptv/cqws.flv
-江苏卫视,https://live.sxrtv.com/iptv/jsws.flv
-浙江卫视,https://live.sxrtv.com/iptv/zjws.flv
-东方卫视,https://live.sxrtv.com/iptv/dfws.flv
-深圳卫视,https://live.sxrtv.com/iptv/szws.flv
-北京卫视,https://live.sxrtv.com/iptv/bjws.flv
-山东卫视,https://live.sxrtv.com/iptv/sdws.flv
-天津卫视,https://live.sxrtv.com/iptv/tjws.flv
-四川卫视,https://live.sxrtv.com/iptv/scws.flv
-黑龙江卫视,https://live.sxrtv.com/iptv/hljws.flv
-安徽卫视,https://live.sxrtv.com/iptv/ahws.flv
-山西卫视,https://live.sxrtv.com/iptv/sxws.flv
-湖北卫视,https://live.sxrtv.com/iptv/hubws.flv
-旅游卫视,https://live.sxrtv.com/iptv/hinws.flv
-陕西卫视,https://live.sxrtv.com/iptv/shxws.flv
-东南卫视,https://live.sxrtv.com/iptv/dnws.flv
-吉林卫视,https://live.sxrtv.com/iptv/jlws.flv
-辽宁卫视,https://live.sxrtv.com/iptv/lnws.flv
-湖南卫视,https://live.sxrtv.com/iptv/hunws.flv
-广东卫视,https://live.sxrtv.com/iptv/gdws.flv
-河南卫视,https://live.sxrtv.com/iptv/hnws.flv
-河北卫视,https://live.sxrtv.com/iptv/hbws.flv
-凤凰中文,https://live.sxrtv.com/iptv/fhzw.flv
-凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv
-凤凰香港,https://live.sxrtv.com/iptv/fhhk.flv
 
 
 
