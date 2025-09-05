@@ -19,6 +19,10 @@ CCTV8,http://120.238.94.10:9901/tsfile/live/1026_1.m3u8
 CCTV9,http://120.238.94.10:9901/tsfile/live/1027_1.m3u8
 
 FMR0905,#genre#
+BRA-CHI,https://ok6-12.vkuser.net/?expires=1757159111865&srcIp=124.197.121.179&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=5&sig=3MwJ1oenYow&ct=0&urls=185.226.55.46%3B45.136.22.47&clientType=1&zs=43&id=8835362982487
+ARG-VEN,https://ok6-4.vkuser.net/?expires=1757159183951&srcIp=124.197.121.179&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=5&sig=dGST6sOKQms&ct=0&urls=45.136.21.77%3B185.226.52.36&clientType=1&zs=43&id=8835305179735
+NED-POL,https://ok6-5.vkuser.net/?expires=1757159273720&srcIp=124.197.121.179&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=OCcuZbscM_k&ct=0&urls=45.136.22.79%3B45.136.21.74&clientType=1&zs=43&id=9087290575407
+
 SLO-GER,https://vd535.okcdn.ru/?expires=1757111019613&srcIp=111.65.33.49&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.45&type=3&sig=C5TPxfKcf3E&ct=0&urls=45.136.21.74&clientType=1&id=8835064597079
 BUL-SPA,https://vd468.okcdn.ru/?expires=1757111089529&srcIp=111.65.46.97&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.82&type=5&sig=S5Xe47dU40A&ct=0&urls=45.136.22.11&clientType=1&id=8835052210775
 SEA-MIA,https://vd375.okcdn.ru/?expires=1757111152449&srcIp=111.65.33.49&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.80&type=5&sig=AcVo4N8LgmA&ct=0&urls=45.136.21.69&clientType=1&id=8693332380391
