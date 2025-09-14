@@ -1,21 +1,6 @@
 
 
 LIVE,#genre#
-CP-SUN,https://d3v7o5t2m4bgqt.cloudfront.net/totalcdncdn/6
-CP咪,https://v4-6d0674772011a976fb80c0bf6c1ab307.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343149.m3u8?txSecret=b8eab07c338b2f9fd7c7250a23e5781c&sub_m3u8=true&user_session_id=15d06e4a0d4da9e80e66ede89b2b0c6e&.m3u8&edge_slice=true&txTime=68c56fd7#https://play.livewithhy.com/live/hd-zh-6MuT7JwXPX9CTssxjP.m3u8?txSecret=6afce030ad0d1b228a07f00aef42e8b8&txTime=68C6839A
-BOU-BHA,https://d3v7o5t2m4bgqt.cloudfront.net/totalcdncdn/5
-BOU咪,https://v4-e80974de465143f29168a648f46fe38d.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343441.m3u8?sub_m3u8=true&user_session_id=f950ecd14fa1d326b0771382fdf78654&.m3u8&txTime=68c57103&txSecret=82771101b95d185d8afeedcfd1f3c247&edge_slice=true
-
-EVE-AVL,https://d3v7o5t2m4bgqt.cloudfront.net/totalcdncdn/7
-EVE咪,https://v4-e80974de465143f29168a648f46fe38d.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343151.m3u8?txTime=68c57103&txSecret=558736948b0b634fe6ad172192d49404&sub_m3u8=true&user_session_id=022b4c810f9f503ebc8479a6da4e7b5e&.m3u8&edge_slice=true
-
-FUL-LEE,https://d3v7o5t2m4bgqt.cloudfront.net/totalcdncdn/1
-FUL,https://v4-6d0674772011a976fb80c0bf6c1ab307.livehwc4.com/pull.chaojiumq.com/live/hd-en-1-4343153.m3u8?txTime=68c57103&user_session_id=f91aa158842cb27d65db224576409932&txSecret=2ce9e77d0fed03138a1bd6c560d4ad0c&sub_m3u8=true&.m3u8&edge_slice=true
-
-NEW-WOL,https://d3v7o5t2m4bgqt.cloudfront.net/totalcdncdn/8
-NEW咪,https://play.livewithhy.com/live/hd-zh-6MuT7JwXDpUBf4PMTs.m3u8?txSecret=8ee1fb29fd29f4ac4ef17d1c1f888124&txTime=68C67F85
-
-ARS-NFO,https://d1fxii5ots3pat.cloudfront.net/out/v1/d39737902f9241f3889ee53c8b15254d/index_1.m3u8
 
 
 
@@ -25,9 +10,14 @@ ARS-NFO,https://d1fxii5ots3pat.cloudfront.net/out/v1/d39737902f9241f3889ee53c8b1
 
 
 
-GET-ROV,https://51a1.crackstreamslivehd.com/global/disney3/index.m3u8?token=768557b482ef89db35b42cf8d28b56c6cb25b641-ba-1757808502-1757754502&ip=138.75.51.21
 
 
+
+FMR0914,#genre#
+ARS-NFO,https://vd465.okcdn.ru/?expires=1757895557209&srcIp=111.65.71.177&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.70&type=5&sig=Vu6WD3JDtDc&ct=0&urls=185.226.53.25&clientType=1&id=9126462425647
+WHU-TOT,https://vd417.okcdn.ru/?expires=1757895323198&srcIp=111.65.56.123&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.54&type=3&sig=gZEA38u7y30&ct=0&urls=185.226.53.38&clientType=1&id=8983167503085
+BAY-HSV,https://vd252.okcdn.ru/?expires=1757895215376&srcIp=111.65.56.123&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.53&type=3&sig=ygb8caaCBQU&ct=0&urls=185.226.53.37&clientType=1&id=8983152954093
+RSO-RMA,https://vd353.okcdn.ru/?expires=1757895424809&srcIp=111.65.56.123&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.68&type=3&sig=cs3kt4Q8S3c&ct=0&urls=185.226.52.56&clientType=1&id=8982403615469
 
 FMR0910,#genre#
 BOL-BRA,https://ok6-4.vkuser.net/?expires=1757588682123&srcIp=138.75.6.106&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=rI0vC2bWhRE&ct=0&urls=185.226.52.60%3B185.226.55.56&clientType=1&zs=43&id=8858685475415
