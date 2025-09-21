@@ -1,21 +1,15 @@
 
 
 LIVE,#genre#
-NEW咪,https://play.livewithhy.com/live/hd-zh-6MuT7JwXjNrzXGnB7B.m3u8?txSecret=662d98af68b4514b5925fd52c460456f&txTime=68D10188
-BOU-NEW,https://d8p7wz4lphbwx.cloudfront.net/totalcdns707/epl1
-BOU,https://storage.googleapis.com/gubnsterdsa2/mux_video_ts/index-1.m3u8
-
-SUN咪,https://play.livewithhy.com/live/hd-zh-6MuT7JwWj8dRoszcMB.m3u8?txSecret=aa2e154fce10269d10546a64ac8d69d6&txTime=68D1018C
-SUN-AVL,https://d8p7wz4lphbwx.cloudfront.net/totalcdns707/epl2
-SUN,https://storage.googleapis.com/gubnsterdsa1/mux_video_ts1/index-1.m3u8
+ARS-MCI,https://d8p7wz4lphbwx.cloudfront.net/totalcdns707/epl1
 
 
-VAL咪,https://hls.suanzsd6.com/hd-en-6MuSsYd5pw7TuRe4CF.m3u8?txSecret=b5f3de6768a92f139760ee966e751b53&txTime=68D130EC
-VAL-CEL,https://d6.merichunidya.com:1686/hls/laligauk.m3u8?md5=lDruUlHZjEfV3Ttt3bgdhA&expires=1758460909
-LAZ-ROM,https://hls.suanzsd6.com/hd-en-6MuSNj13P1XJT9uTGK.m3u8?txSecret=adaeadfa0ba31ff92a48009b0f22782a&txTime=68D123D3
-LAZ咪,https://play.livewithhy.com/live/hd-zh-6MuSNj13P1XJT9umuo.m3u8?txSecret=49bc42fbdbfbb7d366473f4f32fc93dd&txTime=68D0DE70
-F1 AZER,https://ovo1.ovogoalz.com/hls/understocf1.m3u8
-F1 RACE,https://d9.merichunidya.com:1686/hls/skysfor1.m3u8?md5=SLEjWmsEMM4grsDDRHUYtg&expires=1758455032
+
+
+
+
+
+
 捕风追影粤语,https://vip.dytt-kan.com/20250818/3669_e1228be4/index.m3u8
 捕风追影国语,https://vip.dytt-watch.com/20250905/1031_afdec700/index.m3u8
 L1,http://122.114.171.79:5566/bfzy/459b0887434d494bebdfc0878c284a66.m3u8
