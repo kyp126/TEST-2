@@ -1,11 +1,6 @@
 
 
 LIVE,#genre#
-ARS咪,https://live.bbapcall.com/live/sd-1-4343167.m3u8?txSecret=b020c72ccf1b415b8906177215401127&txTime=68D031A4
-ARS-MCI,https://d8p7wz4lphbwx.cloudfront.net/totalcdns707/epl1
-ARS1,https://storage.googleapis.com/gubnsterdsa1/mux_video_ts1/index-1.m3u8
-ARS2,https://d6.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=FPQxg3wH-yj2gMBUbpHeqQ&expires=1758474091
-ARS3,https://play.livewithhy.com/live/hd-zh-6MuT7JwXjTFxGES1Qy.m3u8?txSecret=4cfaf3ea3c9459e72079d7617f19a53c&txTime=68D11EB9
 
 
 
@@ -15,7 +10,13 @@ ARS3,https://play.livewithhy.com/live/hd-zh-6MuT7JwXjTFxGES1Qy.m3u8?txSecret=4cf
 捕风追影国语,https://vip.dytt-watch.com/20250905/1031_afdec700/index.m3u8
 L1,http://122.114.171.79:5566/bfzy/459b0887434d494bebdfc0878c284a66.m3u8
 
-MOD0920,https://ok6-3.vkuser.net/?expires=1758534384068&srcIp=124.246.103.193&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=JA24YgRBGl0&ct=0&urls=185.226.53.86%3B185.226.55.26&clientType=1&zs=43&id=9010409572885
+
+FMR0922,#genre#
+MOD21,https://vd560.okcdn.ru/?expires=1758586176514&srcIp=119.234.37.28&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.94&type=4&sig=wMvMYoUrwPo&ct=14&urls=45.136.22.30&clientType=1&id=9189470177808
+ARS-MCI,https://vd226.okcdn.ru/?expires=1758586406814&srcIp=119.234.37.28&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.34&type=4&sig=tosr4VfhLtg&ct=27&urls=185.226.53.12&clientType=1&id=8796537817831
+BAR-GET,https://vd166.okcdn.ru/?expires=1758586302155&srcIp=119.234.37.28&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.13&type=5&sig=kPsIhha5xTs&ct=0&urls=45.136.21.12&clientType=1&id=8860481751638
+
+
 
 
 FMR0921,#genre#
