@@ -4,11 +4,11 @@ LIVE,#genre#
 
 
 
-
-
+CCTV2,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=2025092218003671dcaea576b647f49736fef609f4dfd2&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20250922180036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.90&SecurityKey=20250922180036&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=071165616cd341f93c2d3fbccbc859c7&ddCalcu=70c7e912511860c5b6c1c6bcfd33d421cf39
+CCTV5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20250922180037e5d60e368efa469ebb5b8c3ca56d61bb&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20250922180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.90&SecurityKey=20250922180037&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e60ebd3c5e186f715e1595d3dc190806&ddCalcu=6e06e8020e19b01dc3dc35de5198561fe751
+CCTV5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202509221800370384854fccfd4b6f97244a9ad6f88382&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20250922180037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.90&SecurityKey=20250922180037&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=55dc68d3da6c88db2947e0cdf915b87b&ddCalcu=b575e8d2bc1560189df3ddca06ec78489d2b
 捕风追影粤语,https://vip.dytt-kan.com/20250818/3669_e1228be4/index.m3u8
 捕风追影国语,https://vip.dytt-watch.com/20250905/1031_afdec700/index.m3u8
-L1,http://122.114.171.79:5566/bfzy/459b0887434d494bebdfc0878c284a66.m3u8
 
 
 FMR0922,#genre#
