@@ -38,19 +38,7 @@ CPH-LEV,https://vd524.okcdn.ru/?expires=1758327702282&srcIp=111.65.33.33&pr=10&s
 BRU-MON,https://vd519.okcdn.ru/?expires=1758327833436&srcIp=111.65.47.139&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.29&type=4&sig=qYeM6ha9Z-E&ct=14&urls=45.136.21.24&clientType=1&id=9154726988335
 
 
-FMR0918,#genre#
-LIV-ATM1(ijk),https://vd294.okcdn.ru/expires/1758248509296/srcIp/111.65.69.185/pr/10/srcAg/CHROME_ANDROID/ms/185.226.52.44/type/3/sig/Pc2WXr3omjg/ct/8/urls/45.136.22.72/clientType/0/id/9149877783087/video/
-LIV-ATM2,https://vd528.okcdn.ru/?expires=1758248601161&srcIp=111.65.56.160&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.38&type=6&sig=BXhCCgd7lBE&ct=0&urls=185.226.52.27&clientType=0&id=8775242549991
-LIV-ATM,https://vd349.okcdn.ru/?expires=1758240626242&srcIp=111.65.56.160&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.72&type=3&sig=UnNV036uU0Y&ct=0&urls=185.226.52.10&clientType=1&id=9149877783087
-BAY-CHE,https://vd417.okcdn.ru/expires/1758240692531/srcIp/111.65.56.160/pr/10/srcAg/CHROME_ANDROID/ms/45.136.20.54/type/3/sig/1FdU6loG0Sw/ct/8/urls/185.226.55.32/clientType/0/id/9149873457711/video/
-PSG-ATA,https://vd314.okcdn.ru/?expires=1758240534994&srcIp=111.65.56.160&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.23&type=3&sig=0-GCAv38X2I&ct=0&urls=45.136.22.27&clientType=1&id=9149875030575
-AJX-INT,https://vd455.okcdn.ru/?expires=1758240817850&srcIp=111.65.56.160&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.72&type=3&sig=AWL3qBXEFtM&ct=0&urls=185.226.52.60&clientType=1&id=9149868542511
-
-
-
-FMR0917,#genre#
-RMA-MAR,https://vd433.okcdn.ru/?expires=1758152697515&srcIp=119.234.16.38&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.30&type=3&sig=i1lPX1hi_6E&ct=0&urls=185.226.52.71&clientType=1&id=9145040112175
-TOT-VIL,https://vd465.okcdn.ru/?expires=1758152624025&srcIp=119.234.16.38&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.70&type=5&sig=XKf5-wsDVNs&ct=0&urls=45.136.21.28&clientType=1&id=9145021172271
+45.136.21.28&clientType=1&id=9145021172271
 JUV-DOR,https://vd383.okcdn.ru/?expires=1758153777587&srcIp=119.234.16.38&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.12&type=3&sig=sSTsuOSkOhg&ct=0&urls=185.226.53.36&clientType=1&id=9145043847727
 ATH-ARS,https://vd554.okcdn.ru/?expires=1758153836929&srcIp=119.234.16.38&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.64&type=3&sig=88Yer2J8LFk&ct=0&urls=185.226.55.12&clientType=1&id=9144995809839
 
@@ -58,8 +46,7 @@ ATH-ARS,https://vd554.okcdn.ru/?expires=1758153836929&srcIp=119.234.16.38&pr=10&
 FMR0915,#genre#
 MC-MU,https://vd337.okcdn.ru/?expires=1757981018602&srcIp=111.65.69.247&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.58&type=3&sig=wle4nplGstg&ct=0&urls=185.226.55.38&clientType=1&id=9132504058415
 BAR-VAL,https://vd299.okcdn.ru/?expires=1757978616037&srcIp=111.65.69.247&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.8&type=3&sig=a61yKtZIlGA&ct=0&urls=185.226.52.61&clientType=1&id=9133282953775
-PSG-LEN,https://vd349.okcdn.ru/?expires=1757981072189&srcIp=111.65.69.247&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.72&type=3&sig=0cyp2NVJEbI&ct=0&urls=185.226.55.56&clientType=1&id=8987806468845
-BUE-LIV,https://vd293.okcdn.ru/?expires=1757981128612&srcIp=111.65.69.247&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.43&type=5&sig=L64voQ3Wtvw&ct=0&urls=45.136.21.34&clientType=1&id=9131880221231
+PSG-LEN,https://vd349.okcdn.ru/?expires=1757981072189&srcIp=111.65.69.247&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.72&type=3&sig=0cyp2NVJEbI&ct=0&urls=185.226.55.56&clientType2.43&type=5&sig=L64voQ3Wtvw&ct=0&urls=45.136.21.34&clientType=1&id=9131880221231
 
 
 
@@ -93,7 +80,12 @@ ENG-AND,https://vd510.okcdn.ru/?expires=1757291271822&srcIp=111.65.46.111&pr=10&
 ARM-POR,https://vd530.okcdn.ru/?expires=1757291349374&srcIp=111.65.46.111&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.40&type=5&sig=UwMuSj3xjIw&ct=0&urls=185.226.52.45&clientType=1&id=8843732191831
 
 
-
+IPTV0923,#genre#
+DISNEY JUNIOR,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57349
+Animal Planet,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57377
+Cartoon network ,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57380
+HBO1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57437
+HBO2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57438
 
 
 
