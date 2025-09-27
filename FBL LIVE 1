@@ -4,6 +4,11 @@ LIVE,#genre#
 BRE-MUN,https://cheapmarket.blog/file/folder1/note.txt
 BRE1,https://storage.googleapis.com/unixtovostrtgvcnm1/mux_video_ts1/index-1.m3u8
 BRE2,https://playlist.streameast247.com/playlist/stream_1.m3u8
+GET-LEV,https://cheapmarket.blog/file/folder5/note.txt
+GET1,https://ovo1.ovogoalz.com/live/n-5_abr/live/n-5_720p/chunks.m3u8
+GET2,https://d1.merichunidya.com:1686/hls/do6.m3u8?md5=C9U1GS40jgk9awwAfbmK-Q&expires=1758979376
+
+
 
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
