@@ -1,6 +1,8 @@
 
 
 LIVE,#genre#
+RMA,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=202509272000418214eefe35e64266a9f144cd2cea31ee&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20250927200041&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20250927200041&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0fc242cc84bf5fbe58d8e96479dd1290&ddCalcu=009fe2c2121d40d29c7c48649bef85df8b5e
+
 ATM-RMA,https://chqy453g.sbs/file/folder5/note.txt
 ATM,https://d10.merichunidya.com:1686/hls/do6.m3u8?md5=35lhZn23t1FuCF0rxkNEsg&expires=1758989982
 MCI咪,https://live.bbapcall.com/live/sd-1-4343202.m3u8?txSecret=30a9d249a7e468a632ec955d687ecfda&txTime=68D7FE9B
