@@ -2,7 +2,7 @@
 
 LIVE,#genre#
 AVL5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202509282000423ca7d7367b9046a4bfb0968097531a38&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20250928200042&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.83&SecurityKey=20250928200042&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9c57ff00c1c3f163a6365a0c400568f3&ddCalcu=39fce8526715f00f0040cc01ac536f3166a3
-
+AVL,https://hls.suanzsd6.com/hd-en-6MuT7JwWZPkw8afmHH.m3u8?txSecret=a8eae5ec4ffe959beb191d05e956ebb9&txTime=68DA8162
 AVL-FUL,https://chanerokanc.sbs/file/folderpl/note.txt
 AVL1,https://storage.googleapis.com/besinghtihnfve2/mux_video_ts1/index-1.m3u8
 AVL2,https://d1.merichunidya.com:1686/hls/hubpremier1.m3u8?md5=dPAzlQw0-asmlDURVFzZRg&expires=1759070227
