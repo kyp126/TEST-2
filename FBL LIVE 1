@@ -1,10 +1,6 @@
 
 
 LIVE,#genre#
-ARS咪,https://hls.suanzsd6.com/hd-en-6MuT7JxGtLc4f1ree3.m3u8?txSecret=be01e31707f140608f4b26688641f898&txTime=68DAA4CB
-NEW-ARS,https://chanerokanc.sbs/file/folderpl/note.txt
-NEW1,https://storage.googleapis.com/besinghtihnfve2/mux_video_ts1/index-1.m3u8
-NEW2,https://d4.merichunidya.com:1686/hls/skysme.m3u8?md5=3nmB8oE45rCqWqhgKYXu2A&expires=1759077659
 
 
 
@@ -22,6 +18,14 @@ WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 捕风追影粤语,https://vip.dytt-kan.com/20250818/3669_e1228be4/index.m3u8
 捕风追影国语,https://vip.dytt-watch.com/20250905/1031_afdec700/index.m3u8
+
+
+FMR0929,#genre#
+NEW-ARS,https://vd360.okcdn.ru/expires/1759187366703/srcIp/119.234.8.53/pr/10/srcAg/CHROME_ANDROID/ms/45.136.21.75/type/5/sig/m-q1-YSzKkM/ct/8/urls/185.226.53.7/clientType/0/id/9205024295471/video/
+BAR-RSO,https://vd407.okcdn.ru/expires/1759187463309/srcIp/111.65.70.120/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.46/type/3/sig/9CZgqfMC3VQ/ct/8/urls/185.226.52.74/clientType/0/id/9205271956015/video/
+AVL-FUL,https://vd338.okcdn.ru/expires/1759187558667/srcIp/111.65.70.120/pr/10/srcAg/CHROME_ANDROID/ms/185.226.52.59/type/5/sig/Zue616EuKGQ/ct/8/urls/45.136.20.53/clientType/0/id/9204206471727/video/
+
+
 
 FMR0928,#genre#
 MOD0927,https://ok6-12.vkuser.net/?expires=1759109265700&srcIp=124.246.116.255&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=3h9IC1hraek&ct=0&urls=45.136.21.52%3B45.136.20.13&clientType=1&zs=43&id=8829812411111
