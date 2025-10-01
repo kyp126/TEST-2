@@ -20,6 +20,18 @@ Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 捕风追影粤语,https://vip.dytt-kan.com/20250818/3669_e1228be4/index.m3u8
 捕风追影国语,https://vip.dytt-watch.com/20250905/1031_afdec700/index.m3u8
 
+
+FMR1002,#genre#
+BAR-PSG,https://vd556.okcdn.ru/?expires=1759447137918&srcIp=111.65.57.100&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.66&type=3&sig=Vk-SEzjRWXQ&ct=0&urls=185.226.53.21&clientType=1&id=9225902295599
+ARS-OLY,https://vd170.okcdn.ru/?expires=1759447335545&srcIp=111.65.57.100&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.17&type=3&sig=n2Jx4mvaabY&ct=0&urls=45.136.22.77&clientType=1&id=9225899936303
+MON-MCI,https://vd238.okcdn.ru/?expires=1759447226000&srcIp=111.65.57.100&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.46&type=5&sig=KD8d_MBG1TE&ct=0&urls=185.226.55.51&clientType=1&id=9225897642543
+VIL-JUV,https://vd354.okcdn.ru/expires/1759447251993/srcIp/111.65.57.100/pr/10/srcAg/CHROME_ANDROID/ms/45.136.21.69/type/3/sig/wp7II4uSGn0/ct/8/urls/185.226.53.11/clientType/0/id/9225889647151/video/
+DOR-ATH,https://vd398.okcdn.ru/?expires=1759447420466&srcIp=111.65.70.172&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.16&type=3&sig=xfZCdRd1s_k&ct=0&urls=45.136.20.78&clientType=1&id=9225887156783
+USG-NEW1,https://vd394.okcdn.ru/expires/1759447453628/srcIp/111.65.57.100/pr/10/srcAg/CHROME_ANDROID/ms/185.226.53.19/type/5/sig/KGzuX0XQit4/ct/8/urls/45.136.21.23/clientType/0/id/9225086569007/video/
+USG-NEW2,https://vd471.okcdn.ru/?expires=1759447518106&srcIp=111.65.57.100&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.87&type=5&sig=_VZsxc2LvTs&ct=0&urls=45.136.22.45&clientType=1&id=9225390262831
+
+
+
 FMR1001,#genre#
 KAI-RMA1,https://vd437.okcdn.ru/?expires=1759364143422&srcIp=111.65.44.67&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.36&type=5&sig=vlGU9IBMLU4&ct=0&urls=185.226.55.109&clientType=1&id=9219787852335
 KAI-RMA2,https://vd274.okcdn.ru/?expires=1759364224436&srcIp=111.65.44.67&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.24&type=5&sig=ZmvdWXUDKaY&ct=0&urls=45.136.21.20&clientType=1&id=9219984067119
@@ -58,24 +70,6 @@ CP-LIV,https://ok6-12.vkuser.net/?expires=1759109684394&srcIp=124.246.116.255&pr
 MCI-BUR,https://ok6-9.vkuser.net/?expires=1759109754937&srcIp=124.246.116.255&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=5&sig=L9a3UlwO1P0&ct=0&urls=185.226.55.101%3B185.226.53.62&clientType=1&zs=43&id=9199564818991
 BRE-MUN,https://ok6-8.vkuser.net/?expires=1759109844886&srcIp=124.246.116.255&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=uiSBhNHEElY&ct=0&urls=45.136.22.70%3B185.226.53.59&clientType=1&zs=43&id=9199081884207
 BAY-WER,https://ok6-6.vkuser.net/?expires=1759110215991&srcIp=124.246.116.255&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=5&sig=SAKr7zXHwIk&ct=0&urls=45.136.22.59%3B45.136.21.76&clientType=1&zs=43&id=8824289233639
-
-
-FMR0926,#genre#
-OVI-BAR,https://vd359.okcdn.ru/?expires=1758936828788&srcIp=111.65.45.158&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.74&type=3&sig=I-KfmHe4Zuk&ct=0&urls=45.136.20.20&clientType=1&id=9190189894191
-PVL-ARS,https://vd432.okcdn.ru/?expires=1758936989006&srcIp=111.65.45.158&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.29&type=5&sig=vyOLQch7CeQ&ct=0&urls=45.136.22.47&clientType=1&id=8814309542631
-
-FMR0922,#genre#
-MOD21,https://vd560.okcdn.ru/?expires=1758586176514&srcIp=119.234.37.28&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.94&type=4&sig=wMvMYoUrwPo&ct=14&urls=45.136.22.30&clientType=1&id=9189470177808
-ARS-MCI,https://vd226.okcdn.ru/?expires=1758586406814&srcIp=119.234.37.28&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.34&type=4&sig=tosr4VfhLtg&ct=27&urls=185.226.53.12&clientType=1&id=8796537817831
-BAR-GET,https://vd166.okcdn.ru/?expires=1758586302155&srcIp=119.234.37.28&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.13&type=5&sig=kPsIhha5xTs&ct=0&urls=45.136.21.12&clientType=1&id=8860481751638
-
-
-
-
-
-
-
-
 
 
 
