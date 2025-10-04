@@ -1,6 +1,11 @@
 
 
 LIVE,#genre#
+LEE-TOT,https://streamkick.org/master1.php
+LEE,https://d1.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=JPy6FOo0XUYz97WITXyenQ&expires=1759582949
+LEE2,https://playlist.streameast247.com/playlist/stream_1.m3u8?md5=AatehqhS9HCyjnd1joONVQ&expires=1759579386
+
+
 Sky Sports F1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35244
 SG F1,https://d10.merichunidya.com:1686/hls/skysfor1.m3u8?md5=9X3FonojR4ghm6eO_R8wCQ&expires=1759573181
 F1 SG,https://streamkick.org/master6.php
