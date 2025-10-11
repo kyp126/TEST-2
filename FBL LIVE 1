@@ -4,6 +4,10 @@ LIVE,#genre#
 NBA1,https://live.bbapcall.com/live/sd-2-3872681.m3u8?txSecret=7156d5108d8e91619e9faf5ad59f6385&txTime=68E9E669
 NBA2,https://live.bbapcall.com/live/hd-en-2-3872680.m3u8?txSecret=d78c5973186bf5285dc21051b0512798&txTime=68E9E647
 CHI-PER,https://live.bbapcall.com/live/sd-1-4440462.m3u8?txSecret=2ded44b189b8e45a0c78cebd30d8f07a&txTime=68E9E68E
+CUR-JAM,https://hls.suanzsd6.com/sd-6MuT7NBnKpkU54Jh9y.m3u8?txSecret=19779b5f4f4c127cb81f97283457d015&txTime=68EAE4E6
+
+
+
 
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
