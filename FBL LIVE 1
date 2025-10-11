@@ -2,6 +2,9 @@
 
 LIVE,#genre#
 LAT-AND,https://playlist.streameast247.com/playlist/stream_2.m3u8?md5=5dThmYYUVSHH9fI0xXnvTA&expires=1760190296
+CCTV5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20251011200037a0ae7dcf61504c83bf26b551d3a73cb9&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251011200037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.89&SecurityKey=20251011200037&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=001006c74ecad025f124e90ac5bc35cc&ddCalcu=c0c0e511301c00b65cc7a40e9cea4d2012f5
+CCTV5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202510112000376e20e83eac634ade95e1adb413faa696&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251011200037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.89&SecurityKey=20251011200037&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e969f20d8ea887ee819fda28a8df6385&ddCalcu=5e89e361691ff0d280ad882eaad8f8971e8e
+
 
 ARCTIC,https://pl-ali.youku.com/playlist/m3u8?vid=XNjQ5NTkzMzMwNA%3D%3D&type=mp4hdv3&ups_client_netip=2401x7400xc804x376dx854cx4538x3b06x366e&utid=XS1xId3cXH4BASQBdAA7C8vX&ccode=050D&psid=9f174eca2282a4725976379afd56cfac41346&duration=30&expire=18000&drm_type=1&drm_device=7&drm_default=1&hotvt=1&dyt=0&ups_ts=1760182139&onOff=0&encr=0&ups_key=057f87943b47bcb4a7055d1673f845e2&ckt=5&m_onoff=0&pn=&app_key=23536927&drm_type_value=default&v=v1&bkp=0
 
