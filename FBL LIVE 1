@@ -12,7 +12,9 @@ FS1,https://vlive.feanor.sbs/Fox-Sports-1/tracks-v1a1/mono.m3u8
 FS2,https://vlive.feanor.sbs/Fox-Sports-2/tracks-v1/mono.m3u8
 HBO1,https://vlive.feanor.sbs/HBO/tracks-v1a1/mono.m3u8
 HBO2,https://vlive.feanor.sbs/HBO-2/index.m3u8
-
+SKY CINEMA1,https://vlive.feanor.sbs/UK-Sky-Cinema-Comedy/index.m3u8
+SKY CINEMA 2,https://vlive.feanor.sbs/UK-Sky-Cinema-Family/index.m3u8
+SKY CINEMA 3,https://vlive.feanor.sbs/Sky-Cinema-Action/index.m3u8
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
 TSN 4,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
