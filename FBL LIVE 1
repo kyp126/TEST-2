@@ -1,11 +1,6 @@
 
 
 LIVE,#genre#
-LIV-MUN,https://storage.googleapis.com/honey701/mux_video_ts/index-1.m3u8
-LIV1,https://storage.googleapis.com/unzertungishe1/mux_video_ts1/index-1.m3u8
-LIV1,https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=U1GB4gh9E0JFny5eW73qkA&expires=1760892695
-LIV咪,https://hls.suanzsd6.com/hd-en-6MuT7JxGDLvc5LkdoV.m3u8?txSecret=e9c17211874a6a459dbafce209d90a2c&txTime=68F653D0
-LIV CN,https://wwzzcm.com/sport/202_4299713_1.m3u8?txSecret=206f1683cd3d2bc0cc105182b6beb459&txTime=1760887972
 
 
 
@@ -16,6 +11,21 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+
+
+FMR1020,#genre#
+LIV-MUN1,https://vd566.okcdn.ru/?expires=1761002953576&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.96&type=5&sig=z9QLD93JUFc&ct=0&urls=45.136.22.74&clientType=1&id=8887051356867
+LIV-MUN2,https://vd551.okcdn.ru/?expires=1761003010782&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.61&type=5&sig=WVZdxMcU4ck&ct=0&urls=45.136.22.80&clientType=1&id=8887547202243
+TOT-AVL1,https://vd452.okcdn.ru/?expires=1761003296832&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.36&type=5&sig=5SEEtFcV604&ct=0&urls=185.226.52.21&clientType=1&id=8886112029379
+TOT-AVL2,https://vd504.okcdn.ru/?expires=1761003334372&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.14&type=5&sig=35Dv8emqzEs&ct=0&urls=45.136.21.96&clientType=1&id=8886562261699
+
+TOT-AVL,https://vd473.okcdn.ru/?expires=1761003137969&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.89&type=3&sig=SOERLkATuRE&ct=0&urls=185.226.55.68&clientType=1&id=9186834778861
+
+
+
+
+
 
 FMR1019,#genre#
 FUL-ARS1,https://ok6-4.vkuser.net/?expires=1760919706706&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=5&sig=XR5FeTaK9d8&ct=0&urls=185.226.52.24%3B45.136.22.29&clientType=1&zs=43&id=8877379488451
