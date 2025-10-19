@@ -5,27 +5,9 @@ LIV-MUN,https://storage.googleapis.com/honey701/mux_video_ts/index-1.m3u8
 LIV1,https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=U1GB4gh9E0JFny5eW73qkA&expires=1760892695
 
 
-TOT,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202510192000295f2e91c790924a38b87bed4649e41c75&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251019200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.90&SecurityKey=20251019200029&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a8f7909bacac7ad29f594d3478d3bf59&ddCalcu=9a58eff1b71390d0897b4a3cda4c975afd92
-TOT CN,https://wwzzcm.com/sport/202_4299396_1.m3u8?txSecret=ec68156b59ed6d62d1e3188196aa48e5&txTime=1760880480
-TOT-AVL,https://cheapmarket.blog/file/folderpl/note.tor
-TOT1,https://hls.suanzsd6.com/hd-en-6MuT7JxGD5YEyyyDjD.m3u8?txSecret=eb5a031f1c1648bd076b6b66a4463e42&txTime=68F635A7
-
-GEN-PAR,https://d10.merichunidya.com:1686/hls/do47.m3u8?md5=ADP_IWDSWoh5s7IDRfmj4Q&expires=1760883200
-GEN1,https://streameast247.com/playlist/stream_7.m3u8?md5=OcuAUQqtlRhLvnPfd26yig&expires=1760879663
-GEN咪,https://wwzzcm.com/sport/202_4299397_1.m3u8?txSecret=f46567f94363b10e8dd5788a1b517c1b&txTime=1760880308
-
-CAG-BOL,https://d3.merichunidya.com:1686/hls/do8.m3u8?md5=YjWDOw_dqQkd7CwirvkcBA&expires=1760883480
-CAG咪,https://bf.njscwh.com/live/sd-1-4339522.m3u8?txSecret=388abc0c4e16950dbd86a3b5a735e9bd&txTime=68f4e128
-
-ELC-ATH,https://d4.merichunidya.com:1686/hls/laligauk.m3u8?md5=DT-z6y8gm79cQr7GDiZzow&expires=1760881048
-ELC1,https://playlist.streameast247.com/playlist/stream_6.m3u8?md5=_gGbQUZ7IW6FB1Vt9Y4qWA&expires=1760877663
-ELC咪,https://live.bbapcall.com/live/sd-1-4358390.m3u8?txSecret=e46b8b268c0b9c430b010650c9a1bbc0&txTime=68F51975
+LIV2,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202510192000295f2e91c790924a38b87bed4649e41c75&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251019200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.90&SecurityKey=20251019200029&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a8f7909bacac7ad29f594d3478d3bf59&ddCalcu=9a58eff1b71390d0897b4a3cda4c975afd92
 
 
-JUV咪,https://hls.suanzsd6.com/hd-en-6MuSNj1osYT1Ay7CRu.m3u8?txSecret=53395af25731a42b6a9a60e854cde62b&txTime=68F6111C
-COM-JUV,https://d3.merichunidya.com:1686/hls/do47.m3u8?md5=KmP_1xDP1Utn2Mt83Fddqw&expires=1760878116
-JUV,https://zb-play.gpycvac.com/public/366289942_1760869542.flv?txSecret=e4096ede26e31d51880e2e7925c8cc0b&txTime=68F4BCA6
-JUV1,https://d12.epicquesthero.com:999/hls/ncomo.m3u8?md5=MwrFIyqgWydMziMZ8ufDrw&expires=1760878375
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
 TSN 4,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
