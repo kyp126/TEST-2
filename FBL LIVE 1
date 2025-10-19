@@ -1,15 +1,6 @@
 
 
 LIVE,#genre#
-FUL-ARS,https://d8.merichunidya.com:1686/hls/skysme.m3u8?md5=E6G8GNPttfNr-t7s_hoY1w&expires=1760810517
-
-
-
-BAR-GIR,https://storage.googleapis.com/usingertchsd4/mux_video_ts1/index-1.m3u8
-BAR,https://wwzzcm.com/sport/202_4298750_1.m3u8
-
-
-
 
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
@@ -19,6 +10,17 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+FMR1019,#genre#
+FUL-ARS1,https://ok6-4.vkuser.net/?expires=1760919706706&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=5&sig=XR5FeTaK9d8&ct=0&urls=185.226.52.24%3B45.136.22.29&clientType=1&zs=43&id=8877379488451
+FUL-ARS2,https://ok6-7.vkuser.net/?expires=1760919743348&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=5&sig=dNT_AM4-qno&ct=0&urls=185.226.53.44%3B185.226.52.38&clientType=1&zs=43&id=8877944670915
+ATM-OSA,https://ok6-5.vkuser.net/?expires=1760919435764&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=yyb2ibSI55E&ct=0&urls=185.226.55.19%3B185.226.52.38&clientType=1&zs=43&id=8881685007043
+ROM-INT,https://ok6-6.vkuser.net/?expires=1760919526674&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=5&sig=rOx5DfkYmpA&ct=0&urls=185.226.55.94%3B45.136.21.78&clientType=1&zs=43&id=8880452012739
+BAY-BVB,https://ok6-3.vkuser.net/?expires=1760919600300&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=Uu8JfX5iejY&ct=0&urls=45.136.21.73%3B185.226.52.49&clientType=1&zs=43&id=8879812512451
+
+
+
+
 
 
 FMR1018,#genre#
