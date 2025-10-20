@@ -17,7 +17,11 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
-
+FMR1021,#genre#
+WBU-BRE1,https://vd241.okcdn.ru/?expires=1761088682966&srcIp=111.65.56.167&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.49&type=5&sig=5_F0dblBsa4&ct=0&urls=185.226.55.95&clientType=1&id=8898754775747
+WBU-BRE2,https://vd206.okcdn.ru/?expires=1761088721463&srcIp=111.65.56.167&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.14&type=5&sig=5_BEshOvmVY&ct=0&urls=185.226.55.103&clientType=1&id=8898959575747
+ALA-VAL,https://vd598.okcdn.ru/?expires=1761088496437&srcIp=111.65.71.68&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.50&type=3&sig=nfVmkpccfl4&ct=0&urls=45.136.21.71&clientType=1&id=8899043592899
+CRE-UDI,https://vd585.okcdn.ru/?expires=1761088559141&srcIp=111.65.71.68&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.106&type=4&sig=EKFOOHkd7WE&ct=14&urls=45.136.21.20&clientType=1&id=8899039464131
 
 FMR1020,#genre#
 LIV-MUN1,https://vd566.okcdn.ru/?expires=1761002953576&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.96&type=5&sig=z9QLD93JUFc&ct=0&urls=45.136.22.74&clientType=1&id=8887051356867
@@ -93,20 +97,6 @@ SWE-SUI,https://vd340.okcdn.ru/?expires=1760313591938&srcIp=111.65.70.11&pr=10&s
 BLR-DEN,https://vd169.okcdn.ru/?expires=1760313775128&srcIp=111.65.70.11&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.16&type=5&sig=gGXg8AtOSzc&ct=0&urls=185.226.55.16&clientType=1&id=9028972382936
 
 
-FMR1010,#genre#
-ENG-WAL,https://vd568.okcdn.ru/?expires=1760138293635&srcIp=111.65.35.7&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.55&type=3&sig=tEPnxyQOdaU&ct=0&urls=45.136.20.73&clientType=1&id=8898602797799
-
-IDN-SAU,https://vd234.okcdn.ru/?expires=1760138587961&srcIp=119.234.6.183&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.42&type=5&sig=ZUQoBLgkUz4&ct=0&urls=185.226.55.14&clientType=1&id=8908902107659
-DJI-EGY,https://vd339.okcdn.ru/?expires=1760138732966&srcIp=111.65.35.7&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.60&type=5&sig=CEaNYJ6x5XU&ct=0&urls=185.226.55.47&clientType=1&id=8892696103655
-
-
-
-FMR1006,#genre#
-BRE-MCI,https://vd165.okcdn.ru/?expires=1759794730167&srcIp=111.65.69.240&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.12&type=3&sig=3smE8DtQQ8g&ct=0&urls=185.226.55.21&clientType=1&id=9247743543855
-SEV-BAR,https://vd474.okcdn.ru/?expires=1759794795174&srcIp=111.65.56.48&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.90&type=3&sig=5wOHBIFK_VY&ct=0&urls=45.136.22.36&clientType=1&id=9247094999599
-EVE-CP,https://vd206.okcdn.ru/?expires=1759795425016&srcIp=111.65.56.48&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.14&type=5&sig=5I61ZxgzgBE&ct=0&urls=45.136.21.77&clientType=1&id=9247214537263
-NEW-NFO,https://vd455.okcdn.ru/?expires=1759795564316&srcIp=111.65.56.48&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.72&type=5&sig=NpC6yYpmgMA&ct=0&urls=45.136.22.15&clientType=1&id=9247125146159
-AVL-BUR,https://vd463.okcdn.ru/?expires=1759796181481&srcIp=111.65.69.240&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.57&type=3&sig=p6clLTg8B9Q&ct=0&urls=45.136.22.25&clientType=1&id=9247108696623
 
 
 
