@@ -1,10 +1,8 @@
 
 
 LIVE,#genre#
-NBA1,https://live.bbapcall.com/live/sd-2-3866593.flv?txSecret=72e32eb541977db1fadc841d08d389a1&txTime=68F9B6B1
-NBA2,https://live.bbapcall.com/live/hd-en-2-3866378.flv?txSecret=14d13305773d4300c7bb14cfe24fe50b&txTime=68F9B69E
-NBA3,https://live.bbapcall.com/live/hd-en-2-3866378.flv?txSecret=14d13305773d4300c7bb14cfe24fe50b&txTime=68F9B69E
-NBA4,https://live.bbapcall.com/live/hd-en-2-3866485.flv?txSecret=77e73cc030ed7b477bfa01e3d8fb0501&txTime=68F9C499
+
+
 
 
 毕正明的证明,https://ppvod01.kqgfbs.com/splitOut/20251018/1086388/V20251018114904650631086388/index.m3u8?t=68f8e550&whip=124.246.117.125&sign=4991361a8889271e85684343d42dc6bca32e05a5
@@ -15,6 +13,16 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+FMR1024,#genre#
+NFO-POR1,https://ok6-9.vkuser.net/?expires=1761348587087&srcIp=119.234.37.87&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=LNu62M7sPNI&ct=0&urls=185.226.53.39%3B45.136.21.20&clientType=1&zs=43&id=8928569461443
+NFO-POR2,https://ok6-13.vkuser.net/?expires=1761348618706&srcIp=119.234.37.87&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=KfEDd-L2V5U&ct=0&urls=45.136.22.37%3B185.226.52.36&clientType=1&zs=43&id=8928658590403
+LIL-PAOK,https://ok6-4.vkuser.net/?expires=1761348383468&srcIp=119.234.37.87&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=9I8hLcMSk-Q&ct=0&urls=45.136.21.39%3B45.136.22.24&clientType=1&zs=43&id=8928778980035
+ROM-PLZ,https://ok6-8.vkuser.net/?expires=1761348449989&srcIp=119.234.37.87&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=CjuBBffKplk&ct=0&urls=45.136.22.29%3B185.226.55.93&clientType=1&zs=43&id=8928748899011
+
+
+
+
 
 
 
@@ -74,34 +82,12 @@ ATA-LAZ,https://vd572.okcdn.ru/?expires=1761004275623&srcIp=119.234.53.60&pr=10&
 
 
 
-FMR1019,#genre#
-FUL-ARS1,https://ok6-4.vkuser.net/?expires=1760919706706&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=5&sig=XR5FeTaK9d8&ct=0&urls=185.226.52.24%3B45.136.22.29&clientType=1&zs=43&id=8877379488451
-FUL-ARS2,https://ok6-7.vkuser.net/?expires=1760919743348&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=5&sig=dNT_AM4-qno&ct=0&urls=185.226.53.44%3B185.226.52.38&clientType=1&zs=43&id=8877944670915
-ATM-OSA,https://ok6-5.vkuser.net/?expires=1760919435764&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=yyb2ibSI55E&ct=0&urls=185.226.55.19%3B185.226.52.38&clientType=1&zs=43&id=8881685007043
-ROM-INT,https://ok6-6.vkuser.net/?expires=1760919526674&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=5&sig=rOx5DfkYmpA&ct=0&urls=185.226.55.94%3B45.136.21.78&clientType=1&zs=43&id=8880452012739
-BAY-BVB,https://ok6-3.vkuser.net/?expires=1760919600300&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=Uu8JfX5iejY&ct=0&urls=45.136.21.73%3B185.226.52.49&clientType=1&zs=43&id=8879812512451
-BAR-GIR1,https://ok6-10.vkuser.net/?expires=1760920369440&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=5&sig=eeclhp6sMbQ&ct=0&urls=185.226.52.38%3B45.136.22.33&clientType=1&zs=43&id=8876453923523
-BAR-GIR2,https://ok6-12.vkuser.net/?expires=1760920407905&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=5&sig=YhZbxXsPeto&ct=0&urls=185.226.53.88%3B45.136.21.20&clientType=1&zs=43&id=8876892883651
-MCI-EVE,https://ok6-9.vkuser.net/?expires=1760919973400&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=5&sig=qOjCRl1Hw-E&ct=0&urls=185.226.55.46%3B45.136.22.25&clientType=1&zs=43&id=8881890069187
-TOR-NAP,https://ok6-8.vkuser.net/?expires=1760919888378&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=rCNSrSr5uWw&ct=0&urls=45.136.21.12%3B185.226.52.40&clientType=1&zs=43&id=8880534260419
-NIC-LYO,https://vd401.okcdn.ru/?expires=1760920051891&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.14&type=3&sig=kf2CV9pUhzo&ct=0&urls=185.226.55.65&clientType=1&zs=43&id=8877726042819
-SUN-WOL,https://ok6-9.vkuser.net/?expires=1760920108554&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=eSsmMvDPUuY&ct=0&urls=45.136.21.30%3B185.226.55.67&clientType=1&zs=43&id=8877420776131
-CP-BOU,https://ok6-11.vkuser.net/?expires=1760920142223&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=qT0Tac9d-zQ&ct=0&urls=45.136.20.77%3B45.136.22.34&clientType=1&zs=43&id=8877469403843
-BHA-NEW,https://ok6-13.vkuser.net/?expires=1760920204805&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=wLRJdP4clPE&ct=0&urls=185.226.53.62%3B185.226.52.8&clientType=1&zs=43&id=8877398100675
-BUR-LEE,https://ok6-3.vkuser.net/?expires=1760920252657&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=1M2I4C-dfaE&ct=0&urls=185.226.52.12%3B45.136.21.68&clientType=1&zs=43&id=8877437422275
-NFO-CHE1,https://ok6-13.vkuser.net/?expires=1760920629689&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=5&sig=wzkFxPitTc8&ct=0&urls=185.226.52.43%3B45.136.22.78&clientType=1&zs=43&id=8875434248899
-NFO-CHE2,https://ok6-14.vkuser.net/?expires=1760920660531&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=5&sig=NQ21SmX3Hsk&ct=0&urls=45.136.21.36%3B185.226.52.75&clientType=1&zs=43&id=8875779558083
-SEV-MAL,https://ok6-7.vkuser.net/?expires=1760920743612&srcIp=138.75.32.246&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=3&sig=Yqir6ZGSGBM&ct=0&urls=45.136.21.47%3B185.226.52.14&clientType=1&zs=43&id=8876487150275
 
 
 
 
 
 
-FMR1018,#genre#
-OVI-ESP,https://ok6-11.vkuser.net/expires/1760836855071/srcIp/124.246.125.50/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.138/type/3/sig/-LSAF5vQA_g/ct/8/urls/45.136.21.92%3B185.226.53.16/clientType/0/zs/43/id/8871229786819/video/
-PSG-STR,https://ok6-5.vkuser.net/?expires=1760837050032&srcIp=124.246.125.50&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=Gc8ldXNtgwk&ct=0&urls=185.226.53.51%3B45.136.20.73&clientType=1&zs=43&id=8871235488451
-FBU-BMG,https://ok6-9.vkuser.net/?expires=1760837141526&srcIp=124.246.125.50&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=zNZ_ticDcfI&ct=0&urls=185.226.55.23%3B185.226.53.25&clientType=1&zs=43&id=8871232670403
 
 
 
