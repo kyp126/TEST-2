@@ -23,7 +23,9 @@ MUN-BHA1,https://ok6-12.vkuser.net/?expires=1761526796745&srcIp=111.65.33.151&pr
 MUN-BHA2,https://ok6-4.vkuser.net/?expires=1761526836231&srcIp=111.65.33.151&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=5&sig=TviALV8OXEo&ct=0&urls=45.136.21.21%3B45.136.21.18&clientType=1&zs=43&id=8947657935555
 BRE-LIV1,https://ok6-6.vkuser.net/expires/1761526924271/srcIp/111.65.44.241/pr/10/srcAg/CHROME_ANDROID/ms/95.142.206.133/type/5/sig/YD64zYRkdYc/ct/8/urls/45.136.22.41%3B185.226.55.26/clientType/0/zs/43/id/8948197952195/video/
 BRE-LIV2,https://ok6-12.vkuser.net/?expires=1761527035925&srcIp=111.65.44.241&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=5&sig=YpaShAEWekA&ct=0&urls=45.136.22.19%3B185.226.52.33&clientType=1&zs=43&id=8948522945219
-
+NAP-INT,https://ok6-3.vkuser.net/?expires=1761527163401&srcIp=111.65.33.151&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=aPr_A9uyztM&ct=0&urls=185.226.52.20%3B45.136.22.70&clientType=1&zs=43&id=8947872172739
+BRE-PSG,https://ok6-5.vkuser.net/?expires=1761527258492&srcIp=111.65.44.241&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=qP1jUZmpvQA&ct=0&urls=185.226.53.89%3B185.226.52.72&clientType=1&zs=43&id=8947598756547
+BVB-KOE,https://ok6-10.vkuser.net/?expires=1761527377089&srcIp=111.65.44.241&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=3&sig=UkOYQjwrWeQ&ct=0&urls=185.226.52.83%3B185.226.53.23&clientType=1&zs=43&id=8948064193219
 
 
 
