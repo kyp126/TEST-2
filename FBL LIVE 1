@@ -2,28 +2,7 @@
 
 
 LIVE,#genre#
-RMA-BAR,https://storage.googleapis.com/b3325a25/mux_video_ts/index-1.m3u8
-RMA1,https://storage.googleapis.com/unixertronges5/mux_video_ts1/index-1.m3u8
-RMA(C),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20251026220033d24d7a117fef425f983d1870e7b757cf&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251026220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20251026220033&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0b5f9f59a97f73cc4bb0b504e0fdb01d&ddCalcu=d01be052bf1d90ff05e94a0957bf07b3bc4c
 
-ARS-CP,https://cdn-4qpu8aup5tq5.vultrcdn.com/file/folderpl2/note.file?1
-ARS1,http://play7ba.peodlc.com/sport/202_4301696_2.m3u8?txSecret=4db9921b01e211f433f6c63bb8d84dc2&txTime=1761487119
-ARS2,https://hls.suanzsd6.com/hd-en-6MuT7JxG3o3WkSZh9Z.m3u8?txSecret=962ab7c701e7fe85d1a66ec71c6e78a7&txTime=68FF760A
-ARS(C),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251026220033f0ee489b2fc74cc7ba59c5433b5e844a&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251026220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.83&SecurityKey=20251026220033&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e2935e71db9819057e0dccebc7fe48cf&ddCalcu=fec2e892431e50fe77c1bdebc9c8d109e075
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251026200027ada412f2adbd4d918f7b68e095b907d6&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251026200027&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.83&SecurityKey=20251026200027&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9a67e3b41b4b0b73d8e5d1e3be2ff032&ddCalcu=293ae062f71fe023ebb431eb14db50eb87d3
-
-AVL-MCI,https://storage.googleapis.com/unixertronges2/mux_video_ts1/index-1.m3u8
-AVL1,http://hls.suanzsd6.com/hd-en-6MuT7JxG3NsEBAUcTh.m3u8?txSecret=32b156686c28b28e7a2ef7e11779b20f&txTime=68FF7BC4
-AVL咪,http://pullkgq721.qmuiw.com/live/sd-1-4343258.m3u8?auth_key=1761487510-0-0-29642fd46adaa3a8cfa968d0b69049ab
-AVL(C),http://pullkgq721.qmuiw.com/live/sd-1-4343258.m3u8?auth_key=1761487510-0-0-29642fd46adaa3a8cfa968d0b69049ab
-BOU-NFO,https://storage.googleapis.com/unixertronges4/mux_video_ts/index-1.m3u8
-BOU1,http://hls.suanzsd6.com/hd-en-6MuT7JxG3kr2sxjmzf.m3u8?txSecret=944e4a4489d5ff95828acfbc007c03d0&txTime=68FF7BC4
-BOU(C),http://bf.njscwh.com/live/sd-1-4343252.m3u8?txSecret=64471baa7b87c247ca77b435fd1052df&txTime=68fe2cda
-
-WOL-BUR,https://storage.googleapis.com/unixertronges3/mux_video_ts1/index-1.m3u8
-WOL1,http://hls.suanzsd6.com/hd-en-6MuT7JxGPJyyyX2f9H.m3u8?txSecret=e72e14d9e1a523b682cabba6de2fa51d&txTime=68FF7A70
-WOL(C),http://play7ba.peodlc.com/sport/202_4301695_1.m3u8?txSecret=9d86bd9475ec462dbc53b7e2f16db466&txTime=1761487865
-MAL-LEV, http://play7ba.peodlc.com/sport/202_4301361_1.m3u8?txSecret=9fc8288a8720d49e5c2d20333f9534c6&txTime=1761482407
 
 
 
@@ -34,6 +13,12 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+
+FMR1027,#genre#
+RMA-BAR1,https://ok6-3.vkuser.net/?expires=1761607504001&srcIp=119.234.48.36&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=5&sig=507_Y6GzZIw&ct=0&urls=185.226.53.16%3B185.226.55.32&clientType=1&zs=43&id=8954137938627
+RMA-BAR2,https://ok6-3.vkuser.net/?expires=1761607547557&srcIp=119.234.48.36&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=5&sig=3Urg2sYzlPQ&ct=0&urls=185.226.52.13%3B185.226.52.15&clientType=1&zs=43&id=8954706332355
+
 
 
 
