@@ -12,6 +12,7 @@ ARS(C),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8
 AVL-MCI,https://storage.googleapis.com/unixertronges2/mux_video_ts1/index-1.m3u8
 AVL1,http://hls.suanzsd6.com/hd-en-6MuT7JxG3NsEBAUcTh.m3u8?txSecret=32b156686c28b28e7a2ef7e11779b20f&txTime=68FF7BC4
 AVL咪,http://pullkgq721.qmuiw.com/live/sd-1-4343258.m3u8?auth_key=1761487510-0-0-29642fd46adaa3a8cfa968d0b69049ab
+AVL(C),http://pullkgq721.qmuiw.com/live/sd-1-4343258.m3u8?auth_key=1761487510-0-0-29642fd46adaa3a8cfa968d0b69049ab
 BOU-NFO,https://storage.googleapis.com/unixertronges4/mux_video_ts/index-1.m3u8
 BOU1,http://hls.suanzsd6.com/hd-en-6MuT7JxG3kr2sxjmzf.m3u8?txSecret=944e4a4489d5ff95828acfbc007c03d0&txTime=68FF7BC4
 BOU(C),http://bf.njscwh.com/live/sd-1-4343252.m3u8?txSecret=64471baa7b87c247ca77b435fd1052df&txTime=68fe2cda
