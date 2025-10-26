@@ -4,6 +4,8 @@
 LIVE,#genre#
 RMA-BAR,https://storage.googleapis.com/b3325a25/mux_video_ts/index-1.m3u8
 RMA1,https://storage.googleapis.com/unixertronges5/mux_video_ts1/index-1.m3u8
+RMA(C),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20251026220033d24d7a117fef425f983d1870e7b757cf&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251026220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20251026220033&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0b5f9f59a97f73cc4bb0b504e0fdb01d&ddCalcu=d01be052bf1d90ff05e94a0957bf07b3bc4c
+
 ARS-CP,https://cdn-4qpu8aup5tq5.vultrcdn.com/file/folderpl2/note.file?1
 ARS1,http://play7ba.peodlc.com/sport/202_4301696_2.m3u8?txSecret=4db9921b01e211f433f6c63bb8d84dc2&txTime=1761487119
 ARS2,https://hls.suanzsd6.com/hd-en-6MuT7JxG3o3WkSZh9Z.m3u8?txSecret=962ab7c701e7fe85d1a66ec71c6e78a7&txTime=68FF760A
