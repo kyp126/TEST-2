@@ -12,6 +12,9 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
+FMR1028,#genre#
+BET-ATM,https://ok6-8.vkuser.net/?expires=1761693088779&srcIp=111.65.47.134&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=4&sig=4uyYvr8ogKA&ct=14&urls=185.226.55.46%3B45.136.22.59&clientType=1&zs=43&id=8965104863939
+
 
 FMR1027,#genre#
 RMA-BAR1,https://ok6-3.vkuser.net/?expires=1761607504001&srcIp=119.234.48.36&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=5&sig=507_Y6GzZIw&ct=0&urls=185.226.53.16%3B185.226.55.32&clientType=1&zs=43&id=8954137938627
@@ -104,18 +107,6 @@ WBU-BRE1,https://vd241.okcdn.ru/?expires=1761088682966&srcIp=111.65.56.167&pr=10
 WBU-BRE2,https://vd206.okcdn.ru/?expires=1761088721463&srcIp=111.65.56.167&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.14&type=5&sig=5_BEshOvmVY&ct=0&urls=185.226.55.103&clientType=1&id=8898959575747
 ALA-VAL,https://vd598.okcdn.ru/?expires=1761088496437&srcIp=111.65.71.68&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.50&type=3&sig=nfVmkpccfl4&ct=0&urls=45.136.21.71&clientType=1&id=8899043592899
 CRE-UDI,https://vd585.okcdn.ru/?expires=1761088559141&srcIp=111.65.71.68&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.106&type=4&sig=EKFOOHkd7WE&ct=14&urls=45.136.21.20&clientType=1&id=8899039464131
-
-FMR1020,#genre#
-LIV-MUN1,https://vd566.okcdn.ru/?expires=1761002953576&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.96&type=5&sig=z9QLD93JUFc&ct=0&urls=45.136.22.74&clientType=1&id=8887051356867
-LIV-MUN2,https://vd551.okcdn.ru/?expires=1761003010782&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.61&type=5&sig=WVZdxMcU4ck&ct=0&urls=45.136.22.80&clientType=1&id=8887547202243
-TOT-AVL1,https://vd452.okcdn.ru/?expires=1761003296832&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.36&type=5&sig=5SEEtFcV604&ct=0&urls=185.226.52.21&clientType=1&id=8886112029379
-TOT-AVL2,https://vd504.okcdn.ru/?expires=1761003334372&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.14&type=5&sig=35Dv8emqzEs&ct=0&urls=45.136.21.96&clientType=1&id=8886562261699
-TOT-AVL,https://vd473.okcdn.ru/?expires=1761003137969&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.89&type=3&sig=SOERLkATuRE&ct=0&urls=185.226.55.68&clientType=1&id=9186834778861
-GET-RMA1,https://vd540.okcdn.ru/?expires=1761004000804&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.50&type=5&sig=DDLIne9texw&ct=0&urls=45.136.22.47&clientType=1&id=8888190569155
-GET-RMA2,https://vd303.okcdn.ru/?expires=1761004032271&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.12&type=5&sig=2u3ZMWHzWJo&ct=0&urls=185.226.52.22&clientType=1&id=8888399170243
-MIL-FIO,https://vd577.okcdn.ru/?expires=1761004134257&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.99&type=3&sig=qH0ZE8SXZYo&ct=0&urls=45.136.22.52&clientType=1&id=8888443669187
-COM-JUV,https://vd488.okcdn.ru/?expires=1761004210720&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.60&type=3&sig=vQiWX59KyqY&ct=0&urls=45.136.21.95&clientType=1&id=8886277311171
-ATA-LAZ,https://vd572.okcdn.ru/?expires=1761004275623&srcIp=119.234.53.60&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.92&type=3&sig=tl7XyknHz8k&ct=0&urls=185.226.55.68&clientType=1&id=8888331078339
 
 
 
