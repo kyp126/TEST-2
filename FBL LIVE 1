@@ -2,9 +2,7 @@
 LIVE,#genre#
 
 
-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=2025102820004272bdccb8aa1f402a92addc5452a50e90&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251028200042&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.90&SecurityKey=20251028200042&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=081cd9d9cceb8412564e76b70b471046&ddCalcu=6048e0121c17d049bd097cbc6e7be8446152
-CCTV5,http://119.129.172.250:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://119.129.172.141:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
 TSN 4,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
