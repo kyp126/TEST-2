@@ -1,6 +1,5 @@
 
 LIVE,#genre#
-M1,https://ppvod02.q19jcg.com/splitOut/20251017/1085311/V20251017233049086371085311/index.m3u8?auth_key=1761824842-137b29634e6146de93f93f0a10ac11ce-0-c0e930818f7b3600abb7b3256dccef72
 
 
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
@@ -11,6 +10,10 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
+
+FMR1101,#genre#
+GET-GIR,https://vd567.okcdn.ru/?expires=1762043472217&srcIp=111.65.35.140&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.57&type=3&sig=v5CTDyakkbo&ct=0&urls=185.226.53.59&clientType=1&id=9007472380611
+AUG-DOR,https://vd520.okcdn.ru/?expires=1762043566959&srcIp=111.65.47.80&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.30&type=3&sig=Hb9gligvoSY&ct=0&urls=185.226.53.75&clientType=1&id=9007435287235
 
 FMR1030,#genre#
 ARS-BHA,https://ok6-11.vkuser.net/?expires=1761866655475&srcIp=111.65.35.155&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=4&sig=KqKZwCRbDpE&ct=14&urls=185.226.52.76%3B185.226.52.8&clientType=1&zs=43&id=8988339014339
