@@ -2,26 +2,10 @@
 
 
 LIVE,#genre#
-CP-BHA,https://matchio.zip/1111.php
-CP CCTV5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202511092000241d8ff1a415eb4943900567ee3b4fbc96&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251109200024&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.88&SecurityKey=20251109200024&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d330f4e0b66b0d5d860f227ef547e944&ddCalcu=4d43e930e017f0445ef0eb76262bf00d658d
-CP咪,https://live.vivo200.com/live/sd-1-4343302.m3u8?txSecret=da6c52581fb0c95ab43ede60ef58003d&txTime=6910E52D
-
-
-AVL-BOU,https://matchio.zip/3333.php
-AVL咪,https://live.vivo200.com/live/sd-1-4343299.m3u8?txSecret=c1fe131978effd3e304fc1c3f18ccacd&txTime=6910E509
-
-
-BRE-NEW,https://matchio.zip/2222.php
-BRE咪,https://live.vivo200.com/live/sd-1-4343300.m3u8?txSecret=bfbcb94bf273532f34842ec0c969d204&txTime=6910E514
 
 
 
-NFO-LEE,https://matchio.zip/4444.php
-NFO咪,https://live.vivo200.com/live/sd-1-4343305.m3u8?txSecret=3923edfa870e7bbac3648f860ddc7344&txTime=6910E537
 
-
-ATH-ROV,https://est.dhscgrsresri.space/simpch7/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzYyNjkzOTk1LCJyYW5kIjoiNzg3ZDU1NzNkOTEwMDIxZSJ9.f0d180dd406092e41eec031b56e4fb96c22f2c29828b455f30bde60d0a9a5832
-ATH,https://play7ba.peodlc.com/live/202_4305552_1.m3u8?txSecret=3f06298ec05f40f8b65b2d7f50e24b19&txTime=6910ca7a
 
 
 BBC1108,https://ok6-6.vkuser.net/expires/1762778696551/srcIp/138.75.59.170/pr/10/srcAg/CHROME_ANDROID/ch/1676822812/ms/95.142.206.133/type/3/sig/6UvUrECLF28/ct/8/urls/45.136.21.10%3B185.226.53.99/clientType/0/zs/43/id/9154377222887/video/
@@ -33,6 +17,13 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+
+FMR1110,#genre#
+MCI-LIV1,https://vd504.okcdn.ru/?expires=1762817078268&srcIp=119.234.69.34&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.14&type=5&sig=p-Xe9wEgY6E&ct=0&urls=45.136.21.74&clientType=1&id=9097808382659
+MCI-LIV2,https://vd289.okcdn.ru/?expires=1762817113417&srcIp=119.234.69.34&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.39&type=5&sig=Bw2z1tYzfj8&ct=0&urls=45.136.22.73&clientType=1&id=9098249767619
+
+
 
 
 
