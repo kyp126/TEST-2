@@ -2,7 +2,6 @@
 
 
 LIVE,#genre#
-HEAT,https://live.vivo200.com/live/hd-en-2-3866937.flv?txSecret=88e20da4d074a35b6d65f37119d2ef0e&txTime=691C04C2
 
 WCQ UEFA1116,https://ok6-11.vkuser.net/?expires=1763471830004&srcIp=124.246.94.5&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=5&sig=ClG5EpvddbQ&ct=0&urls=45.136.22.36%3B185.226.53.75&clientType=1&zs=43&id=9276622375654
 
@@ -18,6 +17,17 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+NBA1118,#genre#
+BULL-NUGGET,https://ok6-3.vkuser.net/?expires=1763550090222&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=_ozMD07BqP8&ct=0&urls=185.226.55.62%3B45.136.22.41&clientType=1&zs=43&id=9285401184854
+MAVERICK-TIMBERWOLVE,https://ok6-12.vkuser.net/?expires=1763550236081&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=OkdSTvMe6gw&ct=0&urls=45.136.21.38%3B45.136.22.13&clientType=1&zs=43&id=9285473929814
+THUNDER-NOP,https://ok6-13.vkuser.net/?expires=1763550316788&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=fZ3vutp4G-U&ct=0&urls=45.136.21.16%3B45.136.22.13&clientType=1&zs=43&id=9285496146518
+KNICK-HEAT,https://ok6-3.vkuser.net/?expires=1763550397320&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=1kiRYzbxJh0&ct=0&urls=45.136.21.96%3B185.226.55.51&clientType=1&zs=43&id=9285435001430
+HORNET-RAPTOR,https://ok6-9.vkuser.net/?expires=1763550474757&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=AzuwWOEHwkQ&ct=0&urls=185.226.53.62%3B45.136.22.16&clientType=1&zs=43&id=9285584620118
+BUCK-CAVE,https://ok6-12.vkuser.net/?expires=1763550559699&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=-30PhEXWG3I&ct=0&urls=45.136.21.54%3B185.226.55.65&clientType=1&zs=43&id=9285533370966
+CLIPPER-76,https://ok6-5.vkuser.net/?expires=1763550632992&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=gyASc1UOxNY&ct=0&urls=185.226.53.18%3B45.136.22.61&clientType=1&zs=43&id=9285254056534
+PACER-PISTON,https://ok6-4.vkuser.net/?expires=1763550741591&srcIp=124.197.94.48&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=T3zF5EAJDZY&ct=0&urls=185.226.53.38%3B45.136.21.73&clientType=1&zs=43&id=9285366057558
+
 
 NBA1117,#genre#
 GSW-PELICAN,https://ok6-6.vkuser.net/?expires=1763463493733&srcIp=124.246.94.5&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=PeMNi_NVjoE&ct=0&urls=45.136.22.43%3B185.226.55.67&clientType=1&zs=43&id=9096871676485
