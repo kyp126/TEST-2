@@ -19,6 +19,15 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
+
+
+NBA1121,#genre#
+KING-GRIZZLIE,https://ok6-10.vkuser.net/?expires=1763811817060&srcIp=124.246.117.0&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=3&sig=NMqLIKhYOWs&ct=0&urls=45.136.22.7%3B45.136.21.21&clientType=1&zs=43&id=9580137679477
+HAWK-SPURS,https://ok6-5.vkuser.net/?expires=1763811974686&srcIp=124.246.117.0&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=KtZRql_vMaM&ct=0&urls=45.136.22.80%3B185.226.53.105&clientType=1&zs=43&id=9124331850398
+76-BUCK,https://ok6-13.vkuser.net/?expires=1763812125803&srcIp=124.246.117.0&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=BswO4GgNpkg&ct=0&urls=45.136.22.14%3B185.226.53.42&clientType=1&zs=43&id=9450608331284
+CLIPPER-MAGIC,https://ok6-6.vkuser.net/?expires=1763812256222&srcIp=124.246.117.0&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=ztQTWe-kGQk&ct=0&urls=185.226.52.17%3B45.136.21.49&clientType=1&zs=43&id=9200411085405
+
+
 NBA1120,#genre#
 HORNET-PACER,https://ok6-12.vkuser.net/?expires=1763722794393&srcIp=124.197.113.149&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=869nhKPeA20&ct=0&urls=45.136.21.93%3B185.226.55.53&clientType=1&zs=43&id=9461407812333
 BULL-BLAZER,https://ok6-7.vkuser.net/?expires=1763722884571&srcIp=124.197.113.149&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=3&sig=YXvJ5qm34rg&ct=0&urls=185.226.55.59%3B185.226.52.72&clientType=1&zs=43&id=9305477155414
@@ -84,24 +93,6 @@ SER-LAT,https://vikingf1le.us.to/d/7ZqkmBXkcn/Serbia%20-%20Latvia.mp4
 
 
 
-NBA1116,#genre#
-LAKER-BUCK,https://ok6-14.vkuser.net/?expires=1763375434186&srcIp=124.246.65.166&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=iOfTMJ_V7SM&ct=0&urls=185.226.55.114%3B45.136.22.46&clientType=1&zs=43&id=9183707138721
-NUGGET-TIMBERWOLVE,https://ok6-11.vkuser.net/?expires=1763375521060&srcIp=124.246.65.166&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=1mElDW0T0EI&ct=0&urls=45.136.22.47%3B45.136.21.78&clientType=1&zs=43&id=9183663360673
-THUNDER-HORNET,https://ok6-4.vkuser.net/?expires=1763375633009&srcIp=124.246.65.166&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=vchx134z9QA&ct=0&urls=185.226.52.37%3B45.136.22.49&clientType=1&zs=43&id=9183849155233
-RAPTOR-PACER,https://ok6-13.vkuser.net/?expires=1763375707967&srcIp=124.246.65.166&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=-h502OiTDVI&ct=0&urls=185.226.55.29%3B45.136.21.27&clientType=1&zs=43&id=9184080431777
-GRIZZ-CAVE,https://ok6-13.vkuser.net/?expires=1763375707967&srcIp=124.246.65.166&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=-h502OiTDVI&ct=0&urls=185.226.55.29%3B45.136.21.27&clientType=1&zs=43&id=9184080431777
-
-
-NBA1115,#genre#
-GSW-SPUR,https://vd565.okcdn.ru/?expires=1763337976492&srcIp=119.234.8.100&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.41&type=3&sig=6qfwtYNcOGs&ct=0&urls=185.226.52.43&clientType=1&id=9576691731185
-LAKER-PELICAN,https://vd431.okcdn.ru/?expires=1763338049968&srcIp=119.234.8.100&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.28&type=3&sig=JRLxfXMtiV8&ct=0&urls=185.226.52.50&clientType=1&id=9452884068942
-CLIPPER-MAVERICK,https://vd403.okcdn.ru/?expires=1763338131007&srcIp=111.65.68.230&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.45&type=3&sig=9r3ajXNp2xs&ct=0&urls=185.226.55.61&clientType=1&id=9377440467512
-NET-MAGIC,https://vd395.okcdn.ru/?expires=1763338187545&srcIp=111.65.68.230&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.20&type=3&sig=MzFgUNVBFN8&ct=0&urls=45.136.21.36&clientType=1&id=9072077638399
-BLAZER-ROCKET,https://vd589.okcdn.ru/?expires=1763338267033&srcIp=111.65.68.230&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.95&type=3&sig=VWfNZEe-O5k&ct=0&urls=45.136.21.6&clientType=1&id=9323835951801
-KING-TIMBERWOLVES,https://vd247.okcdn.ru/?expires=1763338363157&srcIp=119.234.8.100&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.48&type=3&sig=JF51FO7fIuU&ct=0&urls=185.226.53.58&clientType=1&id=9545152137907
-HORNET-BUCK,https://vd583.okcdn.ru/?expires=1763338453296&srcIp=119.234.8.100&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.104&type=3&sig=B5-A0deaC0k&ct=0&urls=185.226.52.62&clientType=1&id=9315109440217
-76-PISTON,https://vd483.okcdn.ru/?expires=1763338525093&srcIp=111.65.68.230&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.27&type=3&sig=pWHmE6isJls&ct=0&urls=45.136.21.32&clientType=1&id=9378534263468
-HEAT-KNICK,https://ok6-7.vkuser.net/?expires=1763340905635&srcIp=124.246.65.166&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=3&sig=NxI1bWT2CkI&ct=0&urls=185.226.52.72%3B185.226.55.44&clientType=1&zs=43&id=8989681977858
 
 
 
