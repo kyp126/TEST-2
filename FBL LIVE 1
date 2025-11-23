@@ -2,13 +2,6 @@
 
 
 LIVE,#genre#
-LEE-AVL,https://storage.googleapis.com/poiurttubvedh1/mux_video_ts/index-1.m3u8
-LEE1,https://pullsgp.yyzb456.top/live/stream-698168_lhd.flv?auth_key=1763908752-0-0-3d70fc941bd06f947448972f79f8b275
-LEE2,https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1763909352-0-0-75918a934775f23d7e06247970965bb3
-LEE咪,https://live.vivo200.com/live/sd-1-4343335.m3u8?txSecret=6889b871cbc8f4a27137d0b768ed8c87&txTime=692359D7
-
-CRE-ROM,https://live.vivo200.com/live/sd-1-4339572.m3u8?txSecret=dc9ab03b681ab9a65f7f3b679fc22453&txTime=692359E4
-CRE,https://myhostips.com/assets/articleserie/fronts.woff2?6f5f58023dece522
 
 
 
@@ -20,6 +13,15 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+
+
+
+
+FMR1124,#genre#
+ARS-TOT1,https://vd218.okcdn.ru/?expires=1764026239000&srcIp=111.65.71.205&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.26&type=5&sig=hjJrksjSI7c&ct=0&urls=185.226.52.57&clientType=1&id=9300411615753
+ARS-TOT2,https://vd279.okcdn.ru/?expires=1764026284598&srcIp=111.65.71.205&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.29&type=5&sig=Z2uPTyc1Pi0&ct=0&urls=45.136.22.48&clientType=1&id=9300855294473
+
 
 
 
