@@ -4,21 +4,6 @@
 LIVE,#genre#
 SEV-BET,https://live.vivo200.com/live/sd-1-4358480.m3u8?txSecret=bdfc6ab0e220f34b6817d5f0e7864c68&txTime=692CA266
 
-WHU-LIV,https://storage.googleapis.com/unixertingover1/mux_video_ts1/index-1.m3u8
-LIV,https://live.vivo200.com/live/sd-1-4343366.m3u8?txSecret=a1a4bb08020960d74acb61b0528c37f8&txTime=692C947B
-LIV1,https://migu.188766.xyz/?migutoken=8e76d1658873121fd98b08417623f303&id=CCTV5&type=yy
-LIV2,https://migu.188766.xyz/?migutoken=298c0fd69069713d1584695c868a8ce4&id=CCTV5p&type=yy
-
-AVL-WOL,https://storage.googleapis.com/portuyifnvrsvrc1/mux_video_ts1/index-1.m3u8
-AVL,https://live.vivo200.com/live/sd-1-4343347.m3u8?txSecret=b3503255425e3027f7bf7f7ff4134236&txTime=692C9466
-
-NFO-BHA,https://storage.googleapis.com/unixertingover2/mux_video_ts1/index-1.m3u8
-NFO,https://play7ba.peodlc.com/live/202_4313164_1.m3u8
-
-
-PISA-INT,https://storage.googleapis.com/portuyifnvrsvrc2/mux_video_ts1/index-1.m3u8
-PISA,https://play7ba.peodlc.com/live/202_4313865_1.m3u8
-RSO-VILL,https://live.vivo200.com/live/sd-1-4358477.m3u8?txSecret=d9e9f2d63120d72a8216c0dc07c3f00e&txTime=692C8D4B
 
 
 
