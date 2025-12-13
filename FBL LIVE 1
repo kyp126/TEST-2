@@ -30,6 +30,14 @@ WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
 
+
+
+FMR1214,#genre#
+ARS-WOL1,https://rr.vikingfile.com/Smcv70YJkF/Arsenal%20vs%20Wolves%201.ts
+ARS-WOL2,https://rr.vikingfile.com/vYc1CW8Pjg/Arsenal%20vs%20Wolves%202.ts
+
+
+
 NBA1213,#genre#
 TIMBERWOLVES-GSW,https://ok6-12.vkuser.net/?expires=1765699952909&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=4&sig=O6O4Jr1mud0&ct=14&urls=185.226.53.15%3B185.226.55.45&clientType=1&zs=43&id=9607805930070
 NETS-MAVERICK,https://ok6-13.vkuser.net/?expires=1765700068220&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=4&sig=U11IDZ-j9tM&ct=14&urls=185.226.53.25%3B45.136.22.11&clientType=1&zs=43&id=9607623477846
@@ -120,50 +128,14 @@ KAI-OLY,https://west-eu-upload.vikingfile.com/LGhscgNTpR/Kairat%20vs%20Olympiaco
 
 
 
-NBA1209,#genre#
-SPURS-NOP,https://ok6-5.vkuser.net/?expires=1765364077572&srcIp=124.246.79.161&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=7m6WIkvILcU&ct=0&urls=45.136.21.4%3B185.226.52.47&clientType=1&zs=43&id=9533363849814
-SUN-TIMBERWOLVES,https://ok6-2.vkuser.net/?expires=1765364221550&srcIp=124.246.79.161&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=3&sig=atQxrge8rz0&ct=0&urls=185.226.53.11%3B185.226.52.74&clientType=1&zs=43&id=9533544467030
-KING-PACER,https://ok6-12.vkuser.net/?expires=1765364295843&srcIp=124.246.79.161&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=ABXKrLzXt9U&ct=0&urls=185.226.52.15%3B185.226.55.59&clientType=1&zs=43&id=9533728754262
 
 
 
 
 
 
-FMR1209,#genre#
-WOL-MUN1,https://rr.vikingfile.com/qcADkUY8ip/Wolverhampton%20Wanderers%20vs%20Manchester%20United%201.ts
-WOL-MUN2,https://rr.vikingfile.com/rR0kbZvRad/Wolves%20vs%20Manchester%20United%202.ts
-TOR-MIL,https://west-eu-upload.vikingfile.com/wzMeSuHvqQ/Torino%20vs%20Milan.mp4
-RMA,https://rr.vikingfile.com/p2FPypuZKC/Real%20Madrid%20vs%20Celta%20E.ts
 
 
-
-
-
-
-NBA1208,#genre#
-LAKER-76ers,https://vd535.okcdn.ru/?expires=1765276665912&srcIp=119.234.36.69&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.45&type=3&sig=ubrOITQwx4Q&ct=0&urls=185.226.52.47&clientType=1&id=9640140343980
-WARRIOR-BULLS,https://vd164.okcdn.ru/?expires=1765276744043&srcIp=119.234.36.69&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.11&type=3&sig=isHCj6b9IuE&ct=0&urls=185.226.53.12&clientType=1&id=9640779385516
-THUNDER-JAZZ,https://vd588.okcdn.ru/?expires=1765276810602&srcIp=119.234.36.69&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.109&type=3&sig=tKHfRDMEwUk&ct=0&urls=45.136.21.57&clientType=1&id=9640869956268
-NUGGET-HORNET,https://vd163.okcdn.ru/?expires=1765276893754&srcIp=119.234.36.69&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.10&type=3&sig=Mo0E1Nfurl4&ct=0&urls=45.136.22.96&clientType=1&id=9640695040684
-PORTLAND-MEMPHIS,https://vd445.okcdn.ru/?expires=1765276982149&srcIp=119.234.36.69&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.94&type=3&sig=3kBmX5X-PGk&ct=0&urls=185.226.53.74&clientType=1&id=9358049479389
-CELTIC-RAPTOR,https://vd217.okcdn.ru/?expires=1765277041037&srcIp=119.234.36.69&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.25&type=3&sig=hmAncMFYEaM&ct=0&urls=45.136.21.18&clientType=1&id=9640622557868
-MAGIC-KNICK,https://vd448.okcdn.ru/?expires=1765277098734&srcIp=119.234.36.69&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.35&type=3&sig=galol7NA_UI&ct=0&urls=45.136.21.77&clientType=1&id=9511502088790
-
-
-FMR1208,#genre#
-RMA-CEL,https://rr.vikingfile.com/p2FPypuZKC/Real%20Madrid%20vs%20Celta%20E.ts
-RMA,https://rr.vikingfile.com/N2x7aDpT0s/Real%20Madrid%20vs%20Celta.mp4
-
-https://rr.vikingfile.com/p2FPypuZKC/Real%20Madrid%20vs%20Celta%20E.ts
-NAP-JUV,https://rr.vikingfile.com/b21XUSody8/Napoli%20vs%20Juventus.mp4
-NAP,https://rr.vikingfile.com/b21XUSody8/Napoli%20vs%20Juventus.mp4
-FUL-CP,https://rr.vikingfile.com/RywuoqSlrQ/Fulham%20-%20Crystal%20Palace.mp4
-BHA-WHU,https://rr.vikingfile.com/S0ri3lSsxT/Brighton%20vs%20West%20Ham.mp4
-BVB-HOF,https://west-eu-upload.vikingfile.com/IwRQVUVCpd/Borussia.mp4
-BVB,https://rr.vikingfile.com/Ur26oOWuX6/Borussia.mp4
-CAG-ROM,https://rr.vikingfile.com/EtJMQ52iQk/Cagliari%20-%20Roma.mp4
-ROM,https://rr.vikingfile.com/EtJMQ52iQk/Cagliari%20-%20Roma.mp4
 
 
 
