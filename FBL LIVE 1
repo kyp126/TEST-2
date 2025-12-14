@@ -1,6 +1,7 @@
 
 LIVE,#genre#
 CP(TV5),https://iptv.catvod.com/live.php?id=CCTV-5
+CP(CCTV),https://migu.188766.xyz/?migutoken=d8662ffffa59240b9787c0e672c9563b&id=CCTV5&type=yy
 SEV-OVI,https://play7ba.peodlc.com/live/202_4316268_1.m3u8
 SEV,https://est.dhscgrsresri.space/simpch3/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzY1NzE5OTg2LCJyYW5kIjoiNDM2NGE0YTAwYjJkNDI2YSJ9.ecbf1af3b1c83a0e2483002f4c83b7e13625916d1aae1b2e927b17aa2e3e4514
 MIL-SAS,https://play7ba.peodlc.com/live/202_4316565_1.m3u8
