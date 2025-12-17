@@ -19,6 +19,14 @@ WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
 
+
+
+FMR1218,#genre#
+NEW-FUL,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/NDblF86Q1S?response-content-disposition=attachment%3B%20filename%3D%22Newcastle%20United%20vs%20Fulham.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251217%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251217T232219Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=6e7c47fddd8ef9398e32db2f9fd899e893b3c1213df1107cb61d86161ed436e0
+NEW,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/bHhaiHv59y?response-content-disposition=attachment%3B%20filename%3D%22Newcastle%20vs%20Fulham.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251217%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251217T232247Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=b617364c95ac03650aa1c9b019fa1c1b0c5174d925ceff114d27662fa706cae5
+
+
+
 NBA1217,#genre#
 SPUR-NYK,https://ok6-8.vkuser.net/?expires=1766054791533&srcIp=124.246.76.98&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=5&sig=N7_zrWIVXls&ct=0&urls=185.226.53.45%3B45.136.22.95&clientType=1&zs=43&id=9832555481656
 
@@ -85,78 +93,6 @@ AUX-LIL,https://west-eu-upload.vikingfile.com/60iDzPe8ue/Auxerre%20-%20Lille.mp4
 FRE-BVB,https://west-eu-upload.vikingfile.com/FpSvgcYq77/Freiburg%20-%20Borussia%20D.mp4
 FIO-VER,https://rr.vikingfile.com/zYtfQdcu3l/Fiorentina%20-%20Verona.mp4
 UDI-NAP,https://west-eu-upload.vikingfile.com/nkJFwZHQvf/Udinese%20vs%20Napoli.mp4
-
-
-NBA1214,#genre#
-SPURS-THUNDER,https://ok6-13.vkuser.net/?expires=1765795407057&srcIp=124.246.112.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=mclsF6PT1f8&ct=0&urls=185.226.55.28%3B185.226.53.21&clientType=1&zs=43&id=9747937823404
-NYK-MAGIC,https://ok6-13.vkuser.net/?expires=1765795585168&srcIp=124.246.112.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=cuN2SEhF0QA&ct=0&urls=185.226.55.33%3B45.136.21.4&clientType=1&zs=43&id=9747845614252
-TIMBERWOLVES-GSW,https://ok6-12.vkuser.net/?expires=1765795744364&srcIp=124.246.112.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=56rwgaSiaog&ct=0&urls=185.226.53.15%3B185.226.55.45&clientType=1&zs=43&id=9607805930070
-NETS-MAVERICK,https://ok6-13.vkuser.net/?expires=1765795814392&srcIp=124.246.112.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=3oJx57dztVg&ct=0&urls=185.226.53.25%3B45.136.22.11&clientType=1&zs=43&id=9607623477846
-
-
-
-
-
-
-
-FMR1214,#genre#
-ARS-WOL1,https://rr.vikingfile.com/Smcv70YJkF/Arsenal%20vs%20Wolves%201.ts
-ARS-WOL2,https://rr.vikingfile.com/vYc1CW8Pjg/Arsenal%20vs%20Wolves%202.ts
-ARS1,https://rr.vikingfile.com/Smcv70YJkF/Arsenal%20vs%20Wolves%201.ts
-ARS2,https://rr.vikingfile.com/vYc1CW8Pjg/Arsenal%20vs%20Wolves%202.ts
-ARS,https://rr.vikingfile.com/cQCiB8Ftgt/Arsenal%20vs%20Wolverhampton%20Wanderers.mp4
-BAR-OSA,https://rr.vikingfile.com/LmchAP2TEb/Barcelona%20vs%20Osasuna.mp4
-METZ-PSG,https://rr.vikingfile.com/dsffS4oRhe/Metz%20vs%20PSG.mp4
-#https://cv9fqnu812v.cdn-centaurus.com/hls2/01/13241/pnxanmjbehft_o/index-v1-a1.m3u8?t=RxLFzDuIi5Y9HnMYXgIeSH4BhdfyzsJQMcvI4ZpEsxs&s=1765670094&e=129600&f=66207345&srv=cagzkwoug9m&i=0.4&sp=500&p1=cagzkwoug9m&p2=cagzkwoug9m&asn=45143#https://west-eu-upload.vikingfile.com/Br9AMttRxI/Metz%20vs%20PSG.mp4
-CHE-EVE,https://rr.vikingfile.com/j4Ex8yKfLZ/Chelsea%20vs%20Everton.mp4
-LIV-BHA1,https://rr.vikingfile.com/PnOGYUgQLu/Liverpool%20vs%20Brighton%20%26%20Hove%20Albion%201.mp4
-LIV-BHA2,https://rr.vikingfile.com/8XFF0n8PnY/Liverpool%20vs%20Brighton%20%26%20Hove%20Albion%202.mp4
-BUR-FUL,https://west-eu-upload.vikingfile.com/OTvv7kf875/Burnley%20-%20Fulham.mp4
-B04-KOL,https://west-eu-upload.vikingfile.com/aa24S4fCqJ/Bayer%20-%20Cologne.mp4
-PAR-LAZ,https://west-eu-upload.vikingfile.com/sVCZqFJvwj/Parma%20vs%20Lazio1.mp4
-ATA-CAG,https://west-eu-upload.vikingfile.com/1VTjWlR76l/Atalanta%20to%20Cagliari.mp4
-GET-ESP,https://west-eu-upload.vikingfile.com/J4OK7tvZRE/Getafe%20vs%20Espanyol.mp4
-ATM-VAL,https://rr.vikingfile.com/1NfNJx6lTa/Atl%C3%A9tico%20Madrid%20vs%20Valencia.mp4
-
-
-
-NBA1213,#genre#
-TIMBERWOLVES-GSW,https://ok6-12.vkuser.net/?expires=1765699952909&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=4&sig=O6O4Jr1mud0&ct=14&urls=185.226.53.15%3B185.226.55.45&clientType=1&zs=43&id=9607805930070
-NETS-MAVERICK,https://ok6-13.vkuser.net/?expires=1765700068220&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=4&sig=U11IDZ-j9tM&ct=14&urls=185.226.53.25%3B45.136.22.11&clientType=1&zs=43&id=9607623477846
-JAZZ-GRIZZ,https://ok6-1.vkuser.net/?expires=1765700135183&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=4&sig=v-WvVY9JR08&ct=14&urls=45.136.22.70%3B185.226.53.86&clientType=1&zs=43&id=9608049986134
-HAWK-PISTON,https://ok6-2.vkuser.net/?expires=1765700244671&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=3&sig=d0HFt9EC-2I&ct=0&urls=185.226.55.32%3B185.226.52.36&clientType=1&zs=43&id=9607715686998
-PACER-76ERS,https://ok6-8.vkuser.net/?expires=1765700325299&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=4&sig=_adeVOeuoFE&ct=14&urls=45.136.21.96%3B45.136.22.36&clientType=1&zs=43&id=9607933200982
-CAVA-WIZARD,https://ok6-9.vkuser.net/?expires=1765700393300&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=4&sig=xxfaa5cLBds&ct=14&urls=185.226.52.82%3B45.136.22.19&clientType=1&zs=43&id=9607994018390
-BULL-HORNET,https://ok6-12.vkuser.net/?expires=1765700506082&srcIp=124.246.88.137&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=A-W6JBsn-YE&ct=0&urls=45.136.22.46%3B45.136.21.20&clientType=1&zs=43&id=9607865633366
-
-
-
-
-
-
-FMR1213,#genre#
-RSO-GIR,https://rr.vikingfile.com/2yWzEzvNLv/Real%20Sociedad%20vs%20Girona.mp4
-UBL-RBL,https://west-eu-upload.vikingfile.com/f4fWQHRw1C/Union%20Berlin%20vs%20Leipzig.mp4
-LEC-PIS,https://rr.vikingfile.com/V9368HMfuX/Lecce%20vs%20Pisa.mp4
-ANG-NAN,https://west-eu-upload.vikingfile.com/z1SQWNkSwB/Angers%20vs%20Nantes.mp4
-
-
-NBA1212,#genre#
-CELTIC-BUCK,https://ok6-1.vkuser.net/?expires=1765622440605&srcIp=124.197.126.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=3&sig=XRKWs3gQc1U&ct=0&urls=45.136.22.15%3B45.136.21.15&clientType=1&zs=43&id=9732691069496
-BLAZER-NOP,https://ok6-14.vkuser.net/?expires=1765622531024&srcIp=124.197.126.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=NWmaFRGtTlA&ct=0&urls=45.136.22.71%3B185.226.52.38&clientType=1&zs=43&id=9732573104696
-CLIPPER-ROCKET,https://ok6-6.vkuser.net/?expires=1765622590231&srcIp=124.197.126.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=o5Jh-RzsFfM&ct=0&urls=45.136.21.56%3B185.226.53.90&clientType=1&zs=43&id=9732498655800
-NUGGET-KING,https://ok6-11.vkuser.net/?expires=1765622676124&srcIp=124.197.126.208&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=YzytBVqyF7U&ct=0&urls=185.226.55.41%3B185.226.52.82&clientType=1&zs=43&id=9732633594424
-
-
-FMR1212,#genre#
-BASEL-AVL,https://rr.vikingfile.com/0l4zgLM6jD/Basel%20vs%20Aston%20Villa.mp4
-UTR-NFO,https://rr.vikingfile.com/ikjDjEmhqD/Utrecht%20vs%20Nottingham%20Forest.mp4
-UTR-NFO,https://west-eu-upload.vikingfile.com/jynzpZgj1V/Utrecht%20vs%20Nottingham%20Forest.mp4
-FIO-DYN,https://rr.vikingfile.com/ya9dLe8RTb/Fiorentina%20-%20Dynamo%20Kyiv.mp4
-FIO-DYN,https://west-eu-upload.vikingfile.com/B3TM30UKtX/Fiorentina%20-%20Dynamo%20Kyiv.mp4
-CEL-ROM,https://rr.vikingfile.com/XEcegfxuGU/Celtic%20-%20Roma.mp4
-
-
 
 
 
