@@ -92,42 +92,11 @@ PISTON-CELTIC,https://ok6-11.vkuser.net/?expires=1765971333591&srcIp=124.246.127
 FMR1216,#genre#
 MUN1,https://be7713.rcr82.waw05.i8yz83pn.com/hls2/06/10488/xre831ujmpg9_x/index-v1-a1.m3u8?t=B94EpmWqVzeoN1wjUyJK9-xglHR8IPCZlXGMm3QBaUY&s=1765933886&e=10800&f=52441505&srv=1050&asn=45143&sp=5500&p=
 MUN2,https://be4235.rcr32.ams02.i8yz83pn.com/hls2/08/10488/j4mufzccxgvt_x/index-v1-a1.m3u8?t=MVJBsA7i2nA771hgGX8luCxTkCuUkpCsUI3lYcKDQqg&s=1765933953&e=10800&f=52441541&srv=1050&asn=45143&sp=5500&p=
-
 MUN-BOU1,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/e83GH68K1m?response-content-disposition=attachment%3B%20filename%3D%22Manchester%20United%20vs%20Bournemouth%201.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251216%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251216T114434Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=45881ded7a52e82806d8842b836f15136c3c6e01cbdcc45531cb63b4a5b59bc9
 https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/B0MIEcWB73?response-content-disposition=attachment%3B%20filename%3D%22Manchester%20United%20vs%20Bournemouth%201.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251215%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251215T231709Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=3d4259782ef8764a930b5c36e29b929832ea13fb717033192c011bf43791eade
 MUN-BOU2,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/OAdP3sxCwv?response-content-disposition=attachment%3B%20filename%3D%22Manchester%20United%20vs%20Bournemouth%202.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251216%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251216T114554Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=ed2bc35ebadec53e99a2545b9008980410e85d47999b359141ef5f3536e4ecd4
 https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/OAdP3sxCwv?response-content-disposition=attachment%3B%20filename%3D%22Manchester%20United%20vs%20Bournemouth%202.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251215%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251215T231749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=98d25ebd3c4ab50f496b5e49bb3c09343f045da46fce8d4af72bdacc84e3cdd2
 ROM-COM,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/RYpX8JU50w?response-content-disposition=attachment%3B%20filename%3D%22Roma%20vs%20Como.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251215%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251215T231847Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=3c409c035cf8e16cdeeb273771b21adad227f39677dc05af641ed00557950c46
-
-
-NBA1215,#genre#
-LAKER-SUN,https://vd260.okcdn.ru/?expires=1765930320296&srcIp=111.65.69.184&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.10&type=3&sig=mt0TahbmeCE&ct=0&urls=45.136.21.92&clientType=1&id=9793963952696
-GSW-BLAZER,https://vd208.okcdn.ru/?expires=1765930394972&srcIp=111.65.56.107&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.16&type=3&sig=UEYN0dp4OKk&ct=0&urls=45.136.21.49&clientType=1&id=9794134084152
-KING-TIMBERWOLVES,https://vd516.okcdn.ru/?expires=1765930460151&srcIp=111.65.56.107&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.26&type=3&sig=UCK2XU3pS4E&ct=0&urls=185.226.52.49&clientType=1&id=9794592836152
-76ers-HAWK,https://vd418.okcdn.ru/?expires=1765930533711&srcIp=111.65.69.184&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.19&type=3&sig=DKxMwjOJ44g&ct=0&urls=185.226.55.51&clientType=1&id=9794313783864
-BUCKS-NETS,https://vd607.okcdn.ru/?expires=1765930594808&srcIp=111.65.56.107&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.107&type=3&sig=weuOp9qadAo&ct=0&urls=185.226.55.102&clientType=1&id=9794495449656
-PELICAN-BULL,https://vd467.okcdn.ru/?expires=1765930653119&srcIp=111.65.69.184&pr=10&srcAg=CHROME_ANDROID&ms=185.226.52.81&type=3&sig=KXTtxmzztUs&ct=0&urls=45.136.22.38&clientType=1&id=9794920909368
-HORNET-CAVA,https://vd526.okcdn.ru/?expires=1765931432904&srcIp=111.65.69.184&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.36&type=3&sig=EPoFLP8s63A&ct=0&urls=185.226.53.36&clientType=1&id=9795075115576
-WIZARD-PACER,https://vd369.okcdn.ru/?expires=1765931568786&srcIp=111.65.56.107&pr=10&srcAg=CHROME_ANDROID&ms=185.226.53.76&type=3&sig=cfW32Rt5Mg4&ct=0&urls=185.226.55.66&clientType=1&id=9795176827448
-
-
-FMR1215,#genre#
-ALA-RMA,https://rr.vikingfile.com/inQMWxCS6d/Alaves%20-%20Real%20Madrid.mp4
-BAY-M05,https://rr.vikingfile.com/ZI4iPc7s8H/Bayern%20-%20Mainz.mp4
-GEN-INT,https://rr.vikingfile.com/Lczfzu56jR/Genoa%20-%20Inter.mp4
-CP-MCI,https://rr.vikingfile.com/bcGTD7e2qA/Crystal%20Palace%20-%20Manchester%20City.mp4
-SUN-NEW,https://rr.vikingfile.com/pcuYwGzqRc/Sunderland%20vs%20Newcastle.mp4
-NFO-TOT,https://rr.vikingfile.com/P0g3jphO8Q/Nottingham%20Forest%20vs%20Tottenham.mp4
-WHU-AVL,https://rr.vikingfile.com/JinGA9jLH7/West%20Ham%20v.%20Aston%20Villa%20-%20M2D.mkv
-MIL-SAS,https://rr.vikingfile.com/UNaGrYCxyt/Milan%20vs%20Sassuolo.mp4
-BOL-JUV,https://rr.vikingfile.com/o7jhKtdqJb/Bologna%20vs%20Juventus.mp4
-MAR-MON,https://rr.vikingfile.com/kzBl7xHs2u/Marseille%20vs%20Monaco.mp4
-MAR-MON,https://west-eu-upload.vikingfile.com/SdIxi5n2eD/Marseille%20vs%20Monaco.mp4
-BRE-STU,https://west-eu-upload.vikingfile.com/CjxnEtOGLV/Werder%20-%20Stuttgart.mp4
-AUX-LIL,https://west-eu-upload.vikingfile.com/60iDzPe8ue/Auxerre%20-%20Lille.mp4
-FRE-BVB,https://west-eu-upload.vikingfile.com/FpSvgcYq77/Freiburg%20-%20Borussia%20D.mp4
-FIO-VER,https://rr.vikingfile.com/zYtfQdcu3l/Fiorentina%20-%20Verona.mp4
-UDI-NAP,https://west-eu-upload.vikingfile.com/nkJFwZHQvf/Udinese%20vs%20Napoli.mp4
 
 
 
