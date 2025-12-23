@@ -21,6 +21,10 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
+FMR1223,#genre#
+EGY-ZIM,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/SNUO9m68fS?response-content-disposition=attachment%3B%20filename%3D%22Egypt%20vs%20Zimbabwe.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251223%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251223T004424Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=72211497132cfe5f909146824a9f17985e7fbff0fc9cb91808a73cb8792836c5
+FUL-NFO,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/5Vnm5jfYQK?response-content-disposition=attachment%3B%20filename%3D%22Fulham%20vs%20Nottingham%20Forest.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251223%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251223T004544Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=ad1447463ccb5851825c2baa53543a23e0baf50ac3193ebb1275217c069f62c5
+NAP-BOL,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/jg2bTd9yp8?response-content-disposition=attachment%3B%20filename%3D%22Napoli%20vs%20Bologna.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251223%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251223T004717Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=67aba7210183782bdcae0ff378f928adebc71f59e4cbbde0408c79694ae20c22
 
 
 NBA1222,#genre#
@@ -118,36 +122,7 @@ CAVA-BULL,https://ok6-13.vkuser.net/?expires=1766144031601&srcIp=138.75.13.250&p
 
 
 
-FMR1218,#genre#
-NEW-FUL,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/NDblF86Q1S?response-content-disposition=attachment%3B%20filename%3D%22Newcastle%20United%20vs%20Fulham.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251218%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251218T103154Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=8ea9f8e8ecf7f621dfa835c4d266b82e4fe26f5b12dccb446d7d6a75169d80c4#https://nzbq3n4m6m3.premilkyway.com/hls2/01/13273/uh58qtjmsowq_n/index-v1-a1.m3u8?t=IUmWMl7ekBTM5aJVgWCC8mXWkhg1UUCeydloEpuzhEc&s=1766016006&e=129600&f=66368976&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=45143
-TAL-RMA1,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/wHJhUyrufN?response-content-disposition=attachment%3B%20filename%3D%22Baleares%20vs%20Atl%C3%A9tico%20Madrid%201.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251218%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251218T000358Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=c6f22bc8c35a41da2d6e5919886c4c43ce5f3fd58edc8c52deb3bebe538f1277
-TAL-RMA2,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/R6xuzWR17M?response-content-disposition=attachment%3B%20filename%3D%22CF%20Talavera%20vs%20Real%20Madrid%202.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251218%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251218T000421Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=126ba9dc7ca7e1c950861d481d93bc655f82b5aa454dc89b9695eaf50775414d
-RMA,https://cavanhabg.com/stream/osRolb8YlH0dMc2Ld8zV0Q/kjhhiuahiuhgihdf/1766097197/66368523/index-v1-a1.m3u8
-PSG-FLA,https://uasopt.com/stream/xRGsTN9p8utv1Zdaj0xqxw/kjhhiuahiuhgihdf/1766096935/66367697/index-v1-a1.m3u8
 
-PSG,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/uYirbaoH8X?response-content-disposition=attachment%3B%20filename%3D%22PSG%20vs%20Flamengo.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251218%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251218T103036Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=43db7c51b03b9e975ee21c6b3c9c175ad85bf77c08339fcb0db04a39d3b03da2#https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/uYirbaoH8X?response-content-disposition=attachment%3B%20filename%3D%22PSG%20vs%20Flamengo.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251218%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251218T022218Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=daece001cde4da721c8cb6315b0640d5e7eb127775a74e4624af679610c81a6b
-
-MCI-BRE,https://fin-3dg-b1.i8yz83pn.com/hls2/01/10501/dkiiz8nynk94_x/index-v1-a1.m3u8?t=z-oo-VVfPJtVvco4bvksxLBFkWmpNfe_AMizsH7cAbA&s=1766018838&e=10800&f=52506111&srv=1075&asn=45143&sp=5500&p=
-MCI-BRE,https://s-delivery34.mxcontent.net/v2/67rk166etzdmnz.mp4?s=AO_rHoOsnLDVblH_chlqkw&e=1766040495&_t=1766022631
-MCI-BRE,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/HNCn5qv2zR?response-content-disposition=attachment%3B%20filename%3D%22Manchester%20City%20vs%20Brentford.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251218%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251218T004855Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=8f63cd2714e9e3f06240b14db2bf9ddce87259cb5b4ef60ae704bacbb9a97b8d
-
-
-
-NBA1217,#genre#
-SPUR-NYK,https://ok6-8.vkuser.net/?expires=1766054791533&srcIp=124.246.76.98&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=5&sig=N7_zrWIVXls&ct=0&urls=185.226.53.45%3B45.136.22.95&clientType=1&zs=43&id=9832555481656
-
-
-
-
-FMR1217,#genre#
-CAR-CHE,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/FdDzsOKK4B?response-content-disposition=attachment%3B%20filename%3D%22Cardiff%20City%20vs%20Chelsea.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251217%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251217T102231Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=bdd26ec59b3e72bac7af82e9253afc3729323ebd63c4c4d57f8ce1ed4bfad28c
-https://fin-3dg-b1.i8yz83pn.com/hls2/02/10494/4ej414l2hcjj_x/index-v1-a1.m3u8?t=APgzdyvkrQ9ixyJrbQey9rFAp6ZUo-uE0eVrswDd0ng&s=1765930267&e=10800&f=52474932&srv=1060&asn=45143&sp=5500&p=
-CHE,https://uasopt.com/stream/Ibw6ZL7FOPpuvbD-kk6DLw/kjhhiuahiuhgihdf/1765982411/66329364/index-v1-a1.m3u8
-BAR1,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/jWvXZESp29?response-content-disposition=attachment%3B%20filename%3D%22Guadalajara%20vs%20FC%20Barcelona%201.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251217%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251217T102541Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=074bb17b5d07ac42d6afc00bd588dc53b8e1fc2b0cbcc00c1754e2fb15348ddd
-BAR2,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/H2d65HgpYz?response-content-disposition=attachment%3B%20filename%3D%22Guadalajara%20vs%20FC%20Barcelona%202.ts%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251217%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251217T102713Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=744e8c2a92f914286efa28df891562bba626eafa643116a08f637805ef596608
-
-GUA-BAR1,https://be2719.rcr22.ams01.i8yz83pn.com/hls2/09/10494/sydp94v7mjso_x/index-v1-a1.m3u8?t=Ok2wl9A9-D9wqx4-TF_tgrm9b2N-rTvrH8S3CFlEDz8&s=1765930090&e=10800&f=52474514&srv=1070&asn=45143&sp=5500&p=
-GUA-BAR2,https://be2719.rcr22.ams01.i8yz83pn.com/hls2/03/10495/c3ciphjmxqfw_x/index-v1-a1.m3u8?t=ZdjwSF_iZ0iu9bnbXP7pU_rvIjHsLXJnGq9DG29VQwg&s=1765930165&e=10800&f=52475221&srv=1075&asn=45143&sp=5500&p=
 
 
 
