@@ -1,8 +1,5 @@
 
 LIVE,#genre#
-EGY-RSA,https://live.vivo200.com/live/sd-1-4447680.m3u8?txSecret=e4135483cbb84cfb6457ab4559c61371&txTime=694EE9C4
-EGY,https://live.vivo200.com/live/sd-1-4447680.flv?txSecret=b1be879a0b51f3428e54dcc75054aaba&txTime=694EF0C5
-https://live.vivo200.com/live/sd-1-4447680.m3u8?txSecret=b1be879a0b51f3428e54dcc75054aaba&txTime=694EF0C5
 
 
 CC5+,https://migu.188766.xyz/?migutoken=bbf3aa23ecdd29ac5a1fb66e31edb6bc&id=CCTV5p&type=yy
@@ -152,33 +149,7 @@ BOL-INT,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflaresto
 
 
 
-NBA1219,#genre#
-LAKER-JAZZ,https://ok6-2.vkuser.net/?expires=1766228789642&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=3&sig=yuJSOxE8Dn4&ct=0&urls=45.136.22.26%3B45.136.22.78&clientType=1&zs=43&id=9836944427692
-GSW-SUN,https://ok6-7.vkuser.net/?expires=1766228960572&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=3&sig=xuKxz7vbnfI&ct=0&urls=185.226.52.81%3B185.226.55.17&clientType=1&zs=43&id=9837375195820
-KING-BLAZER,https://ok6-8.vkuser.net/?expires=1766229135222&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=-bx42-9OGCE&ct=0&urls=45.136.22.48%3B45.136.21.47&clientType=1&zs=43&id=9837530450604
-MAGIC-NUGGET,https://ok6-3.vkuser.net/?expires=1766229227332&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=yVmpiIcthXA&ct=0&urls=185.226.52.33%3B45.136.22.25&clientType=1&zs=43&id=9837432081068
-PISTON-MAVERICK,https://ok6-2.vkuser.net/?expires=1766229298513&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=3&sig=eclx1vIu5DM&ct=0&urls=185.226.53.76%3B185.226.55.65&clientType=1&zs=43&id=9837143132844
-WIZARD-SPUR,https://ok6-10.vkuser.net/?expires=1766229360945&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=3&sig=XLokt7gz6qw&ct=0&urls=45.136.22.18%3B45.136.21.7&clientType=1&zs=43&id=9835866426028
-CLIPPER-THUNDER,https://ok6-2.vkuser.net/?expires=1766229426440&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=3&sig=0TByUEI5uDo&ct=0&urls=185.226.55.56%3B45.136.21.90&clientType=1&zs=43&id=9836042455724
-ROCKET-PELICANS,https://ok6-7.vkuser.net/?expires=1766229611766&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=3&sig=90PSh86RmGU&ct=0&urls=185.226.55.50%3B45.136.22.92&clientType=1&zs=43&id=9836285659820
-RAPTOR-BUCK,https://ok6-4.vkuser.net/?expires=1766229678207&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=scPYoNnSASY&ct=0&urls=185.226.55.97%3B185.226.53.34&clientType=1&zs=43&id=9836599052972
-NYK-PACER,https://ok6-3.vkuser.net/?expires=1766229749623&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=_0sIg755GWc&ct=0&urls=45.136.22.95%3B185.226.55.35&clientType=1&zs=43&id=9836133878444
-HEAT-NETS,https://ok6-3.vkuser.net/?expires=1766229810920&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=05Rj3npAunE&ct=0&urls=185.226.53.23%3B45.136.21.69&clientType=1&zs=43&id=9836366334636
-HAWK-HORNET,https://ok6-14.vkuser.net/?expires=1766229885551&srcIp=124.197.83.41&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=m9uTjJISVhc&ct=0&urls=185.226.55.31%3B185.226.53.42&clientType=1&zs=43&id=9835960404652
 
-
-FMR1219,#genre#
-NAP-MIL,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/WHHFr4yKJx?response-content-disposition=attachment%3B%20filename%3D%22Napoli%20vs%20Milan.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20251220%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251220T003210Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=78e16e6d7ebb93afa83bee558f998009ac47971e018e1502f8fb3950dd3c86be
-
-
-
-NAP1,https://cv9fqnu812v.cdn-centaurus.com/hls2/01/13280/3ff0bllzt1ts_o/index-v1-a1.m3u8?t=K0m9V6nH3vlXJCNtNfICGWhQLbWAvGwB-mlr7tLVkQ4&s=1766108852&e=129600&f=66404140&srv=q5OcIkJQN9Zi&i=0.4&sp=500&p1=q5OcIkJQN9Zi&p2=q5OcIkJQN9Zi&asn=45143
-NAP2,https://g4vsrqvtrj.cdn-centaurus.com/hls2/01/13281/et55s5db2a09_n/index-v1-a1.m3u8?t=fI6PTfpqq0YJSxUaoYX9mFWep_Didj-CHjaVTDswiVM&s=1766142013&e=129600&f=66406101&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=4773#https://g4vsrqvtrj.cdn-centaurus.com/hls2/01/13281/et55s5db2a09_n/index-v1-a1.m3u8?t=sVqvU6gDMPhhN9QvgUzzvn07vF720_elnm-jmdUrWxQ&s=1766108935&e=129600&f=66406101&srv=6wyav2r9i6j&i=0.4&sp=500&p1=6wyav2r9i6j&p2=6wyav2r9i6j&asn=45143
-
-
-NBA1218,#genre#
-GRIZZ-TIMBERWOLVES,https://ok6-6.vkuser.net/?expires=1766143843011&srcIp=138.75.13.250&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=2X_8jgDN6Bc&ct=0&urls=45.136.22.26%3B185.226.53.43&clientType=1&zs=43&id=9698511817302
-CAVA-BULL,https://ok6-13.vkuser.net/?expires=1766144031601&srcIp=138.75.13.250&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=vTjtlOLaLjs&ct=0&urls=45.136.21.20%3B185.226.52.73&clientType=1&zs=43&id=9698588691030
 
 
 
