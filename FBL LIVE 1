@@ -388,47 +388,10 @@ BOL-INT,https://west-eu-upload.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflaresto
 
 香港频道,#genre#
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="粤语频道",凤凰中文
-https://mgev.188766.xyz/?migutoken=bad071b2a5fd6e32db5d8c7ba4762716&id=fhzw&pp=1
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="粤语频道",凤凰中文
-https://mgev.188766.xyz/?migutoken=5d5ffcf4d957b9f6b8ce5ff319637a73&id=hk_fhzw&type=dy
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="粤语频道",凤凰资讯
-https://mgev.188766.xyz/?migutoken=f27e82b44ccf37cd05d5c919dae5b43d&id=fhzx&pp=1
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="粤语频道",凤凰资讯
-https://mgev.188766.xyz/?migutoken=43ef3e71705b93baba57a2f5acb82195&id=hk_fhzx&type=dy
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="粤语频道",凤凰香港
-https://mgev.188766.xyz/?migutoken=0f215cbeea3647f7eef789db3f4782fb&id=fhhk&pp=1
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="粤语频道",凤凰香港
-https://mgev.188766.xyz/?migutoken=54e16beaf4bb7c169d4306f6fbad4241&id=hk_fhhk&type=dy
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="粤语频道",翡翠台
-https://mgev.188766.xyz/?migutoken=4230836d358853efe0a31b183b1c10b0&id=hk_fct&type=dy
-#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="粤语频道",翡翠台4K
-https://mgev.188766.xyz/?migutoken=22a52fcf76eecbda520ed301720ae581&id=hk_fct4k&type=dy
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="粤语频道",无线新闻
-https://mgev.188766.xyz/?migutoken=639d93d20aa642730e649564e476af30&id=hk_wxxw&type=dy
-#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png" group-title="粤语频道",Now新闻台
-https://mgev.188766.xyz/?migutoken=9fde519d088123f3140523a0c5afb5d6&id=hk_now&type=dy
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png" group-title="粤语频道",TVB Plus
-https://mgev.188766.xyz/?migutoken=45d67ac05655b130536d87f7e6daa253&id=hk_tvbp&type=dy
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="粤语频道",明珠台
-https://mgev.188766.xyz/?migutoken=c0ab66ca44c6dd49d6f8ce154d2a4350&id=hk_mzt&type=dy
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="粤语频道",TVB星河
-https://mgev.188766.xyz/?migutoken=a5556fcb066fe724db1864ca5715bd95&id=hk_tvbxh&type=dy
-#EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/TVB功夫.png" group-title="粤语频道",TVB功夫
-https://mgev.188766.xyz/?migutoken=c917f4cfa199b879d09fb38d757648d2&id=hk_yzwx&type=dy
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png" group-title="粤语频道",八度空间
-https://mgev.188766.xyz/?migutoken=ed3575dbc999b80c173edbba5ea0c941&id=hk_8tv&type=dy
-#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channelu.png" group-title="粤语频道",CHU
-https://mgev.188766.xyz/?migutoken=83be2f4cfa4968dfd9e3c18cf2bc5dfa&id=hk_chu&type=dy
-#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel5.png" group-title="粤语频道",CH5
-https://mgev.188766.xyz/?migutoken=f9e7772f8a277f1c91143f4afcbb1a27&id=hk_ch5&type=dy
-#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="粤语频道",CH8
-https://mgev.188766.xyz/?migutoken=777e41a26d5be6ebc2676fdaa1f55077&id=hk_ch8&type=dy
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png" group-title="粤语频道",澳视澳门
-https://mgev.188766.xyz/?migutoken=be59574200144df593bc906c9416f8e1&id=hk_asam&type=dy
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="粤语频道",HOY77
-https://mgev.188766.xyz/?migutoken=70124e92a5f64857b73c206d35050b15&id=hk_hoy&type=dy
-
+凤凰卫视中文台,https://mgev.188766.xyz/?migutoken=bad071b2a5fd6e32db5d8c7ba4762716&id=fhzw&pp=1
+凤凰中文,https://mgev.188766.xyz/?migutoken=5d5ffcf4d957b9f6b8ce5ff319637a73&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=f27e82b44ccf37cd05d5c919dae5b43d&id=fhzx&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=43ef3e71705b93baba57a2f5acb82195&id=hk_fhzx&type=dy
 
 
 
