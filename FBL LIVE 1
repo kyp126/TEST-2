@@ -21,6 +21,14 @@ TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
+
+NBA0108,#genre#
+LAKER-SPUR,https://ok6-13.vkuser.net/?expires=1767956703041&srcIp=124.197.73.99&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=1bxMrJYaaY0&ct=0&urls=45.136.21.11%3B45.136.22.71&clientType=1&zs=43&id=10233857837740
+BUCK-GSW,https://ok6-8.vkuser.net/?expires=1767956782315&srcIp=124.197.73.99&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=zuOQSW8RDLQ&ct=0&urls=178.237.23.29%3B95.163.35.29&clientType=1&zs=43&id=10233992186540
+
+
+
+
 NBA0107,#genre#
 LAKER-PELICANS,https://ok6-1.vkuser.net/?expires=1767870725131&srcIp=124.197.110.32&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=3&sig=PdjZi_Lppew&ct=0&urls=178.237.23.19%3B185.226.55.43&clientType=1&zs=43&id=10104887642710
 MAVERICK-KING,https://ok6-9.vkuser.net/?expires=1767870799366&srcIp=124.197.110.32&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=L3uZYy_ZZWQ&ct=0&urls=185.226.52.48%3B45.136.21.24&clientType=1&zs=43&id=10105241864790
@@ -56,27 +64,6 @@ HAWK-RAPTOR,https://ok6-9.vkuser.net/?expires=1767783242264&srcIp=124.197.84.47&
 
 
 
-
-NBA0105,#genre#
-GRIZZ-LAKERS,https://ok6-12.vkuser.net/?expires=1767698754328&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=E_Wkc5JY1d4&ct=0&urls=185.226.53.33%3B178.237.23.21&clientType=1&zs=43&id=10053595564798
-PELICAN-HEAT,https://ok6-8.vkuser.net/?expires=1767698830793&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=gTOq3pvw1fc&ct=0&urls=185.226.55.109%3B185.226.53.21&clientType=1&zs=43&id=10216333249163
-BUCK-KING,https://ok6-14.vkuser.net/?expires=1767698989392&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=HSTny8lAJRs&ct=0&urls=178.237.23.14%3B185.226.53.90&clientType=1&zs=43&id=10063349090902
-NUGGET-NETS,https://ok6-3.vkuser.net/?expires=1767699055881&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=15WAqNxJ9bA&ct=0&urls=45.136.22.61%3B176.112.172.5&clientType=1&zs=43&id=10170001132204
-TIMBERWOLVES-WIZARD,https://ok6-10.vkuser.net/?expires=1767699134582&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.137&type=3&sig=7spZ5O9UvHA&ct=0&urls=45.136.22.34%3B185.226.53.91&clientType=1&zs=43&id=10209940146834
-PACER-MAGIC,https://ok6-5.vkuser.net/?expires=1767699222337&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=oRtiQhDWPU4&ct=0&urls=185.180.203.40%3B185.226.55.60&clientType=1&zs=43&id=10173905439280
-THUNDER-SUN,https://ok6-2.vkuser.net/?expires=1767699370550&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=3&sig=z0aOEq9J3Ec&ct=0&urls=185.180.203.29%3B45.136.21.52&clientType=1&zs=43&id=10189467879965
-PISTON-CAVA,https://ok6-13.vkuser.net/?expires=1767699430381&srcIp=124.197.123.242&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=AsbCTLtkCS4&ct=0&urls=185.180.203.41%3B178.237.23.0&clientType=1&zs=43&id=10169394072236
-
-
-NBA0104,#genre#
-JAZZ-GSW,https://ok6-6.vkuser.net/?expires=1767608442919&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=KQ4mk_PGyTw&ct=0&urls=185.226.52.15%3B185.226.53.90&clientType=1&zs=43&id=10156121787052
-CELTIC-CLIPPER,https://ok6-11.vkuser.net/?expires=1767608539585&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=TLCEu2fMffo&ct=0&urls=185.226.53.106%3B45.136.21.28&clientType=1&zs=43&id=10156220418732
-ROCKET-MAVERICK,https://ok6-3.vkuser.net/?expires=1767608743939&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=3ItzCiBOzxk&ct=0&urls=176.112.172.6%3B45.136.21.93&clientType=1&zs=43&id=10156345985708
-BLAZER-SPURS,https://ok6-5.vkuser.net/?expires=1767608808258&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=Zwd9DNjHJdM&ct=0&urls=185.226.52.46%3B45.136.22.95&clientType=1&zs=43&id=10156055136940
-HORNET-BULL,https://ok6-1.vkuser.net/?expires=1767608913572&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=3&sig=2oiyYIN6tH0&ct=0&urls=45.136.22.18%3B185.226.52.30&clientType=1&zs=43&id=10155991960236
-HAWK-RAPTOR,https://ok6-3.vkuser.net/?expires=1767608989364&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=zQRSG5YbWAA&ct=0&urls=45.136.21.73%3B176.112.172.1&clientType=1&zs=43&id=10156730419884
-76ERS-NYK,https://ok6-4.vkuser.net/?expires=1767609077632&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=qQpINYhawKU&ct=0&urls=178.237.23.19%3B185.226.53.10&clientType=1&zs=43&id=10155945822892
-TIMBERWOLVES-HEAT,https://ok6-5.vkuser.net/?expires=1767609155693&srcIp=175.156.156.86&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=AIyU0DDSejg&ct=0&urls=185.180.203.34%3B45.136.21.68&clientType=1&zs=43&id=10156515986092
 
 
 
