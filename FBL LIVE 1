@@ -1,15 +1,5 @@
 
 LIVE,#genre#
-WOL-NEW,https://migu.188766.xyz/?migutoken=987e453e95282556939c105e785ad7bb&id=CCTV5p&type=yy#https://play7ba.peodlc.com/live/202_4392158_1.m3u8
-WOL1,http://protv.fun/4cafe94867/48a12d348c/1032487
-WOL2,https://d35cjn5rfcrdnk.cloudfront.net/out/v1/5dcceaa062b5438eaa7c3a884cf3bbfe/index_2.m3u8
-WOL咪,https://live.vivo200.com/live/sd-1-4343125.m3u8?txSecret=a29a550fceebf60251540273c2074631&txTime=696D2DC8
-
-BOL-FIO,https://live.vivo200.com/live/sd-1-4339701.flv?txSecret=1ac5236dbdd35c5ec07e0c876f2402ef&txTime=696D2DEE
-
-GET-VAL,https://live.vivo200.com/live/sd-1-4358852.m3u8?txSecret=2493c8530f2ad2c7837d1a5efc033d27&txTime=696D1FBD
-
-PAR-GEN,https://live.vivo200.com/live/sd-1-4339722.m3u8?txSecret=c5a889552ec69e554a64be79aa17be2f&txTime=696D0ABD
 
 
 
@@ -49,6 +39,10 @@ TSN 4,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
 TSN 5,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
+
+
+FMR0119,#genre#
+SEN-MAR,https://be4235.rcr32.ams02.r66nv9ed.com/hls2/05/10671/jh3byewz5hvf_h/index-v1-a1.m3u8?t=H7k0a3A5o0cJPGFqGcsBfX-5R1or-XQZgs9OO27-_Zc&s=1768787848&e=10800&f=53357243&srv=1050&asn=&sp=4000&p=0
 
 
 NBA0118,#genre#
