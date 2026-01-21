@@ -40,6 +40,16 @@ WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
 
+NBA0121,#genre#
+LAKER-NUGGET,https://ok6-9.vkuser.net/?expires=1769078280487&srcIp=124.197.84.26&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=an2d_JsFO6U&ct=0&urls=176.112.172.15%3B185.226.55.45&clientType=1&zs=43&id=10509923650220
+RAPTOR-GSW,https://ok6-11.vkuser.net/?expires=1769078381159&srcIp=124.197.84.26&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=XIHBAUthkDo&ct=0&urls=185.180.203.21%3B185.226.55.43&clientType=1&zs=43&id=10510099810988
+HEAT-KINGS,https://ok6-12.vkuser.net/?expires=1769078441104&srcIp=124.197.84.26&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=mg2MNayGf50&ct=0&urls=45.136.21.64%3B185.226.52.33&clientType=1&zs=43&id=10511181482668
+SPUR-ROC,https://ok6-5.vkuser.net/?expires=1769078537805&srcIp=124.197.84.26&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.132&type=3&sig=wNld1JehyT4&ct=0&urls=95.163.35.27%3B176.112.172.24&clientType=1&zs=43&id=10510301858476
+TIMBERWOLVES-JAZZ,https://ok6-8.vkuser.net/?expires=1769078599281&srcIp=124.197.84.26&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=LPiBQe7uHr0&ct=0&urls=45.136.22.48%3B45.136.21.78&clientType=1&zs=43&id=10510723123884
+CLIPPER-BULL,https://ok6-9.vkuser.net/?expires=1769078670264&srcIp=124.197.84.26&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=Z4GT7bvO36c&ct=0&urls=185.226.52.24%3B45.136.21.78&clientType=1&zs=43&id=10510627834540
+SUN-76ers,https://ok6-12.vkuser.net/?expires=1769078739970&srcIp=124.197.84.26&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=al7zheIsWkc&ct=0&urls=185.180.203.13%3B185.226.52.57&clientType=1&zs=43&id=10510430767788
+
+
 
 NBA0120,#genre#
 HEAT-GSW,https://ok6-3.vkuser.net/?expires=1769003697571&srcIp=124.197.90.36&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=Iw9RSZXv-S4&ct=0&urls=185.226.55.21%3B185.180.203.27&clientType=1&zs=43&id=10488757619372
@@ -55,37 +65,6 @@ BUCK-HAWK,https://ok6-12.vkuser.net/?expires=1769004322452&srcIp=124.197.90.36&p
 
 
 
-FMR0120,#genre#
-BHA-BOU,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/WHZJO1wjQE?response-content-disposition=attachment%3B%20filename%3D%22Brighton%20%26%20Hove%20Albion%20vs%20Bournemouth.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20260120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260120T035118Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=5c531d139d1ea933f3b9ff673ceccdb975e523abaa0867e443cb9d131a203573
-
-
-NBA0119,#genre#
-RAPTOR-LAKER,https://ok6-8.vkuser.net/?expires=1768906495104&srcIp=124.246.78.217&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.135&type=3&sig=t0s2xjTKx2I&ct=0&urls=185.226.55.17%3B45.136.21.55&clientType=1&zs=43&id=10465262176940
-HORNET-NUGGET,https://ok6-14.vkuser.net/?expires=1768906568271&srcIp=124.246.78.217&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=t7f_mYJ3k-o&ct=0&urls=176.112.172.11%3B185.226.55.108&clientType=1&zs=43&id=10465617513132
-BLAZER-KING,https://ok6-12.vkuser.net/?expires=1768906626031&srcIp=124.246.78.217&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=xCNfZoXB42o&ct=0&urls=45.136.21.50%3B185.226.53.19&clientType=1&zs=43&id=10465775258284
-PELICANS-ROCKET,https://ok6-3.vkuser.net/?expires=1768906712135&srcIp=124.246.78.217&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=rWK0gPPb7K8&ct=0&urls=185.226.52.81%3B185.226.53.73&clientType=1&zs=43&id=10465366510252
-NETS-BULLS,https://ok6-2.vkuser.net/?expires=1768906811363&srcIp=124.246.78.217&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.129&type=3&sig=IpEqFLMh_kY&ct=0&urls=185.226.53.44%3B185.226.55.17&clientType=1&zs=43&id=10465693010604
-MAGIC-GRIZZ,https://ok6-7.vkuser.net/?expires=1768906908113&srcIp=124.246.78.217&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.134&type=5&sig=OB7YukBYiRk&ct=0&urls=45.136.22.36%3B185.226.53.73&clientType=1&zs=43&id=10465518422700
-
-
-
-FMR0119,#genre#
-SEN-MAR,https://be4235.rcr32.ams02.r66nv9ed.com/hls2/05/10671/jh3byewz5hvf_h/index-v1-a1.m3u8?t=H7k0a3A5o0cJPGFqGcsBfX-5R1or-XQZgs9OO27-_Zc&s=1768787848&e=10800&f=53357243&srv=1050&asn=&sp=4000&p=0
-
-
-NBA0118,#genre#
-LAKER-BLAZER,https://ok6-14.vkuser.net/?expires=1768821445257&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=mhTXmxjaXk0&ct=0&urls=185.226.52.31%3B45.136.21.73&clientType=1&zs=43&id=10440634206892
-HORNET-GSW,https://ok6-4.vkuser.net/?expires=1768821520592&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=4xZR5MjRCZc&ct=0&urls=176.112.172.37%3B45.136.22.20&clientType=1&zs=43&id=10440739916460
-WIZARD-NUGGET,https://ok6-3.vkuser.net/?expires=1768821592202&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.130&type=3&sig=QOYsxXBrbR4&ct=0&urls=185.226.52.59%3B95.163.35.0&clientType=1&zs=43&id=10440843397804
-TIMBERWOLVES-SPUR,https://ok6-6.vkuser.net/?expires=1768821673385&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=k7mrR0QArzU&ct=0&urls=185.226.52.47%3B178.237.23.0&clientType=1&zs=43&id=10440544094892
-SUN-NYK,https://ok6-4.vkuser.net/?expires=1768821751502&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.131&type=3&sig=8KOLNF-q-wo&ct=0&urls=178.237.23.9%3B45.136.22.61&clientType=1&zs=43&id=10441160264364
-THUNDER-HEAT,https://ok6-11.vkuser.net/?expires=1768821809111&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=kq63X1J5Ttk&ct=0&urls=185.180.203.36%3B95.163.35.26&clientType=1&zs=43&id=10441267481260
-CELTIC-HAWK,https://ok6-14.vkuser.net/?expires=1768821866953&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=eD9JR6PwpbI&ct=0&urls=185.180.203.27%3B185.226.52.48&clientType=1&zs=43&id=10440979647148
-PACER-PISTON,https://ok6-14.vkuser.net/?expires=1768821922819&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=zgJ3aW_O8T0&ct=0&urls=185.226.55.24%3B178.237.23.29&clientType=1&zs=43&id=10441076181676
-JAZZ-MAVERICK,https://ok6-6.vkuser.net/?expires=1768821988004&srcIp=175.156.239.195&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=sbvnznVZl5A&ct=0&urls=185.226.55.11%3B45.136.22.41&clientType=1&zs=43&id=10441580022444
-
-FMR0118,#genre#
-Egypt vs Nigeria,https://vikingfile.04b3d96d52475741e6b10f97f0a84a16.r2.cloudflarestorage.com/y3hSB3OPsr?response-content-disposition=attachment%3B%20filename%3D%22Egypt%20vs%20Nigeria.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3719509459615e2573a6f081c551ec99%2F20260118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260118T121916Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=f03260bc72473c374cc00ee336be6bfc2c7573d84cb2ef54a9271c1eec816a7e
 
 
 
