@@ -1,19 +1,5 @@
 
 LIVE,#genre#
-LEE-ARS,https://gametimes.top/1111.php
-LEE,https://live.vivo200.com/live/hd-en-1-4343155.m3u8?txSecret=410469d97f5c0e2a4c76c53da4ac0b41&txTime=697E5FDC
-ARS咪,https://live.vivo200.com/live/sd-1-4343155.flv?txSecret=b0a32b377d39ff578e59c6c487c9cb2f&txTime=697E5FDC
-
-BHA-EVE,https://gametimes.top/3333.php
-BHA咪,https://live.vivo200.com/live/sd-1-4343152.m3u8?txSecret=f68d7deb179f425bc134ef54d4950700&txTime=697E5FD0
-BHA,https://live.vivo200.com/live/hd-en-1-4343152.m3u8?txSecret=9314bb6ec2a4001d8d2f5b03fe128a14&txTime=697E5FD0
-
-WOL-BOU,https://gametimes.top/2222.php
-WOL咪,http://live.vivo200.com/live/sd-1-4343166.m3u8?txSecret=de1eb80398e1995192f3fb56dab51d62&txTime=697E55FC
-WOL,https://live.vivo200.com/live/hd-en-1-4343166.m3u8?txSecret=04258b6d50d43f390fd0fb55077533b7&txTime=697E5FF4
-
-
-OSA-VIL,https://live.vivo200.com/live/sd-1-4358880.m3u8?txSecret=58e25e3a81639661994b19c571168989&txTime=697E670C
 
 
 全信没收,http://127.0.0.1:9978/m3u8?url=https%3A%2F%2Fvip.ffzy-video.com%2F20260116%2F35668_aa36f34f%2Findex.m3u8&header=%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Linux%3B%20Android%2016%3B%20SM-S918B%20Build%2FBP2A.250605.031.A3%3B%20wv)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Chrome%2F144.0.7559.59%20Mobile%20Safari%2F537.36%22%2C%22Origin%22%3A%22http%3A%2F%2F160.202.248.249%3A81%22%2C%22sec-ch-ua%22%3A%22%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%228%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22144%5C%22%2C%20%5C%22Android%20WebView%5C%22%3Bv%3D%5C%22144%5C%22%22%2C%22sec-ch-ua-mobile%22%3A%22%3F1%22%2C%22Accept%22%3A%22*%2F*%22%2C%22sec-ch-ua-platform%22%3A%22%5C%22Android%5C%22%22%7D&meaningless=nothing|User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+16%3B+SM-S918B+Build%2FBP2A.250605.031.A3%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F144.0.7559.59+Mobile+Safari%2F537.36&Origin=http%3A%2F%2F160.202.248.249%3A81&sec-ch-ua=%22Not%28A%3ABrand%22%3Bv%3D%228%22%2C+%22Chromium%22%3Bv%3D%22144%22%2C+%22Android+WebView%22%3Bv%3D%22144%22&sec-ch-ua-mobile=%3F1&Accept=*%2F*&sec-ch-ua-platform=%22Android%22
@@ -51,6 +37,10 @@ WWE NETWORK,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11645
 Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
 
+FMR0201,#genre#
+LIV-NEW,https://hgplaycdn.com/stream/rPSYYCojqUO60Ng2PL92Wg/kjhhiuahiuhgihdf/1769954250/67575017/master.m3u8
+ELC-BAR1,https://haxloppd.com/stream/lQxFJH4MR4dCGPR2hm8dSA/kjhhiuahiuhgihdf/1769954385/67574544/master.m3u8
+ELC-BAR2,https://cwfuommwagyrfcg6.cdn-centaurus.com/hls2/01/13514/rognpkd1yeu7_o/master.m3u8?t=YH9niru8nP_DevkyRzDY-9q9pcQvSOZ_xwDOjXGEfFs&s=1769911432&e=129600&f=67574917&srv=q5OcIkJQN9Zi&i=0.4&sp=500&p1=q5OcIkJQN9Zi&p2=q5OcIkJQN9Zi&asn=4773
 
 
 NBA0131,#genre#
