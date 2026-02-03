@@ -13,6 +13,8 @@ AVATAR 3,https://bf.jisuziyuanbf.com/play/dNkkDgDe/index.m3u8
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5
 CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 CCTV4K,http://43.251.226.89:8080/play/63.m3u8
+
+CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
 浙江卫视4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
@@ -534,26 +536,13 @@ Crimewatch 2025,#genre#
 14,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5ivylu2b/v/11/pv/1/ev/16/flavorId/1_7e8vxj38/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 15,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_q07dh048/v/11/pv/1/ev/16/flavorId/1_1wc5hveh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 16,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_34jj5smb/v/11/pv/1/ev/16/flavorId/1_hr7z87ex/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+17,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8qajkpcq/v/11/pv/1/ev/16/flavorId/1_st6t97sx/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+18,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_tq6kpikx/v/11/pv/1/ev/16/flavorId/1_e236ugoc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+19,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_y5l0e0cr/v/11/pv/1/ev/16/flavorId/1_l7qvdbid/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+20完,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7rt6q7vg/v/11/pv/1/ev/16/flavorId/1_bv1mxbss/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
-没马跑,#genre#
-01,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_94vvlsnz/v/11/pv/1/ev/16/flavorId/1_ya0brwfm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-02,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_zi63g6z3/v/11/pv/1/ev/16/flavorId/1_93iwuhfr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-03,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vglhuye2/v/11/pv/1/ev/16/flavorId/1_b775zy0x/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-04,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_h374ibkr/v/11/pv/1/ev/16/flavorId/1_ibl8bztg/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-05,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1oewdltc/v/11/pv/1/ev/16/flavorId/1_2wz79zym/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-06,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_6w3pgvfj/v/11/pv/1/ev/16/flavorId/1_f9pgg0es/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-07,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_hpib42uo/v/11/pv/1/ev/16/flavorId/1_7r2uulxp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-08,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sc6661ts/v/11/pv/1/ev/16/flavorId/1_1leov9r0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-09,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_pdio60l0/v/11/pv/1/ev/16/flavorId/1_2helanl7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-10,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_gjxcixhc/v/11/pv/1/ev/16/flavorId/1_bmp2gfb5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-11,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wlho9waj/v/11/pv/1/ev/16/flavorId/1_8034i3dc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-12,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_0ngdriak/v/11/pv/1/ev/16/flavorId/1_wbucjf24/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-13,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_y8az5as5/v/11/pv/1/ev/16/flavorId/1_wx3tj72p/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-14,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2mpdrklb/v/11/pv/1/ev/16/flavorId/1_ilr8xphp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-15,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nsieom79/v/11/pv/1/ev/16/flavorId/1_qrnhvvi9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-16完,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rcq2l57z/v/11/pv/1/ev/16/flavorId/1_1p8vqhn2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
