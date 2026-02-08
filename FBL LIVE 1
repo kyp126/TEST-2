@@ -1,5 +1,7 @@
 
 LIVE,#genre#
+ALA-GET,http://live.vivo200.com/live/sd-1-4358889.m3u8?txSecret=3d00367f17749f360c2f952202f57ad7&txTime=6988C82A
+
 BOL-PAR,https://fes.feswalki.site/simpch6/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g2IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcwNTUxNDc4LCJyYW5kIjoiOTVkODUwZTUxNGJkYTUwYiJ9.f1859c85fcc1ceb61e0884a8cb9afb4126408df9f2516b40e650b8161660922e
 BOL咪,http://live.vivo200.com/live/sd-1-4339781.m3u8?txSecret=b9111ab03f8723c6e105ef85cc813b96&txTime=6988B314
 
