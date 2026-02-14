@@ -1,5 +1,6 @@
 
 LIVE,#genre#
+COM-FIO,http://127.0.0.1:9979/m3u8?url=https%3A%2F%2Fpullgz.dhds100.com%2Flive%2Fhd-en-1-4339800.m3u8%3Fauth_key%3D1771077990-0-0-d75f1f48173d86c5c5910de3be2ded86&header=%7B%22User-Agent%22%3A%22Lavf%2F57.83.100%22%2C%22Referer%22%3A%22http%3A%2F%2FWJiZxLXA2.com%2F%22%7D&meaningless=nothing
 BUR-WHU,https://fes.feswalki.site/simpch1/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcxMDcyNTg0LCJyYW5kIjoiMDNkYjU4ZDkxYWNmMWJkYiJ9.48f9cdf4d3bc9b08da9c2daa376b2cc22cacb353601f29534608bb44b846bf3e
 WHU,http://127.0.0.1:9979/m3u8?url=https%3A%2F%2Fpullgz.dhds100.com%2Flive%2Fsd-1-4476659.m3u8%3Fauth_key%3D1771072145-0-0-d92888c2101351f89cd3f1002bac7819&header=%7B%22User-Agent%22%3A%22Lavf%2F57.83.100%22%2C%22Referer%22%3A%22http%3A%2F%2FWJiZxLXA2.com%2F%22%7D&meaningless=nothing|User-Agent=Lavf%2F57.83.100&Referer=http%3A%2F%2FWJiZxLXA2.com%2F
 WHU,http://127.0.0.1:9979/m3u8?url=https%3A%2F%2Fpullgz.dhds100.com%2Flive%2Fsd-1-4476659.m3u8%3Fauth_key%3D1771072145-0-0-d92888c2101351f89cd3f1002bac7819&header=%7B%22User-Agent%22%3A%22Lavf%2F57.83.100%22%2C%22Referer%22%3A%22http%3A%2F%2FWJiZxLXA2.com%2F%22%7D&meaningless=nothing
