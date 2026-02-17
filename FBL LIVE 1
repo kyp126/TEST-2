@@ -13,6 +13,7 @@ AVATAR 3,https://bf.jisuziyuanbf.com/play/dNkkDgDe/index.m3u8
 CCT1,http://play.kankanlive.com/live/1698234869325962.m3u8?header=%7B%22User-Agent%22%3A%22com.android.chrome%2F3.6.9%20
 CCT2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG&header=%7B%22User-Agent%22%3A%22com.android.chrome%2F3.6.9%20
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
