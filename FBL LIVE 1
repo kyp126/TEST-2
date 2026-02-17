@@ -17,7 +17,8 @@ CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
-
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
+足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
