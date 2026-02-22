@@ -1,5 +1,7 @@
 
 LIVE,#genre#
+GET-SEV,https://fes.feswalki.site/simpch3/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzcxNzY2MTM2LCJyYW5kIjoiNjQyN2NkZDJiNjFjYWM4YyJ9.13ab75fdba22fb332a8de4f275c452a2923f26e7ad76d03bbba840dfdc849366
+
 GEN-TOR,https://live.vivo200.com/live/sd-1-4339825.m3u8?txSecret=4c660ffa7c5fba93e7a209d84258ad2f&txTime=699B362D
 
 
