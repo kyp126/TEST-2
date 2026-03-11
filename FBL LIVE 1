@@ -39,25 +39,15 @@ CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 深圳卫视4K,https://migu.188766.xyz/?migutoken=c387240a04b984068fd6719634473993&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1$冰茶 
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 湖南卫视4k超高清,rtp://239.77.0.56:5146
-
 浙江卫视4k超高清,rtp://239.77.0.58:5146
-
 浙江卫视 4K (AVS2),rtp://239.77.1.32:5146
-
 江苏卫视4k超高清,rtp://239.77.0.57:5146
-
 江苏卫视 4K (AVS2),rtp://239.77.1.36:5146
-
 东方卫视4k超高清,rtp://239.77.0.59:5146
-
 北京卫视4K超高清,rtp://239.77.0.2:5146
-
 北京卫视4K超高清,rtp://239.77.0.3:5146
-
 山东卫视4k超高清,rtp://239.77.0.61:5146
-
 山东卫视 4K (AVS2),rtp://239.77.1.37:5146
-
 四川卫视4k超高清,rtp://239.77.0.60:5146
 
 
@@ -97,6 +87,10 @@ TIMBERWOLVES-LAKER,https://ok6-12.vkuser.net/?expires=1773312342359&srcIp=138.75
 BULL-GSW,https://ok6-1.vkuser.net/?expires=1773312444438&srcIp=138.75.52.254&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=3&sig=8oSkToBs7bA&ct=0&urls=45.136.22.44%3B185.226.53.45&clientType=1&zs=43&id=11876487924396
 HORNET-BLAZER,https://ok6-6.vkuser.net/?expires=1773312521832&srcIp=138.75.52.254&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.133&type=3&sig=8t38IZsmU4U&ct=0&urls=185.180.203.35%3B178.237.23.11&clientType=1&zs=43&id=11792830040662
 PACER-KING,https://ok6-11.vkuser.net/?expires=1773312648127&srcIp=138.75.52.254&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=uC3BT5uOmRA&ct=0&urls=95.163.35.2%3B185.180.203.12&clientType=1&zs=43&id=11792949447254
+CELTIC-SPURS,https://ok6-9.vkuser.net/?expires=1773312901154&srcIp=138.75.52.254&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=3&sig=_0K0BtKFWgU&ct=0&urls=95.163.35.23%3B185.226.55.62&clientType=1&zs=43&id=11868195457559
+RAPTOR-ROCKET,https://ok6-11.vkuser.net/?expires=1773313063586&srcIp=138.75.52.254&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=3&sig=r_WUh-GmDVk&ct=0&urls=45.136.21.17%3B185.180.203.23&clientType=1&zs=43&id=11948102257335
+SUN-BULK,https://ok6-14.vkuser.net/?expires=1773313142469&srcIp=138.75.52.254&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.141&type=3&sig=yWDMcSsS3Xk&ct=0&urls=45.136.22.48%3B185.226.53.30&clientType=1&zs=43&id=12049276996328
+MAVERICK-HAWK,https://ok6-13.vkuser.net/?expires=1773313269146&srcIp=138.75.52.254&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.140&type=3&sig=OQg3y2qV_u0&ct=0&urls=45.136.22.38%3B185.226.55.103&clientType=1&zs=43&id=12157051800199
 
 
 
