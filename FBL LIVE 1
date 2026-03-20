@@ -60,9 +60,11 @@ CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 SPORT,#genre#
 NOW SPORTS PRIME,http://hls.168.us.kg/u/630/master.m3u8
 NOW SPORT1,http://protv.fun/4cafe94867/48a12d348c/1032487
-BEIN 1,http://protv.fun/4cafe94867/48a12d348c/941569
-BEIN 2,http://protv.fun/4cafe94867/48a12d348c/941568
-BEIN 3,http://protv.fun/4cafe94867/48a12d348c/941567
+BEIN 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+BEIN 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+BEIN 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+BEIN 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+BEIN 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
 HUB2,http://protv.fun/4cafe94867/48a12d348c/941572
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
