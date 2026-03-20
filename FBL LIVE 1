@@ -65,7 +65,11 @@ BEIN 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
 BEIN 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
 BEIN 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
 BEIN 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
-HUB2,http://protv.fun/4cafe94867/48a12d348c/941572
+HUB P1,https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+HUB P2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+HUB P3,https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+HUB P4,https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+
 TSN 2,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 TSN 3,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
 TSN 4,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
