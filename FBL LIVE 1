@@ -20,9 +20,11 @@ THE RIP 2026,https://ppvod01.kqgfbs.com/splitOut/20260116/1233767/V2026011618363
 AVATAR 3,https://bf.jisuziyuanbf.com/play/dNkkDgDe/index.m3u8
 CCT1,http://play.kankanlive.com/live/1698234869325962.m3u8?header=%7B%22User-Agent%22%3A%22com.android.chrome%2F3.6.9%20
 CCT2,https://tv.iill.top/api/CCTV2/index.m3u8
+CC5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,https://iptv.catvod.com/live.php?id=CCTV5
+CC5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
