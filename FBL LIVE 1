@@ -31,7 +31,7 @@ CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-翡翠台1,https://test.tvbjack.de5.net/proxy/710ae6d16ac94653
+翡翠台1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f#https://test.tvbjack.de5.net/proxy/710ae6d16ac94653
 翡翠台2,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
