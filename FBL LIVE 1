@@ -65,6 +65,12 @@ CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 SPORT,#genre#
 NOW SPORTS PRIME,http://hls.168.us.kg/u/630/master.m3u8
 NOW SPORT1,http://protv.fun/4cafe94867/48a12d348c/1032487
+NOW 1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+NOW 3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+NOW 4,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+NOW 6,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+NOW 7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+
 BEIN 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 BEIN 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
 BEIN 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
