@@ -12,7 +12,8 @@ LIVE,#genre#
 飞行家,https://vid.dbokutv.com/20260318/ppotb62-S71lT2yliZApDBSvkYzBsrmD3fpCJWlQNPlP2yrE9QpF3KMc9WS62WMc1aO6neXc1kS5pQu64/chunklist.m3u8
 
 CCT1,http://play.kankanlive.com/live/1698234869325962.m3u8?header=%7B%22User-Agent%22%3A%22com.android.chrome%2F3.6.9%20
-CCT2,https://tv.iill.top/api/CCTV2/index.m3u8
+CCT2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+
 CC5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
