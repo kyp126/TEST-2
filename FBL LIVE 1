@@ -95,6 +95,11 @@ Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
 
 
+NBA0327,#genre#
+NYK-HORNET,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/05/11013/24q813pxxb0r_h/master.m3u8?t=TAbqy5duI646gTAtCczFOy3JSic4UxgfIJWVroQlHS0&s=1774607658&e=10800&f=55067269&srv=1070&asn=&sp=4000&p=0
+PELICANS-PISTON,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/06/11013/uoakqc5tzp2n_h/master.m3u8?t=lYqL6Fpt6YiQTjn0TWRalZejW0SVSdca0yb-vKsO5oc&s=1774607759&e=10800&f=55067199&srv=1060&asn=&sp=4000&p=0
+KING-MAGIC,https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/03/11013/fexcrwy49gc5_h/master.m3u8?t=4ylFJd9uYaG1VsFw--WDgXhM6fBiuEcW1X7FShriPP8&s=1774607834&e=10800&f=55067383&srv=1050&asn=&sp=4000&p=0
+
 
 
 NBA0326,#genre#
@@ -113,34 +118,10 @@ WIZARD-JAZZ,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/11008/l4thkdib6gmr_
 
 
 
-NBA0324,#genre#
-BUCK-CLIPPER1(EXO),https://vod3.cf.dmcdn.net/sec2(xGhe2UoI0JUOxbtA7deLUP65WECFD3Tdv2NyXhqGYHCbCWf9nYtqdjjqgPQVQcqQCascLxyPgTi2ZZ3VUe11RnzhgFd6adkg2TxZ-G8qFXavpsXssero1SSzk9lAGKgnXGHuMNRNKlmT2ZZ5msYSMfcknvMwdDlttyM5Bk1Z-atoR_UBFbbi-t56W1QzCZR6yI3jPZ0jRsy3zA1kQRiFCQ)/video/fmp4/609901396/h264_aac_hd_hfr/1/manifest.m3u8
-BUCK-CLIPPER,https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/08/10999/c23oy3ujww21_h/index-v1-a1.m3u8?t=8nkqBd-_u3JZIKsz60yJX8tFBFDUTImkzTRICZ2hW8s&s=1774357535&e=10800&f=54995460&srv=1060&asn=&sp=4000&p=0
-GSW-MAVERICK,https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/02/10998/x3ud058ep9ot_h/index-v1-a1.m3u8?t=xSShJPVwOBUa_Q8vwfVbzkNb45njpz3U6fksnXS9WBo&s=1774357387&e=10800&f=54994421&srv=1070&asn=&sp=4000&p=0
-
-
-NET-BLAZER,https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/07/10999/y6y4atea33e0_h/index-v1-a1.m3u8?t=2ju64LjwEDONfFXFqfBHs_I8wFdvWWO75kKuFFuOhy8&s=1774357165&e=10800&f=54995388&srv=1050&asn=&sp=4000&p=0
-ROCKET-BULL,https://be7713.rcr82.waw05.r66nv9ed.com/hls2/02/10999/uyuse5lfepvd_h/index-v1-a1.m3u8?t=GAtJP-vagXbQdQTTES27VCpNUZri3A2u9sB7B1EIQWg&s=1774356981&e=10800&f=54995841&srv=1055&asn=&sp=4000&p=0
-RAPTOR-JAZZ,https://be7713.rcr82.waw05.r66nv9ed.com/hls2/04/10998/okr7zxrywvdj_h/index-v1-a1.m3u8?t=pOrHNxG6qj75y410ZYc4v2lLIitODaMMy8lBdn5VZNc&s=1774356825&e=10800&f=54994970&srv=1055&asn=&sp=4000&p=0
-SPURS-HEAT,https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/04/10998/m7szx0cvabak_h/index-v1-a1.m3u8?t=hcBz10LDt4ohPUmn1IaI_daQgn5s5Pne_xnk4Mz_WCs&s=1774356638&e=10800&f=54994641&srv=1075&asn=&sp=4000&p=0
-LAKER-PISTON,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/03/10998/3s8giqnvt9ty_h/index-v1-a1.m3u8?t=vqMputBW0qSccxLlPDg8Ig5TR48nH2lfEz6onXiZPPU&s=1774356468&e=10800&f=54993588&srv=1065&asn=&sp=4000&p=0
-GRIZZLIES-HAWK,https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/10/10999/97tpsl3tr77i_h/index-v1-a1.m3u8?t=iPiljOMXNnTps1bNwA06C11V3Y2dcdFi0xbb2u2Shp8&s=1774356347&e=10800&f=54995839&srv=1070&asn=&sp=4000&p=0
-THUNDER-76ERS,https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/07/10999/uqbcn7muopwz_h/index-v1-a1.m3u8?t=GcgvtEXT3RwKM6d-1brRojAiHAfPBYe33FTP06CtMjo&s=1774356213&e=10800&f=54995758&srv=1065&asn=&sp=4000&p=0
-PACER-MAGIC,https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/08/10999/5q3zupbayyii_h/master.m3u8?t=e-rTUroMgTcBraFlY7TtbfUq8HAkfbpzQK15gVE56pk&s=1774356020&e=10800&f=54995757&srv=1070&asn=&sp=4000&p=0
 
 
 
 
-
-
-
-NBA0323,#genre#
-RAPTOR-SUN,https://vd507.okcdn.ru/?expires=1774349464543&srcIp=124.246.103.244&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.17&type=4&sig=0OQUwmmG-hI&ct=27&urls=185.226.52.72&clientType=1&zs=43&id=12203912464982
-TIMBERWOLVES-CELTIC,https://ok6-12.vkuser.net/?expires=1774349572479&srcIp=124.246.103.244&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.139&type=3&sig=Yxp5QdKhyWw&ct=0&urls=185.180.203.17%3B45.136.22.36&clientType=1&zs=43&id=12773564484227
-WIZARD-NYK,https://vd252.okcdn.ru/?expires=1774349658926&srcIp=124.246.103.244&pr=10&srcAg=CHROME_ANDROID&ms=45.136.21.53&type=4&sig=NpCYGSOj__M&ct=27&urls=185.226.53.33&clientType=1&zs=43&id=12204227234390
-BLAZER-NUGGET,https://vd593.okcdn.ru/?expires=1774349756556&srcIp=124.246.103.244&pr=10&srcAg=CHROME_ANDROID&ms=185.226.55.113&type=4&sig=FnBkHTtXqVo&ct=27&urls=185.226.52.82&clientType=1&zs=43&id=12204223302230
-NET-KING,https://vd667.okcdn.ru/?expires=1774349837139&srcIp=124.246.103.244&pr=10&srcAg=CHROME_ANDROID&ms=178.237.23.18&type=4&sig=bWxzLfFQYgs&ct=27&urls=185.226.55.105&clientType=1&zs=43&id=12204224809558
-NCAA0323,https://vd658.okcdn.ru/?expires=1774349939820&srcIp=124.246.103.244&pr=10&srcAg=CHROME_ANDROID&ms=178.237.23.9&type=4&sig=vnVWHoC4VIg&ct=27&urls=185.226.55.25&clientType=1&zs=43&id=12205989825110
 
 
 
