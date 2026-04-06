@@ -1,12 +1,5 @@
 
 LIVE,#genre#
-VAL-CEL,https://hls.livelivelive.space/live/4358897.m3u8?txSecret=a59c63daf6b7fbe32e1ec5917618f2f1&txTime=1775398235
-
-
-
-CRE-BOL,https://hls.livelivelive.space/live/4339780.m3u8?txSecret=07b89df87afffad77086471e9b3d9a20&txTime=1775395525
-
-
 
 
 
@@ -599,23 +592,8 @@ Crimewatch 2026,#genre#
 
 
 
-
-
-
-
-
-
-Crimewatch 2025,#genre# 
-01,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_v90lhcay/v/1/pv/1/ev/15/flavorId/1_8c3m2rr6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-02,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_05xzgn6j/v/1/pv/1/ev/15/flavorId/1_sgko7p49/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-03,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bq538tkl/v/1/pv/1/ev/15/flavorId/1_dzg3xlfp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-04,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dlq7kegl/v/1/pv/1/ev/15/flavorId/1_9xlg7gdi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-05,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7h0kazjo/v/1/pv/1/ev/9/flavorId/1_682xiwxj/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-06,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_32w7gha2/v/1/pv/1/ev/9/flavorId/1_cmve8uv1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-07,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7ynw3ydb/v/1/pv/1/ev/9/flavorId/1_9kbrr0al/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-08,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_w0jn8b2j/v/1/pv/1/ev/9/flavorId/1_qg8jtpc8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-09,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4qa2rvfp/v/1/pv/1/ev/9/flavorId/1_e2lzrumq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-10,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_6roez9as/v/21/pv/1/ev/23/flavorId/1_21pjam5u/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+繩之以法 2026,#genre#
+01,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qxkgtfbr/v/1/pv/1/ev/9/flavorId/1_qzjyyy1g/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
@@ -624,17 +602,6 @@ Crimewatch 2025,#genre#
 
 
 
-繩之以法 2025,#genre# 
-01,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_q4puoqx4/v/1/pv/1/ev/15/flavorId/1_563z09rk/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-02,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8c2u6q95/v/1/pv/1/ev/15/flavorId/1_bkmut7kp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-03,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rjmovsk6/v/11/pv/1/ev/23/flavorId/1_4drqwc20/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-04,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_gg3ja5vm/v/1/pv/1/ev/15/flavorId/1_te4cmtol/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-05,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vjkqc0fp/v/1/pv/1/ev/9/flavorId/1_e025wx3p/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-06,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_brjp912r/v/1/pv/1/ev/9/flavorId/1_38jtr1d3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-07,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qi0yg3gl/v/1/pv/1/ev/9/flavorId/1_8nxkg5jj/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-08,https://d1gbibt4vs5yna.cloudfront.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2lr1x4mz/v/11/pv/1/ev/16/flavorId/1_cfos9piu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-09,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_87ncv0ry/v/1/pv/1/ev/9/flavorId/1_34pwbgkb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-10,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lpqpv6c7/v/1/pv/1/ev/9/flavorId/1_l37ibcnn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
