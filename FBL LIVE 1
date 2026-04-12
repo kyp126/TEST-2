@@ -3,45 +3,6 @@ LIVE,#genre#
 
 CHE-MCI,https://storage.googleapis.com/bvertungiherovo1/mux_video_ts/index-1.m3u8
 
-CP-NEW,https://tiplink.fans/s3.php
-CP,https://hls.livelivelive.space/live/4343358.m3u8?txSecret=bb5d20f230e465188bfd58a83948880a&txTime=1775997641
-
-
-NFO-AVL,https://tiplink.fans/s2.php
-NFO,https://hls.livelivelive.space/live/4343364.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-
-SUN-TOT,https://tiplink.fans/s1.php
-SUN,https://hls.livelivelive.space/live/4343365.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-
-MAL-RAV,https://fg1.fgfbg5433dd.site/simpch3/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc2MDA0NTcxLCJyYW5kIjoiYzQ3MzQ2M2VhOWI1ZTlmMSJ9.bd395efd3ff29c2f77ef2c72e985dea4d5f46a57efc66a49562239a7de8deccf
-MLL,https://hls.livelivelive.space/live/4358847.m3u8?txSecret=651af58ccc418ec786cf6df606cbc6da&txTime=1776003061
-
-KOL-BRE,https://hls.livelivelive.space/live/4347643.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-KOL,https://hls.livelivelive.space/live/4347643.m3u8?txSecret=01c13c88cd1a92e69d1b5fca6b99250d&txTime=1776002136
-
-
-PAR-NAP,https://storage.googleapis.com/bvertungiherovo4/mux_video_ts1/index-1.m3u8
-PAR,https://hls.livelivelive.space/live/4339776.m3u8?txSecret=eeb812c10335616f112e34a515f9ed4d&txTime=1775999628
-
-GEN-SAS,https://hls.livelivelive.space/live/4339775.m3u8?txSecret=d3c2f802724631e5d0f89b7def0f7383&txTime=1775317118
-OSA-BET,https://hls.livelivelive.space/live/4358860.m3u8?txSecret=de54531d0a392ce2dfcf41c9b9f8bd0e&txTime=1775995843
-
-
-https://fg1.fgfbg5433dd.site/simpch3/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc1OTk1OTc0LCJyYW5kIjoiOGNjYzdlMjgyNWIxYmRkMyJ9.1338c457707221017d12548260924634851d036f3f4ea4403909ba9de0d2f104
-
-
-
-
-
-
-
-
-寻秦记2026,https://vid.dbokutv.com/20260225/ppotb62-S71lT2yliZApDBSvkYzBsrmD3fpCJWlQdPlP2yoFHQy75gUNajP7ajC3CpC3D6EK4mBcrmD0/chunklist.m3u8
-扫恶,https://vid.dbokutv.com/20260320/ppotb62-S71lT2yliZApDBSvkYzBsrmD3fpCJWlQtPlP2yoFHQvifQOc1mOA1QO6I6WePoP6XoNDhWQ0/chunklist.m3u8
-重度催眠,https://vid.dbokutv.com/20260324/ppotb62-S71lT2yliZApDBSvkYzBsrmD3fpCJWlQdPlP2yxiZoMlJ8njfQoF9YO71We5fWO6vYY6vcYe9Ssk1K/chunklist.m3u8
-飞行家,https://vid.dbokutv.com/20260318/ppotb62-S71lT2yliZApDBSvkYzBsrmD3fpCJWlQNPlP2yrE9QpF3KMc9WS62WMc1aO6neXc1kS5pQu64/chunklist.m3u8
-
 CCT1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 CCT2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
@@ -126,29 +87,9 @@ Eleven Sports 1,http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35264
 
 
 
-NBA0327,#genre#
-NYK-HORNET,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/05/11013/24q813pxxb0r_h/master.m3u8?t=zrnjmuB4u9D6wfVE0QOj6xUvJZOxy2CByl-PNEvlWZE&s=1774664016&e=10800&f=55067269&srv=1070&asn=&sp=4000&p=0
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/05/11013/24q813pxxb0r_h/master.m3u8?t=TAbqy5duI646gTAtCczFOy3JSic4UxgfIJWVroQlHS0&s=1774607658&e=10800&f=55067269&srv=1070&asn=&sp=4000&p=0
-PELICANS-PISTON,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/06/11013/uoakqc5tzp2n_h/master.m3u8?t=9YZBdcVR4bOqscypnX1_nFl1ihLgdsFlOrbKjQfEZ5I&s=1774664138&e=10800&f=55067199&srv=1060&asn=&sp=4000&p=0
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/06/11013/uoakqc5tzp2n_h/master.m3u8?t=lYqL6Fpt6YiQTjn0TWRalZejW0SVSdca0yb-vKsO5oc&s=1774607759&e=10800&f=55067199&srv=1060&asn=&sp=4000&p=0
-KING-MAGIC,https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/03/11013/fexcrwy49gc5_h/master.m3u8?t=cSt8vyLz1UDDZsm0NJfOtzPjFVpbkxpGK9AbAULscRg&s=1774664204&e=10800&f=55067383&srv=1050&asn=&sp=4000&p=0
-https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/03/11013/fexcrwy49gc5_h/master.m3u8?t=4ylFJd9uYaG1VsFw--WDgXhM6fBiuEcW1X7FShriPP8&s=1774607834&e=10800&f=55067383&srv=1050&asn=&sp=4000&p=0
 
 
 
-NBA0326,#genre#
-RAPTOR-CLIPPER,https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/09/11008/f2871gy7iky5_h/master.m3u8?t=YJ_BHZVAx21-iLSY8TU67_TpnJZk2NmWrF0-CTtoUzE&s=1774522267&e=10800&f=55041707&srv=1060&asn=&sp=4000&p=0
-MAVERICK-NUGGET,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/07/11008/dbo8vrdkyw34_h/master.m3u8?t=OIWSsyEH67IQpj9V74ijSAGUaIK0x09czc_ejjAZix8&s=1774522459&e=10800&f=55040832&srv=1075&asn=&sp=4000&p=0
-NET-GSW,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/07/11008/fhterz7z45s6_h/master.m3u8?t=ki6munfZJ8Xy2xmq5RVfET0bbj7YwNMxVbSEjY9bcJk&s=1774522522&e=10800&f=55040890&srv=1055&asn=&sp=4000&p=0
-ROCKET-TIMBERWOLVES,https://be7713.rcr82.waw05.r66nv9ed.com/hls2/08/11008/rce3uzww7vgh_h/master.m3u8?t=Sbs7HnZSCkZpQORJwy38O2vUYAqcyBv5IiQy47TXCHs&s=1774522590&e=10800&f=55041784&srv=1055&asn=&sp=4000&p=0
-BUCK-BLAZER,https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11008/tn96f31m3g8t_h/master.m3u8?t=vxhjQLvd6iCwo1pzHdAi5OH6EIWVQpua4kutQzp0OjY&s=1774522752&e=10800&f=55041913&srv=1060&asn=&sp=4000&p=0
-SPURS-GRIZZLIES,https://be7713.rcr82.waw05.r66nv9ed.com/hls2/01/11008/47uzhemrtd9k_h/master.m3u8?t=fgvlkyEH2OFAo8EmIHnLRx8Ej9lAyPN8zYb2jIyRzgA&s=1774522842&e=10800&f=55040727&srv=1065&asn=&sp=4000&p=0
-THUNDER-CELTIC,https://edge2-waw-sprintcdn.r66nv9ed.com/hls2/05/11008/bc57ezzuqzhj_h/master.m3u8?t=_YxCDZ9d6FlJ9sv849j6KdXCTKbmZbWyO7a_6iSgnCM&s=1774522929&e=10800&f=55040553&srv=1075&asn=&sp=4000&p=0
-LAKER-PACER,https://edge1-prague-sprintcdn.r66nv9ed.com/hls2/03/11008/4yjslt1qh1mh_h/master.m3u8?t=H6wlOOgPO1TWciBupJs9TDSaGre-LL5fqciyVLO_Q9A&s=1774522993&e=10800&f=55040640&srv=1050&asn=&sp=4000&p=0
-HEAT-CAVALIERS,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/04/11008/lmsnb799uzon_h/master.m3u8?t=8gVi6tS500zCFh-hjMrNSFzOG13Qt49rpkI4XQpgpH4&s=1774523152&e=10800&f=55040943&srv=1050&asn=&sp=4000&p=0
-HAWK-PISTON,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/01/11008/se3c6xu818uy_h/master.m3u8?t=IVwOA4n0nfTy7W99ahd75gOFRHByS51PbneBCrrxkaI&s=1774523264&e=10800&f=55041318&srv=1075&asn=&sp=4000&p=0
-BULL-76ERS,https://be7713.rcr82.waw05.r66nv9ed.com/hls2/03/11008/f2x75qfevamt_h/master.m3u8?t=89BLVrKQPrkLiF5fg9xFuCW6qCFDDL8eggFX28naikc&s=1774523330&e=10800&f=55042274&srv=1065&asn=&sp=4000&p=0
-WIZARD-JAZZ,https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/02/11008/l4thkdib6gmr_h/master.m3u8?t=zwqITH_75gbwLbqytaJBdbkQ8mzc6Xdwrrcow4zIG7k&s=1774523429&e=10800&f=55041401&srv=1050&asn=&sp=4000&p=0
 
 
 
