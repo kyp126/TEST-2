@@ -4,20 +4,9 @@
 
 
 LIVE,#genre#
-NEW-BHA,https://hls.livelivelive.space/live/4343346.m3u8?txSecret=33d0d88ba7673e2a7f4d5f67c8731e50
-WOL-SUN,https://hls.livelivelive.space/live/4343369.m3u8?txSecret=f0724721fed740709c0be9b41590ffd8
-BRE-WHU,https://hls.livelivelive.space/live/4343336.m3u8?txSecret=c4139ce6158b1e3f58bf2c5d16a642c8
-BAY-FCH,https://hls.livelivelive.space/live/4347648.m3u8?txSecret=530597cf4490eb566fc7f68c7a0be722
-
-UDI-TOR,https://hls.livelivelive.space/live/4339717.m3u8?txSecret=dc0edc6d16b8483f486e0f4c9a0877df
-
-VIL-LEV,https://fg1.fgfbg5433dd.site/simpch3/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc3NzI5MDgxLCJyYW5kIjoiZDdiZjE2N2I1MTMxMGE4OCJ9.0812bfa924c2b92a433d4aa45fffd4431f4a73a5776ed78767c394d0de47a448
-VIL,https://hls.livelivelive.space/live/4358408.m3u8?txSecret=569abd634b185456f038b3d41cd47c5d
-
-UFC,https://fg1.fgfbg5433dd.site/simpch1/tracks-v1a1/mono.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxIiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc3NzI4NzQ3LCJyYW5kIjoiNjBlNWI5YTkwNmMzNTQ1OSJ9.932e285dffc51bd64c8ca4ac019ebce436e80aade08bddf79da6f702026c6539
+MIA-ORL,https://hls.livelivelive.space/live/4460239.m3u8?txSecret=46d8905e3c8450b4206e8005d9ae1078
 
 
-寒战1994(pre),http://127.0.0.1:9978/m3u8.m3u8?url=https%3A%2F%2Fomts.tc.qq.com%2Fdefaultts.tc.qq.com%2FB_Kua1LhN7rnxdaTaHfWz0CFOwiBwHvuO8V-zlfT5jfY2-N9N9gbMr0PnqYVq2Uk_AqLZQ2yc9mh9f9cJqGJtQJRi99CqhVmysI7q4WNnn84E7-m8YrcMfc166dCkClT4TJVJXlz4qPVY2IlqnwVcYjpRt43bWksLDm04C505YXVshsyryvVOK3BbHRAKsUwXp%2Fsvp_50112%2F3Rdbtu1BR65wxnaJz_Ydw48LPENaLWx1Jvsy8f-G4puMwzZhtfyb1VJPEMGx-Mhv4U1lcIPP5rFbfhVqrzCRmXh4AWqs9AVMB98xmBQeLl1JIpUjKI7cVA%2Fgzc_1000102_0b53gqdxqaah5maajxhs3fu4ongdpa4ao7ca.f321004.ts.m3u8%3Fver%3D4&header=%7B%22user-agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Safari%2F537.36%22%7D&meaningless=nothing|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 
 
 CCT1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
