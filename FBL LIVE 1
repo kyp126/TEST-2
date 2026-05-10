@@ -2,7 +2,8 @@
 
 LIVE,#genre#
 WHU-ARS,https://d308i16knp5uaj.cloudfront.net/status/1/fronts.woff2?ebae99
-ARS,https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts1/index-1.m3u8
+ARS1,https://storage.googleapis.com/ytnerttunbvgd1/mux_video_ts1/index-1.m3u8
+ARS2,https://ec2.streambtw.com/playlist/stream_1.m3u8?md5=A4CORyg6tghTRX2Tbvcgxg&expires=1778430164
 
 
 
