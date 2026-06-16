@@ -2,8 +2,8 @@
 
 LIVE,#genre#
 
-FRA-SEN1,https://storage.googleapis.com/puiotyrejnvad1/mux_video_ts/index-1.m3u8
-FRA-SEN,https://soccerball.st/s1.php
+FRA-SEN,https://storage.googleapis.com/puiotyrejnvad1/mux_video_ts/index-1.m3u8
+IRQ-NOR,https://soccerball.st/s1.php
 FRA,https://play1.gzxdby.com/live/505112458378_2943755438_1080p.m3u8
 FRA1,https://play.ntcwix.com/rrty/hd-zh-1-4460926_gqzm.m3u8?auth_key=1781640504-0-0-6dc0dd9cfe5e9d213bd9e055ebfa4d6e
 TV5,http://107.150.60.122/live/cctv5hd.m3u8
