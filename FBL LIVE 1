@@ -1,11 +1,8 @@
 
 
 LIVE,#genre#
-
-IRQ-NOR1,https://storage.googleapis.com/puiotyrejnvad2/mux_video_ts/index-1.m3u8
-IRQ-NOR,https://soccerball.st/s1.php
-
-IRQ,https://live13.quzeay.com/live/12345678.m3u8
+ARG-ALG,https://storage.googleapis.com/puiotyrejnvad2/mux_video_ts/index-1.m3u8
+ARG-ALG1,https://soccerball.st/s1.php
 
 TV5,http://107.150.60.122/live/cctv5hd.m3u8
 
