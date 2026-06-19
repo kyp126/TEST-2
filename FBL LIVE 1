@@ -1,6 +1,7 @@
 
 
 LIVE,#genre#
+USA-AUS,https://eve3.s3.eu-north-1.amazonaws.com/live/test_1.m3u8
 MEX-KOR1,https://lb14.strmd.st/secure/hOymMsvTAKNNWkFncoIwSUsZKmPBMoKp/rtmp/stream/Zd65xeQmmc730M-nbG5hb5li9lgdfkf1Le6N06FJjwZsmLqN1fdCXaU7V4pRtvMRtsmYAPv-KA/1/high/mono.m3u8
 USA-AUS,https://storage.googleapis.com/uourhnfgakefr1/mux_video_ts/index-1.m3u8
 USA咪,https://live.666666.zip/stream/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
