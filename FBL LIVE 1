@@ -2,6 +2,9 @@
 
 LIVE,#genre#
 NOR-FRA,https://sunic.s3.us-east-1.amazonaws.com/text/posti1_1.m3u8
+SEN-IRQ,https://storage.googleapis.com/puytihgkmhvaeovo2/mux_video_ts/index-1.m3u8
+
+
 U1,http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 U2,http://starhub.pro/live/farhat-3379/67897-913379/745202.ts
 小红 1,https://live.666666.zip/stream/34364125.m3u8
