@@ -1,11 +1,8 @@
 
 
 LIVE,#genre#
-JPN-SWE,https://a80.azplay38.me/hls/streama262327/index.m3u8?cst=c2bf3292cc215275361f062909805dbb
-TUN-NED,https://a85.azplay38.me/hls/streama261994/index.m3u8?cst=0402511b3efaa6592fd4f3b09880ddd0
-
-JPN,https://storage.googleapis.com/hunhfkegrsjn1/mux_video_ts/index-1.m3u8
-TUN,https://storage.googleapis.com/hunhfkegrsjn2/mux_video_ts1/index-1.m3u8
+PAR-AUT,https://a51.azplay38.me/hls/streama262326/index.m3u8?cst=a3f60593186c61f257a3911b7e1ca9dc
+TUR-USA,https://a94.azplay38.me/hls/streama261974/index.m3u8?cst=a66e8cf92e0afaa2e0c22d0044ef7a75
 
 U1,http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 U2,http://starhub.pro/live/farhat-3379/67897-913379/745202.ts
