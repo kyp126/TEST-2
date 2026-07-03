@@ -1,7 +1,8 @@
 
 
 LIVE,#genre#
-SUI-ALG,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120266.m3u8
+SUI-ALG,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
+http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120266.m3u8
 SUI,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 SUI3,https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 SUI1,https://live.vivo200.com/live/sd-1-4459729.m3u8?txSecret=dfc9a1e2a25dce83201215657adc4d0f&txTime=6A473536
