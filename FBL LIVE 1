@@ -1,26 +1,18 @@
 
 
 LIVE,#genre#
-PAR-FRA1,https://vibuxer.com/stream/tQwZKM2oFsGe5609_P4qTA/kjhhiuahiuhgihdf/1783253552/73094686/index-v1-a1.m3u8
-PAR-FRA2,https://masukestin.com/stream/ptzuJtDeHEZ9TZHbbOzfLA/kjhhiuahiuhgihdf/1783253573/73094979/index-v1-a1.m3u8
-
-CAN-MAR1,https://vibuxer.com/stream/uT16q4kdReiQzlOQ50wayA/kjhhiuahiuhgihdf/1783251619/73093439/index-v1-a1.m3u8
-CAN-MAR2,https://audinifer.com/stream/ItgbE7OaRd_Gi9alDYlXMA/kjhhiuahiuhgihdf/1783251713/73093875/index-v1-a1.m3u8
-HIGHLIGHT SHOW,https://ok6-11.vkuser.net/?expires=1783297158402&srcIp=138.75.14.68&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=5&sig=4aKvWUxIUzY&ct=0&urls=185.226.55.50%3B176.112.172.32&clientType=0&zs=43&id=17818396330651
-R32,https://vd656.okcdn.ru/?expires=1783297295557&srcIp=138.75.14.68&pr=10&srcAg=CHROME_ANDROID&ms=178.237.23.7&type=5&sig=5AGZvhmabDA&ct=0&urls=185.180.203.42&clientType=0&zs=43&id=17965670468326
 
 
-
-PAR-FRA,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120266.m3u8
-PAR-FRA1,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
-PAR1,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465875.m3u8
+BRA-NOR,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120266.m3u8
+BRA-NOR1,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
+BRA1,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465875.m3u8
 咕,https://hls.live123.fans/live/4459800.m3u8
 
 
 
 
 
-咪col,https://hls.live123.fans/live/4459732.m3u8
+咪bra,https://hls.live123.fans/live/4459732.m3u8
 
 
 
@@ -44,7 +36,15 @@ ELTA,https://live.666666.zip/elta/index.m3u8
 WC1,http://wickediptv.xyz/Randall123/Randall321/340018
 WC2,http://wickediptv.xyz/Randall123/Randall321/340019
 
+PAR-FRA1,https://vibuxer.com/stream/tQwZKM2oFsGe5609_P4qTA/kjhhiuahiuhgihdf/1783253552/73094686/index-v1-a1.m3u8
+PAR-FRA2,https://masukestin.com/stream/ptzuJtDeHEZ9TZHbbOzfLA/kjhhiuahiuhgihdf/1783253573/73094979/index-v1-a1.m3u8
 
+CAN-MAR1,https://vibuxer.com/stream/uT16q4kdReiQzlOQ50wayA/kjhhiuahiuhgihdf/1783251619/73093439/index-v1-a1.m3u8
+CAN-MAR2,https://audinifer.com/stream/ItgbE7OaRd_Gi9alDYlXMA/kjhhiuahiuhgihdf/1783251713/73093875/index-v1-a1.m3u8
+HIGHLIGHT SHOW,https://ok6-11.vkuser.net/?expires=1783297158402&srcIp=138.75.14.68&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=5&sig=4aKvWUxIUzY&ct=0&urls=185.226.55.50%3B176.112.172.32&clientType=0&zs=43&id=17818396330651
+R32,https://vd656.okcdn.ru/?expires=1783297295557&srcIp=138.75.14.68&pr=10&srcAg=CHROME_ANDROID&ms=178.237.23.7&type=5&sig=5AGZvhmabDA&ct=0&urls=185.180.203.42&clientType=0&zs=43&id=17965670468326
+
+.
 
 
 
