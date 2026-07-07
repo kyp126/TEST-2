@@ -2,15 +2,15 @@
 
 LIVE,#genre#
 
-USA-BEL,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120266.m3u8
-USA-BEL1,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
-USA1,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465875.m3u8
-USA2,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
-USA3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
+ARG-EGY,http://89.187.179.148:826/live/anto.j/c9yJDcXyPe/120266.m3u8
+ARG-EGY1,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
+ARG1,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465875.m3u8
+ARG2,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
+ARG3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98853
 
 
 
-USA4,https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
+ARG4,https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
 cctv5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
 咪,https://hls.live123.fans/live/4459805.m3u8
 
