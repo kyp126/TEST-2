@@ -2,7 +2,9 @@
 
 LIVE,#genre#
 
-FINAL,https://stream.sports3.win/iptv/live/tsn.m3u8
+FINAL,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
+
+
 ESP-ARG,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 ESP-ARG1,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
 ESP,https://live.666666.zip/weixing/1.m3u8
