@@ -11,7 +11,7 @@ MIL,https://stream.sports3.win/iptv/live/signal-4541781-29305.m3u8
 
 
 
-
+SPORT,#genre#
 红,https://live01-cn-ali.bvjicd.com/live/27742326.m3u8
 小红,https://live.666666.zip/xiaohongshu/1.m3u8
 CC5,https://live.666666.zip/stream/20233432.m3u8
@@ -53,55 +53,15 @@ CCTV5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-翡翠台1,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台2,http://iptv.4666888.xyz/iptv2A.php?id=34
-翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
-浙江卫视4K,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
-浙江卫视4K,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视4K,https://migu.188766.xyz/?migutoken=c710d282c030c9c3eb98ae9c6387fdcf&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1$冰茶 
-浙江卫视4K,https://migu.188766.xyz/?migutoken=3c3cfb5d86d8b3d7a761f44948c43079&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1$冰茶 
-北京卫视4K,https://migu.188766.xyz/?migutoken=00816050bd81fbc5f77bb3e6d9b0f6bd&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy$冰茶 
-深圳卫视4K,https://migu.188766.xyz/?migutoken=c387240a04b984068fd6719634473993&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1$冰茶 
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-湖南卫视4k超高清,rtp://239.77.0.56:5146
-浙江卫视4k超高清,rtp://239.77.0.58:5146
-浙江卫视 4K (AVS2),rtp://239.77.1.32:5146
-江苏卫视4k超高清,rtp://239.77.0.57:5146
-江苏卫视 4K (AVS2),rtp://239.77.1.36:5146
-东方卫视4k超高清,rtp://239.77.0.59:5146
-北京卫视4K超高清,rtp://239.77.0.2:5146
-北京卫视4K超高清,rtp://239.77.0.3:5146
-山东卫视4k超高清,rtp://239.77.0.61:5146
-山东卫视 4K (AVS2),rtp://239.77.1.37:5146
-四川卫视4k超高清,rtp://239.77.0.60:5146
-
-
-
-FMR,#genre#
-FRA-ESP1,https://masukestin.com/stream/czaAR0CdTK36Vxzo3_IWXw/kjhhiuahiuhgihdf/1784118519/73274908/index-v1-a1.m3u8
-FRA-ESP2,https://audinifer.com/stream/3P45vV28pIVm0abcgTs2lQ/kjhhiuahiuhgihdf/1784118551/73275279/index-v1-a1.m3u8
-
-
-FRA-MON,https://xzb-vod.52kq.top/64664c68vodsgp1386416388/32cc7e775001834810931549131/playlist_eof.m3u8?t=6a518a0f&us=304c29e943&sign=b5abbc03b85022ea14c8daf0b61d01e5
-POR-ESP1,https://audinifer.com/stream/wpjjjLuqBD3kVQEKcBZR_g/kjhhiuahiuhgihdf/1783426091/73126475/index-v1-a1.m3u8
-POR-ESP2,https://masukestin.com/stream/18S4Y8i89SK0gyWF5Tld2A/kjhhiuahiuhgihdf/1783426332/73127077/index-v1-a1.m3u8
-
-BRA-NOR1,https://vibuxer.com/stream/8KaVOpOVpE_GGceFjDhQDg/kjhhiuahiuhgihdf/1783342043/73107382/index-v1-a1.m3u8
-BRA-NOR2,https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/oDERF-E7WGHszBqEQtTBHw/n8l/zbxp13sp/gq3n9m/tt/index-f1-v1-a1.m3u8?v=1766826492
-PAR-FRA1,https://vibuxer.com/stream/tQwZKM2oFsGe5609_P4qTA/kjhhiuahiuhgihdf/1783253552/73094686/index-v1-a1.m3u8
-PAR-FRA2,https://masukestin.com/stream/ptzuJtDeHEZ9TZHbbOzfLA/kjhhiuahiuhgihdf/1783253573/73094979/index-v1-a1.m3u8
-CAN-MAR1,https://vibuxer.com/stream/uT16q4kdReiQzlOQ50wayA/kjhhiuahiuhgihdf/1783251619/73093439/index-v1-a1.m3u8
-CAN-MAR2,https://audinifer.com/stream/ItgbE7OaRd_Gi9alDYlXMA/kjhhiuahiuhgihdf/1783251713/73093875/index-v1-a1.m3u8
-HIGHLIGHT SHOW,https://ok6-11.vkuser.net/?expires=1783297158402&srcIp=138.75.14.68&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.138&type=5&sig=4aKvWUxIUzY&ct=0&urls=185.226.55.50%3B176.112.172.32&clientType=0&zs=43&id=17818396330651
-R32,https://vd656.okcdn.ru/?expires=1783297295557&srcIp=138.75.14.68&pr=10&srcAg=CHROME_ANDROID&ms=178.237.23.7&type=5&sig=5AGZvhmabDA&ct=0&urls=185.180.203.42&clientType=0&zs=43&id=17965670468326
 
 
 
 
-SPORT,#genre#
+
+
+
+
+
 NOW SPORTS PRIME,http://hls.168.us.kg/u/630/master.m3u8
 NOW SPORT1,http://protv.fun/4cafe94867/48a12d348c/1032487
 NOW 1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
