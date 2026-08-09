@@ -6,6 +6,12 @@ MCI-ATM,https://newviva.vivatops.store/simpch3/tracks-v1a1/mono.m3u8?token=eyJzd
 MCI 咪,https://pul-tenm.gkykp.com/live/sd-1-4561571.m3u8?txSecret=2fedafd6d88f72c5db399b1ad6177dc7&txTime=6A79AC60
 MCI1,http://iptv.cqshushu.com/tiyu2.php?id=Lxt&token=b00575ce71b29f2ada4d2c60d620439f
 MCI2,http://iptv.cqshushu.com/88kq.php?id=424&token=c0885cf67d3c16b27bc4082916bc5165
+
+
+
+
+
+SPORT,#genre#
 CH U,https://cdn.qd.je/163189/chu
 meWatch,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
@@ -13,10 +19,6 @@ meWatch,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/ma
 
 
 
-
-SPORT,#genre#
-红,https://live01-cn-ali.bvjicd.com/live/27742326.m3u8
-小红,https://live.666666.zip/xiaohongshu/1.m3u8
 CC5,https://live.666666.zip/stream/20233432.m3u8
 CC5+,https://live.666666.zip/stream/79635460.m3u8
 TV5,http://107.150.60.122/live/cctv5hd.m3u8
