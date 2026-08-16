@@ -1,4 +1,12 @@
 
+HL0816,#genre#
+SEV-RAV,https://cdn.videas.fr/v-medias/s5/hlsv1/2a/fc/2afca658-68f7-4fcb-93fc-724f0666c092/1080p.m3u8
+ALA-GET,https://cdn.videas.fr/v-medias/s5/hlsv1/a5/4d/a54d4d2e-f001-4719-9054-96ceaeb25071/1080p.m3u8
+NEW-B04,https://cdn.videas.fr/v-medias/s5/hlsv1/94/fb/94fbf703-b74a-432e-8b1a-9b8d449dbb2e/720p.m3u8
+MUN-AC,https://cdn.videas.fr/v-medias/s5/hlsv1/0d/d7/0dd709e0-2c23-45cb-bbf3-fd2bffa704b7/1080p.m3u8
+CHE-RSO,https://cdn.videas.fr/v-medias/s5/hlsv1/6f/59/6f592351-4fdc-4a54-8a1f-a739d39ee6ba/1080p.m3u8
+
+
 HL0813,#genre#
 PSG-AVL,https://cdn.videas.fr/v-medias/s5/hlsv1/48/ee/48eedcd3-5573-4d5b-8806-27704603dfa3/1080p.m3u8
 PSG,https://cdn.videas.fr/v-medias/s5/hlsv1/48/ee/48eedcd3-5573-4d5b-8806-27704603dfa3/1080p.m3u8
