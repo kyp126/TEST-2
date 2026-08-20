@@ -1,13 +1,9 @@
 
 
-0817,#genre#
-ARS-MCI 1,https://dd315o.cloudatacdn.com/u5kj72rgmdplsdgge4elioqfcgg7ovebbkkmhwq5erh7klxtyt377sxgxjfa/hltapglyxr~kbT9Aikjbd?token=8t1iq0aahai6mjh1cxs62992&expiry=1786930582640
-ARS-MCI 2,https://hanerix.com/stream/r9JoqHjVeROuIF2jdPahqQ/kjhhiuahiuhgihdf/1787005540/73862503/index-v1-a1.m3u8
-
-
-TROPHY,https://audinifer.com/stream/ufD0gMO38SMy8qEclw_ceg/kjhhiuahiuhgihdf/1787005386/73862647/index-v1-a1.m3u8
-
-
+LIVE,#genre#
+CCTV2,http://45.192.97.170:8880/play/2.m3u8
+CCTV5,http://45.192.97.170:8880/play/5.m3u8
+CCTV5+,http://45.192.97.170:8880/play/6.m3u8
 
 
 SPORT,#genre#
