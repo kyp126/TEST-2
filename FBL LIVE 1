@@ -2,10 +2,11 @@
 
 FMR 0822,#genre#
 ARS-COV,http://iptv.cqshushu.com/tiyu1.php?id=Rxdd&token=b00575ce71b29f2ada4d2c60d620439f
-
+CCT5,http://45.192.97.170:8880/play/488.m3u8
 
 
 SPORT,#genre#
+CCT5,http://45.192.97.170:8880/play/488.m3u8
 CH U,https://cdn.qd.je/163189/chu
 meWatch,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 翡翠,http://45.192.97.170:8880/play/1132.m3u8
@@ -13,7 +14,7 @@ meWatch,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/ma
 
 
 
-CC5,https://live.666666.zip/stream/20233432.m3u8
+
 CC5+,https://live.666666.zip/stream/79635460.m3u8
 TV5,http://107.150.60.122/live/cctv5hd.m3u8
 TV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
