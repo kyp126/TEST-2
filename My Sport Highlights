@@ -1,4 +1,10 @@
 
+HL0829,#genre#
+CP-MCI,https://cdn.videas.fr/v-medias/s5/hlsv1/41/9b/419b0afd-0ae0-4af6-99be-bbeb129e175e/1080p.m3u8
+MIL-VEN,https://cdn.videas.fr/v-medias/s5/hlsv1/85/83/85831358-ebae-4496-9ddc-dc37886e52aa/1080p.m3u8
+BAY-VFB,https://cdn.videas.fr/v-medias/s5/hlsv1/4c/81/4c81e0a5-f09e-477d-806c-62dae16d30cc/1080p.m3u8
+RAC-ELC,https://cdn.videas.fr/v-medias/s5/hlsv1/5c/26/5c26d2bd-f573-4900-b2c3-49b288412897/720p.m3u8
+
 HL0828,#genre#
 BAR-ATH,https://cdn.videas.fr/v-medias/s5/hlsv1/69/fa/69fa8b15-982c-4966-bc2e-4c1b81aeaf14/720p.m3u8
 CHE-LUT,https://cdn.videas.fr/v-medias/s5/hlsv1/e9/d3/e9d3fffc-ca8e-4a2e-b95d-2d984d9b3e0e/1080p.m3u8
@@ -13,49 +19,6 @@ TOT-CHA,https://cdn.videas.fr/v-medias/s5/hlsv1/1e/4c/1e4c8850-d884-42d1-b453-07
 NEW-WBA,https://cdn.videas.fr/v-medias/s5/hlsv1/e8/cf/e8cffe03-012c-4cac-ae83-a94a1ac620c4/1080p.m3u8
 PRE-EVE,https://cdn.videas.fr/v-medias/s5/a/7c/5f/7c5f291c062f442383e6d69e8807d442/2b2b691b41b6452f9ec83a668b94782c/082a8f90-2ce1-4f00-bd48-22a132a078fc.mp4
 
-
-HL0826,#genre#
-VAL-BET,https://cdn.videas.fr/v-medias/s5/hlsv1/b8/fe/b8fe8a4a-2f37-4726-aded-d7a93eadda57/1080p.m3u8
-HL0825,#genre#
-FUL-CHE,https://cdn.videas.fr/v-medias/s5/hlsv1/b9/c4/b9c4c4f8-00c0-4d99-b3cb-e2d5aa1446e8/1080p.m3u8
-ROM-FIO,https://cdn.videas.fr/v-medias/s5/hlsv1/f2/bf/f2bf1f2a-624e-4bb6-b61e-5b057b38d028/1080p.m3u8
-OSA-LEV,https://cdn.videas.fr/v-medias/s5/hlsv1/f7/02/f702913c-3de9-4795-adb0-ee98563de4ea/1080p.m3u8
-BOL-LAZ,https://cdn.videas.fr/v-medias/s5/hlsv1/33/13/3313e57c-b034-4d06-a000-5c684ac2eeb1/1080p.m3u8
-
-HL0824,#genre#
-NEW-LIV,https://cdn.videas.fr/v-medias/s5/hlsv1/54/05/54050a3e-49c8-49ef-9c9a-c76a5edf6072/1080p.m3u8
-MCI-BOU,https://cdn.videas.fr/v-medias/s5/hlsv1/49/ab/49abf7de-895f-49d2-83c7-ed53cc3fe990/1080p.m3u8
-BHA-AVL,https://cdn.videas.fr/v-medias/s5/a/b0/4a/b04a5fb617d24b508db353cbd8a3836b/5bd05de7816d48d287c283a744a899a7/26f99c52-9cb0-4a33-a3ab-553e903e8c41.mp4
-ELC-BAR,https://cdn.streamain.com/guests/Mp3F2piTmDVODSI_1787522014.mp4
-ATM-VIL,https://cdn.videas.fr/v-medias/s5/hlsv1/ca/d8/cad8988a-d794-467c-b8fe-ba7ffdd1d2d5/playlist.m3u8
-GET-RAC,https://cdn.videas.fr/v-medias/s5/hlsv1/5b/51/5b5184a3-5555-448f-8db7-596a7e70f0e2/720p.m3u8
-ATA-SAS,https://cdn-cf-east.streamable.com/video/mp4/ma8vjc.mp4?Expires=1787783040&Signature=Z-prYvTRG6Ev08y22AtuanZDSSocrh5AMQfsjZxb76eF9sH8cU9VJZXcDN1M0LnX-QKen29yIRs-EqH6be6Vvqb28TMaf80BNOzq7dd9zeLmLvoYm0cQ4uHDWsFJoChxoGCvGNvki7BCFxNGCshOPvRixBfUhZRG7tnSv4I9aeNt4rtm2ph~mFt5VdVBYKn1JMO0ZFhWXbC4Dxe80m5NRIgXO-JlrmEir3l0nBmeJSD2akqKVYK7uhuMWmKH83llyLia64uwzRq~FL1IrVFYe5QWqORvRPFPcQ0~taaQYy-14X3g-iHK8WC7Z-Pu68rCboxlB9cEWm35RB6lIRqxqw__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
-TOR-AC,https://cdn-cf-east.streamable.com/video/mp4/backpo.mp4?Expires=1787783040&Signature=AAR7bC~ICo2Wp~L2mj6QvAwUnL~UoiRWw0JWVqUsQiWM6fVw4KaLbwS3~m6I7xJPc7Ng7TMcV2P9xqdnCgUY0sKXFmAJe-dMTAxispiOuqGhH0TSydbl39QBTDanQIV9Hr4owOczcSEP2iSFZ3nHi3o76K7dXnQ21ZCzheYlVhIFU4wTT61r840wuMWRUJNzrOnrqCoaqFu2ajUUVbn4m-1O3iJroM53B7QqDmguF337yYGcimztoS3fPnbN~ceqI-pGhfW6ne5OTjvrKhK-5I5DTqN6vngCwqMrl-UdtLRO~A8W~df8zQ~xPOSgT6EhOPAUdG8x7vzmxVo9xQrowQ__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
-FRO-JUV,https://cdn.videas.fr/v-medias/s5/hlsv1/cb/5e/cb5e0338-1a89-4995-a830-44fc82910eb0/720p.m3u8
-VEN-LEC,https://cdn.videas.fr/v-medias/s5/hlsv1/9f/d1/9fd19b73-4cf4-467b-894f-f5edb1c768b4/720p.m3u8
-REN-PSG,https://cdn.streamain.com/guests/IQfpNbePsnlvCFW_1787521769.mp4
-
-
-HL0823,#genre#
-ESP-RMA,https://cdn-cf-east.streamable.com/video/mp4/g61pzq.mp4?Expires=1787701860&Signature=L4xMEkX0dIz5A-VHASx91saK-H8bqQZ4gb-lXBY-a6YHGRDRHfTqhprd~n4LYR84A~eYfV~sB1J7gIsWPMmp2MLMXvP7y~2VuJJNBdQuuiBbTJDUfOfOucAZGTf49hO5b5FeONLFKzmk0QzSI6lH9NHUNlVupiMZNhYS0izhXsO8yKLzfDIr7Z3g5khL6DqO6O2M66w2xkFqVyvIlOLxUdzgupcOEJxpK9pcU1kFaqZFNVStUOBKgSg5MmeUR-iZy2lwKXZsIIscUesXH6qhUx1eAp0OEN3~kk5HryvSyNjJgO45og4r-iUKtZrBVt-izAm7dsKZ6czNl0kF7jhfgg__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ
-HUL-MUN,https://streamtape.com/get_video?id=kLk7M0oM6rFOkAR&expires=1787519248&ip=F0AWKREOKxSHDN&token=iatEqOJxDkg5&stream=1#https://cdn.videas.fr/v-medias/s5/hlsv1/42/ea/42ea5eef-2101-49ff-a813-be774bc39423/1080p.m3u8
-BRE-TOT,https://streamtape.com/get_video?id=bz0vkeYRGWFPp3e&expires=1787519479&ip=F0AWKREOKxSHDN&token=2rUeT1QvwVYL&stream=1#https://cdn.videas.fr/v-medias/s5/hlsv1/07/5e/075e33dd-798a-4376-9b84-0bc6dd5acd52/720p.m3u8
-BVB-BAY,https://streamtape.com/get_video?id=MXjVmMBadwtmm7D&expires=1787519804&ip=F0AWKREOKxSHDN&token=CR4eospM6m8j&stream=1
-BVB-BAY,https://cdn.videas.fr/v-medias/s5/hlsv1/d1/48/d1484820-aceb-44a8-87fc-bf32a9de3ac3/1080p.m3u8
-EVE-CP,https://cdn.videas.fr/v-medias/s5/hlsv1/03/44/0344aff2-086d-40a8-81ec-ff2dc795bf2a/720p.m3u8
-NFO-LEE,https://cdn.videas.fr/v-medias/s5/hlsv1/e6/5a/e65aca1b-d79e-444a-8d5a-219aa4d18cdc/360p.m3u8
-IPS-SUN,https://cdn.videas.fr/v-medias/s5/hlsv1/5a/b2/5ab2b9b9-ca5e-41a6-a4eb-91ec25310683/720p.m3u8
-GEN-NAP,https://cdn.videas.fr/v-medias/s5/a/ce/e7/cee7ccb7250f4d4d8478101713375416/c5ef21ae62e2408ea560e341f0b889f7/3190bb33-b6a0-43d7-b380-0965646ac641.mp4
-INT-MON,https://cdn.videas.fr/v-medias/s5/a/af/28/af288ecd6afa48a3b08233bed842bc04/65883095ea3f4366a36d9bcb78f9921b/25dfab4f-5e52-4983-b3fc-d5e9ba40040d.mp4
-UDI-COM,https://cdn.videas.fr/v-medias/s5/a/af/28/af288ecd6afa48a3b08233bed842bc04/729d16016c1b424d8323482216f6b2a6/b418a355-d201-4286-80da-aa8955a76e7b.mp4
-VAL-CEL,https://cdn.videas.fr/v-medias/s5/hlsv1/97/18/9718a971-ced7-4b2c-be72-ab3ffcaf8b70/playlist.m3u8
-ATH-SEV,https://cdn.videas.fr/v-medias/s5/hlsv1/ef/d3/efd3c97c-4a7b-4d1b-9cc9-cab6d32664a8/1080p.m3u8
-LEN-AUX,https://cdn.videas.fr/v-medias/s5/hlsv1/86/92/8692d040-9dde-4a87-9edf-db34f1fcfcb2/1080p.m3u8
-
-
-
-HL0822,#genre#
-ARS-COV,https://cdn.videas.fr/v-medias/s5/hlsv1/af/a5/afa53d5b-c661-4904-a1f0-d8bb94f15ae6/1080p.m3u8
 
 
 
