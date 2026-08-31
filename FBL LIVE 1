@@ -1,11 +1,17 @@
-LIVE0829,#genre#
-MUN-IPS,https://xzb-foranchor.xzb99.com/live/sd-1-4558502.m3u8?txSecret=c2063eb334f0d486779ec6f357e49a02
-MUN,https://play.aarray.cn/rrty/hd-zh-1-4558502_gqzm.m3u8?auth_key=1788106804-0-0-b8800b42ab55cc115ed7b724b2391d22&token=10a76b9cc2881056&device=4&platform=rrty
-MUN(eng),http://iptv.cqshushu.com/tiyu1.php?id=Lgnq9&token=1de76db36f41cb01f2fadb9e78a22117
-CCTV,http://45.192.97.170:8880/play/5.m3u8
-RMA-MAL,https://xzb-foranchor.xzb99.com/live/sd-1-4565352.m3u8?txSecret=ef45a9db82f12bee11f19c705d2bf3da
-RMA咪,https://play.aarray.cn/rrty/hd-zh-1-4565352_gqzm.m3u8?auth_key=1788105064-0-0-fe7c06a6739c450e5270dfa0301d5bd0&token=9cf810248956f49d&device=4&platform=rrty
-RMA,http://iptv.cqshushu.com/tiyu1.php?id=Lgnc2&token=1de76db36f41cb01f2fadb9e78a22117
+
+FMR0831,#genre#
+MUN-IPS,http://iptv.cqshushu.com/tiyu1.php?id=R11hf&token=1de76db36f41cb01f2fadb9e78a22117
+SUN-FUL,http://iptv.cqshushu.com/tiyu1.php?id=R11f7&token=1de76db36f41cb01f2fadb9e78a22117
+LEE-BRE,http://iptv.cqshushu.com/tiyu1.php?id=R11er&token=1de76db36f41cb01f2fadb9e78a22117
+CHE-BHA,http://iptv.cqshushu.com/tiyu1.php?id=R11eb&token=1de76db36f41cb01f2fadb9e78a22117
+RMA-MLG,http://iptv.cqshushu.com/tiyu1.php?id=R11gj&token=1de76db36f41cb01f2fadb9e78a22117
+CEL-ATH,http://iptv.cqshushu.com/tiyu1.php?id=R11lv&token=1de76db36f41cb01f2fadb9e78a22117
+DEP-VAL,http://iptv.cqshushu.com/tiyu1.php?id=R11j7&token=1de76db36f41cb01f2fadb9e78a22117
+MON-OM,http://iptv.cqshushu.com/tiyu1.php?id=R11kz&token=1de76db36f41cb01f2fadb9e78a22117
+CAG-INT,http://iptv.cqshushu.com/tiyu1.php?id=R11kj&token=1de76db36f41cb01f2fadb9e78a22117
+LAZ-GEN,http://iptv.cqshushu.com/tiyu1.php?id=R11k3&token=1de76db36f41cb01f2fadb9e78a22117
+NAP-COM,http://iptv.cqshushu.com/tiyu1.php?id=R11ir&token=1de76db36f41cb01f2fadb9e78a22117
+
 
 FMR0830,#genre#
 TOT-NEW,http://iptv.cqshushu.com/tiyu1.php?id=R10yb&token=1de76db36f41cb01f2fadb9e78a22117
