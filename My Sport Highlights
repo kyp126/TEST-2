@@ -1,4 +1,10 @@
 
+HL0903,#genre#
+OSN-BUY,https://cdn.videas.fr/v-medias/s5/hlsv1/32/54/3254be26-e940-4ef8-80d2-297a7160b244/480p.m3u8
+UDI-VEN,https://cdn.videas.fr/v-medias/s5/hlsv1/77/59/7759c515-9f49-4dd4-a46a-cd51c64f4a39/1080p.m3u8
+SAS-FRO,https://cdn.videas.fr/v-medias/s5/hlsv1/59/df/59df53f2-5f95-4572-9b92-9bbdbaed8697/1080p.m3u8
+
+
 HL0902,#genre#
 TOR-MON,https://cdn.videas.fr/v-medias/s5/hlsv1/24/4a/244a5425-8390-4d74-8b72-d831d45d2a8f/1080p.m3u8
 HEBC-BVB,https://cdn.videas.fr/v-medias/s5/hlsv1/cd/62/cd62f3e8-7ae5-49e3-a3cc-6a776ad00bf6/720p.m3u8
