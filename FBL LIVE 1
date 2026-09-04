@@ -1,6 +1,16 @@
 
 LIVE,#genre#
 
+
+FMR0905,#genre#
+IPS-LIV,http://iptv.cqshushu.com/tiyu1.php?id=R12ki&token=1de76db36f41cb01f2fadb9e78a22117
+PSG-MON,http://iptv.cqshushu.com/tiyu1.php?id=R12lf&token=1de76db36f41cb01f2fadb9e78a22117
+BET-RMA,http://iptv.cqshushu.com/tiyu1.php?id=R12kx&token=1de76db36f41cb01f2fadb9e78a22117
+GEN-COM,http://iptv.cqshushu.com/tiyu1.php?id=R12k1&token=1de76db36f41cb01f2fadb9e78a22117
+VFB-KOE,http://iptv.cqshushu.com/tiyu1.php?id=R12jl&token=1de76db36f41cb01f2fadb9e78a22117
+SHB-HIL,http://iptv.cqshushu.com/tiyu1.php?id=R12j5&token=1de76db36f41cb01f2fadb9e78a22117
+
+
 FMR0904,#genre#
 CAG-VER,http://iptv.cqshushu.com/tiyu1.php?id=R12eb&token=1de76db36f41cb01f2fadb9e78a22117
 RSO-CEL,http://iptv.cqshushu.com/tiyu1.php?id=R12bn&token=1de76db36f41cb01f2fadb9e78a22117
@@ -45,66 +55,6 @@ LAZ-GEN,http://iptv.cqshushu.com/tiyu1.php?id=R11k3&token=1de76db36f41cb01f2fadb
 NAP-COM,http://iptv.cqshushu.com/tiyu1.php?id=R11ir&token=1de76db36f41cb01f2fadb9e78a22117
 
 
-FMR0830,#genre#
-TOT-NEW,http://iptv.cqshushu.com/tiyu1.php?id=R10yb&token=1de76db36f41cb01f2fadb9e78a22117
-COV-HUL,http://iptv.cqshushu.com/tiyu1.php?id=R10uq&token=1de76db36f41cb01f2fadb9e78a22117
-BOU-EVE,http://iptv.cqshushu.com/tiyu1.php?id=R10ub&token=1de76db36f41cb01f2fadb9e78a22117
-LIV-NFO,http://iptv.cqshushu.com/tiyu1.php?id=R10o3&token=1de76db36f41cb01f2fadb9e78a22117
-
-SEV-ATM,http://iptv.cqshushu.com/tiyu1.php?id=R1136&token=1de76db36f41cb01f2fadb9e78a22117
-AUX-SCO,http://iptv.cqshushu.com/tiyu1.php?id=R112q&token=1de76db36f41cb01f2fadb9e78a22117
-JUV-PAR,http://iptv.cqshushu.com/tiyu1.php?id=R112a&token=1de76db36f41cb01f2fadb9e78a22117
-OL-HAC,http://iptv.cqshushu.com/tiyu1.php?id=R111u&token=1de76db36f41cb01f2fadb9e78a22117
-RSO-ESP,http://iptv.cqshushu.com/tiyu1.php?id=R10z6&token=1de76db36f41cb01f2fadb9e78a22117
-BVB-HSC,http://iptv.cqshushu.com/tiyu1.php?id=R10yq&token=1de76db36f41cb01f2fadb9e78a22117
-MON-UDI,http://iptv.cqshushu.com/tiyu1.php?id=R10xu&token=1de76db36f41cb01f2fadb9e78a22117
-FIO-FRO,http://iptv.cqshushu.com/tiyu1.php?id=R10xf&token=1de76db36f41cb01f2fadb9e78a22117
-SAS-TOR,http://iptv.cqshushu.com/tiyu1.php?id=R10wy&token=1de76db36f41cb01f2fadb9e78a22117
-LEV-BET,http://iptv.cqshushu.com/tiyu1.php?id=R10v7&token=1de76db36f41cb01f2fadb9e78a22117
-
-
-
-
-
-
-FMR0829,#genre#
-ALA-VIL,http://iptv.cqshushu.com/tiyu1.php?id=R10de&token=1de76db36f41cb01f2fadb9e78a22117
-CP-MCI,http://iptv.cqshushu.com/tiyu1.php?id=R10cz&token=1de76db36f41cb01f2fadb9e78a22117
-LOSC-PSG,http://iptv.cqshushu.com/tiyu1.php?id=R10ch&token=1de76db36f41cb01f2fadb9e78a22117
-MIL-VEN,http://iptv.cqshushu.com/tiyu1.php?id=R10c2&token=1de76db36f41cb01f2fadb9e78a22117
-BAY-VFB,http://iptv.cqshushu.com/tiyu1.php?id=R10bm&token=1de76db36f41cb01f2fadb9e78a22117
-RAC-ELC,http://iptv.cqshushu.com/tiyu1.php?id=R10aa&token=1de76db36f41cb01f2fadb9e78a22117
-
-
-
-FMR0828,#genre#
-FUL-WIM,http://iptv.cqshushu.com/tiyu1.php?id=R106p&token=1de76db36f41cb01f2fadb9e78a22117
-BAR-ATH,http://iptv.cqshushu.com/tiyu1.php?id=R104y&token=1de76db36f41cb01f2fadb9e78a22117
-CHE-LUT,http://iptv.cqshushu.com/tiyu1.php?id=R1041&token=1de76db36f41cb01f2fadb9e78a22117
-BHA-TIL,http://iptv.cqshushu.com/tiyu1.php?id=R1035&token=1de76db36f41cb01f2fadb9e78a22117
-CEL-OSA,http://iptv.cqshushu.com/tiyu1.php?id=R1029&token=1de76db36f41cb01f2fadb9e78a22117
-
-
-
-FMR0827,#genre#
-LYO-FEN,http://iptv.cqshushu.com/tiyu1.php?id=Rzsh&token=1de76db36f41cb01f2fadb9e78a22117
-CLJ-SLB,http://iptv.cqshushu.com/tiyu1.php?id=Rzs1&token=1de76db36f41cb01f2fadb9e78a22117
-RMA-RSO,http://iptv.cqshushu.com/tiyu1.php?id=Rzqq&token=1de76db36f41cb01f2fadb9e78a22117
-TOT-CHA,http://iptv.cqshushu.com/tiyu1.php?id=Rzq9&token=1de76db36f41cb01f2fadb9e78a22117
-NEW-WBA,http://iptv.cqshushu.com/tiyu1.php?id=Rzpt&token=1de76db36f41cb01f2fadb9e78a22117
-
-FMR0826,#genre#
-NFO-LEE,http://iptv.cqshushu.com/tiyu1.php?id=Rza9&token=1de76db36f41cb01f2fadb9e78a22117
-SOU-WHU,http://iptv.cqshushu.com/tiyu1.php?id=Rz5t&token=1de76db36f41cb01f2fadb9e78a22117
-VAL-BET,http://iptv.cqshushu.com/tiyu1.php?id=Rz8h&token=1de76db36f41cb01f2fadb9e78a22117
-LASK-CEL,http://iptv.cqshushu.com/tiyu1.php?id=Rz8y&token=1de76db36f41cb01f2fadb9e78a22117
-ETT-NAS,http://iptv.cqshushu.com/tiyu1.php?id=Rz0x&token=1de76db36f41cb01f2fadb9e78a22117
-
-FMR0825,#genre#
-FUL-CHE,http://iptv.cqshushu.com/tiyu1.php?id=Ryur&token=1de76db36f41cb01f2fadb9e78a22117
-ROM-FIO,http://iptv.cqshushu.com/tiyu1.php?id=Ryub&token=1de76db36f41cb01f2fadb9e78a22117
-OSA-LEV,http://iptv.cqshushu.com/tiyu1.php?id=Rytf&token=1de76db36f41cb01f2fadb9e78a22117
-BOL-LAZ,http://iptv.cqshushu.com/tiyu1.php?id=Rys3&token=1de76db36f41cb01f2fadb9e78a22117
 
 
 
