@@ -1,4 +1,10 @@
 
+HL0908,#genre#
+UDI-LAZ,https://cdn.videas.fr/v-medias/s5/hlsv1/80/16/80163426-74aa-400c-a0f7-ef0e4fbca8d4/1080p.m3u8
+CAG-LEC,https://cdn.videas.fr/v-medias/s5/hlsv1/7d/3f/7d3fb6ad-7775-4609-8fee-06abea30ddf2/1080p.m3u8
+GET-CEL,https://cdn.videas.fr/v-medias/s5/hlsv1/a4/d6/a4d64c0c-1f97-41e4-a749-266b5adf6b42/720p.m3u8
+
+
 HL0904,#genre#
 ARS-CHE,https://cdn.videas.fr/v-medias/s5/hlsv1/33/27/332798c2-e170-4b48-b514-80ec1a74fa2a/1080p.m3u8
 EVE-MUN,https://cdn.videas.fr/v-medias/s5/hlsv1/55/05/550574a6-8aae-4f03-8de7-f0273122d882/1080p.m3u8
