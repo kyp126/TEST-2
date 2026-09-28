@@ -1,9 +1,19 @@
 
 LIVE,#genre#
-JPN-VEN,https://play.aarray.cn/rrty/hd-en-1-4601360_gqzm.m3u8?auth_key=1790595121-0-0-849c852a1280e382751a8570a8789773&token=385158828cb858ad&device=4&platform=rrty
-JPN,http://iptv.cqshushu.com/jrs.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46013601%26id2%3D&token=aac13681fed31b0e717cfa05fd7b1b3c
-KOR-URU,https://live1.dyrur1.com/live/73685530_4939e894aac6c1896e88f4178ab8d75b_1080p.m3u8?auth_key=1790607348-0-0-d464ad45233ccd4b7f97b41198d59005
-KOR,http://iptv.cqshushu.com/88kq.php?url=http%3A%2F%2Fplay.sportsteam368.com%2Fplay%2Fpao%2F%3Fid%3D46500431%26id2%3D&token=aac13681fed31b0e717cfa05fd7b1b3c
+
+
+
+
+FMR0929,#genre#
+BEL-FRA,https://frv2.plauymito.live/hls/TKRSt45K3zOvfzgbiitIa0B1bmZVBEOR/master.txt
+TUR-ITA,https://frv2.plauymito.live/hls/IfJylXJdMWnIAkCj8VmfedTbDUWlTYQ0/master.txt
+SWD-POL,https://frv2.plauymito.live/hls/X7fqaLe6HfP1jbVMB4oZhFJCdfqPX6Lf/master.txt
+GEO-UKR,https://frv2.plauymito.live/hls/O5DGs7NC74bSwFcAiTat9mCNrfMEduM4/master.txt
+LAT-CYP,https://frv2.plauymito.live/hls/tZ6PCXD6PZUtxIwOXBX7bkX7xJiXnumc/master.txt
+ARM-MON,https://frv2.plauymito.live/hls/rJ5e0yA9E12CHKkGQKFulIf8UKVF8TX3/master.txt
+ROU-BIH,https://frv2.plauymito.live/hls/ML1fYaRlLAiFpOgIP2tfNlKVFEAmvjnC/master.txt
+NIRL-HUN,https://frv2.plauymito.live/hls/Sbli61oOkGFleGEwo2B7we7OIxjF6wkN/master.txt
+
 
 
 FMR0928,#genre#
