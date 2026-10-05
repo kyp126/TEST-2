@@ -1,6 +1,17 @@
 
 LIVE,#genre#
 
+FMR1006,#genre#
+FRA-BEL,https://frv2.plauymito.live/hls/AVWn7t22gkX2NwRCt43QMTxVYGjOcxx6/index_avc_720p.txt
+ITA-TUR,https://frv2.plauymito.live/hls/5A3Z906XNABk0Ks97ITfIqLNVeqB2Xs3/index_avc_720p.txt
+NIRL-GEO,https://frv2.plauymito.live/hls/kE5hAQLzCnGWetiXVTNgUIGf5TxyLq14/index_avc_720p.txt
+BIH-POL,https://frv2.plauymito.live/hls/8xI6OFrSlNVCISYBDxhlcMCYsnSly0rj/index_avc_720p.txt
+MNE-ARM,https://frv2.plauymito.live/hls/kcNAdF39wzLpeHFt5q4wSyERwn6iQ0Wq/index_avc_720p.txt
+CYP-LAT,https://frv2.plauymito.live/hls/bV6ztfiHFgvYArLCAvpJkBJyCCVu7uCs/index_avc_720p.txt
+UKR-HUN,https://frv2.plauymito.live/hls/aHb11hz6KrlQGNTBzyYm77O4zD1H2oFl/index_avc_720p.txt
+ROU-SWE,https://frv2.plauymito.live/hls/7VY9qmEpxPr7uyNDCRXWv15IXkIodzuD/index_avc_720p.txt
+
+
 FMR1005,#genre#
 GRE-GER,https://frv2.plauymito.live/hls/AfMH1Qwcr0rhaB6FGqDMXxHLQqVnzlbG/index_avc_720p.txt
 POR-NOR1,https://frv2.plauymito.live/hls/vcs0SLXm6eMFs8jEkZkkV9khw3ekYITX/index_avc_720p.txt
