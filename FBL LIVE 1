@@ -1,18 +1,27 @@
 
 LIVE,#genre#
-NFO-ARS,https://lb19.strmd.st/secure/uNwqlIxyTfUwwcCOULxGSbESUlscisSV/ingest/stream/streamedarsenal/1/playlist.m3u8#https://lb21.strmd.st/secure/axnUpGcxcCrqBzqUtAMnZmioIYEUdJyG/ingest/stream/streamedarsenal/1/playlist.m3u8
-NFO1,https://lb23.strmd.st/secure/XDeJezjrTAHvuwyURShaQcJZakLRrcCQ/rtmp/stream/jasRiFHgx3ZwCz9DJNXT85aqPMKCmchAgwRFCJoqh9Y2_TBRPtWGf5ot5IqCak1__eTLpJkzKINi/1/high/mono.m3u8#https://lb17.strmd.st/secure/CiWFKLSlGWsgzXtPIYodAJTGFOreJjdv/rtmp/stream/0z4y6YxbC9ElEKsiqnwUyhhxNC48XXODqSot4hrSFI5rujSimZTK_ygqzQbRH35y5kQoF76x6vbL/1/high/mono.m3u8
-NFO咪,https://play.aarray.cn/rrty/hd-zh-1-4558614_gqzm.m3u8?auth_key=1792340540-0-0-1898db9bce7f375062b1ce2afc461a45&token=584cd06b1e958ab6&device=4&platform=rrty
-
-
-CEL-ALA,https://play.aarray.cn/rrty/hd-zh-1-4565450_gqzm.m3u8?auth_key=1792337248-0-0-e11400070ccc01f9716a78d11dad9fa9&token=bcc49c9386700d26&device=4&platform=rrty
-CEL,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-
-FIO-COM,https://lb8.strmd.st/secure/AgGvzsvFsxnCpAykleRVzgxwIraDbLqS/hotel/stream/fiorentina-vs-como-serie-a-1792328400/1/playlist.m3u8
-FIO,https://play.aarray.cn/rrty/hd-zh-1-4549157_gqzm.m3u8?auth_key=1792331546-0-0-48993a48609f15cfd94f48698f41a646&token=1b0bec04d7b91b48&device=4&platform=rrty
 
 
 
+FMR1019,#genre#
+NFO-ARS,http://iptv.cqshushu.com/tiyu1.php?id=R1l76&token=a2c3a44a7c908a27435e3dcde084568e
+RMA-SEV,http://iptv.cqshushu.com/tiyu1.php?id=R1lb7&token=a2c3a44a7c908a27435e3dcde084568e
+JUV-LAZ,http://iptv.cqshushu.com/tiyu1.php?id=R1lab&token=a2c3a44a7c908a27435e3dcde084568e
+MIL-ATA,http://iptv.cqshushu.com/tiyu1.php?id=R1l8y&token=a2c3a44a7c908a27435e3dcde084568e
+BOU-SUN,http://iptv.cqshushu.com/tiyu1.php?id=R1l37&token=a2c3a44a7c908a27435e3dcde084568e
+BHA-CP,http://iptv.cqshushu.com/tiyu1.php?id=R1l3n&token=a2c3a44a7c908a27435e3dcde084568e
+LEE-MUN,http://iptv.cqshushu.com/tiyu1.php?id=R1l43&token=a2c3a44a7c908a27435e3dcde084568e
+OL-NICE,http://iptv.cqshushu.com/tiyu1.php?id=R1lar&token=a2c3a44a7c908a27435e3dcde084568e
+CEL-ALA,http://iptv.cqshushu.com/tiyu1.php?id=R1l4y&token=a2c3a44a7c908a27435e3dcde084568e
+FIO-COM,http://iptv.cqshushu.com/tiyu1.php?id=R1l2a&token=a2c3a44a7c908a27435e3dcde084568e
+UDI-LEC,http://iptv.cqshushu.com/tiyu1.php?id=R1kwy&token=a2c3a44a7c908a27435e3dcde084568e
+OSA-RAC,http://iptv.cqshushu.com/tiyu1.php?id=R1l1e&token=a2c3a44a7c908a27435e3dcde084568e
+B04-FRE,http://iptv.cqshushu.com/tiyu1.php?id=R1l4i&token=a2c3a44a7c908a27435e3dcde084568e
+FAT-KJL,http://iptv.cqshushu.com/tiyu1.php?id=R1l9t&token=a2c3a44a7c908a27435e3dcde084568e
+MGA-RSO,http://iptv.cqshushu.com/tiyu1.php?id=R1l9f&token=a2c3a44a7c908a27435e3dcde084568e
+BMG-TSG,http://iptv.cqshushu.com/tiyu1.php?id=R1l7m&token=a2c3a44a7c908a27435e3dcde084568e
+PFC-REN,http://iptv.cqshushu.com/tiyu1.php?id=R1l6q&token=a2c3a44a7c908a27435e3dcde084568e
+FCL-MON,http://iptv.cqshushu.com/tiyu1.php?id=R1l6a&token=a2c3a44a7c908a27435e3dcde084568e
 
 
 
