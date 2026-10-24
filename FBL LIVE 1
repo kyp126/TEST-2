@@ -1,5 +1,8 @@
 
 LIVE,#genre#
+ARS-EVE,https://lb6.strmd.st/secure/gjEkPWOUOAqlOjddvImTQhWVTlnJOxZN/ingest/stream/streamedarsenal/1/playlist.m3u8
+ARS1,https://lb8.strmd.st/secure/yfOxYcZMGxFPPcbnWpydaQGTMiFKyGxB/rtmp/stream/NpcADeyb5ldmvfwjAqtNdSBnkK96KorR-wXjJSicbImwzGyG1jYDM7KHeK1Dq7VKXwvxOgIDEWg/1/playlist.m3u8
+
 AVL-MCI,https://lb20.strmd.st/secure/ugGvnTTFxKxpYYOehIINaPdDMMsjxuux/hotel/stream/aston-villa-vs-manchester-city-premier-league-1792836000/2/playlist.m3u8
 AVL,https://lb11.strmd.st/secure/eBqOfjJppXrPpPhOEQLVLbCsFbpjJFLI/hotel/stream/aston-villa-vs-manchester-city-premier-league-1792836000/1/playlist.m3u8
 AVL2,https://lb15.strmd.st/secure/OapsckbSqQnycfHPAZdgCWzMOWNyGBhI/rtmp/stream/favSm4u_561rxdlKlM5cXsB3ud8a7eqwIiLBlcq0-TlDrZPG-YZxTgRiyK2hGaLKx5i3kCa4/1/high/mono.m3u8
