@@ -1,22 +1,20 @@
 
 LIVE,#genre#
-ARS-EVE,https://lb3.strmd.st/secure/qPyRnEuZrYUHqnMSWGcVhRUzunkJvvCs/hotel/stream/arsenal-vs-everton-premier-league-1792849800/1/playlist.m3u8
-https://lb6.strmd.st/secure/gjEkPWOUOAqlOjddvImTQhWVTlnJOxZN/ingest/stream/streamedarsenal/1/playlist.m3u8
-ARS1,https://lb7.strmd.st/secure/RPJQBcodZEextaupzOoQVtRNHxWOAeUu/rtmp/stream/xd12jgjLBjz-XDVYXliK5tB5LHhcP77QSNfQ6vnHY7Bj-ubu3O7nxH-5WU7vGdby0plj6cGixNo/1/playlist.m3u8#https://lb8.strmd.st/secure/yfOxYcZMGxFPPcbnWpydaQGTMiFKyGxB/rtmp/stream/NpcADeyb5ldmvfwjAqtNdSBnkK96KorR-wXjJSicbImwzGyG1jYDM7KHeK1Dq7VKXwvxOgIDEWg/1/playlist.m3u8
-ARS5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-COV-FUL,https://lb21.strmd.st/secure/gFdIGUrIKzHKSxUDqufVWXVKUauOzKrW/hotel/stream/coventry-city-vs-fulham-premier-league-1792849800/1/playlist.m3u8#https://lb32.strmd.st/secure/sxIhQmtRuDecANaMmmUSkqvLCBwLHnMO/rtmp/stream/SbUc3qr0nTixuauO5gDFLT1QrZFLUqd0PWMNfTSFdwjvi64Xd05WvIhCwXa1Het_R5M8cJa9D-w/1/playlist.m3u8
-COV,https://play.aarray.cn/rrty/hd-zh-1-4558639_gqzm.m3u8?auth_key=1792854077-0-0-a8f60c6c1210bb5b60a2abfd6de8198a
 
 
 
-RAV-ELC,https://lb11.strmd.st/secure/SlyVJwDsEdnUonwascaLwPgOwCgAUQLj/hotel/stream/rayo-vallecano-vs-elche-laliga-ea-sports-1792842900/1/playlist.m3u8#https://lb26.strmd.st/secure/HKNAmOCQOEEzaHzRHmSQtUtjqfHXlPIy/hotel/stream/rayo-vallecano-vs-elche-laliga-ea-sports-1792842900/1/playlist.m3u8
-RAV,https://lb27.strmd.st/secure/qChGRLetAGqPzfjlegMHPwLIqkprINox/rtmp/stream/c98-xGYXWADE6jrXeThIiA59hnkHJwCKplQraPkYcXcxLo9KIGcm_aIpmrvFVdA16aC_TVG-h8k/1/high/mono.m3u8
-RAV咪,https://play.aarray.cn/rrty/hd-zh-1-4565475_gqzm.m3u8?auth_key=1792848137-0-0-bddc87328268e2e2547b8b679b583269
-COM-SAS,https://play.aarray.cn/rrty/hd-zh-1-4549118_gqzm.m3u8?auth_key=1792850907-0-0-ee73370bf1b49f37ea89ffcd9d485162
-CAG-BOL,https://play.aarray.cn/rrty/hd-zh-1-4549078_gqzm.m3u8?auth_key=1792850947-0-0-9e1a8d5526ebdb057d3070cdc443af1c
 
 
-
+FMR1025,#genre#
+CHE-TOT1,https://s9-s1001604.97bf1.com/hls/h8M276Yq7IQkfSYvERt53h9SwJ4Qbtrj/index_1920x1080.m3u8?token=909fb44e01cce71baffaeb5e5fad0f75-1792915250-119.234.67.100-f633f6f6e78d2616a0589f66a880411dce2e00f7ba4fa4f4b5a598ddca50de9b
+CHE-TOT2,https://s12-t.97bf1.com/hls/L5wUjekpB3FTqA9MntcYj2Sg84mImpH2/index_1920x1080.m3u8
+ARS-EVE,https://s7-s501740.s1q2105.com/hls/sfrUYgZSG90gmZicYKovakD9xrVXsmeU/index_1920x1080.m3u8
+AVL-MCI,https://s9-s1001604.97bf1.com/hls/FYNAgP069sylHmpF4qngPBLWfyOrbdpP/h264/index_1920x1080.m3u8?token=019f0be078982ad5eaba248c7f5248af-1792915385-119.234.67.100-24381d0528d53ae31dbc45f28e1b8dafebf835983dca56da1d57493153cef6e3
+CON-FUL,https://s14-s1001604.97bf1.com/hls/n4Sc7jwsG9dj3HX5usw3SHfaLru3qfQc/index_1920x1080.m3u8?token=c9c7a38766ac1d8739b13fc09f660d66-1792915419-119.234.67.100-a407126a52106f38b2ccfd14c7391a4b0d265ad619e2a7a9dd22ae2c165e0f2d
+RAC-ESP,https://s9-s1001604.97bf1.com/hls/1ZVectAU1CnUxyAT4nkOCpOuI427wYiL/h264/index_1280x720.m3u8?token=44bdc68d7446a57dd1ea09fff28c23b4-1792915547-119.234.67.100-4df4d4c6320ba611b550a8a96c55756b722d129e8b6e2d2ee5c1d8fb1558a383
+NAP-ROM,https://s10-s501740.97bf1.com/hls/9FQlNqCzeF2QJlbE6VMne71w7HOhIEJh/h264/index_1920x1080.m3u8?token=4e47277c99286cedbedb258452651e7c-1792915612-119.234.67.100-56902291ba06e829c97e5ac842d860295e9cab8e05ed6050f870d0d98db55182
+VAL-VIL,https://s10-s501740.97bf1.com/hls/S8jlawsdClRSQ0PsLPlst3TiMsUKqF4k/h264/index_1280x720.m3u8?token=cb9e4536c54453dd9f1529eb6ab05456-1792915480-119.234.67.100-845394f158b09a85749fc2230c6ddc00f4265085f888b553cdbe3a41fdff7ab3
+RAV-ELC,
 
 
 FMR1024,#genre#
