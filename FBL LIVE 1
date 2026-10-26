@@ -1,17 +1,24 @@
 
 LIVE,#genre#
-MUN-BOU,https://lb23.strmd.st/secure/VyvMjUZWjoDnbMfHzmCMXUrXdLygSCgU/hotel/stream/manchester-united-vs-afc-bournemouth-premier-league-1792936800/2/playlist.m3u8
-MUN,https://play.aarray.cn/rrty/hd-zh-1-4558646_gqzm.m3u8?auth_key=1792940052-0-0-d1fdc58d580f045631c0dc5e58e2fdb5&token=fb6231814242a4cb&device=4&platform=rrty
 
-LIV-BHA,https://play.aarray.cn/rrty/hd-zh-1-4558645_gqzm.m3u8?auth_key=1792939994-0-0-93a3ccf562a0c555d67f6d0470c1e2bd&token=ba7f4ef6a01e6621&device=4&platform=rrty
-
-HUL-BRE,https://lb24.strmd.st/secure/CFWLaHMtEAcFzRZwXWAWYtSwGPDrSEng/ingest/stream/streamedwolverhamptonwanderers/1/playlist.m3u8
-https://lb23.strmd.st/secure/vpTdOkPWyruWFDFsQsMqbafXFiLIUNtr/rtmp/stream/T3o-FfqJdNOHD9VxorsVNqnEunugmFx-oquBHN7w40KY-j_QJshRaHcGH77dzEVNt1LpbQYGnQHKVRI/1/high/mono.m3u8
-HUL,https://play.aarray.cn/rrty/hd-zh-1-4558643_gqzm.m3u8?auth_key=1792940176-0-0-833da915b096bb6373fc44742dbf3969&token=a9e18344f49b9dfb&device=4&platform=rrty
-CP-NEW,https://lb18.strmd.st/secure/KSiyODLVTkOobzJsreGPKHOJktZLUqfj/ingest/stream/streamedcrystalpalace/1/playlist.m3u8
-https://lb29.strmd.st/secure/WdbfMeicNmtYJtlgjRvIYFbawTSpTHef/hotel/stream/crystal-palace-vs-newcastle-united-premier-league-1792936800/1/playlist.m3u8
-CP,https://live01-cn-ali.xdbrk.com/live/22160660_tsc.m3u8
-ATH-GET,https://play.aarray.cn/rrty/hd-zh-1-4565468_gqzm.m3u8?auth_key=1792938210-0-0-8b39d38544cb6a6e1c168890c2efa0fc
+FMR1026,#genre#
+LIV-BHA,https://s13-s1001604.97bf1.com/hls/yq0IHT9jkME0RK4tmBsKPpLw3YVaDDTW/h265/index_1920x1080.m3u8?token=ac0920ca342f92d021a223daabd56c13-1793002543-119.234.25.62-19cd033af586e69e3355618a7bc5c306a262b050181d21120e9c6e7f2c5b4466
+MUN-BOU,https://s9-s1001604.97bf1.com/hls/nGBXlzPoWOsxZyy3cVyBdzJBRmBs6Hj4/index_1920x1080.m3u8?token=cb28a655b25c472c1199cf3179a81d41-1793002506-119.234.25.62-13f79c56a724022217c1ca366b5ca3d91a15b62d4753e1518a01f7a28dfaa71d
+CP-NEW,https://s13-s1001604.97bf1.com/hls/GWXqDFdplQCwbdmebEqxm3RvI5HqzVe1/index_1920x1080.m3u8?token=b3cc546091984b1f77e484e36e2e432d-1793002741-119.234.25.62-a38bdb3a1ce5710136e236cb8339e9c2cdbb55455dd56a3944caa324068b559c
+SUN-LEE,https://s13-s1001604.97bf1.com/hls/D50BD4H5X9uaO4SbstK5EU4pDc16ik5B/h264/index_1920x1080.m3u8?token=fdb4fa8b7aee85a8a356c6798695b702-1793002701-119.234.25.62-3f72d7486e2fe94841b0917fd1c83e1edd88e0a58cc2d512a3b55548ea55b1cc
+HULF-BRE,https://s14-s1001604.97bf1.com/hls/58OkTgK7aORRLsUCpFiI9gqlIrOURVGr/h264/index_1920x1080.m3u8?token=52764cb545062088a0d156ebd4319404-1793002776-119.234.25.62-6bc2c5d08262fa6351cdbf024036a8f15845d27b5fabcf3d1eb2b8abe49d08b9
+BAR-RMA1,https://m1-s1001604.97bf1.com/hls/bhQy0RVgOSqvxJiZQdIKgpkqhTurk8wc/index_1920x1080.m3u8
+BAR-RMA2,https://sfaqn01.virelios.live/hls2/C24XIBqk1sd4g/index_1920x1080.m3u8
+RSO-LEV,https://s14-s1001604.97bf1.com/hls/VhbW0JYLnmnakVdLfHGLJzxYDqbv3etC/h265/index_1280x720.m3u8?token=64483d992449cd1b506c838ab1742485-1793002889-119.234.25.62-7c265b8962ae8dda8e1519405ed9a8540a6fc3a369a5ffccb401e0ff1b047b85
+CEL-BET,https://s13-s1001604.97bf1.com/hls/av0RefHv2iHS9rPrLcmF5UfVSTvDnSgK/index_1280x720.m3u8?token=156fe9075da9f09dfd3932d7c62860dd-1793002930-119.234.25.62-744763c832a93b787935c8ee3e79dc8c34f325b6df6ae4a1dd722be80a9593fd
+ATH-GET,https://s9-s1001604.97bf1.com/hls/xpZ9H5ZiKJzPjA0GL4rzpU7f3xweE2GG/h264/index_1280x720.m3u8?token=c9614b183ae22d22e1892f74868328e3-1793002992-119.234.25.62-abbb3de792345a0e39443e9f1ee7bdc85a7e937887b7a24e9d5a3476369389a2
+UDI-MIL,https://sfaqn01.virelios.live/hls2/TJursznY2Nm2h/index_1280x720.m3u8
+LEC-JUV,https://s14-s1001604.97bf1.com/hls/XkL3iQoZt91faC8kN9ummZBiNWJQu73l/index_1280x720.m3u8?token=dcda6ae311ecd66a9dccb6e8befd2a43-1793002651-119.234.25.62-1fad4e8fbac7bf0b1a821cc0b30e6b3fa2d331fac3864b8bb6a73efed737738d
+INT-FIO,https://s13-s1001604.97bf1.com/hls/8a3uGKzC6AAQvRveWMrlcr49hl8QAV5C/index_1280x720.m3u8?token=3fe6f97656554ecd0a3915df301f14d7-1793002851-119.234.25.62-e1a681f02ea00bb8fc0a9c3a257b6abef0fda31d98b5f213e8458fbde1dddc5f
+ATA-FRO,https://s13-s1001604.97bf1.com/hls/4W2XH5hqeeUQWthEJiKEbEGe0RxRVWz8/index_1280x720.m3u8?token=55658c6999901b17a2c699faf3216e37-1793003059-119.234.25.62-ffa107faed31c6d02d6289e2d4d92b4b3f12b59ba87c30e30cf057ad53c1ec94
+GEN-VEN,https://s13-s1001604.97bf1.com/hls/FFbhAtULAmhtpj5AGm5SoEqkyKwtg5dS/index_1280x720.m3u8?token=007cfecedac727f3448782f22f73d7fd-1793003023-119.234.25.62-10164ac8238862ee51d6ff3c53c2ee6b77e1fd69fc98ffa96d058314f5191ebe
+SCF-BAY,https://s10-s501740.97bf1.com/hls/FmncF2xOB5jn69hVrjJjSDc8N30d4Uet/index_1920x1080.m3u8?token=9bcfeef5e20f3448a498d3f269936f9f-1793002584-119.234.25.62-9b911cb264c197157dd00b63729698041873a327e735b78b1c4ebac8be2497fc
+TSG-B04,https://m1-s1001604.97bf1.com/hls/mHv9iuhe6P2FE9WnZO1KapOa0559xL2X/h264/index_1920x1080.m3u8
 
 
 
