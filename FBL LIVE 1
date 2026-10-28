@@ -1,6 +1,10 @@
 
 LIVE,#genre#
 
+
+FMR1026,#genre#
+FLE-ARS,https://s8-s251765.97bf1.com/hls/FZLFlglDB5NI9rCVx2N9YHcavSGsL5vH/h264/index_1920x1080.m3u8
+
 FMR1027,#genre# 
 PSG-LYO,https://s9-s1001604.97bf1.com/hls/lBgNmlt4pabxe7EHkpwkQu5luSuPSFSI/h264/master.m3u8?token=d970ddad0a0d94616da1d780398582e2-1793107693-2400%3A1c00%3A590%3Aa306%3Af845%3A57ff%3Afef3%3A3b3e-cae8ed1f3d4ef33dae55149edfc332de06140416101490af62733fcaff3140cb
 PSG,https://sfy-01-fr.vidsonic.net/secure/2425/aoPeBxmelzB7/video.mp4/index.m3u8?server_id=2&expires=1793082534&file_id=aoPeBxmelzB7&md5=97487853f683a72e29bb1ccf7b2e2e16
