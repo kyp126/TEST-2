@@ -1,6 +1,6 @@
 
 LIVE,#genre#
-
+BBC1,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 NBA,http://23.237.104.106:8080/USA_NBA/index.m3u8
 FS1,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 FUBO,http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
