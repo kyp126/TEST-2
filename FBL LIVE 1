@@ -5,7 +5,10 @@ NBA,http://23.237.104.106:8080/USA_NBA/index.m3u8
 FS1,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 FUBO,http://107.167.16.138/fubosportsnetwork/index.m3u8?token=test
 ID,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
-
+CH5,https://cdn.qd.je/163189/ch5
+CH8,https://cdn.qd.je/163189/ch8
+CHU,https://cdn.qd.je/163189/chu
+CNA,https://freem3u.xyz/api/live/play.m3u8?vid=112
 空枪,https://vid.dbokutv.com/20261023/ppotb62-S71lT2yliZApDBSvkYzBsrmD3fpCJWlRNPlP2yrE9Qrk9QOc1mOA1QO61oOcI2ScYANDhWQ0/chunklist.m3u8
 绝密任务,https://vid.dbokutv.com/20260807/ppotb62-S71lT2yliZApDBSvkYzBsrmD3fpCZ0lR6bsPIyoFHQrDhaxbhKskJkOc1mOA1QO6PeX89gZ8noNDhWQ0/chunklist.m3u8
 八仙,https://vip.ffzy-play9.com/20260901/49192_2e4d29df/index.m3u8
