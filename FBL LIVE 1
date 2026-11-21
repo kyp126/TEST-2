@@ -2,7 +2,7 @@
 LIVE,#genre#
 MCI-FUL,https://live01-cn-ali.xqnbu.com/live/59827256_tsc.m3u8
 MCI1,https://play.aarray.cn/rrty/sd-1-4558489_gqzm.m3u8?auth_key=1795267052-0-0-1c35771f988e69e5d57764201cb5976a&token=6531344a776703fa&device=4&platform=rrty
-
+MCI2,https://live01-cn-ali.xqnbu.com/live/23573510_tsc.m3u8
 
 BBC1,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 NBA,http://23.237.104.106:8080/USA_NBA/index.m3u8
