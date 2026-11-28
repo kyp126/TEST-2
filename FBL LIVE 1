@@ -3,6 +3,7 @@ LIVE,#genre#
 BET-RAV,https://pul-tenm.gkykp.com/live/hd-en-1-4565625.m3u8?txSecret=1c92618bf8997f43d1df90e494b79689&txTime=6B0C2159
 BET,https://play.aarray.cn/rrty/hd-zh-1-4565625_gqzm.m3u8?auth_key=1795873578-0-0-ad8030cbaa69baa0e13f0ae2cf180416&token=9bea0f5c5e3852bf&device=4&platform=rrty
 
+BEIN,https://bein-xtra-bein.amagi.tv/playlist.m3u8
 BBC EARTH,http://88.212.7.14/live/bbce_hun/index.m3u8
 BBC1,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 NBA,http://23.237.104.106:8080/USA_NBA/index.m3u8
